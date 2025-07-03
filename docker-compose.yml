@@ -19,3 +19,4 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
+    #command: bundle exec jekyll serve --livereload --watch --host=0.0.0.0
