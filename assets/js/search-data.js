@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of my cool projects and coursework.",
+          description: "A growing collection of my cool projects and interesting works.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -37,7 +37,62 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-lathe-machine-laboratory-lbymf1c",
+        
+          title: "Lathe Machine Laboratory (LBYMF1C)",
+        
+        description: "My personal reflection for this lab course about lathe machine operations. 👾",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/LBYMF1C/";
+          
+        },
+      },{id: "post-machine-tools-processes-and-practice-mfmcpr1",
+        
+          title: "Machine, Tools, Processes and Practice (MFMCPR1)",
+        
+        description: "My personal take about this course and learnings about lathe machines~ 🔩",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/MFMCPR1/";
+          
+        },
+      },{id: "post-basic-engineering-drawing-lbyme1a",
+        
+          title: "Basic Engineering Drawing (LBYME1A)",
+        
+        description: "My personal notes for my hand drawn CAD plates for basic engineering drawings. 📐",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/LBYME1A/";
+          
+        },
+      },{id: "post-basic-computer-aided-drafting-lbyme1b",
+        
+          title: "Basic Computer Aided Drafting (LBYME1B)",
+        
+        description: "My personal take for this introduction of computer aided drafting and design. 💾",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/LBYME1B/";
+          
+        },
+      },{id: "post-dimensional-measurements-lbymf1a",
+        
+          title: "Dimensional Measurements (LBYMF1A)",
+        
+        description: "My personal summary of takeaways for basic engineering metrology. 🔬",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/LBYMF1A/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
