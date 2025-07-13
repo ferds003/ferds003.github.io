@@ -101,57 +101,57 @@ ninja.data = [{
           title: 'Representing DLSU at Hult Prize 2021 🌍🥗',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2021_OnCampus/";
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10/";
             },},{id: "news-champion-for-social-enterprise-conference-2021",
           title: 'Champion for Social Enterprise Conference 2021',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2021_YES/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-champion-for-echoes-of-ecology-a-community-scientific-monologue-competition",
           title: 'Champion for Echoes of Ecology, a community scientific monologue competition!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2021_Echoes_of_Ecology/";
+              window.location.href = "/news/announcement_3/";
             },},{id: "news-top-8-in-fowler-gsic-2022-️",
           title: 'Top 8 in Fowler GSIC 2022! 🌐⚙️',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2022_Fowler/";
+              window.location.href = "/news/announcement_4/";
             },},{id: "news-country-finalist-of-schneider-go-green-2022",
           title: 'Country Finalist of Schneider Go Green (2022) 🌱⚡',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2022_Schneider/";
+              window.location.href = "/news/announcement_5/";
             },},{id: "news-2nd-runner-up-country-finals-for-3m-inspire-challenge",
           title: '2nd Runner Up - Country Finals for 3M Inspire Challenge🏆🍌',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2023_3M/";
-            },},{id: "news-",
-          title: '',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2023_Gawad/";
-            },},{id: "news-",
-          title: '',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2024_Gawad/";
-            },},{id: "news-featured-in-abs-cbn-news",
-          title: 'Featured in ABS-CBN News!',
-          description: "I am featured in a ABS-CBN post upon winning my most recent win in First Gen Code Green! Check out the article here along with selected interview from the team.",
-          section: "News",handler: () => {
-              window.location.href = "/news/2024_feature_1/";
-            },},{id: "news-featured-in-rappler-blog",
-          title: 'Featured in Rappler Blog!',
-          description: "I am featured in a Rappler Blog upon winning my most recent win in First Gen Code Green! Check out the article here.",
-          section: "News",handler: () => {
-              window.location.href = "/news/2024_feature_2/";
+              window.location.href = "/news/announcement_6/";
             },},{id: "news-featured-in-mem-department-page",
           title: 'Featured in MEM Department Page!',
           description: "Featured by Animoboards and by my college department!! T_T Thanks MEM~ &lt;33",
           section: "News",handler: () => {
-              window.location.href = "/news/2024_feature_3/";
+              window.location.href = "/news/announcement_11/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
+            },},{id: "news-featured-in-abs-cbn-news",
+          title: 'Featured in ABS-CBN News!',
+          description: "I am featured in a ABS-CBN post upon winning my most recent win in First Gen Code Green! Check out the article here along with selected interview from the team.",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_8/";
+            },},{id: "news-featured-in-rappler-blog",
+          title: 'Featured in Rappler Blog!',
+          description: "I am featured in a Rappler Blog upon winning my most recent win in First Gen Code Green! Check out the article here.",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_9/";
             },},{
         id: 'social-email',
         title: 'email',
