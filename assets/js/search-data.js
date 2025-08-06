@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-lathe-machine-laboratory-lbymf1c",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/2020-09-23-LBYMF1A/";
+          
+        },
+      },{id: "post-lathe-machine-laboratory-lbymf1c",
         
           title: "Lathe Machine Laboratory (LBYMF1C)",
         
@@ -81,32 +92,11 @@ ninja.data = [{
             window.location.href = "/blog/2020/LBYME1B/";
           
         },
-      },{id: "post-dimensional-measurements-lbymf1a",
-        
-          title: "Dimensional Measurements (LBYMF1A)",
-        
-        description: "My personal summary of takeaways for basic engineering metrology. 🔬",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2020/LBYMF1A/";
-          
-        },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-representing-dlsu-at-hult-prize-2021",
+      },{id: "news-representing-dlsu-at-hult-prize-2021",
           title: 'Representing DLSU at Hult Prize 2021 🌍🥗',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-",
-          title: '',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_10/";
             },},{id: "news-champion-for-social-enterprise-conference-2021",
           title: 'Champion for Social Enterprise Conference 2021',
           description: "",
@@ -132,13 +122,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
-            },},{id: "news-featured-in-mem-department-page",
-          title: 'Featured in MEM Department Page!',
-          description: "Featured by Animoboards and by my college department!! T_T Thanks MEM~ &lt;33",
+            },},{id: "news-gawad-lasalyano-awardee-university-commendation",
+          title: 'Gawad Lasalyano Awardee University Commendation 🏅💚',
+          description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_11/";
-            },},{id: "news-",
-          title: '',
+              window.location.href = "/news/announcement_10/";
+            },},{id: "news-gawad-lasalyano-awardee-university-commendation",
+          title: 'Gawad Lasalyano Awardee University Commendation 🏅💚',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
@@ -152,6 +142,11 @@ ninja.data = [{
           description: "I am featured in a Rappler Blog upon winning my most recent win in First Gen Code Green! Check out the article here.",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9/";
+            },},{id: "news-featured-in-mem-department-page",
+          title: 'Featured in MEM Department Page!',
+          description: "Featured by Animoboards and by my college department!! T_T Thanks MEM~ &lt;33",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_11/";
             },},{
         id: 'social-email',
         title: 'email',
