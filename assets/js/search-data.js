@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/2020-09-23-LBYMF1A/";
-          
-        },
-      },{id: "post-lathe-machine-laboratory-lbymf1c",
+        },{id: "post-lathe-machine-laboratory-lbymf1c",
         
           title: "Lathe Machine Laboratory (LBYMF1C)",
         
@@ -92,6 +81,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/LBYME1B/";
           
         },
+      },{id: "post-dimensional-measurements-lbymf1a",
+        
+          title: "Dimensional Measurements (LBYMF1A)",
+        
+        description: "My personal summary of takeaways for basic engineering metrology. 🔬",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/LBYMF1A/";
+          
+        },
       },{id: "news-representing-dlsu-at-hult-prize-2021",
           title: 'Representing DLSU at Hult Prize 2021 🌍🥗',
           description: "",
@@ -126,11 +126,6 @@ ninja.data = [{
           title: 'Gawad Lasalyano Awardee University Commendation 🏅💚',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_10/";
-            },},{id: "news-gawad-lasalyano-awardee-university-commendation",
-          title: 'Gawad Lasalyano Awardee University Commendation 🏅💚',
-          description: "",
-          section: "News",handler: () => {
               window.location.href = "/news/announcement_7/";
             },},{id: "news-featured-in-abs-cbn-news",
           title: 'Featured in ABS-CBN News!',
@@ -147,6 +142,27 @@ ninja.data = [{
           description: "Featured by Animoboards and by my college department!! T_T Thanks MEM~ &lt;33",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
+            },},{id: "news-got-accepted-into-sanitary-care-products-asia-scpa-as-a-production-intern",
+          title: 'Got accepted into Sanitary Care Products Asia (SCPA) as a Production Intern!',
+          description: "For 3 months, got to support and learn the ropes of the industry in SCPA&#39;s pulp manufacturing plant in Taguig.",
+          section: "News",},{id: "news-got-accepted-into-department-of-science-and-technology-advanced-science-and-techinology-institute-dost-asti-as-a-research-development-division-rdd-intern",
+          title: 'Got accepted into Department of Science and Technology-Advanced Science and Techinology Institute (DOST-ASTI)...',
+          description: "For 3 months, got to help and develop machine learning algorithms for a DOST project.",
+          section: "News",},{id: "news-gawad-lasalyano-award-for-the-2nd-time-wut-wut-gt-lt",
+          title: 'Gawad Lasalyano Award for the 2nd Time!! (wut wut &amp;gt;_&amp;lt;)',
+          description: "Received the Gawad Lasalyano Award for achievements in leadership and excellence in competitions.",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_10/";
+            },},{id: "news-reconized-as-a-dlsu-undergraduate-researcher-for-my-2-ieee-papers-in-the-gawad-saliksik-2025",
+          title: 'Reconized as a DLSU undergraduate researcher for my 2 IEEE papers in the...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_12/";
+            },},{id: "news-successfully-defended-my-undergraduate-thesis-titled-quot-vision-based-mini-production-line-for-grading-and-sorting-of-iceberg-lettuce-quot",
+          title: 'Successfully Defended My Undergraduate Thesis! titled &amp;quot;Vision-Based Mini-Production Line for Grading and Sorting...',
+          description: "Final thesis defense completed — a major milestone in my MEM journey!",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_15/";
             },},{
         id: 'social-email',
         title: 'email',
