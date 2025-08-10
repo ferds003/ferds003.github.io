@@ -168,6 +168,11 @@ ninja.data = [{
           description: "My personal project for this engineering management course 📋",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022-2-16%20MFMNGMT/";
+            },},{id: "projects-gardening-business-simulation-quot-can-you-dig-it-quot",
+          title: 'Gardening business simulation - &amp;quot;Can You Dig It?&amp;quot;',
+          description: "My personal project for this engineering management course 📋",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023-%20MFERGOP/";
             },},{id: "projects-youtube-yt-simple-recommender-system",
           title: 'Youtube (YT) simple recommender system',
           description: "My project for my data modelling class that provides a YT recommender system. ▶️",
