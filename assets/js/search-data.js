@@ -168,11 +168,16 @@ ninja.data = [{
           description: "My personal project for this engineering management course 📋",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022-2-16%20MFMNGMT/";
-            },},{id: "projects-gardening-business-simulation-quot-can-you-dig-it-quot",
-          title: 'Gardening business simulation - &amp;quot;Can You Dig It?&amp;quot;',
-          description: "My personal project for this engineering management course 📋",
+            },},{id: "projects-business-feasibility-for-banana-peduncle-fiberboards",
+          title: 'Business Feasibility for Banana Peduncle Fiberboards',
+          description: "A business proposal for the manufacturing of banana fiberboards",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2023-%20MFERGOP/";
+              window.location.href = "/projects/2023%20ENGTREP/";
+            },},{id: "projects-ergonomic-assessment-on-mem-thesis-room",
+          title: 'Ergonomic Assessment on MEM Thesis Room',
+          description: "My project on our ergonomics class on the state of the MEM thesis room 👌",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023%20MFERGOP/";
             },},{id: "projects-youtube-yt-simple-recommender-system",
           title: 'Youtube (YT) simple recommender system',
           description: "My project for my data modelling class that provides a YT recommender system. ▶️",
