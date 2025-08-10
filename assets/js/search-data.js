@@ -168,6 +168,16 @@ ninja.data = [{
           description: "My personal project for this engineering management course 📋",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022-2-16%20MFMNGMT/";
+            },},{id: "projects-youtube-yt-simple-recommender-system",
+          title: 'Youtube (YT) simple recommender system',
+          description: "My project for my data modelling class that provides a YT recommender system. ▶️",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025-8-10%20DATA102/";
+            },},{id: "projects-filipino-spam-classifier",
+          title: 'Filipino Spam Classifier',
+          description: "My project for my machine learning class that provides a filipino spam classifier. 🥫",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025-8-10%20DATA103/";
             },},{
         id: 'social-email',
         title: 'email',
