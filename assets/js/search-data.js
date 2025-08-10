@@ -163,6 +163,11 @@ ninja.data = [{
           description: "Final thesis defense completed — a major milestone in my MEM journey!",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_15/";
+            },},{id: "projects-gardening-business-simulation-quot-can-you-dig-it-quot",
+          title: 'Gardening business simulation - &amp;quot;Can You Dig It?&amp;quot;',
+          description: "My personal project for this engineering management course 📋",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2022-2-16%20MFMNGMT/";
             },},{
         id: 'social-email',
         title: 'email',
