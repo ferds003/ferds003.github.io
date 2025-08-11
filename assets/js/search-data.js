@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-lathe-machine-laboratory-lbymf1c",
+        },{id: "post-organizing-our-local-field-trip-mfgsems",
+        
+          title: "Organizing our Local Field Trip (MFGSEMS)",
+        
+        description: "This is my experience for organizing a 2-day field trip for those who opted to take their field trip locally 👷🏻‍♂️",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/MFGSEMS/";
+          
+        },
+      },{id: "post-lathe-machine-laboratory-lbymf1c",
         
           title: "Lathe Machine Laboratory (LBYMF1C)",
         
@@ -163,6 +174,11 @@ ninja.data = [{
           description: "Final thesis defense completed — a major milestone in my MEM journey!",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_15/";
+            },},{id: "projects-ergonomic-assessment-on-mem-thesis-room",
+          title: 'Ergonomic Assessment on MEM Thesis Room',
+          description: "My project on our ergonomics class on the state of the MEM thesis room 👌",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_2023%20MFERGOP/";
             },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
           title: 'Management Operations Simulation - &amp;quot;Can You Dig It?&amp;quot;',
           description: "My personal project for this engineering management course 📋",
@@ -173,36 +189,41 @@ ninja.data = [{
           description: "A business proposal for the manufacturing of banana fiberboards",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023%20ENGTREP/";
-            },},{id: "projects-ergonomic-assessment-on-mem-thesis-room",
-          title: 'Ergonomic Assessment on MEM Thesis Room',
-          description: "My project on our ergonomics class on the state of the MEM thesis room 👌",
+            },},{id: "projects-inspection-safety-report-for-a-multipurpose-cooperative",
+          title: 'Inspection safety report for a multipurpose cooperative',
+          description: "Our service learning project for Bigay Buhay Co-op 👷🏻‍♂️",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2023%20MFERGOP/";
+              window.location.href = "/projects/2024%20MFBAOHS/";
             },},{id: "projects-project-proposal-for-syncom-asia-pacific",
           title: 'Project Proposal for Syncom Asia Pacific',
           description: "Our proposal to improve business processes within a service company 👨‍🔧",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024%20MFCIMSY/";
-            },},{id: "projects-optimizing-production-in-a-dairy-cooperative",
-          title: 'Optimizing Production in a Dairy Cooperative',
-          description: "My service learning project for GenTri&#39;s Best Dairy Products 🐄",
+            },},{id: "projects-profit-maximization-for-small-scale-fruitcake-bakery",
+          title: 'Profit Maximization for Small-Scale Fruitcake Bakery',
+          description: "Use of Integer Linear Programming (ILP) for maximizing profit based on business production 🍰",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2024%20MFPROMA/";
-            },},{id: "projects-dmaic-approach-for-data-tasks-in-a-service-company",
-          title: 'DMAIC approach for Data Tasks in a Service Company',
-          description: "lean and sustainable approach for continuous improvement implementation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2025%20MFLNMFG/";
-            },},{id: "projects-youtube-yt-simple-recommender-system",
-          title: 'Youtube (YT) simple recommender system',
+              window.location.href = "/projects/2025%20MRPRODS/";
+            },},{id: "projects-youtube-simple-recommender-system",
+          title: 'Youtube simple recommender system',
           description: "My project for my data modelling class that provides a YT recommender system. ▶️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-8-10%20DATA102/";
             },},{id: "projects-filipino-sms-spam-classifier",
-          title: 'Filipino SMS Spam Classifier',
+          title: 'Filipino SMS spam classifier',
           description: "My project for my machine learning class that provides spam SMS classifier in the filipino context. 🥫",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-8-10%20DATA103/";
+            },},{id: "projects-optimizing-production-in-a-dairy-cooperative",
+          title: 'Optimizing Production in a Dairy Cooperative',
+          description: "My service learning project for GenTri&#39;s Best Dairy Products 🐄",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_2024%20MFPROMA/";
+            },},{id: "projects-dmaic-approach-for-data-tasks-in-a-service-company",
+          title: 'DMAIC approach for Data Tasks in a Service Company',
+          description: "lean and sustainable approach for continuous improvement implementation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_2025%20MFLNMFG/";
             },},{
         id: 'social-email',
         title: 'email',
