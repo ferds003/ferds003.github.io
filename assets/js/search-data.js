@@ -163,8 +163,8 @@ ninja.data = [{
           description: "Final thesis defense completed — a major milestone in my MEM journey!",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_15/";
-            },},{id: "projects-gardening-business-simulation-quot-can-you-dig-it-quot",
-          title: 'Gardening business simulation - &amp;quot;Can You Dig It?&amp;quot;',
+            },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
+          title: 'Management Operations Simulation - &amp;quot;Can You Dig It?&amp;quot;',
           description: "My personal project for this engineering management course 📋",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022-2-16%20MFMNGMT/";
@@ -178,14 +178,29 @@ ninja.data = [{
           description: "My project on our ergonomics class on the state of the MEM thesis room 👌",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023%20MFERGOP/";
+            },},{id: "projects-project-proposal-for-syncom-asia-pacific",
+          title: 'Project Proposal for Syncom Asia Pacific',
+          description: "Our proposal to improve business processes within a service company 👨‍🔧",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024%20MFCIMSY/";
+            },},{id: "projects-optimizing-production-in-a-dairy-cooperative",
+          title: 'Optimizing Production in a Dairy Cooperative',
+          description: "My service learning project for GenTri&#39;s Best Dairy Products 🐄",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024%20MFPROMA/";
+            },},{id: "projects-dmaic-approach-for-data-tasks-in-a-service-company",
+          title: 'DMAIC approach for Data Tasks in a Service Company',
+          description: "lean and sustainable approach for continuous improvement implementation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025%20MFLNMFG/";
             },},{id: "projects-youtube-yt-simple-recommender-system",
           title: 'Youtube (YT) simple recommender system',
           description: "My project for my data modelling class that provides a YT recommender system. ▶️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-8-10%20DATA102/";
-            },},{id: "projects-filipino-spam-classifier",
-          title: 'Filipino Spam Classifier',
-          description: "My project for my machine learning class that provides a filipino spam classifier. 🥫",
+            },},{id: "projects-filipino-sms-spam-classifier",
+          title: 'Filipino SMS Spam Classifier',
+          description: "My project for my machine learning class that provides spam SMS classifier in the filipino context. 🥫",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-8-10%20DATA103/";
             },},{
