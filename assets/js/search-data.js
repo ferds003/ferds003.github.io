@@ -227,6 +227,11 @@ ninja.data = [{
           description: "A business proposal for the manufacturing of banana fiberboards",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023%20ENGTREP/";
+            },},{id: "projects-kinematic-and-finite-element-analysis-of-a-laparscopic-gripper-and-forceps",
+          title: 'Kinematic and Finite Element Analysis of a Laparscopic Gripper and Forceps',
+          description: "The full computer-aided-design for a rudimentary laparscopic gripper for its gripper mechanism and stress loading under its forceps 🫳",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023%20LBYMF3A&LBYMF4C/";
             },},{id: "projects-ergonomic-assessment-on-mem-thesis-room",
           title: 'Ergonomic Assessment on MEM Thesis Room',
           description: "My project on our ergonomics class on the state of the MEM thesis room 👌",
