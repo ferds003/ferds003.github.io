@@ -48,6 +48,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/MFGSEMS/";
           
         },
+      },{id: "post-manufacturing-processes-and-practice-mfmcpr2-and-lbymf2a",
+        
+          title: "Manufacturing Processes and Practice (MFMCPR2 and LBYMF2A)",
+        
+        description: "My reflection on hands-on experience and key learnings in computer-aided manufacturing~ 📟",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/MFMPCR2&LBYMF2A/";
+          
+        },
       },{id: "post-lathe-machine-laboratory-lbymf1c",
         
           title: "Lathe Machine Laboratory (LBYMF1C)",
@@ -154,7 +165,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_11/";
             },},{id: "news-got-accepted-into-sanitary-care-products-asia-scpa-as-a-production-intern",
-          title: 'Got accepted into Sanitary Care Products Asia (SCPA) as a Production Intern!',
+          title: 'Got accepted into Sanitary Care Products Asia (SCPA) as a Production Intern! 🗳...',
           description: "For 3 months, got to support and learn the ropes of the industry in SCPA&#39;s pulp manufacturing plant in Taguig.",
           section: "News",},{id: "news-got-accepted-into-department-of-science-and-technology-advanced-science-and-techinology-institute-dost-asti-as-a-research-development-division-rdd-intern",
           title: 'Got accepted into Department of Science and Technology-Advanced Science and Techinology Institute (DOST-ASTI)...',
@@ -174,11 +185,11 @@ ninja.data = [{
           description: "Final thesis defense completed — a major milestone in my MEM journey!",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_15/";
-            },},{id: "projects-ergonomic-assessment-on-mem-thesis-room",
-          title: 'Ergonomic Assessment on MEM Thesis Room',
-          description: "My project on our ergonomics class on the state of the MEM thesis room 👌",
+            },},{id: "projects-cnc-machining-simulation-fusion360-cam",
+          title: 'CNC Machining Simulation - Fusion360 CAM',
+          description: "The machining and g-codes we have made to fab a lathe vise holder 🕹️",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_2023%20MFERGOP/";
+              window.location.href = "/projects/2022%20LBYMF2A/";
             },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
           title: 'Management Operations Simulation - &amp;quot;Can You Dig It?&amp;quot;',
           description: "My personal project for this engineering management course 📋",
@@ -189,6 +200,11 @@ ninja.data = [{
           description: "A business proposal for the manufacturing of banana fiberboards",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023%20ENGTREP/";
+            },},{id: "projects-ergonomic-assessment-on-mem-thesis-room",
+          title: 'Ergonomic Assessment on MEM Thesis Room',
+          description: "My project on our ergonomics class on the state of the MEM thesis room 👌",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023%20MFERGOP/";
             },},{id: "projects-inspection-safety-report-for-a-multipurpose-cooperative",
           title: 'Inspection safety report for a multipurpose cooperative',
           description: "Our service learning project for Bigay Buhay Co-op 👷🏻‍♂️",
@@ -199,6 +215,16 @@ ninja.data = [{
           description: "Our proposal to improve business processes within a service company 👨‍🔧",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024%20MFCIMSY/";
+            },},{id: "projects-optimizing-production-in-a-dairy-cooperative",
+          title: 'Optimizing Production in a Dairy Cooperative',
+          description: "My service learning project for GenTri&#39;s Best Dairy Products 🐄",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024%20MFPROMA/";
+            },},{id: "projects-dmaic-approach-for-data-tasks-in-a-service-company",
+          title: 'DMAIC approach for Data Tasks in a Service Company',
+          description: "lean and sustainable approach for continuous improvement implementation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025%20MFLNMFG/";
             },},{id: "projects-profit-maximization-for-small-scale-fruitcake-bakery",
           title: 'Profit Maximization for Small-Scale Fruitcake Bakery',
           description: "Use of Integer Linear Programming (ILP) for maximizing profit based on business production 🍰",
@@ -214,16 +240,6 @@ ninja.data = [{
           description: "My project for my machine learning class that provides spam SMS classifier in the filipino context. 🥫",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-8-10%20DATA103/";
-            },},{id: "projects-optimizing-production-in-a-dairy-cooperative",
-          title: 'Optimizing Production in a Dairy Cooperative',
-          description: "My service learning project for GenTri&#39;s Best Dairy Products 🐄",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_2024%20MFPROMA/";
-            },},{id: "projects-dmaic-approach-for-data-tasks-in-a-service-company",
-          title: 'DMAIC approach for Data Tasks in a Service Company',
-          description: "lean and sustainable approach for continuous improvement implementation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_2025%20MFLNMFG/";
             },},{
         id: 'social-email',
         title: 'email',
