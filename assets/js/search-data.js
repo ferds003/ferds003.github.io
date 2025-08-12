@@ -48,6 +48,28 @@ ninja.data = [{
             window.location.href = "/blog/2024/MFGSEMS/";
           
         },
+      },{id: "post-materials-engineering-mfmteng-amp-lbymf2d",
+        
+          title: "Materials Engineering (MFMTENG &amp; LBYMF2D)",
+        
+        description: "My personal views and learnings from materials engineering and understanding of material testing analysis! 🏗️",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/MFMTENG&LBYMF2D/";
+          
+        },
+      },{id: "post-computer-aided-engineering-mfcaeng-and-lbymf2b",
+        
+          title: "Computer-Aided Engineering (MFCAENG and LBYMF2B)",
+        
+        description: "My reflection on hands-on experience and key learnings in computer-aided engineering~ 📟",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/MFCAENG&LBYMF2B/";
+          
+        },
       },{id: "post-manufacturing-processes-and-practice-mfmcpr2-and-lbymf2a",
         
           title: "Manufacturing Processes and Practice (MFMCPR2 and LBYMF2A)",
@@ -185,11 +207,16 @@ ninja.data = [{
           description: "Final thesis defense completed — a major milestone in my MEM journey!",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_15/";
-            },},{id: "projects-cnc-machining-simulation-fusion360-cam",
-          title: 'CNC Machining Simulation - Fusion360 CAM',
+            },},{id: "projects-cnc-machining-simulation",
+          title: 'CNC Machining Simulation',
           description: "The machining and g-codes we have made to fab a lathe vise holder 🕹️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022%20LBYMF2A/";
+            },},{id: "projects-smart-recyclable-bin-with-reclined-handguard",
+          title: 'Smart Recyclable Bin with Reclined Handguard',
+          description: "The CAD design for a smart receptable with a reclined handguard and initial mockup design 🗑️",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2022%20LBYMF2B/";
             },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
           title: 'Management Operations Simulation - &amp;quot;Can You Dig It?&amp;quot;',
           description: "My personal project for this engineering management course 📋",
