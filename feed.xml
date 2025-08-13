@@ -1,5 +1,158 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-12T14:39:55+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
-</subtitle><entry><title type="html">Organizing our Local Field Trip (MFGSEMS)</title><link href="https://ferds003.github.io/blog/2024/MFGSEMS/" rel="alternate" type="text/html" title="Organizing our Local Field Trip (MFGSEMS)" /><published>2024-04-22T20:40:00+00:00</published><updated>2024-04-22T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/MFGSEMS</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/MFGSEMS/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, academe students planning local trips;</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-13T08:57:58+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
+</subtitle><entry><title type="html">I, not, Robot! (MFRBTIC &amp;amp; LBYMF4C)</title><link href="https://ferds003.github.io/blog/2024/MFRBTIC/" rel="alternate" type="text/html" title="I, not, Robot! (MFRBTIC &amp;amp; LBYMF4C)" /><published>2024-05-13T20:40:00+00:00</published><updated>2024-05-13T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/MFRBTIC</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/MFRBTIC/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, robotic_ethusiasts, technical_employers, industry_professionals</p>
+
+<p><strong>EXPERIENCE</strong>: 
+The name of the game for robotic systems is to <ins> define its position and oritentation </ins> so that you are able to manipulate the robot (either mobile or fixed) in the given space for control and execution. For us, this involves calculating both <strong>forward and inverse kinematics</strong>, defining the manipulator geometry using <strong>Denavit-Hartenberg</strong> parameters, applying <strong>elementary rotation matrices</strong> for transformation calculations (i.e. change of position in one link to the next) and knowing the orientation angles from <strong>euler angle representations</strong> (which we calculated in class but its already defined as the Tait-Bryan Angles).</p>
+
+<p>I have here below the provided methods to define rotation and orientation of robotics system for reference (for my future self and the reader :&gt;)</p>
+
+<iframe src="https://drive.google.com/file/d/18FWOHLpk1w0lZBLG9_JpXQ18tT9i9iRl/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+
+<p><strong>LEARNINGS</strong>:
+Below is a consolidation of the teachings made in class but more of the learnings is how can we apply the calculations from paper to implementation which I did for the accompanying project utilizing DH table to define the coordinate frame of the robot (cmiiw). Further applications that I dont want to cover here is how elementary rotations are needed to solve 3D transformations and the yaw-pitch-roll interpretations for motion planning for the robot. I believe there are already software for that like MATLAB in one of its toolbox that does these type of calculations but extreme understanding of how it is achieved is necessary in order to ensure safety.</p>
+
+<h2 id="forward-kinematics-fk">Forward Kinematics (FK)</h2>
+<ul>
+  <li>Maps <strong>joint space → Cartesian space</strong>.</li>
+  <li><strong>Inputs:</strong> Joint variables \(q_1, q_2, \ldots, q_n\).</li>
+  <li><strong>Outputs:</strong> End-effector pose (position + orientation) in the <strong>absolute frame</strong>.</li>
+  <li>Uses:
+    <ul>
+      <li>Multiplication of link transformation matrices:
+\({}^0T_n = {}^0T_1 \cdot {}^1T_2 \cdot \ldots \cdot {}^{n-1}T_n\)</li>
+      <li>Direct and always solvable.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="inverse-kinematics-ik">Inverse Kinematics (IK)</h2>
+<ul>
+  <li>Maps <strong>Cartesian space → joint space</strong>.</li>
+  <li><strong>Inputs:</strong> Desired end-effector pose \({}^0T_n^{\text{desired}}\).</li>
+  <li><strong>Outputs:</strong> Joint variables \(q_1, q_2, \ldots, q_n\).</li>
+  <li>Challenges:
+    <ul>
+      <li>Multiple possible solutions.</li>
+      <li>No solution if target pose is outside the robot’s workspace.</li>
+      <li>Nonlinear equations requiring analytical or numerical solving.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="denavithartenberg-dh-convention">Denavit–Hartenberg (DH) Convention</h2>
+<ul>
+  <li>Standardizes link geometry description using 4 parameters:
+    <ul>
+      <li>\(a_i\): Link length (x-axis displacement).</li>
+      <li>\(\alpha_i\): Link twist (rotation about x-axis).</li>
+      <li>\(d_i\): Link offset (z-axis displacement).</li>
+      <li>\(theta_i\): Joint angle (rotation about z-axis).</li>
+    </ul>
+  </li>
+  <li>DH transformation matrix:
+\(T_i^{i-1} =
+\begin{bmatrix}
+\cos\theta_i &amp; -\sin\theta_i\cos\alpha_i &amp; \sin\theta_i\sin\alpha_i &amp; a_i\cos\theta_i \\
+\sin\theta_i &amp; \cos\theta_i\cos\alpha_i &amp; -\cos\theta_i\sin\alpha_i &amp; a_i\sin\theta_i \\
+0 &amp; \sin\alpha_i &amp; \cos\alpha_i &amp; d_i \\
+0 &amp; 0 &amp; 0 &amp; 1
+\end{bmatrix}\)</li>
+  <li>Enables systematic computation of transformations for any <strong>n-link robot</strong>.</li>
+</ul>
+
+<h2 id="elementary-rotation-matrices">Elementary Rotation Matrices</h2>
+<ul>
+  <li>Rotation about <strong>X-axis</strong>:
+\(R_x(\theta) =
+\begin{bmatrix}
+1 &amp; 0 &amp; 0 \\
+0 &amp; \cos\theta &amp; -\sin\theta \\
+0 &amp; \sin\theta &amp; \cos\theta
+\end{bmatrix}\)</li>
+  <li>Rotation about <strong>Y-axis</strong>:
+\(R_y(\theta) =
+\begin{bmatrix}
+\cos\theta &amp; 0 &amp; \sin\theta \\
+0 &amp; 1 &amp; 0 \\
+-\sin\theta &amp; 0 &amp; \cos\theta
+\end{bmatrix}\)</li>
+  <li>Rotation about <strong>Z-axis</strong>:
+\(R_z(\theta) =
+\begin{bmatrix}
+\cos\theta &amp; -\sin\theta &amp; 0 \\
+\sin\theta &amp; \cos\theta &amp; 0 \\
+0 &amp; 0 &amp; 1
+\end{bmatrix}\)</li>
+  <li>Combined with translation to form <strong>homogeneous transformation matrices</strong>.</li>
+</ul>
+
+<p>Below is a copy of the solutions that I did for the assessment in this class. Thankfully I have it digitized :))</p>
+
+<iframe src="https://drive.google.com/file/d/18XASyD76lWDnhK9urAJoKHusHUJxvc9Z/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+
+<hr />
+
+<p><strong>REFLECTION</strong>:</p>
+
+<p><em>NOTE: Taglish and reflection has been revised after OJTs</em></p>
+
+<p>Kapag usapang robot, I always think immediately of the movie “I,robot” and how there will a mass uprising of humanoid robots. What people have a misconception of is how hard these calculations are that us humans can do just do instinctually in our head to perform basic motor functions. Kaya after learning the topics above in class, I found it very hard to see how robots can takeover kasi maski ako nahihirapan icalculate consciously the expected position of a linkage knowing only its previous joint angle. Pero who knows? there are more and more intelligent people that are pursuing this fantasy of human-like robots but for me the calculations alone is a headache.</p>
+
+<p>Nonetheless, all movements can be defined by these principles, even the non-robotic ones. Even simple actuations, you need to define this properly. Sharing here how even DOST researchers are utilizing the DH table parameters to define the joint space for their compact receiver dish to dynamically move it in the direction with the most signal on deployments. Yan sabi sakin, I’m sure may software na for that pero mamaw talaga mga MS researchers to do that on their projects diba? haha</p>
+
+<p>Sir Rhen, our instructor, for this class was very specific to the calculations, kaya I think mababa grade ko sa kanya since panget sulat kamay ko kasi hirap ma-differentiate between a sine and cosine in my calculation papers! Kidding aside, I really appreciate the class of sir this time since I can see the application and hoping really that I can apply this in the field</p>
+
+<h2 id="bonus">BONUS:</h2>
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/2024/mfrbtic/mfrbtic1-480.webp 480w,/assets/img/2024/mfrbtic/mfrbtic1-800.webp 800w,/assets/img/2024/mfrbtic/mfrbtic1-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/2024/mfrbtic/mfrbtic1.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+</swiper-slide>
+  <swiper-slide>
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/2024/mfrbtic/mfrbtic2-480.webp 480w,/assets/img/2024/mfrbtic/mfrbtic2-800.webp 800w,/assets/img/2024/mfrbtic/mfrbtic2-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/2024/mfrbtic/mfrbtic2.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+</swiper-slide>
+</swiper-container>
+<div class="caption">
+  BONUS: skl here; me at the laboratory class haggard at patusok ung buhok ko, sinusubukan ko ung style haha TT
+</div>]]></content><author><name></name></author><category term="mechatronics" /><category term="manufacturing" /><category term="engineering," /><category term="automation_and_controls" /><summary type="html"><![CDATA[My learnings and experience on robotics classes so far! 🦾]]></summary></entry><entry><title type="html">Organizing our Local Field Trip (MFGSEMS)</title><link href="https://ferds003.github.io/blog/2024/MFGSEMS/" rel="alternate" type="text/html" title="Organizing our Local Field Trip (MFGSEMS)" /><published>2024-04-22T20:40:00+00:00</published><updated>2024-04-22T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/MFGSEMS</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/MFGSEMS/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, academe students planning local trips;</p>
 
 <p><strong>EXPERIENCE</strong>: MFGSEMS was a course mandated by CHED that requires us to attend 7 company visits and 7 seminars. The seminars were easy to do as you can join any webinars currently done in the terms and make it up in your report as somewhat relevant to the course. The fields trips however required more effort to do. Here’s my experience on organizing a field trip for 13 students.</p>
 
@@ -651,7 +804,7 @@ I took this class as a sophomore in my fourth term. It’s the continuation of t
     CAM simulation for the milling operation of a opening plate workpiece.
 </div>
 
-<iframe src="https://drive.google.com/file/d/1UUmsgOreXxpZdycJBVNb3N_zPBGuYlS2/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<iframe src="https://drive.google.com/file/d/1vY3n0V9zGQBiz8nS6gNJxqAk1R-A5Yii/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
 <div class="caption">
     Consolidated reports made for CAM exercises.
 </div>

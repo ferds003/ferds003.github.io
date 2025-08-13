@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-organizing-our-local-field-trip-mfgsems",
+        },{id: "post-i-not-robot-mfrbtic-amp-lbymf4c",
+        
+          title: "I, not, Robot! (MFRBTIC &amp; LBYMF4C)",
+        
+        description: "My learnings and experience on robotics classes so far! 🦾",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/MFRBTIC/";
+          
+        },
+      },{id: "post-organizing-our-local-field-trip-mfgsems",
         
           title: "Organizing our Local Field Trip (MFGSEMS)",
         
@@ -232,6 +243,16 @@ ninja.data = [{
           description: "The full computer-aided-design for a rudimentary laparscopic gripper for its gripper mechanism and stress loading under its forceps 🫳",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023%20LBYMF3A&LBYMF4C/";
+            },},{id: "projects-product-design-improvement-for-a-tumbler-with-lid",
+          title: 'Product design improvement for a tumbler with lid',
+          description: "the full research-to-design improvements made for Brumate&#39;s Toddy Tumbler and Bev-Lock Seal 🧋",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023%20LBYMF3D/";
+            },},{id: "projects-3d-scanning-and-printing-of-a-person-39-s-bust",
+          title: '3D scanning and printing of a person&amp;#39;s bust',
+          description: "Utilizing LiDAR to capture a 3D scan of a persons head ready for use and print 🤳🏻",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2023%20LBYMF3H/";
             },},{id: "projects-ergonomic-assessment-on-mem-thesis-room",
           title: 'Ergonomic Assessment on MEM Thesis Room',
           description: "My project on our ergonomics class on the state of the MEM thesis room 👌",
@@ -252,6 +273,11 @@ ninja.data = [{
           description: "My service learning project for GenTri&#39;s Best Dairy Products 🐄",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024%20MFPROMA/";
+            },},{id: "projects-ur10-robotic-arm-and-dobot-simulations",
+          title: 'UR10 Robotic Arm and Dobot Simulations',
+          description: "programming robotic arms using dedicated software via waypoints or set conditional parameters 🦾",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024%20MFRBTIC/";
             },},{id: "projects-dmaic-approach-for-data-tasks-in-a-service-company",
           title: 'DMAIC approach for Data Tasks in a Service Company',
           description: "lean and sustainable approach for continuous improvement implementation",
