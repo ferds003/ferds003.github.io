@@ -1,0 +1,5 @@
+_site/
+.git/
+assets/
+.jekyll-cache
+

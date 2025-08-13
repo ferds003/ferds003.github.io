@@ -1,0 +1,39 @@
+.kofi-fixed {
+  position: fixed;
+  bottom: 60px; /* adjust height from bottom */
+  left: 20px;   /* distance from the left */
+  z-index: 9999;
+  padding: 10px 18px;
+  background-color: #d9534f;
+  color: white;
+  border-radius: 999px;
+  font-weight: bold;
+  text-decoration: none;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+  transition: all 0.3s ease;
+}
+
+.kofi-fixed:hover {
+  background-color: #c9302c;
+}
+
+/* Dark mode support */
+[data-theme="dark"] .kofi-fixed {
+  background-color: #d9534f;
+  color: white;
+  box-shadow: 0 2px 6px rgba(255, 255, 255, 0.1);
+}
+
+.visitor-map-box {
+  background-color: #f8f9fa;
+  padding: 12px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  min-height: 250px; /* allow room for map */
+}
+
+/* Dark mode */
+[data-theme="dark"] .visitor-map-box {
+  background-color: #1c1c1c;
+}
