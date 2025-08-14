@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -258,6 +258,11 @@ ninja.data = [{
           description: "My project on our ergonomics class on the state of the MEM thesis room 👌",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023%20MFERGOP/";
+            },},{id: "projects-ur10-robotic-arm-and-dobot-simulations",
+          title: 'UR10 Robotic Arm and Dobot Simulations',
+          description: "programming robotic arms using dedicated software via waypoints or set conditional parameters 🦾",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2024%20LBYMF4B/";
             },},{id: "projects-inspection-safety-report-for-a-multipurpose-cooperative",
           title: 'Inspection safety report for a multipurpose cooperative',
           description: "Our service learning project for Bigay Buhay Co-op 👷🏻‍♂️",
