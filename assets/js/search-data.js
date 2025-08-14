@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-i-not-robot-mfrbtic-amp-lbymf4c",
+        },{id: "post-i-not-robot-mfrbtic-lbymf4a-mfelec3",
         
-          title: "I, not, Robot! (MFRBTIC &amp; LBYMF4C)",
+          title: "I, not, Robot! (MFRBTIC, LBYMF4A, MFELEC3)",
         
         description: "My learnings and experience on robotics classes so far! 🦾",
         section: "Posts",
@@ -68,6 +68,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2022/MFMTENG&LBYMF2D/";
+          
+        },
+      },{id: "post-materials-engineering-mfmteng-amp-lbymf2d",
+        
+          title: "Materials Engineering (MFMTENG &amp; LBYMF2D)",
+        
+        description: "My personal views and learnings from materials engineering and understanding of material testing analysis! 🏗️",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/MFMTENG&LBYMF2D-copy/";
           
         },
       },{id: "post-computer-aided-engineering-mfcaeng-and-lbymf2b",
@@ -258,9 +269,9 @@ ninja.data = [{
           description: "My project on our ergonomics class on the state of the MEM thesis room 👌",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023%20MFERGOP/";
-            },},{id: "projects-ur10-robotic-arm-and-dobot-simulations",
-          title: 'UR10 Robotic Arm and Dobot Simulations',
-          description: "programming robotic arms using dedicated software via waypoints or set conditional parameters 🦾",
+            },},{id: "projects-time-study-for-br-andrew-gonzales-hall",
+          title: 'Time study for Br. Andrew Gonzales hall',
+          description: "Conducted a time study analysis for the worst building in DLSU-M to take classes (imho!) 😅",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024%20LBYMF4B/";
             },},{id: "projects-inspection-safety-report-for-a-multipurpose-cooperative",
