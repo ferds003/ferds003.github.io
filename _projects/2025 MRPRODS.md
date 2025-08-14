@@ -36,12 +36,3 @@ PS. Shoutout to Vito and Teo as my co-proponents for this project as well as [Mo
 <div class="caption">
     Final report of our linear programming approach along with the pitchdeck we presented detailing the MATLAB code. 
 </div>
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include googleDrivePlayer.html id=page.driveId %}
-  </div>
-</div>
-<div class="caption">
-    Presentation done for the production management recommendations along with explanation of the calculations.
-</div>

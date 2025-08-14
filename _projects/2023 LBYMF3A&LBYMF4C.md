@@ -5,7 +5,7 @@ description: The full computer-aided-design for a rudimentary laparscopic grippe
 tags: mechatronics
 category: mechatronics
 img: assets/img/2023/thumbnail_lbymf3a.gif
-importance: 3
+importance: 1
 giscus_comments: true
 images:
    slider: true
