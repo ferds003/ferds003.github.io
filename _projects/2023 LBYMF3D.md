@@ -3,7 +3,7 @@ layout: page
 title: Product design improvement for a tumbler with lid
 description: the full research-to-design improvements made for Brumate's Toddy Tumbler and Bev-Lock Seal 🧋
 tags: mechatronics
-category: mechatronics
+category: mechanical
 img: assets/img/2023/thumbnail_lbymf3d.gif
 giscus_comments: true
 driveId: 1KjbQcDrM7Fh9q0fkXK0pz2qehVcLfGHo

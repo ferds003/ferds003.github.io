@@ -4,7 +4,7 @@ title: Materials Engineering (MFMTENG & LBYMF2D)
 date: 2022-07-8 20:40:00
 description: My personal views and learnings from materials engineering and understanding of material testing analysis! 🏗️
 tags: design_and_modelling manufacturing_engineering
-categories: mechatronics
+categories: mechatronics mechanical
 thumbnail: assets/img/2022/thumbnail_lbymf2d.jpg
 giscus_comments: true
 images:

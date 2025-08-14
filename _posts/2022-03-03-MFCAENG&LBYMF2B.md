@@ -4,7 +4,7 @@ title: Computer-Aided Engineering (MFCAENG and LBYMF2B)
 date: 2022-3-3 2:54:00
 description: My reflection on hands-on experience and key learnings in computer-aided engineering~ 📟
 tags: design_and_modelling manufacturing_engineering
-categories: mechatronics
+categories: mechatronics mechanical
 thumbnail: assets/img/2022/thumbnail_mfcaeng.jpg
 giscus_comments: true
 images:

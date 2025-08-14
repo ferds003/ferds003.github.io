@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my cool projects and interesting works.
 nav: true
 nav_order: 2
-display_categories: [mechatronics, embedded_systems, data_science, management]
+display_categories: [mechanical, electronics, data_science, management]
 horizontal: false
 ---
 

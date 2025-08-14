@@ -3,7 +3,7 @@ layout: page
 title: CNC Machining Simulation
 description: The machining and g-codes we have made to fab a lathe vise holder 🕹️
 tags: mechatronics
-category: mechatronics
+category: mechanical
 img: assets/img/2022/thumbnail_lbymf2a.gif
 giscus_comments: true
 ---

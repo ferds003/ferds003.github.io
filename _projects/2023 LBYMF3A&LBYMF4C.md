@@ -3,7 +3,7 @@ layout: page
 title: Kinematic and Finite Element Analysis of a Laparscopic Gripper and Forceps
 description: The full computer-aided-design for a rudimentary laparscopic gripper for its gripper mechanism and stress loading under its forceps 🫳
 tags: mechatronics
-category: mechatronics
+category: mechanical
 img: assets/img/2023/thumbnail_lbymf3a.gif
 importance: 1
 giscus_comments: true

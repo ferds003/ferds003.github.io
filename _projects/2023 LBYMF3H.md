@@ -3,7 +3,7 @@ layout: page
 title: 3D scanning and printing of a person's bust
 description: Utilizing LiDAR to capture a 3D scan of a persons head ready for use and print 🤳🏻
 tags: mechatronics
-category: mechatronics
+category: mechanical
 img: assets/img/2023/thumbnail_lbymf3h.gif
 giscus_comments: true
 ---

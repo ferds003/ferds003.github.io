@@ -4,7 +4,7 @@ title: Manufacturing Processes and Practice (MFMCPR2 and LBYMF2A)
 date: 2022-2-21 2:54:00
 description: My reflection on hands-on experience and key learnings in computer-aided manufacturing~ 📟
 tags: design_and_modelling manufacturing_engineering
-categories: mechatronics
+categories: mechatronics mechanical
 thumbnail: assets/img/2022/thumbnail_mfmpcr2.png
 driveId: 1kgemXKaGyoJtEblno9U3o34OPa-6ocAd
 driveId2: 1UZw1pceAnQsR7NrB7JAvSv60mNNLVqs-

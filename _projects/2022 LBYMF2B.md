@@ -3,7 +3,7 @@ layout: page
 title: Smart Recyclable Bin with Reclined Handguard  
 description: The CAD design for a smart receptable with a reclined handguard and initial mockup design 🗑️
 tags: design_and_modelling, manufacturing_engineering
-category: mechatronics
+category: mechanical
 img: assets/img/2022/thumbnail_lbymf2b.gif
 giscus_comments: true
 images:
