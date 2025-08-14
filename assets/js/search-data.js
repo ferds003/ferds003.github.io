@@ -70,15 +70,15 @@ ninja.data = [{
             window.location.href = "/blog/2022/MFMTENG&LBYMF2D/";
           
         },
-      },{id: "post-materials-engineering-mfmteng-amp-lbymf2d",
+      },{id: "post-basic-electrical-engineering-baselci-amp-lbyec2l",
         
-          title: "Materials Engineering (MFMTENG &amp; LBYMF2D)",
+          title: "Basic Electrical Engineering (BASELCI &amp; LBYEC2L)",
         
-        description: "My personal views and learnings from materials engineering and understanding of material testing analysis! 🏗️",
+        description: "Knowing basic breaker ratings based on power consumption and my personal learnings from basic electrical engineering concepts 🔌",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/MFMTENG&LBYMF2D-copy/";
+            window.location.href = "/blog/2022/BASELCI&LBYEC2L/";
           
         },
       },{id: "post-computer-aided-engineering-mfcaeng-and-lbymf2b",
