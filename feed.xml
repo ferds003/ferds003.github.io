@@ -1,5 +1,300 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-17T03:51:40+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
-</subtitle><entry><title type="html">I, not, Robot! (MFRBTIC, LBYMF4A, MFELEC3)</title><link href="https://ferds003.github.io/blog/2024/MFRBTIC/" rel="alternate" type="text/html" title="I, not, Robot! (MFRBTIC, LBYMF4A, MFELEC3)" /><published>2024-05-13T20:40:00+00:00</published><updated>2024-05-13T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/MFRBTIC</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/MFRBTIC/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, robotic_enthusiasts, technical_employers, industry_professionals</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-17T11:08:01+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
+</subtitle><entry><title type="html">Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)</title><link href="https://ferds003.github.io/blog/2024/LBYMF4D&MFELEC2/" rel="alternate" type="text/html" title="Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)" /><published>2024-06-13T20:40:00+00:00</published><updated>2024-06-13T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
+
+<p><strong>OVERVIEW</strong>:
+The manufacturing scene is evolving fast. There are many technologies that are being utilized in the field and frankly, no time to catch up. In the Philippines alone, I have seen upskilling for workers for Industry 4.0 in big companies to catch up with the demand and expectations that the current world wants for their plant engineers. For me, staying ahead and learning these topics are essential if I want to enter this type of work in the future. Below is my learnings that I got from my classes in terms of practical skills in <code class="language-plaintext highlighter-rouge">data communication</code>, <code class="language-plaintext highlighter-rouge">IoT integration</code>, and <code class="language-plaintext highlighter-rouge">system automation</code> through the use of microcontroller like <code class="language-plaintext highlighter-rouge">ESP32</code> and <code class="language-plaintext highlighter-rouge">Raspberry Pi</code>.</p>
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/2024/mfelec2/mfelec2_1-480.webp 480w,/assets/img/2024/mfelec2/mfelec2_1-800.webp 800w,/assets/img/2024/mfelec2/mfelec2_1-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/2024/mfelec2/mfelec2_1.jpg" class="img-fluid rounded z-depth-1 zoomable=true" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+</swiper-slide>
+  <swiper-slide>
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/2024/mfelec2/mfelec2_2-480.webp 480w,/assets/img/2024/mfelec2/mfelec2_2-800.webp 800w,/assets/img/2024/mfelec2/mfelec2_2-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/2024/mfelec2/mfelec2_2.jpg" class="img-fluid rounded z-depth-1 zoomable=true" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+</swiper-slide>
+  <swiper-slide>
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/2024/mfelec2/mfelec2_3-480.webp 480w,/assets/img/2024/mfelec2/mfelec2_3-800.webp 800w,/assets/img/2024/mfelec2/mfelec2_3-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/2024/mfelec2/mfelec2_3.jpg" class="img-fluid rounded z-depth-1 zoomable=true" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+</swiper-slide>
+  <swiper-slide>
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/2024/mfelec2/mfelec2_4-480.webp 480w,/assets/img/2024/mfelec2/mfelec2_4-800.webp 800w,/assets/img/2024/mfelec2/mfelec2_4-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/2024/mfelec2/mfelec2_4.jpg" class="img-fluid rounded z-depth-1 zoomable=true" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+</swiper-slide>
+  <swiper-slide>
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/2024/mfelec2/mfelec2_5-480.webp 480w,/assets/img/2024/mfelec2/mfelec2_5-800.webp 800w,/assets/img/2024/mfelec2/mfelec2_5-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/2024/mfelec2/mfelec2_5.jpg" class="img-fluid rounded z-depth-1 zoomable=true" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+</swiper-slide>
+  <swiper-slide>
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/2024/mfelec2/mfelec2_6-480.webp 480w,/assets/img/2024/mfelec2/mfelec2_6-800.webp 800w,/assets/img/2024/mfelec2/mfelec2_6-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/2024/mfelec2/mfelec2_6.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+</swiper-slide>
+</swiper-container>
+<div class="caption">
+  Here are snippets of the code and work that I did!
+</div>
+
+<h2 id="lecture">LECTURE:</h2>
+<p>The lecture was fun. I got to really hone my skills this time around with the several exercises that was given to use while giving nod to the different courses that I had in previous term. It challenges me to do exercises on <code class="language-plaintext highlighter-rouge">industrial electronics</code>, <code class="language-plaintext highlighter-rouge">instruction lists</code> and <code class="language-plaintext highlighter-rouge">raspberry pi basics</code>! Particularly, I got to learn the following:</p>
+
+<p><strong>Ladder Logic and Instruction Lists:</strong></p>
+
+<ul>
+  <li>Reviewed LLDs and created corresponding <code class="language-plaintext highlighter-rouge">instruction lists (IL)</code> equations in MSExcel.</li>
+  <li>Developed truth tables based on logic implemented through IL and <code class="language-plaintext highlighter-rouge">logic ladder diagrams</code>.</li>
+  <li>Simulated LLDs in Festo FluidSim.</li>
+  <li>Implemented <code class="language-plaintext highlighter-rouge">logic functions</code> using IF statements in MSExcel.</li>
+</ul>
+
+<p><strong>Raspberry Pi Basics:</strong></p>
+
+<ul>
+  <li>Utilized GPIO to drive outputs and read inputs, correcting errors in provided code.</li>
+  <li>Created programs for LEDs and pushbuttons.</li>
+  <li>Developed functions for measuring distance using an <code class="language-plaintext highlighter-rouge">Ultrasonic Sensor (HC-SR04)</code>.</li>
+  <li>Implemented a Tkinter GUI module.</li>
+  <li>Configured port forwarding on a <code class="language-plaintext highlighter-rouge">Huawei OptiXstar HG8145X6 router</code> to create an <code class="language-plaintext highlighter-rouge">SSH server</code>.</li>
+  <li>Accessed the <code class="language-plaintext highlighter-rouge">SSH server</code> via PuTTY from a separate device not connected to the Raspberry Pi’s local network.</li>
+  <li>Attempted to install Node-Red and use Arduino IoT Cloud</li>
+</ul>
+
+<p><strong>Face Detection:</strong></p>
+<ul>
+  <li>Integrated a <code class="language-plaintext highlighter-rouge">USB webcam</code> with Raspberry Pi.</li>
+  <li>Utilized <code class="language-plaintext highlighter-rouge">RealVNC</code> for remote access.</li>
+  <li>Installed the <code class="language-plaintext highlighter-rouge">OpenCV</code> library.</li>
+  <li>Ran <code class="language-plaintext highlighter-rouge">face and eye detection programs</code> using <code class="language-plaintext highlighter-rouge">haarcascade</code> XML files</li>
+</ul>
+
+<p>Below is a consolidated document of the outputs that I did for this lecture.</p>
+
+<iframe src="https://drive.google.com/file/d/1dkAes2LuDWfi0eAQsFqEA8irEPUvU_IC/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  The reports that I made for the exercises activities for product interconnectivity class
+</div>
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1egU-UOmQEf3_b7ENcdCmzy0PHyz20gCX/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+  </div>
+</div>
+<div class="caption">
+   Video demonstration of coding ultrasonic sensor using RPI GPIOs
+</div>
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1GFsdhYpabyaHyEhTwJBmEcmYLQv4aMyj/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+  </div>
+</div>
+<div class="caption">
+   Video demonstration of pulse width modulation of LEDs using RPI programming.
+</div>
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/19r3NkueWSFm1Smf5vzu3cGcgIi52SE5G/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+  </div>
+</div>
+<div class="caption">
+   Video demonstration of Tkinter for LED control.  
+</div>
+
+<h2 id="laboratory">LABORATORY:</h2>
+<p>The laboratory covers the use of microcontroller for IoT and automation. We got to provide <strong>sensor integration</strong> and <strong>cloud connectivity</strong> for real-time monitoring using two platforms (Arduino IoT Cloud, ThingsSpeak). The concepts that the class provide is an introductory on using these types of peripherals for various applications. Here are some of things that I have done knowing this :))</p>
+
+<p><strong>Microcomputers for Control and Edge Processing</strong></p>
+
+<p><strong>Raspberry Pi (RPI)</strong></p>
+<ul>
+  <li>OS setup and configuration for standalone operation.</li>
+  <li>GPIO programming to control <code class="language-plaintext highlighter-rouge">actuators</code> (servo motors, pushbuttons).</li>
+  <li>Python programming for <code class="language-plaintext highlighter-rouge">automation sequences</code> (servo position cycles).</li>
+  <li><code class="language-plaintext highlighter-rouge">Skill relevance</code>: Raspberry Pi acts as an <code class="language-plaintext highlighter-rouge">edge device</code>. in Intelligent Manufacturing Systems (IMS), handling local computation, machine control, and human-machine interfaces.</li>
+</ul>
+
+<p><strong>Sensor &amp; Actuator Integration</strong></p>
+<ul>
+  <li>Practical experience in connecting and programming sensors:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">DHT11</code> → humidity &amp; temperature monitoring.</li>
+      <li><code class="language-plaintext highlighter-rouge">LM35, pH sensor, Dissolved Oxygen sensor (proposed project)</code> → environmental monitoring for aquaculture.</li>
+    </ul>
+  </li>
+  <li>Actuators:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">Servo motors</code> for precise movement/feeding systems.</li>
+      <li><code class="language-plaintext highlighter-rouge">LED indicators</code> for process signaling.</li>
+    </ul>
+  </li>
+  <li><strong>Skill relevance</strong>: This is the core of <strong>cyber-physical systems</strong>, where machines perceive their environment and act intelligently.</li>
+</ul>
+
+<p><strong>IoT &amp; Data Communication</strong></p>
+<ul>
+  <li>Hands-on with <code class="language-plaintext highlighter-rouge">serial data transmission</code>, data cleaning, and visualization.</li>
+  <li>Implemented <code class="language-plaintext highlighter-rouge">real-time dashboards</code> (via Arduino IoT Cloud / ThingSpeak).</li>
+  <li>Learned to troubleshoot <code class="language-plaintext highlighter-rouge">Wi-Fi, firewall, and data-transfer issues</code>.</li>
+  <li><strong>Skill relevance</strong>: These skills align with <strong>Industrial Internet of Things (IIoT)</strong>, enabling remote monitoring and predictive maintenance.</li>
+</ul>
+
+<p><strong>Simulation &amp; Visualization</strong></p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">VPython</code> for simulating 3D environments and interactive displays.</li>
+  <li>Showcased <code class="language-plaintext highlighter-rouge">augmented reality concepts</code> where virtual objects respond to real-world sensor inputs.</li>
+  <li><strong>Skill relevance</strong>: Simulations and <strong>digital twins</strong> are increasingly used in <strong>smart manufacturing systems</strong> for design, testing, and operator guidance.</li>
+</ul>
+
+<p><strong>Systems Thinking &amp; Project Integration</strong></p>
+<ul>
+  <li>Developed a capstone project: <code class="language-plaintext highlighter-rouge">Intelligent Aquaculture Feeder System</code>.
+    <ul>
+      <li>Integrated sensors (temperature, dissolved oxygen, pH).</li>
+      <li>Used <code class="language-plaintext highlighter-rouge">ESP32 + Raspberry Pi + Servo motor</code> for feeding automation.</li>
+      <li>Built a <code class="language-plaintext highlighter-rouge">cloud dashboard</code> for monitoring &amp; control.</li>
+    </ul>
+  </li>
+  <li><strong>Skill relevance</strong>: Demonstrates the ability to design <strong>end-to-end intelligent systems</strong> combining hardware, software, IoT, and automation.</li>
+</ul>
+
+<p><mark> The last part, I was able to present and showcase it in a IEEE conference, you may check it out on my publications section!! </mark></p>
+
+<iframe src="https://drive.google.com/file/d/1jxSDzEetau8OkzFXG5xqen9aWNzQPRD8/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Consolidated reports presented to showcase made outputs
+</div>
+
+<p><strong>REFLECTIONS</strong>: 
+Overall, I learned a lot but I then realize that I’m barely scratching the surface on the amount of the technology and forward thinking applications that needs to be learned to stay ahead of the indsutry standards. Quite frankly, the world has changed indeed and it is not enough that I stay contented in the small wins that I have done in this course but also look ahead on what is needed for the job and the duty that it comes when i’m dealing with it in real-life.</p>
+
+<p>There are so many things to explore and study that is why this is a continuous effort on my end if I want to become someone that can handle and contribute to <code class="language-plaintext highlighter-rouge">industry 4.0 in the Philippines</code>. These are merely the building blocks in <strong>smart factories</strong>, such as:</p>
+<ul>
+  <li><strong>Predictive maintenance</strong> (via sensors + analytics).</li>
+  <li><strong>Automated material handling</strong> (via robotics + IoT).</li>
+  <li><strong>Process monitoring dashboards</strong> (via ESP32/RPi cloud integration).</li>
+  <li><strong>Digital twins &amp; simulations</strong> (via VPython/AR concepts).</li>
+</ul>
+
+<p>The next step for me is to continue down this road and know that I will never to prepared for what comes next but 50% of the effort comes from showing up and doing the work if I want to be part of this exciting industry~!</p>
+
+<p><strong>Acknowledgements:</strong> Thank you doc Renann for the oppurtunity to publish our work to IEEE! sir sonjay for his guidance; Jaimie, Pat for being there 100% along the way for the project!</p>]]></content><author><name></name></author><category term="embedded_systems" /><category term="electronics" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><summary type="html"><![CDATA[I share here my journey to develop intelligent systems for the modern plant and how I can stay relevant in the modern world in my line of work.]]></summary></entry><entry><title type="html">I, not, Robot! (MFRBTIC, LBYMF4A, MFELEC3)</title><link href="https://ferds003.github.io/blog/2024/MFRBTIC/" rel="alternate" type="text/html" title="I, not, Robot! (MFRBTIC, LBYMF4A, MFELEC3)" /><published>2024-05-13T20:40:00+00:00</published><updated>2024-05-13T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/MFRBTIC</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/MFRBTIC/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, robotic_enthusiasts, technical_employers, industry_professionals</p>
 
 <p><strong>EXPERIENCE</strong>: 
 The name of the game for robotic systems is to <em>define its position and orientation</em> so that you are able to manipulate the robot (either mobile or fixed) in the given space for control and execution. For us, this involves calculating both <strong>forward and inverse kinematics</strong>, defining the manipulator geometry using <strong>Denavit-Hartenberg</strong> parameters, applying <strong>elementary rotation matrices</strong> for transformation calculations (i.e. change of position in one link to the next) and knowing the orientation angles from <strong>euler angle representations</strong> (which we calculated in class but its already defined as the Tait-Bryan Angles).</p>
@@ -531,7 +826,7 @@ I think the issue started from the very beginning, with the wrong expectations. 
 <iframe src="https://drive.google.com/file/d/1-xOYW5YUaPsUFU0rXw5XSBFz7zi7AXs2/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
 <div class="caption">
     Final report done for submission on CHED.
-</div>]]></content><author><name></name></author><category term="volunteering" /><category term="manufacturing_enginerring" /><category term="operations_and_management" /><summary type="html"><![CDATA[This is my experience for organizing a 2-day field trip for those who opted to take their field trip locally 👷🏻‍♂️]]></summary></entry><entry><title type="html">Digital electronics design (MFDIGTL &amp;amp; LBYMF2F)</title><link href="https://ferds003.github.io/blog/2023/MFDIGTL/" rel="alternate" type="text/html" title="Digital electronics design (MFDIGTL &amp;amp; LBYMF2F)" /><published>2023-04-16T20:40:00+00:00</published><updated>2023-04-16T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/MFDIGTL</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/MFDIGTL/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
+</div>]]></content><author><name></name></author><category term="volunteering" /><category term="manufacturing_enginerring" /><category term="management" /><category term="operations_and_management" /><summary type="html"><![CDATA[This is my experience for organizing a 2-day field trip for those who opted to take their field trip locally 👷🏻‍♂️]]></summary></entry><entry><title type="html">Digital electronics design (MFDIGTL &amp;amp; LBYMF2F)</title><link href="https://ferds003.github.io/blog/2023/MFDIGTL/" rel="alternate" type="text/html" title="Digital electronics design (MFDIGTL &amp;amp; LBYMF2F)" /><published>2023-04-16T20:40:00+00:00</published><updated>2023-04-16T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/MFDIGTL</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/MFDIGTL/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
 
 <p><em>Note: This contains notes and slides I have got from this class. putting it here for my own future reference :”&gt;</em></p>
 
@@ -547,9 +842,9 @@ Digital electronics design has been the heart of innovation for the advancement 
 
 <p>Below is a consolidated document of the calculations that I did for this lecture. As well as PPT slides that I got from the instructor at the time.</p>
 
-<iframe src="https://drive.google.com/file/d/1NBiTdycAKV5wguTY1q2-ylPmdAFXC5IP/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<iframe src="https://drive.google.com/file/d/19EGVLnFArMis7ewblyd7-YZdXSyCLn7m/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
 <div class="caption">
-  My personal notes and the calculations  that  lodi, doc ronn, about digital design concepts that he discussed in class!
+  My personal notes and the calculations I did for these concepts!
 </div>
 
 <iframe src="https://drive.google.com/file/d/1NBiTdycAKV5wguTY1q2-ylPmdAFXC5IP/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
@@ -568,7 +863,7 @@ Digital electronics design has been the heart of innovation for the advancement 
 
 <p>Below is the consolidated reports that we did as synthesis for these learnings.</p>
 
-<iframe src="https://drive.google.com/file/d/1jxSDzEetau8OkzFXG5xqen9aWNzQPRD8/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<iframe src="https://drive.google.com/file/d/1_OAMeiDQBgs7ouLUmbp6MpvpdCyPQRm1/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
 <div class="caption">
   Reports that details our exploration of the fundamental digital electronics components. Caution that file is being, might not preview! 
 </div>
@@ -1081,20 +1376,4 @@ As stated in the syllabus, this coursework is a supplementary to the lab courses
   📄 Open the PDF in a new tab
 </a></p>
 
-<p>PS. Shoutout to my groupmates at the time; Marc and Quiz, hope you cool on me sharing our work!</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="mechanical" /><category term="design_and_modelling" /><category term="manufacturing_engineering" /><summary type="html"><![CDATA[My personal take about this course and learnings about lathe machines~ 🔩]]></summary></entry><entry><title type="html">Basic Engineering Drawing (LBYME1A)</title><link href="https://ferds003.github.io/blog/2021/LBYME1A/" rel="alternate" type="text/html" title="Basic Engineering Drawing (LBYME1A)" /><published>2021-04-26T20:40:00+00:00</published><updated>2021-04-26T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2021/LBYME1A</id><content type="html" xml:base="https://ferds003.github.io/blog/2021/LBYME1A/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
-
-<p><strong>OVERVIEW</strong>:
-I took this class as a freshman. It’s an introductory course to know basic geometric dimensioning and tolerancing (GD&amp;T) as well as execution of basic drafting. Know more about the syllabus in this <a href="https://www.scribd.com/document/589218868/LBYME1A-Syllabus">link</a>.</p>
-
-<p><strong>LEARNINGS and EXPERIENCE</strong>:
-I took this class during the pandemic and I had to buy all the equipment myself like a T-square, 0.5 uni pen fine line and pencils. Looking back, I was fortunate to have the privilege to have a space for me to do drafting in my family’s dining room where I spent 1-2 hours to make these drawings. A lesson I have kept from taking this course was that I was able to understand the difference between design projections. Isometric view provides all three dimensions in one view while orthographic view provides the three separate views. This was helpful in my progression towards computer-aided-design (CAD).</p>
-
-<p>I was able to display knowledge in dimensioning for 2-D objects in terms of filets and chamfers. I was also able to demonstrate difference in graphic representations like visible lines, hidden lines, dimension lines, symmetry lines, phantom lines, break lines, and hatch lines. Lastly, dimensioning is a particular subject that I put emphasis on in these plates. Below is a consolidation of my works.</p>
-
-<hr />
-
-<iframe src="https://drive.google.com/file/d/1cbZlIhl8z7QTORqnd6sTebSePQF7o3T0/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-
-<p><a href="https://drive.google.com/file/d/1cbZlIhl8z7QTORqnd6sTebSePQF7o3T0/view" target="_blank">
-  📄 Open the PDF in a new tab
-</a></p>]]></content><author><name></name></author><category term="mechatronics" /><category term="mechanical" /><category term="design_and_modelling" /><category term="manufacturing_engineering" /><summary type="html"><![CDATA[My personal notes for my hand drawn CAD plates for basic engineering drawings. 📐]]></summary></entry></feed>
+<p>PS. Shoutout to my groupmates at the time; Marc and Quiz, hope you cool on me sharing our work!</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="mechanical" /><category term="design_and_modelling" /><category term="manufacturing_engineering" /><summary type="html"><![CDATA[My personal take about this course and learnings about lathe machines~ 🔩]]></summary></entry></feed>

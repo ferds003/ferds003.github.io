@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-i-not-robot-mfrbtic-lbymf4a-mfelec3",
+        },{id: "post-smart-factory-intelligent-manufacturing-systems-lbymf4d-amp-mfelec2",
+        
+          title: "Smart factory! Intelligent manufacturing systems (LBYMF4D &amp; MFELEC2)",
+        
+        description: "I share here my journey to develop intelligent systems for the modern plant and how I can stay relevant in the modern world in my line of work.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/LBYMF4D&MFELEC2/";
+          
+        },
+      },{id: "post-i-not-robot-mfrbtic-lbymf4a-mfelec3",
         
           title: "I, not, Robot! (MFRBTIC, LBYMF4A, MFELEC3)",
         
