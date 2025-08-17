@@ -5,7 +5,7 @@ date: 2022-07-13 20:40:00
 description: 
 tags: design_and_modelling | manufacturing_engineering | automation_and_controls | data_and_ai | operations_and_management
 categories: mechatronics | embedded_systems | electronics | management | data_science | volunteering | personal
-thumbnail: 
+thumbnail: assets/img/2023/thumbnail_mfindlx.png
 giscus_comments: true
 pretty_table: true
 images:

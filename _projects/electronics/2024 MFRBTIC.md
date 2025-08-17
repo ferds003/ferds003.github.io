@@ -84,6 +84,6 @@ This project simulates automated pathway clearance for a Polulu 3PI robot (3PI) 
 
 __LEARNINGS__: The application of the DH convention to the DOBOT Magician robot arm was a challenging task. The kinematic model was derived using the DH parameters, and the forward kinematics was calculated to determine the position and orientation of the end-effector. The inverse kinematics was also derived to determine the joint angles required to achieve a desired end-effector position. The project provided valuable insights into the kinematic modeling of robot arms and the application of kinematic equations to real-world problems.
 
-_Note:_ You may also check the related blog post that I made that covers the lecture and supplementary discussions like that of the denavit-hartenbarg table [here]({% post_url 2024-05-13-MFRBTIC %})
+_Note:_ You may also check the related blog post that I made that covers the lecture and supplementary discussions like that of the denavit-hartenbarg table [here.]({% post_url 2024/2024-05-13-MFRBTIC %})
 
 PS. Shoutout to my co-implements for this project Kyle and Dolot, for being there 100% along the way!

@@ -47,9 +47,16 @@ images:
     {% include googleDrivePlayer.html id=page.driveId %}
   </div>
 </div>
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include googleDrivePlayer.html id=page.driveId %}
+  </div>
+</div>
 <div class="caption">
     Presentation done for the production management recommendations along with explanation of the calculations.
 </div>
+
 
 __REFLECTIONS__: [here]({% post_url 2024-05-13-MFRBTIC %})
 __HOW THIS PROJECT CAN BE FURTHER IMPROVED__:
