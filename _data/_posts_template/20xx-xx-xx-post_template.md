@@ -4,7 +4,7 @@ title:
 date: 2022-07-13 20:40:00
 description: 
 tags: design_and_modelling | manufacturing_engineering | automation_and_controls | data_and_ai | operations_and_management
-categories: mechatronics | embedded_systems | management | data_science | volunteering | personal
+categories: mechatronics | embedded_systems | electronics | management | data_science | volunteering | personal
 thumbnail: 
 giscus_comments: true
 pretty_table: true
@@ -22,7 +22,7 @@ __OVERVIEW__:
 ## LECTURE: 
 
 
-Below is a consolidated document of the calculations that I did for this lecture. 
+Below is a consolidated document of the outputs that I did for this lecture. 
 
 <iframe src="https://drive.google.com/file/d/1qnR3EZdTJH-ZWGkCay7j2O3EkAmnF29v/preview"
         width="100%" height="600px"

@@ -1,8 +1,7 @@
 ---
 layout: page
-title: data science projects 
-description: My projects for the data science covering the following topics`:` web-scraping, data mining, machine learning, computer_vision and NLP applications 🤖🧠🇦🇮👾
-permalink: /projects/data_science/
+title: 🤖 Data Science Projects 
+description: Data-driven projects applying AI and analytics to solve real-world problems. Covered areas: web scraping, data mining, machine learning, computer vision, and natural language processing (NLP).
 nav: false
 display_categories: 
 horizontal: false
