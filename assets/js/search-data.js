@@ -102,6 +102,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/MFDIGTL/";
           
         },
+      },{id: "post-wirings-and-automation-learning-in-indsutrial-electronics-mfindlx-amp-lbymf3e",
+        
+          title: "Wirings and automation learning in indsutrial electronics (MFINDLX &amp; LBYMF3E)",
+        
+        description: "Tangled circuits that runs both air and electricity, I share here both theory and practice of industrial electronics and learnings for electro-pneumatic systems 🪢 🔌",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/MFINDLX&LBYMF3E/";
+          
+        },
       },{id: "post-materials-engineering-mfmteng-amp-lbymf2d",
         
           title: "Materials Engineering (MFMTENG &amp; LBYMF2D)",
@@ -282,6 +293,11 @@ ninja.data = [{
           description: "My project for my machine learning class that provides spam SMS classifier in the filipino context. 🥫",
           section: "Projects",handler: () => {
               window.location.href = "/projects/data_science/2025-8-10%20DATA103/";
+            },},{id: "projects-alumina-substrate-production-of-a-solid-mounted-device-smds-resistor",
+          title: 'Alumina substrate production of a solid-mounted device (SMDs) resistor',
+          description: "A simulated electro-pneumatic system for the manufacturing of SMDs components 💨",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2023-LBYMF3E/";
             },},{id: "projects-ur10-robotic-arm-and-dobot-simulations",
           title: 'UR10 Robotic Arm and Dobot Simulations',
           description: "programming robotic arms using dedicated software via waypoints or set conditional parameters 🦾",
