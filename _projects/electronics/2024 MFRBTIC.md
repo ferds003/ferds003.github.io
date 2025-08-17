@@ -3,7 +3,7 @@ layout: page
 title: UR10 Robotic Arm and Dobot Simulations 
 description: programming robotic arms using dedicated software via waypoints or set conditional parameters 🦾
 tags: mechatronics
-category: mechanical
+category: electronics
 img: assets/img/2024/thumbnail_mfrbtic.gif
 giscus_comments: true
 driveId: 1y8GfQ3qocgM00GRsiJo13XmBOp_g70Gt

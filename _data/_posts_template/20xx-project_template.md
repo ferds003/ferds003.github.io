@@ -3,9 +3,10 @@ layout: page
 title: 
 description: 
 tags: 
-category: management | Mechanical | Electronics | Data Science
-img: assets/img/2025/thumbnail_mrprods.png
+category: management | mechanical | electronics | data_Science
+img: 
 giscus_comments: true
+pretty_table: true
 images:
     slider: true
 ---

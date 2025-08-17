@@ -1,65 +1,51 @@
 ---
 layout: page
 title: projects
+description: Hi! Thanks for visiting. You may check the projects that I have done through the years to get to know me more about my skills and expertise :)).
 permalink: /projects/
-description: A growing collection of my cool projects and interesting works.
 nav: true
 nav_order: 2
-display_categories: [mechanical, electronics, data_science, management]
-horizontal: false
+dropdown: true
+children:
+  - title: mechanical
+    permalink: /projects/mechanical/
+  - title: divider
+  - title: electronics
+    permalink: /projects/electronics/
+  - title: divider
+  - title: data_science
+    permalink: /projects/data_science/
+  - title: divider
+  - title: management
+    permalink: /projects/management/
 ---
 
-<!-- pages/projects.md -->
 <div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+  <h2>Explore My Projects by Category</h2>
+  <div class="row row-cols-1 row-cols-md-2 g-4 mt-3">
+    <div class="col">
+      <a class="card p-4 text-center shadow-sm" href="/projects/mechanical/">
+        <h3>⚙️ Mechanical</h3>
+        <p>Robotics, CAD, and mechanical design projects.</p>
+      </a>
+    </div>
+    <div class="col">
+      <a class="card p-4 text-center shadow-sm" href="/projects/electronics/">
+        <h3>🔌 Electronics</h3>
+        <p>Embedded systems, circuits, and automation.</p>
+      </a>
+    </div>
+    <div class="col">
+      <a class="card p-4 text-center shadow-sm" href="/projects/data_science/">
+        <h3>📊 Data Science</h3>
+        <p>Machine learning, data analysis, and AI projects.</p>
+      </a>
+    </div>
+    <div class="col">
+      <a class="card p-4 text-center shadow-sm" href="/projects/management/">
+        <h3>📂 Management</h3>
+        <p>Project planning, organization, and documentation.</p>
+      </a>
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
-
-{% else %}
-
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
 </div>

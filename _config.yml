@@ -259,16 +259,16 @@ jekyll-archives:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: [
-  "design_and_modeling",     # combines computer_aided_design + machine_design
-  "manufacturing_engineering", # umbrella for engineering focus
-  "automation_and_controls", # covers microcontroller + electronics
-  "data_and_ai",             # covers machine learning + data applications
-  "operations_and_management", # merges operations_management + event
+  # "design_and_modeling",     # combines computer_aided_design + machine_design
+  # "manufacturing_engineering", # umbrella for engineering focus
+  # "automation_and_controls", # covers microcontroller + electronics
+  # "data_and_ai",             # covers machine learning + data applications
+  # "operations_and_management", # merges operations_management + event
 ]
 
 display_categories: [
   "mechatronics",
-  "embedded_systems",
+  "electronics",
   "management",
   "data_science",
   "volunteering",

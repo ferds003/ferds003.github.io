@@ -3,10 +3,13 @@ layout: post
 title: 
 date: 2022-07-13 20:40:00
 description: 
-tags: design_and_modelling manufacturing_engineering
-categories: mechatronics
-thumbnail: assets/img/2022/thumbnail_baselci.png
+tags: design_and_modelling | manufacturing_engineering | automation_and_controls | data_and_ai | operations_and_management
+categories: mechatronics | embedded_systems | management | data_science | volunteering | personal
+thumbnail: 
 giscus_comments: true
+pretty_table: true
+images:
+  slider: true
 ---
 
 __TARGET AUDIENCE__: MEM_students, Academe, Industry_Professionals, Technical_Employers
