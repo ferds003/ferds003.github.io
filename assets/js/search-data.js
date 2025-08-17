@@ -59,6 +59,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/MFGSEMS/";
           
         },
+      },{id: "post-digital-electronics-design-mfdigtl-amp-lbymf2f",
+        
+          title: "Digital electronics design (MFDIGTL &amp; LBYMF2F)",
+        
+        description: "My learnings and insights made for digital electronics design",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/MFDIGTL/";
+          
+        },
       },{id: "post-materials-engineering-mfmteng-amp-lbymf2d",
         
           title: "Materials Engineering (MFMTENG &amp; LBYMF2D)",
@@ -229,18 +240,18 @@ ninja.data = [{
           description: "Final thesis defense completed — a major milestone in my MEM journey!",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_15/";
-            },},{id: "projects-cnc-machining-simulation",
-          title: 'CNC Machining Simulation',
+            },},{id: "projects-cnc-machining",
+          title: 'CNC machining',
           description: "The machining and g-codes we have made to fab a lathe vise holder 🕹️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022%20LBYMF2A/";
             },},{id: "projects-smart-recyclable-bin-with-reclined-handguard",
-          title: 'Smart Recyclable Bin with Reclined Handguard',
+          title: 'Smart recyclable bin with reclined handguard',
           description: "The CAD design for a smart receptable with a reclined handguard and initial mockup design 🗑️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022%20LBYMF2B/";
             },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
-          title: 'Management Operations Simulation - &amp;quot;Can You Dig It?&amp;quot;',
+          title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
           description: "My personal project for this engineering management course 📋",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2022-2-16%20MFMNGMT/";
@@ -250,7 +261,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023%20ENGTREP/";
             },},{id: "projects-kinematic-and-finite-element-analysis-of-a-laparscopic-gripper-and-forceps",
-          title: 'Kinematic and Finite Element Analysis of a Laparscopic Gripper and Forceps',
+          title: 'Kinematic and finite element analysis of a laparscopic gripper and forceps',
           description: "The full computer-aided-design for a rudimentary laparscopic gripper for its gripper mechanism and stress loading under its forceps 🫳",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023%20LBYMF3A&LBYMF4C/";
@@ -265,7 +276,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023%20LBYMF3H/";
             },},{id: "projects-ergonomic-assessment-on-mem-thesis-room",
-          title: 'Ergonomic Assessment on MEM Thesis Room',
+          title: 'Ergonomic assessment on MEM thesis room',
           description: "My project on our ergonomics class on the state of the MEM thesis room 👌",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2023%20MFERGOP/";
@@ -276,11 +287,11 @@ ninja.data = [{
               window.location.href = "/projects/2024%20LBYMF4B/";
             },},{id: "projects-inspection-safety-report-for-a-multipurpose-cooperative",
           title: 'Inspection safety report for a multipurpose cooperative',
-          description: "Our service learning project for Bigay Buhay Co-op 👷🏻‍♂️",
+          description: "Our service learning project for Bigay Buhay Co-op that details a safety audit 👷🏻‍♂️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024%20MFBAOHS/";
             },},{id: "projects-project-proposal-for-syncom-asia-pacific",
-          title: 'Project Proposal for Syncom Asia Pacific',
+          title: 'Project proposal for Syncom Asia Pacific',
           description: "Our proposal to improve business processes within a service company 👨‍🔧",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024%20MFCIMSY/";
@@ -295,12 +306,12 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2024%20MFRBTIC/";
             },},{id: "projects-dmaic-approach-for-data-tasks-in-a-service-company",
-          title: 'DMAIC approach for Data Tasks in a Service Company',
+          title: 'DMAIC approach for data tasks in a service company',
           description: "lean and sustainable approach for continuous improvement implementation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025%20MFLNMFG/";
             },},{id: "projects-profit-maximization-for-small-scale-fruitcake-bakery",
-          title: 'Profit Maximization for Small-Scale Fruitcake Bakery',
+          title: 'Profit maximization for small-scale fruitcake bakery',
           description: "Use of Integer Linear Programming (ILP) for maximizing profit based on business production 🍰",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025%20MRPRODS/";
