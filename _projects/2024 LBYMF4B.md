@@ -15,7 +15,7 @@ The goal of this project is to quantify the time it takes to get to class from t
 
 __Motivation:__
 - Officially – To address the long elevator wait times and inefficiencies that many students experience daily in this building.
-- _Unofficially_ – Whenever I have classes in Andrew, I avoid the snake-like elevator line because: 1.) I don’t like being shoulder-to-shoulder with fellow students, lalo na kung pawis ako galing commute (at aminin natin, totoo ung stereotype na mahusga mga tao lalo na sa uni na 'to). 2.) I'm claustrophobic.
+- _Unofficially_ – I want to justify me taking the stairs and know if it was worth taking it everytime I do that unnecessary workout. True story, whenever I have classes in Andrew, I avoid the snake-like elevator line because: 1.) I don’t like being shoulder-to-shoulder with fellow students, lalo na kung pawis ako galing commute (at aminin natin, totoo ung stereotype na mahusga mga tao lalo na sa uni na 'to). 2.) I'm claustrophobic.
 
 
 Because of these, I usually just take the stairs going up and down (bahala na kung mahingal sa dulo! Check the half-joking pub from `The LaSallian` below, kondisyon ko yan paglagpas ng 12th holy flr haha 😔). I’ve already timed myself before — it takes roughly <mark> 5 minutes at a controlled pace from the ground floor to the 16th floor using the stairs in my experience</mark>, which is manageable. I’ve always wondered: is there really no significant difference between taking the stairs vs. the elevator when going to class?
@@ -28,7 +28,7 @@ Because of these, I usually just take the stairs going up and down (bahala na ku
 </div>
 
 ### FINDINGS:
-A time-motion study was conducted to measure the efficiency of the **Br. Andrew Hall elevator system** during peak hours.  
+A time study was conducted to measure the efficiency of the **Br. Andrew Hall elevator system** during peak hours.  
 Five stations were defined:  
 1. Waiting in line to get to a higher floor.  
 2. Waiting inside the elevator going up.  
@@ -87,7 +87,7 @@ I will get the results from calculations to be: $ t_{score} = 4.91734 $$
 
 We need to get the p_value of this t_score using `scipy.stats` (since wanted value for degree of freedowm cannot be seen from student table), you will get a value of $$ 0.00083 $$
 
-This value is lower than the $$ t_{critical} \text{value} = 0.025 $$ (from $$ a/2 $$), hence we reject the <mark> null hypothesis. </mark>
+This value is lower than the $$ t_{critical} \text{value} = 0.025 $$ (from $$ a/2 $$), hence we <mark> reject the null hypothesis. </mark>
 
 **Confidence Interval of (95%)**
 $$ CI = \bar{x} \pm t_{\alpha/2,\, n-1} \cdot \frac{s}{\sqrt{n}} $$
@@ -104,7 +104,7 @@ $$ CI = (350.38, \ 436.21) \ \text{seconds} $$
 **Test Result**
 
 - **t-statistic:** $$ t \approx 4.9173 $$  
-- **p-value:** $$ p \approx 0.00083 (p < 0.05) $$  
+- **p-value:** $$ p \approx 0.00083\ (p < 0.05) $$  
 - **Decision:** Reject $$ H_0 $$
 - **Interpretation:** There is a **statistically significant difference** between the observed mean waiting time using elevators and the 5 minutes travel using stairs .  
 - With **95% confidence** that the true mean waiting time lies between **5.8 min** and **7.27 min**.

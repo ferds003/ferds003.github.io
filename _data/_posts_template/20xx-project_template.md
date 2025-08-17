@@ -1,25 +1,23 @@
 ---
-layout: post
-title: Digital electronics design (MFDIGTL & LBYMF2F)
-date: 2022-07-13 20:40:00
-description:  My learnings and insights made for digital electronics design 
-tags: automation_and_controls
-categories: embedded_systems
-thumbnail: assets/img/2022/thumbnail_baselci.png
+layout: page
+title: 
+description: 
+tags: 
+category: management | Mechanical | Electronics | Data Science
+img: assets/img/2025/thumbnail_mrprods.png
 giscus_comments: true
+images:
+    slider: true
 ---
 
-__TARGET AUDIENCE__: MEM_students, Academe, Industry_Professionals, Technical_Employers
-
-_Note: This contains slides from a prof. I highly respect, please dont share to others please, putting it here for my own future reference :">_
-
-__OVERVIEW__:
+### OVERVIEW:
 
 
-## LECTURE: 
+### FINDINGS:
 
 
-Below is a consolidated document of the calculations that I did for this lecture. 
+### LEARNINGS:
+
 
 <iframe src="https://drive.google.com/file/d/1qnR3EZdTJH-ZWGkCay7j2O3EkAmnF29v/preview"
         width="100%" height="600px"
@@ -52,5 +50,5 @@ Below is a consolidated document of the calculations that I did for this lecture
     Presentation done for the production management recommendations along with explanation of the calculations.
 </div>
 
-__REFLECTIONS__: 
-
+__REFLECTIONS__: [here]({% post_url 2024-05-13-MFRBTIC %})
+__HOW THIS PROJECT CAN BE FURTHER IMPROVED__:

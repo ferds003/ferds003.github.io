@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CNC Machining Simulation
+title: CNC machining
 description: The machining and g-codes we have made to fab a lathe vise holder 🕹️
 tags: mechatronics
 category: mechanical
@@ -12,7 +12,7 @@ giscus_comments: true
 ## Overview
 This project is the final demonstration that my group and I made for a laboratory course. This project involved simulating the complete CNC machining process for a part using **Fusion 360 CAM**. The task covered defining stock dimensions, setting the work coordinate system (WCS), selecting appropriate tools, and planning a full set of machining operations. The simulation aimed to optimize toolpaths, cycle times, and material removal strategies while ensuring dimensional accuracy.
 
-The simulated job used a **172 mm × 172 mm × 93.5 mm** stock, producing a final <mark> **170 mm × 170 mm × 92.5 mm** part </mark>. Across **24 operations** and **10 different tools** (flat end mills, ball end mills, drills, spot drills), the part was manufactured virtually with an estimated total cycle time of **31 minutes and 43 seconds**. The process integrated multiple machining strategies — including facing, adaptive clearing, contouring, drilling, and 3D toolpaths — with the goal of achieving both efficiency and precision.
+The simulated job used a `172 mm × 172 mm × 93.5 mm` stock where across **24 operations** and **10 different tools** (flat end mills, ball end mills, drills, spot drills), the part was manufactured virtually with an estimated total cycle time of **31 minutes and 43 seconds**. The process integrated multiple machining strategies — including facing, adaptive clearing, contouring, drilling, and 3D toolpaths — with the goal of achieving both efficiency and precision.
 
 ## Procedure
 

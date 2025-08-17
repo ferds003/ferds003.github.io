@@ -47,7 +47,7 @@ Seen in the images below are the progressive exercises we did to hone this skill
   </div>
 </div>
 
-Below is the consolidated work of my group and I in terms of making the CAM procedures under the general milling machine found in Fusion360. Additionally, we got to apply also CAMotics software as an alternative on how to do the toolpathing as well as the canned cycling. The video shows the details of the milling operation we have coded for an opening plate that is typically seen in a car exhaust.
+Below is the consolidated work of my group and I in terms of making the CAM procedures under the general milling machine found in Fusion360. Additionally, we got to apply also CAMotics software as an alternative on how to do the toolpathing as well as the canned cycling. The video shows the details of the milling operation we have coded for an gasket cover typically seen in manifolds (cmiiw!)
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">

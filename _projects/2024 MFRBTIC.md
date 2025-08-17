@@ -9,6 +9,7 @@ giscus_comments: true
 driveId: 1y8GfQ3qocgM00GRsiJo13XmBOp_g70Gt
 driveId1: 1wVTFzku9gPSOAqevvaii-1uZiw1rhxCs
 driveId2: 16gViVhidQ04xik4jjCncY43UU1rqWbLG
+pretty_table: true
 ---
 
 ### OVERVIEW:
@@ -39,7 +40,7 @@ I got to know UR10 CB3 robotic arm and do necessary calibrations to perform repe
 
 
 ### Dobot Magician Mobile Robot:
-This project simulates automated pathway clearance for a Pololu 3PI robot (3PI) using DOBOT Magician robot arms (DOBOT) in a manufacturing line setting. The 3PI represents the output product on a conveyor belt hindered by obstacles. The DOBOT arms, equipped with suction cup end-effectors, perform a pick-hold-return motion to remove these obstacles, ensuring an undisturbed run for the 3PI. The project aims to provide a kinematic model of the 3PI and DOBOT end-effector movements.
+This project simulates automated pathway clearance for a Polulu 3PI robot (3PI) using DOBOT Magician robot arms (DOBOT) in a manufacturing line setting. The 3PI represents the output product on a conveyor belt hindered by obstacles. The DOBOT arms, equipped with suction cup end-effectors, perform a pick-hold-return motion to remove these obstacles, ensuring an undisturbed run for the 3PI. The project aims to provide a kinematic model of the 3PI and DOBOT end-effector movements.
 
 **Cycle Time Breakdown**
 
@@ -63,7 +64,6 @@ This project simulates automated pathway clearance for a Pololu 3PI robot (3PI) 
 | 4 | 147 mm (L3) | 0° | 0 | −θ₂ − θ₃ |
 | 5 | 50 mm (L4) | −90° | 0 | θ₅ |
 | 6 | 0 | 0° | −50 mm (−L5) | 0° |
-
 
 
 <div class="row">

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Smart Recyclable Bin with Reclined Handguard  
+title: Smart recyclable bin with reclined handguard  
 description: The CAD design for a smart receptable with a reclined handguard and initial mockup design 🗑️
 tags: design_and_modelling, manufacturing_engineering
 category: mechanical
@@ -11,9 +11,7 @@ images:
 ---
 
 ## Overview
-The motivation for the project is to create a replication of a smart recyclable bin with a modification for a reclined handguard that will avoid any pest or vermins from entering the bin. This comes from noticing that bin lids are often left open and pests are able to enter the bin. This project is the culmination of our computer-aided engineering laboratory.
-
-## Procedure
+The motivation for the project is to create a replication of a smart recyclable bin with a modification for a `reclined handguard` that will avoid any `pest or vermins` from entering the bin. This comes from noticing that bin lids are often left open and pests are able to enter the bin 😖. This applies the ideation and computer-aided engineering on behalf of the developers. The following is applied for this design:
 
 1. **Problem Identification & Conceptualization**  
    - Observed that conventional bin lids are often left open, allowing pests and vermin to enter.  

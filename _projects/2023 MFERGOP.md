@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ergonomic Assessment on MEM Thesis Room
+title: Ergonomic assessment on MEM thesis room
 description: My project on our ergonomics class on the state of the MEM thesis room 👌
 tags: operations_management
 category: management
@@ -10,19 +10,19 @@ giscus_comments: true
 ---
 
 ### OVERVIEW:
-The motivation for this project was upon seeing the sad state of our thesis room (argument can be made on how ugly and disorderly the room has been!!). As a concerned student, I wanted to check if I can apply ergonomics to quantify and detail its need for a remodelling in the hopes that the department takes proceeding action on it so that it can be sustained for future MEM students.
+The motivation for this project was upon seeing the sad state of our thesis room (argument can be made on how ugly and disorderly the room has been!!). As a concerned student, I wanted to check if I can apply ergonomics to `quantify and detail its need` for a remodelling in the hopes that the department takes proceeding action on it so that it can be sustained for future MEM students.
 
-We highlight in our report issues with space (but thats a given na), lighting, and furniture, and proposes design improvements to create a more conducive environment for students working on their theses and capstone projects. The study aims to enhance student well-being and productivity by addressing these ergonomic concerns and implementing practical solutions.
+We highlight in our report issues with space (but thats a given na), lighting, and furniture, and proposes design improvements to create a more conducive environment for students working on their theses and capstone projects. The study aims to `enhance student well-being and productivity` by addressing these ergonomic concerns and implementing practical solutions.
 
 ### FINDINGS:
 
 We were able to quantify and provide key insights with the following proposal:
 
-**Improved Lighting:** Adding ceiling lights to meet the OSHA standard of 107.6 lumens, especially in areas with low illumination.
+**Improved Lighting:** Adding ceiling lights to meet the `OSHA standard of 107.6 lumens`, especially in areas with low illumination.
 
-**Space Optimization:** Re-arranging furniture to create collaborative workspaces with at least 100cm clearance for passageways, removing clutter, and providing open shelf racks for storage. The proposed floor plan can accommodate twenty-two people.
+**Space Optimization:** Re-arranging furniture to create collaborative workspaces with `at least 100cm clearance` for passageways, removing clutter, and providing open shelf racks for storage. The proposed floor plan can accommodate twenty-two people.
 
-**Ergonomic Workstations:** Replacing chairs with adjustable ones, ensuring a 60-70cm eye-level distance to the table, and installing pop-up electrical outlets with cable management under tables.
+**Ergonomic Workstations:** Replacing chairs with adjustable ones, ensuring a `60-70cm eye-level` distance to the table, and installing pop-up electrical outlets with cable management under tables.
 
 **Door Modification:** Fixing or replacing the door knob for easier operation.
 

@@ -13,7 +13,7 @@ images:
 
 __TARGET AUDIENCE__: MEM_students, Academe, Industry_Professionals, Technical_Employers
 
-_Note: Taglish tong article na to, im sorry, natamad na sa kakasulat haha_
+_Note: Taglish_
 
 __OVERVIEW__:
 I took this class as a sophomore in my fifth term. It's an introductory course for materials engineering. We never really delve deep into the specifics but it was important for us to atleast understand the materials that we are dealing with if ever we go into the specifics of the field. I provided here both the lecture and laboratory efforts on my end to learn this concept below! 

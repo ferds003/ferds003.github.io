@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Profit Maximization for Small-Scale Fruitcake Bakery
+title: Profit maximization for small-scale fruitcake bakery
 description: Use of Integer Linear Programming (ILP) for maximizing profit based on business production 🍰
 tags: operations_management
 category: management
@@ -10,7 +10,9 @@ giscus_comments: true
 
 ### OVERVIEW:
 
-The motivation of this project is to help small-scale enterprises like that of my mom's (luv u ma!) fruitcake bakery business in the hopes that they can further maximize their profits. This paper investigates profit maximization and optimal raw material allocation for a small-scale fruitcake bakery using <mark> integer linear programming (ILP) </mark>. The study focuses on a bakery producing glazed and dark fruitcakes, aiming to determine the optimal ingredient combination and production quantities to maximize profit while adhering to budget and raw material constraints. Historical sales data informs demand constraints, and the model is implemented using MATLAB's Optimization Toolbox. The results indicate that producing 59 glazed and 45 dark fruitcakes during the Christmas season yields a maximum profit of ₱18,550. For Valentine’s Day, producing 73 glazed and 31 dark fruitcakes results in a higher profit of ₱19,250, validated through sensitivity analysis. The research demonstrates the potential of ILP for small-scale bakeries to make data-driven production decisions, reduce waste, and align inventory with seasonal demand.
+The motivation of this project is to help small-scale enterprises like that of my mom's (luv u ma!) fruitcake bakery business in the hopes that they can further maximize their profits. This paper investigates profit maximization and optimal raw material allocation for a small-scale fruitcake bakery using `integer linear programming (ILP)`. The study focuses on a bakery producing glazed and dark fruitcakes, aiming to determine the optimal ingredient combination and production quantities to maximize profit while adhering to budget and raw material constraints. 
+
+Historical sales data informs demand constraints, and the model is implemented using MATLAB's Optimization Toolbox. The results indicate that `producing 59 glazed and 45 dark fruitcakes` during the `Christmas season` yields a maximum profit of `₱18,550`. For `Valentine’s Day`, `producing 73 glazed and 31 dark fruitcakes` results in a higher profit of `₱19,250`, validated through sensitivity analysis. The research demonstrates the potential of ILP for small-scale bakeries to make data-driven production decisions, reduce waste, and align inventory with seasonal demand.
 
 ### FINDINGS:
 
@@ -35,5 +37,4 @@ PS. Shoutout to Vito and Teo as my co-proponents for this project as well as [Mo
         style="border: 1px solid #ccc;"></iframe>
 <div class="caption">
     Final report of our linear programming approach along with the pitchdeck we presented detailing the MATLAB code. 
-</div>
 </div>

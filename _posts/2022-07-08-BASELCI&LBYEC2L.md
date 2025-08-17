@@ -7,12 +7,13 @@ tags: automation_and_controls manufacturing_engineering basic_electronics
 categories: mechatronics mechanical
 thumbnail: assets/img/2022/thumbnail_baselci.png
 giscus_comments: true
+pretty_table: true
 ---
 
 __TARGET AUDIENCE__: MEM_students, Academe, Industry_Professionals, Technical_Employers
 
 __OVERVIEW__:
-The 
+The course covers fundamental concepts such as Kirchhoff's Current Law (KCL) and Kirchhoff's Voltage Law (KVL), as well as advanced topics like power ratings and AC voltage. Here are my reflections and works that I did to understand these concepts :))
 
 ## LECTURE: 
 Aside from the usual discussion of the KCL and KVL solutions, as well as, power ratings and AC voltage sinusoidal analysis that we did an exam for, We made a project that is a `comprehensive electrical load analysis` for a residential place. This was done to assess us with a practical to determine the appropriate breaker ratings and estimate the overall power consumption of the electrical appliances. The objective was to ensure that each sub-breaker in the electrical distribution system could handle the connected load safely while adhering to electrical code standards.

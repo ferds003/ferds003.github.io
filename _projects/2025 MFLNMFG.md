@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DMAIC approach for Data Tasks in a Service Company
+title: DMAIC approach for data tasks in a service company
 description: lean and sustainable approach for continuous improvement implementation
 tags: operations_management
 category: management
@@ -11,7 +11,7 @@ giscus_comments: true
 
 ### OVERVIEW:
 
-The motivation for this project came by the suggestion of one of my groupmates (si Chiara!), where she was able to reduce a data transformation task in PowerBI (i believe) during her internship. With this in mind, we set out to formally document the steps that she has done and further improve any steps needed to present it to upper management. The Define, Measure, Analyze, Improve and Control (DMAIC) phases for continouous improvement within a company was applied in this case study.
+The motivation for this project came by the suggestion of one of my groupmates, Chiara, where she was able to reduce a data transformation task in PowerBI (i believe) during her internship. With this in mind, we set out to formally document the steps that she has done and further improve any steps needed to present it to upper management. The Define, Measure, Analyze, Improve and Control (DMAIC) phases for continuous improvement within a company was applied in this case study.
 
 The main objectives were:
 - **Reduce downtime** caused by system, process, and IT bottlenecks.
@@ -25,6 +25,7 @@ We were able to map out the different elements that made the continuous improvem
 
 
 **DEFINE**
+
 **SIPOC** identified:
 - **Suppliers**: Data providers, internal business units, IT Department, external data sources.
 - **Inputs**: Daily reports, inventory DB, external data reports, Excel files, Power BI queries.
@@ -33,10 +34,10 @@ We were able to map out the different elements that made the continuous improvem
 - **Customers**: Executives, finance & ops teams, analysts, department heads.
 
 
-**MEASURE** 📏
+**MEASURE** 
 
 **Key metrics**:
-- **Manual labor processing time**: Baseline ~16 hours/week for data entry & transformation.
+- **Manual labor processing time**: Baseline `~16 hours/week` for data entry & transformation.
 - **Efficiency improvement**: % reduction from baseline processing time over 12 weeks.
 - **Azure SQL migration progress**: % of ETL tasks completed.
 - **Data quality**: Error count post-migration.
@@ -48,18 +49,18 @@ We were able to map out the different elements that made the continuous improvem
 - **Delays in reporting** → Scheduled refresh in Power BI with event-driven triggers.
 
 
- **ANALYZE** 🔍
+ **ANALYZE**
 
 **Key findings from data analysis**:
 - **Mismatch between task volume and available manpower**:  
   Example – *Oct. 10, 2024: 30 workers → 600 tasks* vs. *Oct. 20, 2024: 5 workers → 50 tasks*.
 - **Redundant validation steps**: Histogram showed higher error rates in manual checks vs. automated.
-- **Lack of standardized procedures**: Pareto analysis revealed 80% of delays occurred in cleaning/transformation stages.
+- **Lack of standardized procedures**: Pareto analysis revealed `80% of delays occurred in cleaning/transformation stages`.
 - **IT limitations**: Limited staff caused extended downtime during system issues.
 - **Software/hardware incompatibilities**: Time-series analysis linked downtimes to outdated tools.
 
 
-**IMPROVE** 🚀
+**IMPROVE**
 
 **Implemented/Planned actions**:
 1. **Standardized input pipeline** – Fully automated ETL from source to Azure SQL.
@@ -77,11 +78,11 @@ We were able to map out the different elements that made the continuous improvem
 --- 
 ### LEARNINGS:
 
-With this we were able to utilize DMAIC in a service indsutry contenxt effectively beyond the reach of manufacturing to reduct waste in different forms especially downtime that decrease the time it takes to perform the task from 16 hours (the whole week in fact) down to just 2 hours.
+With this we were able to utilize DMAIC in a service industry content effectively beyond the reach of manufacturing to reduce waste in different forms especially downtime that decrease the time it takes to perform the task from 16 hours (the whole week in fact) down to just 2 hours.
 
-We have utilized <mark> PAreto analysis and report </mark> to prioritze improvement areas as well as insighful visualizations in terms of time-series and scatterplots for manpower-task balance. Lastly, this comes in mind that a cloud-based migration is recommended in order to standardize these redundant task and eliminatte bottlenecks. You may further read our project from the preview below.   
+We have utilized `Pareto analysis and report` to prioritize improvement areas as well as insightful visualizations in terms of time-series and scatterplots for manpower-task balance. Lastly, this comes in mind that a cloud-based migration is recommended in order to standardize these redundant tasks and eliminate bottlenecks. You may further read our project from the preview below.   
 
-PPS. Shoutout to Adam, Chiara, Vito, and Teo as my co-proponents for this project. Hope you guys are cool sharing our work here!
+PS. Shoutout to Adam, Chiara, Vito, and Teo as my co-proponents for this project!
 
 <iframe src="https://drive.google.com/file/d/1R3ts83Indwf1zrU6AcKnGTg9rJPT86Gc/preview"
         width="100%" height="600px"

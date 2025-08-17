@@ -1,22 +1,23 @@
 ---
 layout: page
 title: Inspection safety report for a multipurpose cooperative
-description: Our service learning project for Bigay Buhay Co-op 👷🏻‍♂️
+description: Our service learning project for Bigay Buhay Co-op that details a safety audit 👷🏻‍♂️
 tags: operations_management
 category: management
 img: assets/img/2023/thumbnail_mfbaohs.png
 giscus_comments: true
+pretty_table: true
 ---
 
 ### OVERVIEW:
 
-This was a service learning project in conjunction with a partner organization to apply our studies into! This project involved conducting a comprehensive occupational safety and health (OSH) inspection at the <mark> Bigay Buhay Multipurpose Cooperative </mark>, a sewing and garment production facility with 74 employees. The objective was to evaluate compliance with DOLE–OSH Standards and identify workplace hazards, operational inefficiencies, and risks to worker health and safety. The team utilized OSHA checklists, risk assessment matrices, job hazard analyses, and environmental measurements (illumination, temperature, noise levels) to develop improvement recommendations.
+This was a service learning project in conjunction with a partner organization to apply our studies into! This project involved conducting a comprehensive occupational safety and health (OSH) inspection at the `Bigay Buhay Multipurpose Cooperative` , a sewing and garment `production facility with 74 employees`. The objective was to evaluate compliance with DOLE–OSHA Standards and identify workplace hazards, operational inefficiencies, and risks to worker health and safety. The team utilized OSHA checklists, risk assessment matrices, job hazard analyses, and environmental measurements (illumination, temperature, noise levels) to develop improvement recommendations.
 
 ### FINDINGS:
 
 The following are the findings that we have garnered based on our inspection of the cooperative in line also with the standards that were discussed in teachings:
 
-#### **1. Safety & Health Practices**
+**1. Safety & Health Practices**
 **Strengths:**
 - Active medical coordination with nearby hospitals.  
 - Conducted fire and earthquake drills per barangay and national guidelines.  
@@ -67,11 +68,11 @@ The following are the findings that we have garnered based on our inspection of 
 
 ### LEARNINGS:
 
-We were able to apply the **OSHA Checklist** for structured compliance audit. **Risk Assessment Matrix** for Prioritized hazards based on likelihood and severity. **Job Hazard Analysis (JHA)** for task-based hazard identification and controls. **WAIR Documentation Review** for verified DOLE compliance for monthly injury/illness reports.  
+We were able to apply the `OSHA Checklist` for structured compliance audit. `Risk Assessment Matrix` for Prioritized hazards based on likelihood and severity. `Job Hazard Analysis (JHA)` for task-based hazard identification and controls. `WAIR Documentation Review` for verified DOLE compliance for monthly injury/illness reports.  
 
-The connection that is required to discuss technical concepts to the hearing--impaired employees within the cooperative was a struggle and as well as a learning experience to be grounded everytime within the assembly line and workstations. For me given the impairments of the workers, double precautionaries and a safety culture is a must to ensure that their workplace is within standard of how every worker should be treated. Overall, it was a great experience to be able to learn and experience the challenges of the workers in the cooperative and apply our learnings into the field.
+The connection that is required to discuss technical concepts to the hearing--impaired employees within the cooperative was a struggle and as well as a learning experience to be grounded every time within the assembly line and workstations. For me given the impairments of the workers, double precautionary and a safety culture is a must to ensure that their workplace is within standard of how every worker should be treated. Overall, it was a great experience to be able to learn and experience the challenges of the workers in the cooperative and apply our learnings into the field.
 
-PS. Thanks to Bro. Kino and the Dept. for the oppurtunity for this memorable service learning project. Shoutout to my co-implements for this project ykwya!
+PS. Thanks to Bro. Kino and the Dept. for the opportunity for this memorable service learning project. Shoutout to my co-implements for this project ykwya!
 
 
 <iframe src="https://drive.google.com/file/d/1gsVavrJR5CT5sw-skDNvdK2nERInEIwr/preview"

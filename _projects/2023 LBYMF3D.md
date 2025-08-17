@@ -12,7 +12,7 @@ images:
 ---
 
 ### OVERVIEW:
-The motivation for this project is the design improvement for the tumbler that I own which is Brumate's 40oz variant tumbler with a handle and a lid. The issue was the ease of cleaning for the gasket and lid that is a problem that a encounter as a user. To validate this idea with the intention to tackle ease of cleaning, accessibility, and customization, we employed a derivative approach, building upon existing products throught market research down to design architecture.
+The motivation for this project is the design improvement for the tumbler that I own which is `Brumate's 40oz variant tumbler` with a handle and a lid. The issue was the ease of cleaning for the gasket and lid that is a problem that an encounter as a user. To validate this idea with the intention to tackle `ease of cleaning`, `accessibility`, and `customization`, we employed a derivative approach, building upon existing products through market research down to design architecture.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2023/lbymf3d/lbymf3d_tumbler.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -40,7 +40,7 @@ The motivation for this project is the design improvement for the tumbler that I
 
 
 ### LEARNINGS:
-This project highlight the product design approach convention to define the product development and organization, product planning, customer needs, product specifictions and concept generation with our suggestions to provide **an improved gasket alternative with a protrusion and curved interior within the lid for ease of cleaning.** You may check the full documentation of our appreoach below as well as the presentation that we did for this project.
+This project highlights the product design approach convention to define the product development and organization, product planning, customer needs, product specifictions and concept generation with our suggestions to provide **an improved gasket alternative with a protrusion and curved interior within the lid for ease of cleaning.** You may check the full documentation of our approach below as well as the presentation that we did for this project.
 
 _Note: CAD model is available upon request. Comment below!_
 

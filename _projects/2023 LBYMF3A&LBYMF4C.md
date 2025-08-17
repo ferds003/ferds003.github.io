@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kinematic and Finite Element Analysis of a Laparscopic Gripper and Forceps
+title: Kinematic and finite element analysis of a laparscopic gripper and forceps
 description: The full computer-aided-design for a rudimentary laparscopic gripper for its gripper mechanism and stress loading under its forceps 🫳
 tags: mechatronics
 category: mechanical
@@ -12,7 +12,7 @@ images:
 ---
 
 ## Overview
-The motivation for the project is to provide insight of the kinematic mechanism and stress loading for the rudimentary (bare-bones version) of a laparoscopic grasper, a medical instrument used in minimally invasive gut surgeries. I was able to provide the mechanism for opening and closing of the jaws/forceps and essentially the length of shaft needed to make a functional laparscopic gripper. Further finite element analysis was done to determine the maximum loading the foreceps can support before failure.
+The motivation for the project is to provide insight of the kinematic mechanism and stress loading for the rudimentary (bare-bones version) of a laparoscopic grasper, a medical instrument used in minimally invasive gut surgeries. I was able to provide the mechanism for opening and closing of the jaws/forceps and essentially the length of shaft needed to make a `functional laparscopic gripper`. Further finite element analysis was done to determine the maximum loading the `foreceps` can support before failure.
 
 _Note: I can provide our CAD file upon request! Kindly comment in this post_
 
@@ -44,7 +44,7 @@ _Note: I can provide our CAD file upon request! Kindly comment in this post_
 - **Motion Analysis**: The study analyzes the input (handle) and output (forceps) motions, plotting toggle positions in relation to the Fusion 360 plane origin. The research identifies the <ins> slider-crank mechanism for handle-to-rod connection and a scissor mechanism for force transference to the forceps </ins>. It emphasizes the importance of contact sets and constraints in the CAD model to prevent component conflicts.
 - **Findings:** The research successfully modeled the grasper's kinematic mechanism, highlighting the importance of the slider-crank and scissor mechanisms. It also emphasizes the need for contact sets and constraints in the CAD design.
 
-Below is the made IEEE paper format that we provided that synthesizes how the handle actuates the rod, which in turn controls the forceps; how the design incorporates a slider-crank and scissor mechanism; The shaft serves as the frame linkage; Kinematic graphical synthesis analyzes driver and output link movements.
+Below is the made IEEE paper format that we provided that synthesizes how the handle actuates the rod, which in turn controls the forceps; how the design incorporates a `slider-crank` and `scissor` mechanism; The shaft serves as the frame linkage; Kinematic graphical synthesis analyzes driver and output link movements.
 
 <iframe src="https://drive.google.com/file/d/1P5p20YiOa1qA6jLxboGXc1m3OwDLVGkw/preview"
         width="100%" height="600px"
