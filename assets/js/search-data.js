@@ -16,14 +16,35 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of my cool projects and interesting works.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-publications",
+        },{id: "dropdown-mechanical",
+              title: "mechanical",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/mechanical/";
+              },
+            },{id: "dropdown-electronics",
+              title: "electronics",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/electronics/";
+              },
+            },{id: "dropdown-data-science",
+              title: "data_science",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/data_science/";
+              },
+            },{id: "dropdown-management",
+              title: "management",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/projects/management/";
+              },
+            },{id: "nav-publications",
           title: "publications",
           description: "academic publications I have been involved in!",
           section: "Navigation",
@@ -240,91 +261,91 @@ ninja.data = [{
           description: "Final thesis defense completed — a major milestone in my MEM journey!",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_15/";
-            },},{id: "projects-cnc-machining",
-          title: 'CNC machining',
-          description: "The machining and g-codes we have made to fab a lathe vise holder 🕹️",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2022%20LBYMF2A/";
-            },},{id: "projects-smart-recyclable-bin-with-reclined-handguard",
-          title: 'Smart recyclable bin with reclined handguard',
-          description: "The CAD design for a smart receptable with a reclined handguard and initial mockup design 🗑️",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2022%20LBYMF2B/";
-            },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
-          title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
-          description: "My personal project for this engineering management course 📋",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2022-2-16%20MFMNGMT/";
-            },},{id: "projects-business-feasibility-for-banana-peduncle-fiberboards",
-          title: 'Business Feasibility for Banana Peduncle Fiberboards',
-          description: "A business proposal for the manufacturing of banana fiberboards",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2023%20ENGTREP/";
-            },},{id: "projects-kinematic-and-finite-element-analysis-of-a-laparscopic-gripper-and-forceps",
-          title: 'Kinematic and finite element analysis of a laparscopic gripper and forceps',
-          description: "The full computer-aided-design for a rudimentary laparscopic gripper for its gripper mechanism and stress loading under its forceps 🫳",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2023%20LBYMF3A&LBYMF4C/";
-            },},{id: "projects-product-design-improvement-for-a-tumbler-with-lid",
-          title: 'Product design improvement for a tumbler with lid',
-          description: "the full research-to-design improvements made for Brumate&#39;s Toddy Tumbler and Bev-Lock Seal 🧋",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2023%20LBYMF3D/";
-            },},{id: "projects-3d-scanning-and-printing-of-a-person-39-s-bust",
-          title: '3D scanning and printing of a person&amp;#39;s bust',
-          description: "Utilizing LiDAR to capture a 3D scan of a persons head ready for use and print 🤳🏻",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2023%20LBYMF3H/";
-            },},{id: "projects-ergonomic-assessment-on-mem-thesis-room",
-          title: 'Ergonomic assessment on MEM thesis room',
-          description: "My project on our ergonomics class on the state of the MEM thesis room 👌",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2023%20MFERGOP/";
-            },},{id: "projects-time-study-for-br-andrew-gonzales-hall",
-          title: 'Time study for Br. Andrew Gonzales hall',
-          description: "Conducted a time study analysis for the worst building in DLSU-M to take classes (imho!) 😅",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2024%20LBYMF4B/";
-            },},{id: "projects-inspection-safety-report-for-a-multipurpose-cooperative",
-          title: 'Inspection safety report for a multipurpose cooperative',
-          description: "Our service learning project for Bigay Buhay Co-op that details a safety audit 👷🏻‍♂️",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2024%20MFBAOHS/";
-            },},{id: "projects-project-proposal-for-syncom-asia-pacific",
-          title: 'Project proposal for Syncom Asia Pacific',
-          description: "Our proposal to improve business processes within a service company 👨‍🔧",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2024%20MFCIMSY/";
-            },},{id: "projects-optimizing-production-in-a-dairy-cooperative",
-          title: 'Optimizing Production in a Dairy Cooperative',
-          description: "My service learning project for GenTri&#39;s Best Dairy Products 🐄",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2024%20MFPROMA/";
-            },},{id: "projects-ur10-robotic-arm-and-dobot-simulations",
-          title: 'UR10 Robotic Arm and Dobot Simulations',
-          description: "programming robotic arms using dedicated software via waypoints or set conditional parameters 🦾",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2024%20MFRBTIC/";
-            },},{id: "projects-dmaic-approach-for-data-tasks-in-a-service-company",
-          title: 'DMAIC approach for data tasks in a service company',
-          description: "lean and sustainable approach for continuous improvement implementation",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2025%20MFLNMFG/";
-            },},{id: "projects-profit-maximization-for-small-scale-fruitcake-bakery",
-          title: 'Profit maximization for small-scale fruitcake bakery',
-          description: "Use of Integer Linear Programming (ILP) for maximizing profit based on business production 🍰",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2025%20MRPRODS/";
             },},{id: "projects-youtube-simple-recommender-system",
           title: 'Youtube simple recommender system',
           description: "My project for my data modelling class that provides a YT recommender system. ▶️",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2025-8-10%20DATA102/";
+              window.location.href = "/projects/data_science/2025-8-10%20DATA102/";
             },},{id: "projects-filipino-sms-spam-classifier",
           title: 'Filipino SMS spam classifier',
           description: "My project for my machine learning class that provides spam SMS classifier in the filipino context. 🥫",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2025-8-10%20DATA103/";
+              window.location.href = "/projects/data_science/2025-8-10%20DATA103/";
+            },},{id: "projects-ur10-robotic-arm-and-dobot-simulations",
+          title: 'UR10 Robotic Arm and Dobot Simulations',
+          description: "programming robotic arms using dedicated software via waypoints or set conditional parameters 🦾",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2024%20MFRBTIC/";
+            },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
+          title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
+          description: "My personal project for this engineering management course 📋",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
+            },},{id: "projects-business-feasibility-for-banana-peduncle-fiberboards",
+          title: 'Business Feasibility for Banana Peduncle Fiberboards',
+          description: "A business proposal for the manufacturing of banana fiberboards",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2023%20ENGTREP/";
+            },},{id: "projects-ergonomic-assessment-on-mem-thesis-room",
+          title: 'Ergonomic assessment on MEM thesis room',
+          description: "My project on our ergonomics class on the state of the MEM thesis room 👌",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2023%20MFERGOP/";
+            },},{id: "projects-time-study-for-br-andrew-gonzales-hall",
+          title: 'Time study for Br. Andrew Gonzales hall',
+          description: "Conducted a time study analysis for the worst building in DLSU-M to take classes (imho!) 😅",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2024%20LBYMF4B/";
+            },},{id: "projects-inspection-safety-report-for-a-multipurpose-cooperative",
+          title: 'Inspection safety report for a multipurpose cooperative',
+          description: "Our service learning project for Bigay Buhay Co-op that details a safety audit 👷🏻‍♂️",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2024%20MFBAOHS/";
+            },},{id: "projects-project-proposal-for-syncom-asia-pacific",
+          title: 'Project proposal for Syncom Asia Pacific',
+          description: "Our proposal to improve business processes within a service company 👨‍🔧",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2024%20MFCIMSY/";
+            },},{id: "projects-optimizing-production-in-a-dairy-cooperative",
+          title: 'Optimizing Production in a Dairy Cooperative',
+          description: "My service learning project for GenTri&#39;s Best Dairy Products 🐄",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2024%20MFPROMA/";
+            },},{id: "projects-dmaic-approach-for-data-tasks-in-a-service-company",
+          title: 'DMAIC approach for data tasks in a service company',
+          description: "lean and sustainable approach for continuous improvement implementation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2025%20MFLNMFG/";
+            },},{id: "projects-profit-maximization-for-small-scale-fruitcake-bakery",
+          title: 'Profit maximization for small-scale fruitcake bakery',
+          description: "Use of Integer Linear Programming (ILP) for maximizing profit based on business production 🍰",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2025%20MRPRODS/";
+            },},{id: "projects-cnc-machining",
+          title: 'CNC machining',
+          description: "The machining and g-codes we have made to fab a lathe vise holder 🕹️",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2022%20LBYMF2A/";
+            },},{id: "projects-smart-recyclable-bin-with-reclined-handguard",
+          title: 'Smart recyclable bin with reclined handguard',
+          description: "The CAD design for a smart receptable with a reclined handguard and initial mockup design 🗑️",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2022%20LBYMF2B/";
+            },},{id: "projects-kinematic-and-finite-element-analysis-of-a-laparscopic-gripper-and-forceps",
+          title: 'Kinematic and finite element analysis of a laparscopic gripper and forceps',
+          description: "The full computer-aided-design for a rudimentary laparscopic gripper for its gripper mechanism and stress loading under its forceps 🫳",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2023%20LBYMF3A&LBYMF4C/";
+            },},{id: "projects-product-design-improvement-for-a-tumbler-with-lid",
+          title: 'Product design improvement for a tumbler with lid',
+          description: "the full research-to-design improvements made for Brumate&#39;s Toddy Tumbler and Bev-Lock Seal 🧋",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2023%20LBYMF3D/";
+            },},{id: "projects-3d-scanning-and-printing-of-a-person-39-s-bust",
+          title: '3D scanning and printing of a person&amp;#39;s bust',
+          description: "Utilizing LiDAR to capture a 3D scan of a persons head ready for use and print 🤳🏻",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2023%20LBYMF3H/";
             },},{
         id: 'social-email',
         title: 'email',
