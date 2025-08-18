@@ -132,7 +132,7 @@ __Systems Thinking & Project Integration__
 
 <mark> The last part, I was able to present and showcase it in a IEEE conference, you may check it out on my publications section!! </mark> 
 
-<iframe src="https://drive.google.com/file/d/1jxSDzEetau8OkzFXG5xqen9aWNzQPRD8/preview"
+<iframe src="https://drive.google.com/file/d/1Yr7o77zbansHXMlyRRWQ2Wgw014I9GcH/preview"
         width="100%" height="600px"
         style="border: 1px solid #ccc;"></iframe>
 <div class="caption">

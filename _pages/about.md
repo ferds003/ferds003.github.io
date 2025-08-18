@@ -29,14 +29,14 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Fernando Magallanes Jr., Ferds for short, a manufacturing engineering graduate at De La Salle University-Manila and a DOST-SEI Scholar based in Taguig City. Get to know me more on this website of mine as I share my career and personal journey! 
+Hi! I'm Fernando Magallanes Jr.-Ferds for short-a Manufacturing Engineering graduate at De La Salle University-Manila and a DOST-SEI Scholar based in Taguig City. Get to know me more on this website of mine as I share my career and personal journey! 
 
 --**Career Goals and Dreams**--
 
-As I delve deep into the industrial world particularly on its specifics on mechatronics and robotics, my current aim right after graduation is to pursue a job within the manufacturing industry here in the Philippines focusing on becoming one of the key proponents that will bring forth industry 4.0 in the country excelling in the one of the fields of <mark> mechanical design, embedded systems, and data science </mark>.
+As I delve into the industrial world particularly on its specifics on `mechatronics and robotics`, my current goal right after graduation is to pursue a job within the manufacturing industry here in the Philippines. I aim on becoming one of the key proponents that will bring forth industry 4.0 in the country excelling in the fields of <mark> mechanical design, embedded systems, and data science </mark>.
 
-Currently, as of writing, I'm engaged in a funded project as a technical lead on the development and construction of a compact anaerobic digester within my university's campus. I am tasked with the automation, instrumentation and control as well as the remote monitoring of this system. This comes after proposing an idea to repurpose solid waste as fuel for cooking.
+At last update, I'm engaged in a funded project as a `technical lead` on the development and construction of a compact anaerobic digester within my university's campus. I am tasked with the automation, instrumentation and control as well as the remote monitoring of this system. This comes after proposing an idea to repurpose solid waste as fuel for cooking.
 
-A dream of mine is to see a local autonomous robot sorting system on a materials recovery facility here in the country just like [this](https://www.youtube.com/watch?v=rjv_wDOblfc) one overseas by AMP robotics! A recycling infrastructure of this magnitude in the future is certainly a sight to see and I have set my sights on having core competencies to tackle this problem in the future and one day be part of such operations.
+A dream of mine is to see a local autonomous robot sorting system on a materials recovery facility here in the country just like [this](https://www.youtube.com/watch?v=rjv_wDOblfc) one overseas by AMP robotics! Establishing a recycling infrastructure of this scale would be transformative, and I am committed to developing the competencies needed to one day contribute to such operations. 
 
-With that being said, this website serves as a way to showcase my experience, work and upskillings done to be of service! As well as any interesting personal stuff that I find the time to share :> Thanks for visiting!
+With that being said, this website serves as a way to showcase my `experience, work and upskillings` done to be of service! I’ll also be sharing some personal interests whenever I find the time :> Thanks for visiting!
