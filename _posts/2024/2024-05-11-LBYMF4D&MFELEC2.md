@@ -70,28 +70,25 @@ Below is a consolidated document of the outputs that I did for this lecture.
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
     {% include googleDrivePlayer.html id=page.driveId %}
+    <div class="caption">
+      Video demonstration of coding ultrasonic sensor using RPI GPIOs
+    </div>
   </div>
-</div>
-<div class="caption">
-   Video demonstration of coding ultrasonic sensor using RPI GPIOs
-</div>
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-sm mt-3 mt-md-0 text-center">
     {% include googleDrivePlayer.html id=page.driveId1 %}
+    <div class="caption">
+      Video demonstration of pulse width modulation of LEDs using RPI programming.
+    </div>
   </div>
-</div>
-<div class="caption">
-   Video demonstration of pulse width modulation of LEDs using RPI programming.
 </div>
 
 <div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-sm-6 offset-sm-3 mt-3 mt-md-0 text-center">
     {% include googleDrivePlayer.html id=page.driveId2 %}
+    <div class="caption">
+      Video demonstration of Tkinter for LED control.  
+    </div>
   </div>
-</div>
-<div class="caption">
-   Video demonstration of Tkinter for LED control.  
 </div>
 
 ## LABORATORY:
