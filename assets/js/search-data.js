@@ -91,6 +91,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/MFGSEMS/";
           
         },
+      },{id: "post-spaghetti-wires-my-industrial-electronics-learnings-mfindlx-amp-lbymf3e",
+        
+          title: "Spaghetti wires! My industrial electronics learnings (MFINDLX &amp; LBYMF3E)",
+        
+        description: "Tangled circuits that runs both air and electricity, I share here both theory and practice of industrial electronics and learnings for electro-pneumatic systems 🪢 🔌",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/MFINDLX&LBYMF3E/";
+          
+        },
       },{id: "post-digital-electronics-design-mfdigtl-amp-lbymf2f",
         
           title: "Digital electronics design (MFDIGTL &amp; LBYMF2F)",
@@ -100,17 +111,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/MFDIGTL/";
-          
-        },
-      },{id: "post-wirings-and-automation-learning-in-indsutrial-electronics-mfindlx-amp-lbymf3e",
-        
-          title: "Wirings and automation learning in indsutrial electronics (MFINDLX &amp; LBYMF3E)",
-        
-        description: "Tangled circuits that runs both air and electricity, I share here both theory and practice of industrial electronics and learnings for electro-pneumatic systems 🪢 🔌",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2022/MFINDLX&LBYMF3E/";
           
         },
       },{id: "post-materials-engineering-mfmteng-amp-lbymf2d",

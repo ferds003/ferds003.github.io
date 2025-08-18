@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-17T12:45:48+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-18T08:10:59+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
 </subtitle><entry><title type="html">Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)</title><link href="https://ferds003.github.io/blog/2024/LBYMF4D&MFELEC2/" rel="alternate" type="text/html" title="Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)" /><published>2024-06-13T20:40:00+00:00</published><updated>2024-06-13T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
 
 <p><strong>OVERVIEW</strong>:
@@ -187,34 +187,31 @@ The manufacturing scene is evolving fast. There are many technologies that are b
   <iframe width="100%" height="480" src="https://drive.google.com/file/d/1egU-UOmQEf3_b7ENcdCmzy0PHyz20gCX/preview" frameborder="0" allowfullscreen="true">
   </iframe>
 </div>
+    <div class="caption">
+      Video demonstration of coding ultrasonic sensor using RPI GPIOs
+    </div>
   </div>
-</div>
-<div class="caption">
-   Video demonstration of coding ultrasonic sensor using RPI GPIOs
-</div>
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-sm mt-3 mt-md-0 text-center">
     <div class="embed-container">
   <iframe width="100%" height="480" src="https://drive.google.com/file/d/1GFsdhYpabyaHyEhTwJBmEcmYLQv4aMyj/preview" frameborder="0" allowfullscreen="true">
   </iframe>
 </div>
+    <div class="caption">
+      Video demonstration of pulse width modulation of LEDs using RPI programming.
+    </div>
   </div>
-</div>
-<div class="caption">
-   Video demonstration of pulse width modulation of LEDs using RPI programming.
 </div>
 
 <div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-sm-6 offset-sm-3 mt-3 mt-md-0 text-center">
     <div class="embed-container">
   <iframe width="100%" height="480" src="https://drive.google.com/file/d/19r3NkueWSFm1Smf5vzu3cGcgIi52SE5G/preview" frameborder="0" allowfullscreen="true">
   </iframe>
 </div>
+    <div class="caption">
+      Video demonstration of Tkinter for LED control.  
+    </div>
   </div>
-</div>
-<div class="caption">
-   Video demonstration of Tkinter for LED control.  
 </div>
 
 <h2 id="laboratory">LABORATORY:</h2>
@@ -276,7 +273,7 @@ The manufacturing scene is evolving fast. There are many technologies that are b
 
 <p><mark> The last part, I was able to present and showcase it in a IEEE conference, you may check it out on my publications section!! </mark></p>
 
-<iframe src="https://drive.google.com/file/d/1jxSDzEetau8OkzFXG5xqen9aWNzQPRD8/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<iframe src="https://drive.google.com/file/d/1Yr7o77zbansHXMlyRRWQ2Wgw014I9GcH/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
 <div class="caption">
   Consolidated reports presented to showcase made outputs
 </div>
@@ -826,7 +823,395 @@ I think the issue started from the very beginning, with the wrong expectations. 
 <iframe src="https://drive.google.com/file/d/1-xOYW5YUaPsUFU0rXw5XSBFz7zi7AXs2/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
 <div class="caption">
     Final report done for submission on CHED.
-</div>]]></content><author><name></name></author><category term="volunteering" /><category term="manufacturing_enginerring" /><category term="management" /><category term="operations_and_management" /><summary type="html"><![CDATA[This is my experience for organizing a 2-day field trip for those who opted to take their field trip locally 👷🏻‍♂️]]></summary></entry><entry><title type="html">Digital electronics design (MFDIGTL &amp;amp; LBYMF2F)</title><link href="https://ferds003.github.io/blog/2023/MFDIGTL/" rel="alternate" type="text/html" title="Digital electronics design (MFDIGTL &amp;amp; LBYMF2F)" /><published>2023-04-16T20:40:00+00:00</published><updated>2023-04-16T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/MFDIGTL</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/MFDIGTL/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
+</div>]]></content><author><name></name></author><category term="volunteering" /><category term="manufacturing_enginerring" /><category term="management" /><category term="operations_and_management" /><summary type="html"><![CDATA[This is my experience for organizing a 2-day field trip for those who opted to take their field trip locally 👷🏻‍♂️]]></summary></entry><entry><title type="html">Spaghetti wires! My industrial electronics learnings (MFINDLX &amp;amp; LBYMF3E)</title><link href="https://ferds003.github.io/blog/2023/MFINDLX&LBYMF3E/" rel="alternate" type="text/html" title="Spaghetti wires! My industrial electronics learnings (MFINDLX &amp;amp; LBYMF3E)" /><published>2023-09-03T20:40:00+00:00</published><updated>2023-09-03T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/MFINDLX&amp;LBYMF3E</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/MFINDLX&amp;LBYMF3E/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
+
+<p><em>Note: Taglish</em></p>
+
+<p><strong>OVERVIEW</strong>:
+The understanding of pneumatic systems is salient to the understanding of the automation being done in manufacturing plants. It is that intention that the course and lab below provides us students (ako!), the oppurtunity to train ourselves under <code class="language-plaintext highlighter-rouge">programmable logic controllers</code> and the designing of <code class="language-plaintext highlighter-rouge">electro-pneumatic systems</code>!</p>
+
+<h2 id="lecture">LECTURE:</h2>
+<p>The lecture class was, frankly, boring. The calculations for it consist of me determining the logic function as well as the flow of air on end output from given inputs (wow /s) 😅. This may include providing the <code class="language-plaintext highlighter-rouge">motion-step diagram</code>, finding out the <code class="language-plaintext highlighter-rouge">logic truth tables</code> and lastly, obtain its <code class="language-plaintext highlighter-rouge">plc ladder logic diagram</code>. All of this was handwritten and handdrawn in the paper. I still remember doing the calculations one time in Jollibee Malibay since I was not able to make it in campus haha (sumilong ako sa ulan)</p>
+
+<iframe src="https://drive.google.com/file/d/19R3r94gOBOw8zoDfrbRUrn_edy6-hIl1/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  My personal notes that I have compiled! Not much but this just covers gas concepts and pressure determination to be applied safely on cylinders.
+</div>
+
+<p>Aside from the gas laws and determination of pressure for safety, I think I got sidetrack on the laboratory since it was more practical. Overall there are many valves (especially its symbols) to consider and we had to memorize it. When I was looking at the exam paper, I just imagine what is the <code class="language-plaintext highlighter-rouge">suitable pneumatic components</code> to deliver the task given!</p>
+
+<p>For the practical, my pair (si Nic) and we solved two automation problems I worked on two automation problems — a <code class="language-plaintext highlighter-rouge">Metal Strip Bending Tool</code> and a <code class="language-plaintext highlighter-rouge">Cleaning Bath System</code>. Both required designing electro-pneumatic circuits and simulating them with <code class="language-plaintext highlighter-rouge">PLC ladder logic</code>. To solve these, I provided the following components and solution below. You may also check out the video demonstration that I have below and our report.</p>
+
+<p><strong>COMPONENTS USED</strong>:</p>
+<ul>
+  <li>Cylinders (Actuators)
+    <ul>
+      <li><strong>Single-Acting Cylinder (SAC)</strong>: Uses air pressure for forward stroke, spring for return.
+        <ul>
+          <li>Used in <strong>Cleaning Bath</strong> for simple forward/back motion.</li>
+        </ul>
+      </li>
+      <li><strong>Double-Acting Cylinder (DAC)</strong>: Uses air pressure for both extension and retraction.
+        <ul>
+          <li>Used in both <strong>Bending Tool</strong> and <strong>Cleaning Bath</strong> for controlled motion in both directions.</li>
+        </ul>
+      </li>
+      <li><code class="language-plaintext highlighter-rouge">Key Concept</code>: Selection depends on whether the motion requires force in one or both directions.</li>
+    </ul>
+  </li>
+  <li>Directional Control Valves (DCVs)
+    <ul>
+      <li><strong>3/2 Valve</strong>: Three ports, two positions — commonly paired with single-acting cylinders.</li>
+      <li><strong>5/2 Valve</strong>: Five ports, two positions — essential for controlling double-acting cylinders.</li>
+      <li><strong>Shuttle &amp; Check Valves</strong>: Ensure correct air routing, allow manual/electrical actuation.</li>
+      <li><code class="language-plaintext highlighter-rouge">Key Concept</code>: Correct valve selection enables precise cylinder control and sequencing.</li>
+    </ul>
+  </li>
+  <li>Sensors &amp; Switches
+    <ul>
+      <li><strong>Limit Switches</strong>: Detect cylinder end positions (extended/retracted).</li>
+      <li><strong>Optical/Proximity Sensors</strong>: Detect presence of workpiece (used in bending setup).</li>
+      <li><strong>Pressure Sensors</strong>: Provide feedback for safety and automatic retraction.</li>
+      <li><code class="language-plaintext highlighter-rouge">Key Concept</code>: Sensors convert mechanical positions into electrical signals for <code class="language-plaintext highlighter-rouge">PLC inputs</code>.</li>
+    </ul>
+  </li>
+  <li>Electro-Pneumatics
+    <ul>
+      <li>Integration of <code class="language-plaintext highlighter-rouge">relays, solenoids, and electrical signals</code> to control valve actuation.</li>
+      <li>Combines the speed and power of pneumatics with the logic of electrical control.</li>
+      <li><code class="language-plaintext highlighter-rouge">Key Concept</code>: Electro-pneumatic systems bridge physical actuation with programmable control.</li>
+    </ul>
+  </li>
+  <li>PLC Ladder Logic
+    <ul>
+      <li>Ladder diagrams used to <strong>sequence operations</strong> of multiple cylinders.</li>
+      <li>In <strong>Bending Tool</strong>: Three cylinders had to operate in sequence (clamp → bend → release).</li>
+      <li>In <strong>Cleaning Bath</strong>: Sequenced forward/back motions with gradual timing.</li>
+      <li><code class="language-plaintext highlighter-rouge">Key Concept</code>: PLCs ensure <code class="language-plaintext highlighter-rouge">safe, repeatable, and automated sequencing</code> of pneumatic systems.</li>
+    </ul>
+  </li>
+  <li>Timing &amp; Sequencing
+    <ul>
+      <li><strong>Delay timers</strong> hold cylinder positions before the next step.</li>
+      <li><strong>Counters</strong> ensure repetitive actions stop after a set cycle (e.g., 5 dips in a bath).</li>
+      <li><code class="language-plaintext highlighter-rouge">Key Concept</code>: Time-dependent motion control is vital for automation consistency.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>By combining <code class="language-plaintext highlighter-rouge">mechanical actuation + electrical control + PLC sequencing</code>, even complex tasks like <code class="language-plaintext highlighter-rouge">bending tools</code> and <code class="language-plaintext highlighter-rouge">automated dipping baths</code> can be executed reliably.  These exercises mirror real-world <code class="language-plaintext highlighter-rouge">industrial automation problems</code>, where pneumatics are widely used for material handling, clamping, pressing, and cleaning processes.</p>
+
+<p>Below is a consolidated document of the practical that I did for this lecture as well as the video demonstration that my pair and I did!</p>
+
+<iframe src="https://drive.google.com/file/d/1SgafdJhVgzq6zDmHYF3leAcvQHJ8qbtc/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1m6ebRvrTY3_FUelZx3fbKjiLDcYq6jX_/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+  </div>
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/15c2k5QqoRqphcbqV9BPFc-vPJBuILuQK/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+  </div>
+</div>
+<div class="caption">
+ video demonstration for the 1.) cleaning bath operation on the left and 2.) metal string bending tool on the right.
+</div>
+
+<h2 id="laboratory">LABORATORY:</h2>
+<p>The laboratory class proided me practical skills on the use of pneumatic system to produce complex sequencing of cylinder actuation for a given output/intention. The use of sensors and safety controls were all considered in the activities that we did for this class.</p>
+
+<p>I will show below the different exercises that we did along with learnings and insight that I find per exercise. I was able to properly document this experience kaya you will see the an accompanying video demonstation of explanation per activity. You may also see the final reports that we did for each of these exercises.</p>
+
+<h3 id="pure-pneumatics">Pure Pneumatics</h3>
+
+<h4 id="exercise-1--water-precipitation"><strong>Exercise #1 – Water Precipitation</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Calculate total water precipitated in a system using the <code class="language-plaintext highlighter-rouge">dew point curve</code> and <code class="language-plaintext highlighter-rouge">absolute humidity</code> at varying temperatures.</li>
+  <li><strong>Learning</strong>: Gained awareness of how moisture affects pneumatic systems—excess water can cause corrosion, leaks, or performance issues.</li>
+  <li><strong>Insight</strong>: In real factories, proper <code class="language-plaintext highlighter-rouge">air drying and filtration</code> is essential for reliable automation.</li>
+</ul>
+
+<h4 id="exercise-2--pipe-diameter-calculation"><strong>Exercise #2 – Pipe Diameter Calculation</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Use <code class="language-plaintext highlighter-rouge">nomograms</code> to size pipes, considering valve lengths and total line length.</li>
+  <li><strong>Learning</strong>: Correct sizing ensures efficiency and avoids pressure drops.</li>
+  <li><strong>Insight</strong>: Small miscalculations can increase energy consumption—highlighting the importance of <code class="language-plaintext highlighter-rouge">sustainable system design</code>.</li>
+</ul>
+
+<h4 id="exercise-3--single-acting-cylinder-control"><strong>Exercise #3 – Single-Acting Cylinder Control</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Build a circuit with a <code class="language-plaintext highlighter-rouge">3/2 valve</code> and <code class="language-plaintext highlighter-rouge">single-acting cylinder</code> for feeding workpieces.</li>
+  <li><strong>Focus</strong>: Troubleshooting air leaks.</li>
+  <li><strong>Insight</strong>: Practical lesson in <code class="language-plaintext highlighter-rouge">maintenance culture</code>—air leaks are small inefficiencies that can cost industries heavily over time.</li>
+</ul>
+
+<div class="col-sm mt-3 mt-md-0">
+   <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1Mhwh_dXwWoRCIaDznSZRkSmbBa07CaMs/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<h4 id="exercise-4--sheet-metal-bending"><strong>Exercise #4 – Sheet Metal Bending</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Use a single-acting cylinder and push button to bend sheet metal into a U-shape.</li>
+  <li><strong>Insight</strong>: Demonstrated how pneumatics support <code class="language-plaintext highlighter-rouge">low-cost, repeatable automation</code> in small-scale production.</li>
+</ul>
+
+<div class="col-sm mt-3 mt-md-0">
+   <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1AVLDbi6mdOTse1IrQX3Ab5lhx6_wRA3N/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<h4 id="exercise-5--double-acting-cylinder-swivel"><strong>Exercise #5 – Double-Acting Cylinder Swivel</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Design a swivel mechanism with <code class="language-plaintext highlighter-rouge">double-acting cylinder + 3/2 valves</code>.</li>
+  <li><strong>Learning</strong>: Secure tube connections are crucial for safety and system reliability.</li>
+</ul>
+
+<div class="col-sm mt-3 mt-md-0">
+   <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1tcxH7etciFx52gB9nkghVCIzNenB9nyn/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<h4 id="exercise-6--workpiece-removal-and-tipping"><strong>Exercise #6 – Workpiece Removal and Tipping</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Automated system with <code class="language-plaintext highlighter-rouge">double-acting cylinder + 3/2 roller valve</code> to remove/tip workpieces.</li>
+  <li><strong>Insight</strong>: Showed how pneumatics integrate with <code class="language-plaintext highlighter-rouge">conveyors</code> for material handling.</li>
+</ul>
+
+<div class="col-sm mt-3 mt-md-0">
+   <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1a2UFp0MHvrf8PD7-ApNQ9-307fz7sKUT/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<h4 id="exercise-7--box-movement-to-assembly"><strong>Exercise #7 – Box Movement to Assembly</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Pneumatic circuit with <code class="language-plaintext highlighter-rouge">5/2 valve, shuttle valves, and double-acting cylinder</code> to move boxes.</li>
+  <li><strong>Learning</strong>: Multiple actuation options (push button or pedal) taught <code class="language-plaintext highlighter-rouge">redundancy and operator ergonomics</code>.</li>
+</ul>
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1UEMWIbE_3s-9nr9PzDkSu02jAsyduJOo/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+  </div>
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1rtRfLCHeczEWFAekxGgC1boBysD87yuq/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+  </div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<h4 id="exercise-8--workpiece-clamping"><strong>Exercise #8 – Workpiece Clamping</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Electro-pneumatic circuit with conditions:
+    <ul>
+      <li>Workpiece detection</li>
+      <li>Interlocks during drilling</li>
+      <li>Adjustable clamping speed</li>
+      <li>Fast declamping</li>
+    </ul>
+  </li>
+  <li><strong>Insight</strong>: Learned about <code class="language-plaintext highlighter-rouge">process safety and flexibility</code>—core in Industry 4.0 smart workstations.</li>
+</ul>
+
+<div class="col-sm mt-3 mt-md-0 text-center">
+  <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1rtRfLCHeczEWFAekxGgC1boBysD87yuq/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<h4 id="exercise-9--gate-control"><strong>Exercise #9 – Gate Control</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Double-acting cylinder controlled by four push buttons (two inside, two outside).</li>
+  <li><strong>Learning</strong>: Implemented <code class="language-plaintext highlighter-rouge">adjustable opening/closing speeds</code> for controlled motion.</li>
+  <li><strong>Insight</strong>: Similar logic is applied in <code class="language-plaintext highlighter-rouge">safety gates in manufacturing plants</code>.</li>
+</ul>
+
+<div class="col-sm mt-3 mt-md-0 text-center">
+  <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1BQVE1A-kgbSZw9lT7Pb3s2imEUhtD7Tp/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<h4 id="exercise-10--component-stamping"><strong>Exercise #10 – Component Stamping</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Electro-pneumatic stamping using <code class="language-plaintext highlighter-rouge">two push buttons + pressure sensor</code> for automatic return.</li>
+  <li><strong>Insight</strong>: Showed how <code class="language-plaintext highlighter-rouge">sensor feedback</code> ensures product quality and reduces errors.</li>
+</ul>
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1Tl7eV_wMSizDQmcOe7kJb3OCJ6kfVxfg/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+  </div>
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1S7WOtCEPOFgmrxfaKCRs2hLSrUFVcXOt/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+  </div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<h4 id="exercise-11--piston-holding-and-retraction"><strong>Exercise #11 – Piston Holding and Retraction</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Push button → forward stroke → piston held 10s → auto-return.</li>
+  <li><strong>Learning</strong>: Incorporated <code class="language-plaintext highlighter-rouge">timing control</code>.</li>
+  <li><strong>Insight</strong>: Pneumatic timers are crucial in synchronized production lines.</li>
+</ul>
+
+<div class="col-sm mt-3 mt-md-0 text-center">
+  <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1ib1wWXoWIQLaAjMFyZNEZpSoLsMSjFsD/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<h4 id="exercise-12--acid-bath-dipping"><strong>Exercise #12 – Acid Bath Dipping</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Automated dipping with counter + limit switches, stops after 5 cycles.</li>
+  <li><strong>Insight</strong>: Showed how <code class="language-plaintext highlighter-rouge">pneumatics + counters</code> provide batch process automation.</li>
+</ul>
+
+<div class="col-sm mt-3 mt-md-0 text-center">
+  <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1sNyAtW0wcDjG5t2iVLsfHA0IgRoUyBd-/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<h4 id="exercise-13--steel-bolt-pressing-two-hand-safety-control"><strong>Exercise #13 – Steel Bolt Pressing (Two-Hand Safety Control)</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Two-hand valve system requiring simultaneous press within 0.5s.</li>
+  <li><strong>Insight</strong>: Essential safety mechanism—prevents workplace accidents during high-force pressing.</li>
+</ul>
+
+<div class="col-sm mt-3 mt-md-0 text-center">
+  <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1cQ665NqA-l5uBVb5ox8nWlrSdODdKdpV/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<h4 id="exercise-14--workpiece-distribution-to-conveyors"><strong>Exercise #14 – Workpiece Distribution to Conveyors</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Distribute workpieces using <code class="language-plaintext highlighter-rouge">two cylinders + four push buttons</code> for sequence control.</li>
+  <li><strong>Learning</strong>: Importance of <code class="language-plaintext highlighter-rouge">sequencing logic</code> in complex automation.</li>
+</ul>
+
+<div class="col-sm mt-3 mt-md-0 text-center">
+  <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/16rOtTBSsZ2i2S-dekZjiIm4LUfxXmrd4/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<h4 id="exercise-15--metal-strip-bending-tool"><strong>Exercise #15 – Metal Strip Bending Tool</strong></h4>
+<ul>
+  <li><strong>Task</strong>: Electro-pneumatic system with <code class="language-plaintext highlighter-rouge">3 cylinders + limit switches + optical proximity sensors</code>.</li>
+  <li><strong>Insight</strong>: Introduction to <code class="language-plaintext highlighter-rouge">sensor integration</code> for automated bending and quality assurance.</li>
+</ul>
+
+<div class="col-sm mt-3 mt-md-0 text-center">
+  <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1TknK92xKEMyBxHU6SdZyIlIadr9xQtm8/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<h4 id="exercise-16--box-lifting-and-pushing"><strong>Exercise #16 – Box Lifting and Pushing</strong></h4>
+<ul>
+  <li><strong>Task</strong>: One cylinder lifts, another pushes to a second conveyor (sequence-dependent).</li>
+  <li><strong>Learning</strong>: Highlighted <code class="language-plaintext highlighter-rouge">interdependent motions</code>—a foundation for robotics and mechatronics.</li>
+</ul>
+
+<div class="col-sm mt-3 mt-md-0 text-center">
+  <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/18Py36nvmPu9VEIvjLhL45BZtpkVtgkTY/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+</div>
+<div class="caption">
+ video demonstration for the exercise above
+</div>
+
+<iframe src="https://drive.google.com/file/d/1zRVCGq1Gyfx8PNB9PRToeuMo_prq7gCu/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+        Consolidated reports per exercise above! This covers from simple pneumatic to complex electro-pneumatic systems that we did for the class and demonstrations.        
+</div>
+
+<h3 id="electro-pneumatics">Electro-Pneumatics</h3>
+<p>This is where the real fun (or torture) begins. The point where troubleshoorting is hard (teknik is to do continuity test for the wires) but completing the task is so rewarding! Electro-pneumatics now cover the use of electrical relays and corresponding circuits to determine the logic of the actuation and control. Down the line, we get to also do industrial programing  instead so less wires, less trouble! Further elaboration of the exercises that we did can be seen below.</p>
+
+<iframe src="https://drive.google.com/file/d/1duNBwjTRlUw9KPr1KAgMqy9qXGpZSVvO/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+
+<hr />
+
+<h2 id="reflection-and-course-insights">REFLECTION AND COURSE INSIGHTS:</h2>
+<p>Again, I always look back and ask myself, can I apply this to my current job/career? This time, it was more of a grey area for me. I want to do technical work when I’m out in the field (not a paper-pusher), and I always see this as a skill that I can use when I’m down in the trenches of the machine and troubleshooting it. Of course, here in the country, you will actually need NCII trainings and certificates to show to the employer that you are capable of the job and not simple the degree. Also the job stability and the lack of the need for people to do this type of work that is mainly outside MEM career choices, you’ll be suprised that covering this is really a setback. This is because we are touching already in the realm of electrical engineers and the extensive background and learnings that they have also done, cannot be matched with what we have currently. Heck, the course goes back and forth on mechanical and electrical engineering concepts!</p>
+
+<p>It has its <code class="language-plaintext highlighter-rouge">merits</code> though, the world is constantly evolving and the concepts here are outdated. Many of the projects done now cover use of <code class="language-plaintext highlighter-rouge">OPC-UA</code> connection from PLC to the hardware as well as me <code class="language-plaintext highlighter-rouge">CAN-BUS</code> network operations for whole plant connection for <code class="language-plaintext highlighter-rouge">IoT</code>. This course provides a solid foundation whenever we will encounter this in the wild in either our robotic systems or mechatronics ones that are heavy-duty. Let me know your thoughts as well in the comments below!</p>
+
+<p>PS. Shoutout kina Nic na tumulong sakin for the finals at si Adam for being a solid partner throughout the labs.</p>]]></content><author><name></name></author><category term="electronics" /><category term="embedded_systems" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><summary type="html"><![CDATA[Tangled circuits that runs both air and electricity, I share here both theory and practice of industrial electronics and learnings for electro-pneumatic systems 🪢 🔌]]></summary></entry><entry><title type="html">Digital electronics design (MFDIGTL &amp;amp; LBYMF2F)</title><link href="https://ferds003.github.io/blog/2023/MFDIGTL/" rel="alternate" type="text/html" title="Digital electronics design (MFDIGTL &amp;amp; LBYMF2F)" /><published>2023-04-16T20:40:00+00:00</published><updated>2023-04-16T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/MFDIGTL</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/MFDIGTL/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
 
 <p><em>Note: This contains notes and slides I have got from this class. putting it here for my own future reference :”&gt;</em></p>
 
@@ -880,24 +1265,7 @@ Digital electronics design has been the heart of innovation for the advancement 
 
 <p>Overall, I realized that you should really align self to the job that you want to take in the future. Majority of my batchmates, I feel, does not want to go into technical work in this field but that is because embedded systems is a niche that the college department never really thought we will explore in the future and just want it to be something we know of. With this in mind, I start my journey of going deep into embedded systems with this knowledge and my aim to upskill further for more opened doors and opportunities!!</p>
 
-<p>PS. Shoutout to Ins for being there in the labs 100% all the way!</p>]]></content><author><name></name></author><category term="embedded_systems" /><category term="electronics" /><category term="automation_and_controls" /><category term="digital_electronics" /><category term="electronics" /><summary type="html"><![CDATA[My learnings and insights made for digital electronics design]]></summary></entry><entry><title type="html">Wirings and automation learning in indsutrial electronics (MFINDLX &amp;amp; LBYMF3E)</title><link href="https://ferds003.github.io/blog/2022/MFINDLX&LBYMF3E/" rel="alternate" type="text/html" title="Wirings and automation learning in indsutrial electronics (MFINDLX &amp;amp; LBYMF3E)" /><published>2022-09-10T20:40:00+00:00</published><updated>2022-09-10T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2022/MFINDLX&amp;LBYMF3E</id><content type="html" xml:base="https://ferds003.github.io/blog/2022/MFINDLX&amp;LBYMF3E/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
-
-<p><em>Note:</em></p>
-
-<p><strong>OVERVIEW</strong>:</p>
-
-<h2 id="lecture">LECTURE:</h2>
-
-<p>Below is a consolidated document of the outputs that I did for this lecture.</p>
-
-<iframe src="https://drive.google.com/file/d/1qnR3EZdTJH-ZWGkCay7j2O3EkAmnF29v/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-<div class="caption">
-
-</div>
-
-<h2 id="laboratory">LABORATORY:</h2>
-
-<iframe src="https://drive.google.com/file/d/1jxSDzEetau8OkzFXG5xqen9aWNzQPRD8/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>]]></content><author><name></name></author><category term="electronics" /><category term="embedded_systems" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><summary type="html"><![CDATA[Tangled circuits that runs both air and electricity, I share here both theory and practice of industrial electronics and learnings for electro-pneumatic systems 🪢 🔌]]></summary></entry><entry><title type="html">Basic Electrical Engineering (BASELCI &amp;amp; LBYEC2L)</title><link href="https://ferds003.github.io/blog/2022/BASELCI&LBYEC2L/" rel="alternate" type="text/html" title="Basic Electrical Engineering (BASELCI &amp;amp; LBYEC2L)" /><published>2022-07-08T20:40:00+00:00</published><updated>2022-07-08T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2022/BASELCI&amp;LBYEC2L</id><content type="html" xml:base="https://ferds003.github.io/blog/2022/BASELCI&amp;LBYEC2L/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
+<p>PS. Shoutout to Ins for being there in the labs 100% all the way!</p>]]></content><author><name></name></author><category term="embedded_systems" /><category term="electronics" /><category term="automation_and_controls" /><category term="digital_electronics" /><category term="electronics" /><summary type="html"><![CDATA[My learnings and insights made for digital electronics design]]></summary></entry><entry><title type="html">Basic Electrical Engineering (BASELCI &amp;amp; LBYEC2L)</title><link href="https://ferds003.github.io/blog/2022/BASELCI&LBYEC2L/" rel="alternate" type="text/html" title="Basic Electrical Engineering (BASELCI &amp;amp; LBYEC2L)" /><published>2022-07-08T20:40:00+00:00</published><updated>2022-07-08T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2022/BASELCI&amp;LBYEC2L</id><content type="html" xml:base="https://ferds003.github.io/blog/2022/BASELCI&amp;LBYEC2L/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
 
 <p><strong>OVERVIEW</strong>:
 The course covers fundamental concepts such as Kirchhoff’s Current Law (KCL) and Kirchhoff’s Voltage Law (KVL), as well as advanced topics like power ratings and AC voltage. Here are my reflections and works that I did to understand these concepts :))</p>
