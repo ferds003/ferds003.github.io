@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 🤖 Data Science Projects 
+permalink: /projects/data_science/
 description: Data-driven projects applying AI and analytics to solve real-world problems. Covering areas of web scraping, data mining, machine learning, computer vision, and natural language processing (NLP).
 nav: false
 display_categories: 

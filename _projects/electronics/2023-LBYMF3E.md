@@ -101,7 +101,7 @@ Below is a is our documentation for this project!!
 ### REFLECTION:
 The purpose of this project was to demonstrate our understanding of electro-pneumatic systems which I chose SMD resistor for this project since I was curious on how from  `silicon-aluminum wafers`, we are able to make resistors that is being used for micro-electronics. I know that these operations are done in batch but there was no supporting document that provides the automation done for the "cooking" of these wafers, well at least not shared publicly. 
 
-With this project that I did, it provided me an avenue to explore how `SMD production work` that are done in some of the manufacturing companies locally and also glimpses on other application that does transfer process for electronic wafers. You may learn more about other cool projects that I did in the adjacent blog post that I made [here]({% post_url 2023/2023-09-10-MFINDLX&LBYMF3E %})    
+With this project that I did, it provided me an avenue to explore how `SMD production work` that are done in some of the manufacturing companies locally and also glimpses on other application that does transfer process for electronic wafers. You may learn more about other cool projects that I did in the adjacent blog post that I made [here.]({% post_url 2023/2023-09-10-MFINDLX&LBYMF3E %})    
 
 
 PS. Thank you Adam for being a solid co-dev for this project! :)) Also, huge shoutout to sir Babs, our instructor, for his learnings and showing to the class his cool work on DOST-MIRDC.

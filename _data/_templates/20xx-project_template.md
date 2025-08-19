@@ -2,9 +2,8 @@
 layout: page
 title: 
 description: 
-tags: 
 category: management | mechanical | electronics | data_Science
-img: 
+img: assets/img/2023/mfergop1.png
 giscus_comments: true
 pretty_table: true
 images:
@@ -25,6 +24,13 @@ images:
         style="border: 1px solid #ccc;"></iframe>
 <div class="caption">
 
+</div>
+
+<div class="row mt-3 justify-content-center">
+    {% include figure.liquid loading='eager' path='assets/img/2024/content_lbymf4b.png' class='img-fluid rounded z-depth-1 zoomable=true' %}
+</div>
+<div class="caption">
+  The Lasallian spoof pic post that I find very relatable for this case. ctto!
 </div>
 
 ## LABORATORY:

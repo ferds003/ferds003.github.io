@@ -31,6 +31,13 @@ Below is a consolidated document of the outputs that I did for this lecture.
 
 </div>
 
+<div class="row mt-3 justify-content-center">
+    {% include figure.liquid loading='eager' path='assets/img/2024/content_lbymf4b.png' class='img-fluid rounded z-depth-1' %}
+</div>
+<div class="caption">
+  The Lasallian spoof pic post that I find very relatable for this case. ctto!
+</div>
+
 ## LABORATORY:
 
 <iframe src="https://drive.google.com/file/d/1jxSDzEetau8OkzFXG5xqen9aWNzQPRD8/preview"
