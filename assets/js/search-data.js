@@ -113,6 +113,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/MFDIGTL/";
           
         },
+      },{id: "post-analog-electronics-design-mfanlog-amp-lbymf2c",
+        
+          title: "Analog electronics design (MFANLOG &amp; LBYMF2C)",
+        
+        description: "My personal notes and review on analog electronics design 💾",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/MFANLOG&LBYMF2C/";
+          
+        },
       },{id: "post-materials-engineering-mfmteng-amp-lbymf2d",
         
           title: "Materials Engineering (MFMTENG &amp; LBYMF2D)",
@@ -283,14 +294,19 @@ ninja.data = [{
           description: "Final thesis defense completed — a major milestone in my MEM journey!",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_15/";
+            },},{id: "projects-a-proposed-filipino-keyboard-layout",
+          title: 'A proposed filipino keyboard layout',
+          description: "How should a filipino keyboard look like given character count frequency indexed from filipino text? ⌨️",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/data_science/2023-MFERGOP1/";
             },},{id: "projects-youtube-simple-recommender-system",
           title: 'Youtube simple recommender system',
-          description: "My project for my data modelling class that provides a YT recommender system. ▶️",
+          description: "data modelling that provides a YT recommender system. ▶️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/data_science/2025-8-10%20DATA102/";
             },},{id: "projects-filipino-sms-spam-classifier",
           title: 'Filipino SMS spam classifier',
-          description: "My project for my machine learning class that provides spam SMS classifier in the filipino context. 🥫",
+          description: "machine learning application provides spam SMS classifier in the filipino context. 🥫",
           section: "Projects",handler: () => {
               window.location.href = "/projects/data_science/2025-8-10%20DATA103/";
             },},{id: "projects-alumina-substrate-production-of-a-solid-mounted-device-smds-resistor",

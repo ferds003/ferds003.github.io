@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-18T08:10:59+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-19T10:11:49+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
 </subtitle><entry><title type="html">Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)</title><link href="https://ferds003.github.io/blog/2024/LBYMF4D&MFELEC2/" rel="alternate" type="text/html" title="Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)" /><published>2024-06-13T20:40:00+00:00</published><updated>2024-06-13T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
 
 <p><strong>OVERVIEW</strong>:
@@ -1265,7 +1265,94 @@ Digital electronics design has been the heart of innovation for the advancement 
 
 <p>Overall, I realized that you should really align self to the job that you want to take in the future. Majority of my batchmates, I feel, does not want to go into technical work in this field but that is because embedded systems is a niche that the college department never really thought we will explore in the future and just want it to be something we know of. With this in mind, I start my journey of going deep into embedded systems with this knowledge and my aim to upskill further for more opened doors and opportunities!!</p>
 
-<p>PS. Shoutout to Ins for being there in the labs 100% all the way!</p>]]></content><author><name></name></author><category term="embedded_systems" /><category term="electronics" /><category term="automation_and_controls" /><category term="digital_electronics" /><category term="electronics" /><summary type="html"><![CDATA[My learnings and insights made for digital electronics design]]></summary></entry><entry><title type="html">Basic Electrical Engineering (BASELCI &amp;amp; LBYEC2L)</title><link href="https://ferds003.github.io/blog/2022/BASELCI&LBYEC2L/" rel="alternate" type="text/html" title="Basic Electrical Engineering (BASELCI &amp;amp; LBYEC2L)" /><published>2022-07-08T20:40:00+00:00</published><updated>2022-07-08T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2022/BASELCI&amp;LBYEC2L</id><content type="html" xml:base="https://ferds003.github.io/blog/2022/BASELCI&amp;LBYEC2L/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
+<p>PS. Shoutout to Ins for being there in the labs 100% all the way!</p>]]></content><author><name></name></author><category term="embedded_systems" /><category term="electronics" /><category term="automation_and_controls" /><category term="digital_electronics" /><category term="electronics" /><summary type="html"><![CDATA[My learnings and insights made for digital electronics design]]></summary></entry><entry><title type="html">Analog electronics design (MFANLOG &amp;amp; LBYMF2C)</title><link href="https://ferds003.github.io/blog/2022/MFANLOG&LBYMF2C/" rel="alternate" type="text/html" title="Analog electronics design (MFANLOG &amp;amp; LBYMF2C)" /><published>2022-12-22T20:40:00+00:00</published><updated>2022-12-22T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2022/MFANLOG&amp;LBYMF2C</id><content type="html" xml:base="https://ferds003.github.io/blog/2022/MFANLOG&amp;LBYMF2C/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
+
+<p><em>Note: Taglish</em></p>
+
+<p><strong>OVERVIEW</strong>: 
+Analog electronics design focuses on circuits that handle <strong>continuous signals</strong> (voltages and currents that vary smoothly over time). It covers the use of <code class="language-plaintext highlighter-rouge">passive components</code> that configures the electricity passing through its body to perform its function and  <code class="language-plaintext highlighter-rouge">active components</code> that needs an external power independent of the circuit to perform its work. Below is my learnings and reflection from these concepts.</p>
+
+<h2 id="learnings">LEARNINGS:</h2>
+<p>Both the lecture and the lab focuses on circuit analysis where in we had to calculate for the voltage, current and power draw from a specific node of the circuit with the given analog components of the following: <code class="language-plaintext highlighter-rouge">resistors</code>, <code class="language-plaintext highlighter-rouge">capacitors</code>, <code class="language-plaintext highlighter-rouge">inductors</code>, <code class="language-plaintext highlighter-rouge">diodes</code>, <code class="language-plaintext highlighter-rouge">transistors</code>, and <code class="language-plaintext highlighter-rouge">operational amplifiers</code>.</p>
+
+<p>A lesson that I will remember was that from sir Mike Manguerra, our lecture instructor, stating that every circuit analysis is basically a <code class="language-plaintext highlighter-rouge">KVL and KCL down the line</code>. You have to follow the <code class="language-plaintext highlighter-rouge">flow and direction of the voltage and current</code> from the source down to the point of interest. This was valid in transistors that are gates down to op-amps where it increases the signal and amplify its voltage. This was helpful when you are troubleshooting these components that are often seen in many of our electronic devices.</p>
+
+<p><strong>Basic Components</strong></p>
+<ul>
+  <li><strong>Resistors, Capacitors, and Inductors</strong><br />
+Fundamental passive elements that control voltage, current, and energy storage in circuits.
+    <ul>
+      <li>Resistors: Limit current and divide voltages.</li>
+      <li>Capacitors: Store energy and filter signals.</li>
+      <li>Inductors: Store energy in magnetic fields and smooth current flow.</li>
+    </ul>
+  </li>
+  <li><strong>Diodes</strong><br />
+Semiconductor devices that allow current to flow in one direction. Used in <strong>rectifiers, clippers, clampers, and voltage regulation</strong>. I was able to learn about <code class="language-plaintext highlighter-rouge">forward-bias</code> and <code class="language-plaintext highlighter-rouge">reverse-bias</code> type of diodes to prevent current from flowing but on different ways.</li>
+</ul>
+
+<p><strong>Transistor Devices</strong></p>
+<ul>
+  <li><strong>NPN and PNP Transistors (BJTs)</strong><br />
+Bipolar Junction Transistors used for <strong>amplification and switching</strong>. Operate in cutoff, active, and saturation regions.</li>
+  <li><strong>JFETs (Junction Field-Effect Transistors)</strong><br />
+Voltage-controlled devices with high input impedance, commonly used in <strong>amplifiers and analog switches</strong>.</li>
+  <li><strong>MOSFETs (Metal-Oxide-Semiconductor FETs)</strong><br />
+Widely used in <strong>power electronics and analog IC design</strong>, offering high efficiency and scalability.</li>
+</ul>
+
+<p><strong>Amplifiers</strong></p>
+<ul>
+  <li><strong>Small-Signal Amplifiers</strong><br />
+Circuits that boost weak input signals (e.g., audio or sensor signals) without significantly distorting them.</li>
+  <li><strong>Power Amplifiers (Class A, B, AB, C, D)</strong><br />
+Designed to drive loads like speakers or motors, focusing on efficiency and output power.</li>
+  <li><strong>Operational Amplifiers (Op-Amps)</strong><br />
+Versatile building blocks used in <strong>filters, oscillators, comparators, and instrumentation circuits</strong>.</li>
+</ul>
+
+<p><strong>Signal Processing Circuits</strong></p>
+<ul>
+  <li><strong>Rectifiers &amp; Power Supplies</strong><br />
+Circuits that convert AC to DC and regulate voltage for stable operation of electronics.</li>
+  <li><strong>Filters (Low-pass, High-pass, Band-pass, Band-stop)</strong><br />
+Circuits that shape frequency responses, essential in audio, communication, and control systems.</li>
+  <li><strong>Oscillators</strong><br />
+Generate periodic waveforms (sine, square, triangular) for use in <strong>clocks, RF systems, and signal generation</strong>. I got to use the oscilloscope to probe on the voltage and current on our specific circuits.</li>
+  <li><strong>Voltage Regulators</strong><br />
+Maintain constant output voltage despite input or load changes. This was used from our culminating project.</li>
+</ul>
+
+<p><strong>Analysis &amp; Tools</strong></p>
+<ul>
+  <li><strong>Circuit Simulation (Multisim, LTspice, etc.)</strong><br />
+Software tools to model and test circuit performance before physical implementation. I was able to test our circuits using these before trying it out then on the breadboard.</li>
+  <li><strong>Test Instruments (Oscilloscope, Multimeter, Function Generator)</strong><br />
+Essential for measuring voltages, currents, frequencies, and waveforms.</li>
+</ul>
+
+<p>Below is a consolidated document of the activities that I did that highlight the concepts above.</p>
+
+<iframe src="https://drive.google.com/file/d/1Flh2kazL9TAY_cypMcbL1A2IBytfXgkd/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Consolidated reports for the use of analog components and competencies
+</div>
+
+<p>Aside from thje concepts above, for the final test of our domain knowledge we were tasked to create a bridge rectifier to convert wall outlet AC voltage to a stable DC voltage with a <code class="language-plaintext highlighter-rouge">transformer</code>, <code class="language-plaintext highlighter-rouge">diodes</code> and other analog components to achieve the goal. Below is our output where in we were able to do it using the breadboard but was unable to transfer it properly to a PCB, maybe due to my improper soldering (trust me, i got better and at the time, I was the only brave enough to kinda deal with blowing diodes and electrocution; I have learned more better ways then!!)</p>
+
+<iframe src="https://drive.google.com/file/d/1myea4b_pIYtMS7nuUrZqsiAViUwY8cIV/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Final project for a 9VDC-0.8A regulated power supply. Shoutout to Justine and Kelso who were my groupmates at the time for this project.
+</div>
+
+<p><strong>REFLECTIONS</strong>: 
+There are many funny moments that happened in class like multiple blown components due to diodes being placed in reverse-bias and me connecting resistors in series to achieve the needed resistance since I dont have the off-shelf resistor at hand. The practical exam was us being tested on using the oscilloscope and how we can replicate the analog circuit to then test what is the voltage and current flowing on a certain point (iirc, cmiiw!).</p>
+
+<p>Honestly, these courses, I did not get to see the big picture when I was taking it. I did not pay attention much to the lecture as I always knew that the end goal was on mastering the modern stack which is digital electronics and embedded systems if I really want to make a career out of this. I took it for granted. I was looking ahead, but I was not at the moment. I never realized that I can learn and take this opportunity to learn <code class="language-plaintext highlighter-rouge">printed-circuit boards (PCBs)</code> design and not manually solder it on a universal PCB one.</p>
+
+<p>I could have appreciated more of this if I read more on analog systems and how they operate in the real world. In lieu of this, singit ko na rin ung kwento ni sir mike of MOSPHET speakers which is actually true. They sell these speakers with an advert about good sound from MOSPHETs but in reality its not the MOSPHETs that are doing the filtering for a better sound but its the Op-Amps. Nakita ko na yan sa Quiapo and its very misleading!</p>
+
+<p>Going back, although, I thought I was doing great, I was actually not seeing the value out of these classes. Reflecting on this, my next steps are to further prepare myself with the upskillings that I need to learn PCB design knowing that analog components taught will be used primarily for the power regulations and more advanced concepts like signal processing on embedded systems to determine performance of circuit.</p>]]></content><author><name></name></author><category term="electronics" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><category term="analog" /><summary type="html"><![CDATA[My personal notes and review on analog electronics design 💾]]></summary></entry><entry><title type="html">Basic Electrical Engineering (BASELCI &amp;amp; LBYEC2L)</title><link href="https://ferds003.github.io/blog/2022/BASELCI&LBYEC2L/" rel="alternate" type="text/html" title="Basic Electrical Engineering (BASELCI &amp;amp; LBYEC2L)" /><published>2022-07-08T20:40:00+00:00</published><updated>2022-07-08T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2022/BASELCI&amp;LBYEC2L</id><content type="html" xml:base="https://ferds003.github.io/blog/2022/BASELCI&amp;LBYEC2L/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
 
 <p><strong>OVERVIEW</strong>:
 The course covers fundamental concepts such as Kirchhoff’s Current Law (KCL) and Kirchhoff’s Voltage Law (KVL), as well as advanced topics like power ratings and AC voltage. Here are my reflections and works that I did to understand these concepts :))</p>
@@ -1714,22 +1801,4 @@ I took this class as a sophomore in my fourth term. It’s the continuation of t
 
 <p><strong>REFLECTION</strong>: I was able to appreciate this class a lot since I really want to have a skillset to operate a modern computer numerical machines out there  in  the wild. Alas, this cannot be totally utilized by me in the field unless I apply for being a CNC programmer and it takes more than 3 months to master the machine and start earning money. nono, looking ahead, the path of an engineer is to determine and optimize the production of a certain plant and that can be done better with other tools at hand. BUT it never hurts to know cool stuff like this and certainly it is something that I wish for in the future where a job that can do this type of work and not be stuck in a corporate life!</p>
 
-<p>PS. Shoutout to my groupmates at the time, ykwya!</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="mechanical" /><category term="design_and_modelling" /><category term="manufacturing_engineering" /><summary type="html"><![CDATA[My reflection on hands-on experience and key learnings in computer-aided manufacturing~ 📟]]></summary></entry><entry><title type="html">Lathe Machine Laboratory (LBYMF1C)</title><link href="https://ferds003.github.io/blog/2021/LBYMF1C/" rel="alternate" type="text/html" title="Lathe Machine Laboratory (LBYMF1C)" /><published>2021-09-08T20:40:00+00:00</published><updated>2021-09-08T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2021/LBYMF1C</id><content type="html" xml:base="https://ferds003.github.io/blog/2021/LBYMF1C/"><![CDATA[<p><em>NOTE: Brutal honest and raw reflections below. Be warned O.O</em></p>
-
-<p><strong>TARGET AUDIENCE</strong>: MEM_students, Academe, Industry_Professionals, Technical_Employers</p>
-
-<p><strong>OVERVIEW</strong>:
-I took this class as a freshman in my third term as prescribed by the course checklist. It’s an laboratory course for lathe machines operations and other subtractive and traditional manufacturing processes and technology. I was not able to obtain a syllabus but do note that this is an adjacent course for MFMCPR1.</p>
-
-<p><strong>LEARNINGS and OPINIONS</strong>:
-Reflecting at this course, pandemic learning has its limits in terms on how faculty share and relay expertises in this particular course that is why I was understanding that despite learning all lathe operations using the CAMotics software, I did find it insightful at the very least since I got to enjoy and understand <a href="https://www.youtube.com/@InheritanceMachining">inheritance machining yt contents</a>. But unlike him, we don’t have an inherited machine shop from their dad and also we are not applying for jobs that will require a NCII Tesda certification to become a certified machinist (my hot take in the current economy as of writing). 😬😬 So unless you are certain that this will be a career path for you (if you do, better go to a trade school), I think just skimming over the processes is enough to support a career with an MEM degree. (What do you think? Let me know!)</p>
-
-<p>Nevertheless, it really is an interesting lab course that I kinda enjoyed and inspired me to at least get a mini lathe machine and turn this into a hobby, but I don’t have the money lol. 🤘 The CAMotics software provided a groundwork for learning GCode language and application of this in CNC machining in future courses. I was able to apply here QCAD for my dimensioning and planning of the operations. Below is my compilation of lab work and documentation that I did that showcases my understanding of these machine operations. I believe the final project for this is simply to perform all lathe operations from turning, facing, taper turning, drilling, grooving, threading boring, on a 100mm x 30mm workpiece, pretty small (this was assigned by the instructor).</p>
-
-<hr />
-
-<iframe src="https://drive.google.com/file/d/1R0Du9qEhZG8Q4WEmK77yVIngID5way1A/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-
-<p><a href="https://drive.google.com/file/d/1R0Du9qEhZG8Q4WEmK77yVIngID5way1A/view" target="_blank">
-  📄 Open the PDF in a new tab
-</a></p>]]></content><author><name></name></author><category term="mechatronics" /><category term="mechanical" /><category term="design_and_modelling" /><category term="manufacturing_engineering" /><summary type="html"><![CDATA[My personal reflection for this lab course about lathe machine operations. 👾]]></summary></entry></feed>
+<p>PS. Shoutout to my groupmates at the time, ykwya!</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="mechanical" /><category term="design_and_modelling" /><category term="manufacturing_engineering" /><summary type="html"><![CDATA[My reflection on hands-on experience and key learnings in computer-aided manufacturing~ 📟]]></summary></entry></feed>
