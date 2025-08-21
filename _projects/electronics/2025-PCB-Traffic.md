@@ -1,13 +1,10 @@
 ---
 layout: page
 title: PCB Design for Traffic Light Sim 
-description: a simple printed circuit board design (PCB) for a traffic light indicator 
+description: a simple printed circuit board design (PCB) for a traffic light indicator 🚦
 category: electronics
-img: assets/img/2025/thumbnail_pcb.png
+img: assets/img/2025/pcb/thumbnail_pcb.png
 giscus_comments: true
-pretty_table: true
-images:
-    slider: true
 ---
 
 ### OVERVIEW:
@@ -21,7 +18,7 @@ The objective of the project is to make a simple PCB to be used for simulating a
 </div>
 
 ### FINDINGS:
-I was able to do schematic capture and component management  as well as PCB layout and routing. Partciularly, I was able to do the following:
+I was able to do schematic capture and component management  as well as PCB layout and routing. Particularly, I was able to do the following:
 
 __Schematic Capture & Component Management__
 
@@ -35,10 +32,17 @@ __Schematic Capture & Component Management__
   - The `Electrical Rules Check (ERC)` helps catch common wiring errors, floating pins, and missing values before transferring the design to PCB layout
 
 <div class="row mt-3 justify-content-center">
-    {% include figure.liquid loading='eager' path='assets/img/2025/pcb/content_pcb2.png' class='img-fluid rounded z-depth-1 zoomable=true' %}
+    {% include figure.liquid loading='eager' path='assets/img/2025/pcb/content_pcb1.png' class='img-fluid rounded z-depth-1' zoomable=true %}
 </div>
 <div class="caption">
   Schematic Diagram in KiCAD 
+</div>
+
+<div class="row mt-3 justify-content-center">
+    {% include figure.liquid loading='eager' path='assets/img/2025/pcb/content_pcb2.png' class='img-fluid rounded z-depth-1' zoomable=true %}
+</div>
+<div class="caption">
+  Assigned footprints and BOM of the made circuit
 </div>
 
 __Generating PCB Layout from Schematic__
@@ -56,7 +60,7 @@ __Generating PCB Layout from Schematic__
   - Visualize the finished board with components and copper features in a 3D viewer — a great way to catch mechanical placement issues 
 
 <div class="row mt-3 justify-content-center">
-    {% include figure.liquid loading='eager' path='assets/img/2025/pcb/content_pcb1.png' class='img-fluid rounded z-depth-1 zoomable=true' %}
+    {% include figure.liquid loading='eager' path='assets/img/2025/pcb/content_pcb.png' class='img-fluid rounded z-depth-1' zoomable=true %}
 </div>
 <div class="caption">
   Line tracing and placement of components seen in KiCAD editor

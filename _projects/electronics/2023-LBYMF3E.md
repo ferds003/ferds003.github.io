@@ -5,6 +5,7 @@ description: A simulated electro-pneumatic system for the manufacturing of SMDs 
 category: electronics
 img: assets/img/2023/thumbnail_lbymf3e.gif
 giscus_comments: true
+importance: 3
 pretty_table: true
 images:
     slider: true

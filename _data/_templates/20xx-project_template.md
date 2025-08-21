@@ -27,7 +27,7 @@ images:
 </div>
 
 <div class="row mt-3 justify-content-center">
-    {% include figure.liquid loading='eager' path='assets/img/2024/content_lbymf4b.png' class='img-fluid rounded z-depth-1 zoomable=true' %}
+    {% include figure.liquid loading='eager' path='assets/img/2024/content_lbymf4b.png' class='img-fluid rounded z-depth-1' zoomable=true %}
 </div>
 <div class="caption">
   The Lasallian spoof pic post that I find very relatable for this case. ctto!
