@@ -318,7 +318,17 @@ ninja.data = [{
           title: 'UR10 Robotic Arm and Dobot Simulations',
           description: "programming robotic arms using dedicated software via waypoints or set conditional parameters 🦾",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/electronics/2024%20MFRBTIC/";
+              window.location.href = "/projects/electronics/2024-MFRBTIC/";
+            },},{id: "projects-pcb-design-for-esp32-automation-of-30a-relays",
+          title: 'PCB Design for ESP32 Automation of 30A relays',
+          description: "Designing a 30A ESP32 Home Automation Circuit using KiCAD 🏠",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2025-ESP32_PCB/";
+            },},{id: "projects-pcb-design-for-traffic-light-sim",
+          title: 'PCB Design for Traffic Light Sim',
+          description: "a simple printed circuit board design (PCB) for a traffic light indicator 🚦",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2025-PCB-Traffic/";
             },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
           title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
           description: "My personal project for this engineering management course 📋",
