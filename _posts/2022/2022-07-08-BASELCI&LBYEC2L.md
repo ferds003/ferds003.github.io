@@ -10,7 +10,7 @@ giscus_comments: true
 pretty_table: true
 ---
 
-__TARGET AUDIENCE__: MEM_students, Academe, Industry_Professionals, Technical_Employers
+__TARGET AUDIENCE__: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts
 
 __OVERVIEW__:
 The course covers fundamental concepts such as Kirchhoff's Current Law (KCL) and Kirchhoff's Voltage Law (KVL), as well as advanced topics like power ratings and AC voltage. Here are my reflections and works that I did to understand these concepts :))

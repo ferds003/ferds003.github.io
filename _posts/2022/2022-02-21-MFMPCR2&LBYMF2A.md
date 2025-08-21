@@ -11,7 +11,7 @@ driveId2: 1UZw1pceAnQsR7NrB7JAvSv60mNNLVqs-
 giscus_comments: true
 ---
 
-__TARGET AUDIENCE__: MEM_students, Academe, Industry_Professionals, Technical_Employers
+__TARGET AUDIENCE__: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts
 
 
 __OVERVIEW__:

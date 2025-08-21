@@ -14,7 +14,7 @@ images:
   slider: true
 ---
 
-__TARGET AUDIENCE__: MEM_students, Academe, Industry_Professionals, Technical_Employers
+__TARGET AUDIENCE__: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts
 
 __OVERVIEW__:
 The manufacturing scene is evolving fast. There are many technologies that are being utilized in the field and frankly, no time to catch up. In the Philippines alone, I have seen upskilling for workers for Industry 4.0 in big companies to catch up with the demand and expectations that the current world wants for their plant engineers. For me, staying ahead and learning these topics are essential if I want to enter this type of work in the future. Below is my learnings that I got from my classes in terms of practical skills in `data communication`, `IoT integration`, and `system automation` through the use of microcontroller like `ESP32` and `Raspberry Pi`.   

@@ -12,7 +12,7 @@ images:
   slider: true
 ---
 
-__TARGET AUDIENCE__: MEM_students, Academe, Industry_Professionals, Technical_Employers
+__TARGET AUDIENCE__: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts | Self
 
 _Note:_
 

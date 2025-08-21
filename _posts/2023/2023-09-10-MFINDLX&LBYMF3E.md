@@ -29,7 +29,7 @@ driveId16: 1m6ebRvrTY3_FUelZx3fbKjiLDcYq6jX_
 driveId17: 15c2k5QqoRqphcbqV9BPFc-vPJBuILuQK 
 ---
 
-__TARGET AUDIENCE__: MEM_students, Academe, Industry_Professionals, Technical_Employers
+__TARGET AUDIENCE__: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts
 
 _Note: Taglish_
 

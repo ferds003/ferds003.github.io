@@ -11,7 +11,7 @@ images:
   slider: true
 ---
 
-__TARGET AUDIENCE__: MEM_students, Academe, Industry_Professionals, Technical_Employers
+__TARGET AUDIENCE__: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts 
 
 _Note: Taglish_
 
@@ -19,7 +19,7 @@ __OVERVIEW__:
 I took this class as a sophomore in my fifth term. It's an introductory course for materials engineering. We never really delve deep into the specifics but it was important for us to atleast understand the materials that we are dealing with if ever we go into the specifics of the field. I provided here both the lecture and laboratory efforts on my end to learn this concept below! 
 
 ## LECTURE: 
-For the lecture, I still remember sir Homer's voice and stories during lectures. I always think immediately of lattices and his lecture about eutectoid transformation for iron which is the austenite-pearlite-martensite transformation idk why but its stuck in my head 🫨. There are so many topics he have covered and sadly I cant share my written notes here (at kahit madidigitize ko siya, hindi rin mababasa kasi illegible handwriting ko haha). OG si sir homer but still provides great teachings unlike the other MEM profs/instructors that is why I appreciate his lectures since I really pay attention to it kahit papaano. 
+For the lecture, I still remember sir Homer's voice and stories during lectures. I always think immediately of lattices and his lecture about eutectoid transformation for iron which is the austenite-pearlite-martensite transformation idk why but its stuck in my head 🫨. There are so many topics he have covered and sadly I cant share my written notes here (at kahit madidigitize ko siya, hindi rin mababasa kasi illegible handwriting ko haha). OG si sir homer that still provides great teachings. This is unlike my experience with other MEM profs/instructors that is why I appreciate his lectures since I really pay attention to it kahit papaano. 
 
 I remember the story of how he related the concrete columns of the LRT1 as a material engineering feat back to when it was being built. That the right balance of quality concrete mixed with the martensite steel(?) and engineering design was able to withstand fatigue and creep over cyclic stress for the past 40 years. The calculations of that is first in the PH since they had to also know the expected failure of the material but that will not come pa after 200 years raw!!
 

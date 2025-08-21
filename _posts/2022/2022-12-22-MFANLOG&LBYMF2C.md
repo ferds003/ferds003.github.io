@@ -9,7 +9,7 @@ thumbnail: assets/img/2022/thumbnail_mfanlog.png
 giscus_comments: true
 ---
 
-__TARGET AUDIENCE__: MEM_students, Academe, Industry_Professionals, Technical_Employers
+__TARGET AUDIENCE__: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts
 
 _Note: Taglish_
 
