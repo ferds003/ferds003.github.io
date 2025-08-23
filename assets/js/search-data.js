@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-smart-factory-intelligent-manufacturing-systems-lbymf4d-amp-mfelec2",
+        },{id: "post-what-is-mem",
+        
+          title: "What is MEM?",
+        
+        description: "QnA about what my course is and my experience 🤝",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/what-is-MEM/";
+          
+        },
+      },{id: "post-smart-factory-intelligent-manufacturing-systems-lbymf4d-amp-mfelec2",
         
           title: "Smart factory! Intelligent manufacturing systems (LBYMF4D &amp; MFELEC2)",
         
@@ -84,7 +95,7 @@ ninja.data = [{
         
           title: "Organizing our Local Field Trip (MFGSEMS)",
         
-        description: "This is my experience for organizing a 2-day field trip for those who opted to take their field trip locally 👷🏻‍♂️",
+        description: "This is my experience for organizing a 2-day field trip for those who opted to take their field trip locally where we got to tour Auro Chocolate, Mitsuwa, MIRDC-Amerial, MIRDC-Amcen, and MIRDC-Metrology 👷🏻‍♂️",
         section: "Posts",
         handler: () => {
           
@@ -294,7 +305,13 @@ ninja.data = [{
           description: "Final thesis defense completed — a major milestone in my MEM journey!",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_15/";
-            },},{id: "projects-a-proposed-filipino-keyboard-layout",
+            },},{id: "news-finished-major-requirements-for-my-degree-in-manufacturing-engineering-and-management-this-term",
+          title: 'Finished major requirements for my degree in Manufacturing Engineering and Management this term...',
+          description: "",
+          section: "News",},{id: "news-finished-all-my-requirements-for-my-minor-degree-in-data-science-this-term-and-other-general-electives",
+          title: 'Finished all my requirements for my minor degree in Data Science this term...',
+          description: "",
+          section: "News",},{id: "projects-a-proposed-filipino-keyboard-layout",
           title: 'A proposed filipino keyboard layout',
           description: "How should a filipino keyboard look like given character count frequency indexed from filipino text? ⌨️",
           section: "Projects",handler: () => {
@@ -314,21 +331,26 @@ ninja.data = [{
           description: "A simulated electro-pneumatic system for the manufacturing of SMDs components 💨",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2023-LBYMF3E/";
+            },},{id: "projects-modified-field-sobriety-test",
+          title: 'Modified Field Sobriety Test',
+          description: "A device to standardized field sobriety testing against DUI and DWI in line with R.A. 10586 🍻",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2023-Sobriety-Test/";
+            },},{id: "projects-pcb-design-for-esp32-automation-of-30a-relays",
+          title: 'PCB Design for ESP32 Automation of 30A relays',
+          description: "Designing a 30A ESP32 Home Automation Circuit using KiCAD 🏠",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2024-ESP32_PCB/";
             },},{id: "projects-ur10-robotic-arm-and-dobot-simulations",
           title: 'UR10 Robotic Arm and Dobot Simulations',
           description: "programming robotic arms using dedicated software via waypoints or set conditional parameters 🦾",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2024-MFRBTIC/";
-            },},{id: "projects-pcb-design-for-esp32-automation-of-30a-relays",
-          title: 'PCB Design for ESP32 Automation of 30A relays',
-          description: "Designing a 30A ESP32 Home Automation Circuit using KiCAD 🏠",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/electronics/2025-ESP32_PCB/";
             },},{id: "projects-pcb-design-for-traffic-light-sim",
           title: 'PCB Design for Traffic Light Sim',
           description: "a simple printed circuit board design (PCB) for a traffic light indicator 🚦",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/electronics/2025-PCB-Traffic/";
+              window.location.href = "/projects/electronics/2024-PCB-Traffic/";
             },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
           title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
           description: "My personal project for this engineering management course 📋",
