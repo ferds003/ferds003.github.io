@@ -42,7 +42,7 @@ Below is a consolidated document of the calculations that I did for this lecture
 
 ## LABORATORY:
 
-For the laboratroy, we conducted compression, brinell hardness, and tensile/torsion tests on various materials (6061 Aluminum, Cast Iron, PMMA, and 1045 Steel). This was under sir Joey's class and he was very thorough to the explanations and apply and demonstrate how to apply the machines/tools and what insights should be looked upon that can be applied in real applications. 
+For the laboratory, we conducted compression, brinell hardness, and tensile/torsion tests on various materials (6061 Aluminum, Cast Iron, PMMA, and 1045 Steel). This was under sir Joey's class and he was very thorough to the explanations and apply and demonstrate how to apply the machines/tools and what insights should be looked upon that can be applied in real applications. 
 
 The experiments aimed to determine key material properties such as **Ultimate Compressive Strength (UCS)**, **Young's Modulus**, **0.2% Yield Strength**, **Brinell Hardness Number**, **Ultimate Tensile Strength (UTS)**, and **Shear Modulus**. I was able to perform for all experiments for the compression and Brinell hardness tests on 6061 Aluminum, while tensile and torsion tests were conducted on 6061 Aluminum, PMMA, and 1045 Steel. Data analysis revealed insights into material behavior under different stress conditions.
 

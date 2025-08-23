@@ -63,6 +63,39 @@ images:
     Presentation done for the production management recommendations along with explanation of the calculations.
 </div>
 
+<!-- First row -->
+<div class="row mt-3">
+
+  <!-- First video -->
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    {% include googleDrivePlayer.html id=page.driveId %}
+    <div class="caption mt-2">
+      Video demonstration of coding ultrasonic sensor using RPI GPIOs
+    </div>
+  </div>
+
+  <!-- Second video -->
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    {% include googleDrivePlayer.html id=page.driveId1 %}
+    <div class="caption mt-2">
+      Video demonstration of pulse width modulation of LEDs using RPI programming.
+    </div>
+  </div>
+
+</div>
+
+<!-- Second row -->
+<div class="row mt-3">
+
+  <!-- Centered third video -->
+  <div class="col-sm-6 offset-sm-3 mt-3 mt-md-0 text-center">
+    {% include googleDrivePlayer.html id=page.driveId2 %}
+    <div class="caption mt-2">
+      Video demonstration of a third experiment using Raspberry Pi.
+    </div>
+  </div>
+
+</div>
 
 __REFLECTIONS__: [here]({% post_url 2024-05-13-MFRBTIC %})
 __HOW THIS PROJECT CAN BE FURTHER IMPROVED__:

@@ -34,7 +34,7 @@ The code that I have used can be seen below with python packages of `numpy`, `pa
   Character frequency distribution from sample filipino text.
 </div>
 
-```
+```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
