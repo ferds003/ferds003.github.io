@@ -42,7 +42,7 @@ Story time and in relation to what I said above: I will always remember ung time
 <div class="row mt-3 justify-content-center">
   <!-- First image -->
   <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid loading='eager' path='assets/img/2024/what_is_MEM/mission.jpg' class='img-fluid rounded z-depth-1' zoomable=true %}
+    {% include figure.liquid loading="eager" path="assets/img/2024/what_is_MEM/mission.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     <div class="caption mt-2">
       MEM Mission as seen in Velasco 2nd Floor bulletin board
     </div>
@@ -50,7 +50,7 @@ Story time and in relation to what I said above: I will always remember ung time
 
   <!-- Second image -->
   <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid loading='eager' path='assets/img/2024/what_is_MEM/vision.jpg' class='img-fluid rounded z-depth-1' zoomable=true %}
+    {% include figure.liquid loading="eager" path="assets/img/2024/what_is_MEM/vision.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     <div class="caption mt-2">
       MEM Vision as seen in Velasco 2nd Floor bulletin board
     </div>
@@ -70,12 +70,12 @@ Story time and in relation to what I said above: I will always remember ung time
 <mark> Q: "What industries commonly hire MEM graduates?" </mark>
 - A: Misconception that MEM graduates only path is that of manufacturing industries like that of semicon, or FMCG. I know graduates who are dealing with product development, some in freelancing on programming while others are deep into doing tech work like data analyst, data engineers and embedded systems developer. One thing na lagi sinasabi samin is that we get to decide still what kind of work we do once we are outside college but the department will provide the necessary tools and knowledge to springboard that progress. Like any other technical profession `talino ung puhunan` kahit may license or certifcations. Basta kung san ka magaling, kampante at masaya (doesn't have to be all three!), kung may opening for that job and fit ka sa JD, apply lang haha 
 
-<mark> Q: "What is the historical origin of MEM as an academic discipline?" </mark>
+<mark> Q: "Bago ba yang kurso mo? Unang beses ko lang kasi yan narinig" </mark>
 
-- A: Started back before pa ako sinilang. Around 1980's ung start of the program here in DLSU, as a call for Industry 4.0 to have graduates with specific sets of skills to push forth advancement of intelligent manufacturing systems here in the country since uso ung robotics and information technology even now! Since then, I think 3 other universities within the country have been offering this degree with at least a society of manufacturing engineers (SME) chapter present in major engineering-heavy universities you can think of.
+- A: Well established na ang MEM before pa ako pinanganak. Around 1980's ung start of the program here in DLSU, as a call for Industry 4.0 to have graduates with specific sets of skills to push forth advancement of intelligent manufacturing systems here in the country since uso ung robotics and information technology at the time (even now!) Since then, I think 3 other universities within the country are offering this degree with at least a society of manufacturing engineers (SME) chapter present in major engineering-heavy universities you can think of.
 
-<mark> Q: "Does MEM require deep programming skills?" </mark>
-- A: Yes, we cover C/C++ programming for embedded systems; Python/MATLAB for computational intelligence and intelligent manufacturing systems; G-code for machine programming pero automatic na ginawa na yan ng software for additive manufacturing as well as CNC programming. What's more critical on all of this is the need to see the end goal for why we are programming diba? It either we are building a system with a specific use in my mind like making a kanban board for your QC team or troubleshooting faults in the 3D printing, it is essential that alam natin ano ung ginagawa natin :)) Harsh but true. People in the field care about the results and not the process. In fact, in this age, I'd say essential talaga to know coding as a way of life na lalo na kung technical person ka so prepare yourself for it.
+<mark> Q: "Marunong ba kayo mag-coding? Name your known languages" OR "Bat ka nag-apply in a code-heavy job? Parang hindi naman kayo dapat nagcocode" </mark>
+- A: Yes, we do in fact code. In fact lahat ng engineering students marunong na magcode. Dalubhasa nga kami to the point na polygot kami since we know multiple languages, kung counted programming languages (jk 1/2). we cover C/C++ programming for embedded systems, robotics, and mechatronic systems; Python/MATLAB for computational intelligence and intelligent manufacturing systems; G-code for machine programming pero automatic na ginawa na yan ng software for additive manufacturing as well as CNC programming. What's more critical on all of this is the need to see the end goal for why we are programming diba? It either we are building a system with a specific use in my mind like making a kanban board for your QC team or troubleshooting faults in the 3D printing, it is essential that alam natin ano ung ginagawa natin :)) Harsh but true. People in the field care about the results and not the process. In fact, in this age, I'd say essential talaga to know coding as a way of life na lalo na kung technical person ka so prepare yourself for it.
 
 <mark> Q: "May job security ba sa pagkuha ng MEM?" </mark>
 - A: Dipa ako sure eh, internship palang nakamit ko eh so update ko nalang to pagmay starting job na ako. My experience so far naman is that depende parin sa tao yan. My current internship did not require me to present a portfolio and list of works, basta nakita nila ung MEM title, parang nasa isip nila "ayos to ah, masubukan kaya since planta naman rin kami" (non-verbatim pero yan raw ung rason bakit out of many applicants, ako napili aside from me also being near the site).
@@ -196,14 +196,14 @@ _Below is videos of my daily commute going back home and misc stuff that I share
   <div class="col-sm mt-3 mt-md-0 text-center">
     {% include googleDrivePlayer.html id=page.driveId6 %}
     <div class="caption mt-2">
-      Being in Gawad Lasalyano which is just days after me doing this blog post
+      In Gawad Lasalyano here which is just days after me doing this blog post
     </div>
   </div>
   <!-- Second video -->
   <div class="col-sm mt-3 mt-md-0 text-center">
     {% include googleDrivePlayer.html id=page.driveId7 %}
     <div class="caption mt-2">
-       Me wearing a barong tagalog in commute after the event waiting for the last train back home!
+       Me wearing a barong tagalog on commute after the event waiting for the last train back home!
     </div>
   </div>
 </div>
