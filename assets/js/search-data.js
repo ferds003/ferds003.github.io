@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-what-is-mem",
+        },{id: "post-fixing-broken-things-handyman-work",
+        
+          title: "Fixing broken things, Handyman work",
+        
+        description: "From repairing microwaves, fixing unresponsive monitors and leaking faucets, here is how I fixed it. 🧑‍🔧",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/fixing-stuff/";
+          
+        },
+      },{id: "post-what-is-mem",
         
           title: "What is MEM?",
         
