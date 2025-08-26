@@ -2,7 +2,7 @@
 layout: page
 title: ⚙️ Mechanical Projects
 permalink: /projects/mechanical/
-description: Hands-on and simulation-based projects focusing on design and analysis of mechanical systems. Topics include, CAD modeling, additive manufacturing, product design, kinematic mechanisms, finite element analysis, computational fluid dynamics, and manufacturing processes.
+description: Practical, hands-on and simulation-driven projects that emphasize the design, prototyping, and performance analysis of mechanical systems. Key areas include 3D CAD modeling, additive manufacturing, product development, kinematic mechanism design, finite element analysis (FEA), computational fluid dynamics (CFD), and modern manufacturing processes.  
 nav: false
 display_categories:
 horizontal: false
