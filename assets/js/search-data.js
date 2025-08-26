@@ -113,6 +113,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/MFGSEMS/";
           
         },
+      },{id: "post-understanding-control-systems-and-use-in-plant-control-mfcntrl-amp-lbymf3i",
+        
+          title: "Understanding Control Systems and use in Plant Control (MFCNTRL &amp; LBYMF3I)",
+        
+        description: "The use of transfer functions, laplace transfrom applications and time-response signals for control and automation using MATLAB and FESTO 🎛️",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/MFCNTRL&LBYMF3I/";
+          
+        },
       },{id: "post-spaghetti-wires-my-industrial-electronics-learnings-mfindlx-amp-lbymf3e",
         
           title: "Spaghetti wires! My industrial electronics learnings (MFINDLX &amp; LBYMF3E)",

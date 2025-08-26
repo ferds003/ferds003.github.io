@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-26T01:05:09+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-26T05:43:19+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
 </subtitle><entry><title type="html">What is MEM?</title><link href="https://ferds003.github.io/blog/2025/what-is-MEM/" rel="alternate" type="text/html" title="What is MEM?" /><published>2025-06-24T20:40:00+00:00</published><updated>2025-06-24T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2025/what-is-MEM</id><content type="html" xml:base="https://ferds003.github.io/blog/2025/what-is-MEM/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Friends and family that always ask this about me; Students curious about the course; Employers and industry professionals asking how this course is different with other engineering pursuits;</p>
 
 <p><em>Note 1: My personal opinions about the matter and does not reflect the opinions of others and the MEM department :&gt;.</em></p>
@@ -7,7 +7,7 @@
 
 <p><strong>OVERVIEW</strong>: The motivation of this blog post is upon hearing the <code class="language-plaintext highlighter-rouge">same questions during my internship interviews</code> that is remarkably <code class="language-plaintext highlighter-rouge">similar to the questions that I often hear</code> by my <code class="language-plaintext highlighter-rouge">friends and relatives</code> when this is brought up during gatherings/meetups. I’m sure this is also asked by other students why there is another engineering course aside from the standard nomenclatures of mechanical, electrical and chemical.</p>
 
-<p>As I wait for the LRT in Vito Cruz in the evening (last train), I thought to clear this up via this post and hopefully redirect future questions about the nature of MEM into this post and answer it in an honest and straightforward manner.</p>
+<p>As I wait for the LRT in Vito Cruz in the evening (last train), I thought to clear this up via this post and hopefully redirect future questions about the nature of MEM into this post and answer it in an unfiltered manner.</p>
 
 <h2 id="frequent-qnas">Frequent QnAs:</h2>
 
@@ -127,10 +127,10 @@
 <ul>
   <li><mark> Follow Q: "Ok ba turo diyan sa DLSU MEM?" </mark>
     <ul>
-      <li>A: IMHO, like any other university, it’s a spectrum. You will meet industry-renowned professors who are diligent and very passionate. Ung tipong alam mo may pake sila sa estudyante kaya either sobrang-down to earth sila sa pagturo o terror prof (pagterror, may paki sa tinuturo kasi sobrang critical sa gawa!). May iba naman na doctorate-level instructors/professors na panget magturo, nakakadismaya. Alala ko ung time na nag-present at sinabihan kami na ang galing ng report kasi kami lang ung may 4B-L kinematic calculations (pinasadahan lang yan sa discussion). Aba, pagdating sa grade consultation, di kami kwats kahit perfect kami sa live reporting dahil late lang kami of one day sa pagsubmit ng pinagpresent namin na PPT. Alat na alat parin ako dun haha. May mas malala pa diyan in my experience and kwento ng iba! In this degree, minsan the effort you exert is seen by the prof and appreciated (sino ba hindi? nakikinig kami sa turo). Iba, di worth it ung pawis at sikap. Tbf, rinig ko kapag nasa sapatos ka ng prof parang overworked ka raw sa units and students come and go but these impressions last for us taking the course.</li>
+      <li>A: IMHO, like any other university, it’s a spectrum. You will meet industry-renowned professors who are diligent and very passionate. Ung tipong alam mo may pake sila sa estudyante kaya either sobrang-down to earth sila sa pagturo o terror prof (pagterror, may paki sa tinuturo kasi sobrang critical sa gawa!). May iba naman na doctorate-level instructors/professors na panget magturo, nakakadismaya. Alala ko ung time na nag-present at sinabihan kami na ang galing ng report kasi kami lang ung may 4B-L kinematic calculations (pinasadahan lang yan sa discussion). Aba, pagdating sa grade consultation, di kami kwats kahit perfect kami sa live reporting dahil late lang kami of one day sa pagsubmit ng pinagpresent namin na PPT. Alat na alat parin ako dun haha. May mas malala pa diyan in my experience (like 50% of the grade is based on a single assessment!) at alam ko may mas matamis na kwento ang ibang kapwa MEM! In this degree, minsan the effort you exert is seen by the prof and appreciated (sino ba hindi? nakikinig kami sa turo). Iba, di worth it ung pawis at sikap. Tbf, rinig ko kapag nasa sapatos ka ng prof parang overworked ka raw sa units and students come and go but these impressions last for us taking the course.</li>
     </ul>
 
-    <p>The system’s sometimes uncooperative to your expectations of the coursework. Kaya diskarte lang talaga at sariling sikap if you want to apply the learnings IRL. Kung gusto mo ng may latin honors, dun ka sa easy kwats kaya agawan yan sa enrollment. Maybe other way around if may learnings kang mapupulot pero maganda talaga ung sweet spot na napakaunderstanding sa situation ng mga estudyante at may katuturan ung mga turo.</p>
+    <p>The system is sometimes uncooperative to your expectations of the coursework. Kaya diskarte lang talaga at sariling sikap if you want to apply the learnings IRL. Kung gusto mo ng may latin honors, dun ka sa easy kwats kaya agawan yan sa enrollment. Maybe other way around if may learnings kang mapupulot pero maganda talaga ung sweet spot na napakaunderstanding sa situation ng mga estudyante at may katuturan ung mga turo.</p>
   </li>
 </ul>
 
@@ -2864,7 +2864,357 @@ I think the issue started from the very beginning, with the wrong expectations. 
 <iframe src="https://drive.google.com/file/d/1-xOYW5YUaPsUFU0rXw5XSBFz7zi7AXs2/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
 <div class="caption">
     Final report done for submission on CHED.
-</div>]]></content><author><name></name></author><category term="volunteering" /><category term="manufacturing_enginerring" /><category term="operations_and_management" /><summary type="html"><![CDATA[This is my experience for organizing a 2-day field trip for those who opted to take their field trip locally where we got to tour Auro Chocolate, Mitsuwa, MIRDC-Amerial, MIRDC-Amcen, and MIRDC-Metrology 👷🏻‍♂️]]></summary></entry><entry><title type="html">Spaghetti wires! My industrial electronics learnings (MFINDLX &amp;amp; LBYMF3E)</title><link href="https://ferds003.github.io/blog/2023/MFINDLX&LBYMF3E/" rel="alternate" type="text/html" title="Spaghetti wires! My industrial electronics learnings (MFINDLX &amp;amp; LBYMF3E)" /><published>2023-09-03T20:40:00+00:00</published><updated>2023-09-03T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/MFINDLX&amp;LBYMF3E</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/MFINDLX&amp;LBYMF3E/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
+</div>]]></content><author><name></name></author><category term="volunteering" /><category term="manufacturing_enginerring" /><category term="operations_and_management" /><summary type="html"><![CDATA[This is my experience for organizing a 2-day field trip for those who opted to take their field trip locally where we got to tour Auro Chocolate, Mitsuwa, MIRDC-Amerial, MIRDC-Amcen, and MIRDC-Metrology 👷🏻‍♂️]]></summary></entry><entry><title type="html">Understanding Control Systems and use in Plant Control (MFCNTRL &amp;amp; LBYMF3I)</title><link href="https://ferds003.github.io/blog/2024/MFCNTRL&LBYMF3I/" rel="alternate" type="text/html" title="Understanding Control Systems and use in Plant Control (MFCNTRL &amp;amp; LBYMF3I)" /><published>2024-01-15T20:40:00+00:00</published><updated>2024-01-15T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/MFCNTRL&amp;LBYMF3I</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/MFCNTRL&amp;LBYMF3I/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Self, Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
+
+<p><em>Note:</em></p>
+
+<p><strong>OVERVIEW</strong>:
+One of the main things that  I was able to absorb throughout my stay in MEM is the concept of closed-loop control systems and the use of propotional-integral-derivative (PID) controllers. Below is the competencies and exploration that I made to understand the theoretical and practical ‘standings going into real-world uses for this type of automation.</p>
+
+<h2 id="lecture">LECTURE:</h2>
+<p>The principles that govern open- and closed-loop control to PID regulation will consider differential equations on the <strong>time domain</strong>. The better the design to minimize the error in the second for the output to reach the desired input that is where you can confidently say that you have a functioning control system. Below are the concepts that we had to learn to make this work:</p>
+
+<h3 id="open-loop-systems">Open-Loop Systems:</h3>
+<p>An <strong>open-loop control system</strong> acts solely on the input and does not use feedback to correct its output.</p>
+
+<p><strong>General Form:</strong><br />
+\(C(s) = G(s)R(s)\)</p>
+
+<p>Where:</p>
+<ul>
+  <li>\(R(s)\) = input (reference signal)</li>
+  <li>\(C(s)\) = output (controlled variable)</li>
+  <li>\(G(s)\) = system or plant transfer function</li>
+</ul>
+
+<p><strong>Key Insight:</strong> Open-loop systems are simple but cannot adapt to disturbances or system changes.</p>
+
+<h3 id="closed-loop-systems-with-feedback">Closed-Loop Systems with Feedback:</h3>
+<p>In <strong>closed-loop systems</strong>, the output is compared to the input, and the error is fed back to reduce deviations.</p>
+
+<p><strong>General Form:</strong><br />
+\(C(s) = \frac{G(s)}{1 + G(s)H(s)} R(s)\)</p>
+
+<p>Where:</p>
+<ul>
+  <li>\(H(s)\) = feedback transfer function</li>
+</ul>
+
+<p><strong>Key Insight:</strong> Closed-loop systems are more complex but provide stability, accuracy, and disturbance rejection.</p>
+
+<h3 id="standard-input-signals">Standard Input Signals</h3>
+
+<p>Control system performance is tested against standard signals:</p>
+
+<ol>
+  <li>
+    <p><strong>Unit Pulse (Impulse):</strong><br />
+\(\delta(t) = \frac{du(t)}{dt}\)</p>
+  </li>
+  <li>
+    <p><strong>Unit Step:</strong><br />
+\(u(t) = \begin{cases}  
+0, &amp; t &lt; 0 \\  
+1, &amp; t \geq 0  
+\end{cases}\)</p>
+  </li>
+  <li>
+    <p><strong>Unit Ramp:</strong><br />
+\(r(t) = t \cdot u(t)\)</p>
+  </li>
+</ol>
+
+<p><strong>Key Insight:</strong></p>
+<ul>
+  <li>Step response → measures system stability.</li>
+  <li>Ramp response → measures system tracking.</li>
+  <li>Impulse response → reveals natural dynamics.</li>
+</ul>
+
+<h3 id="partial-fraction-expansion--decomposition">Partial Fraction Expansion &amp; Decomposition</h3>
+
+<p>When analyzing transfer functions, rational expressions are often decomposed into simpler terms using <strong>partial fractions</strong>.</p>
+
+<p>Example:<br />
+\(\frac{Y(s)}{U(s)} = \frac{1}{(s+2)(s+3)}\)</p>
+
+<p>Decomposition:<br />
+\(\frac{1}{(s+2)(s+3)} = \frac{A}{s+2} + \frac{B}{s+3}\)</p>
+
+<p>Where constants \(A\) and \(B\) are found algebraically.</p>
+
+<p><strong>Key Insight:</strong> Partial fraction expansion simplifies inverse Laplace transforms, making it easier to compute time-domain responses.</p>
+
+<h3 id="matrix-multiplication-and-determinants">Matrix Multiplication and Determinants</h3>
+
+<p>Control systems often use <strong>state-space representation</strong>. This is commonly seen in circuit systems when doing KVL where we had to know this and also determine the transfer function of an RLC circuit. To be simplify work, you need to know matrix operations.</p>
+
+\[\dot{x}(t) = Ax(t) + Bu(t)\]
+
+\[y(t) = Cx(t) + Du(t)\]
+
+<p>Where:</p>
+<ul>
+  <li>\(A\) = system matrix</li>
+  <li>\(B\) = input matrix</li>
+  <li>\(C\) = output matrix</li>
+  <li>\(D\) = feedthrough matrix</li>
+</ul>
+
+<p>To find system properties (e.g., stability), we calculate determinants:</p>
+
+\[\text{det}(AB) = \text{det}(A) \cdot \text{det}(B)\]
+
+<p><strong>Key Insight:</strong> This property is used in solving systems of equations and in finding eigenvalues(solutions of the equivalent ODE linear alg!) for stability analysis.</p>
+
+<h3 id="systems-of-equations--higher-order-transfer-functions">Systems of Equations &amp; Higher-Order Transfer Functions</h3>
+
+<p>For increasing system orders, differential equations are solved using Laplace and algebraic manipulation:</p>
+
+<p>Example (2nd-order system):<br />
+\(\frac{d^2 y(t)}{dt^2} + a_1 \frac{dy(t)}{dt} + a_0 y(t) = b_0 u(t)\)</p>
+
+<p>Laplace domain:<br />
+\(G(s) = \frac{Y(s)}{U(s)} = \frac{b_0}{s^2 + a_1 s + a_0}\)</p>
+
+<p><strong>Key Insight:</strong> Higher-order systems require systematic methods (state-space, Laplace, matrix inversion) to derive transfer functions.</p>
+
+<h3 id="pid-control--terms--time-response-effects">PID Control – Terms &amp; Time-Response Effects</h3>
+
+<p><strong>PID Controller</strong> regulates a system by combining proportional, integral, and derivative actions:</p>
+
+\[u(t) = K_p e(t) + K_i \int e(t) dt + K_d \frac{de(t)}{dt}\]
+
+<p>Where \(e(t) = r(t) - y(t)\) is the error signal.</p>
+
+<p><strong>Term Effects:</strong></p>
+<ul>
+  <li>
+    <p><strong>Proportional (\(K_p\)):</strong><br />
+Increases responsiveness, reduces steady-state error but may cause overshoot.</p>
+  </li>
+  <li>
+    <p><strong>Integral (\(K_i\)):</strong><br />
+Eliminates steady-state error by accumulating past errors.</p>
+  </li>
+  <li>
+    <p><strong>Derivative (\(K_d\)):</strong><br />
+Predicts future error, improves stability, reduces overshoot.</p>
+  </li>
+</ul>
+
+<p><strong>Key Insight:</strong> Tuning PID gains shapes the <strong>time response</strong> (rise time, overshoot, settling time, steady-state error).</p>
+
+<p>Below is a consolidattion of my notes that I have for this lecture that I have thankfully digitized.</p>
+
+<iframe src="https://drive.google.com/file/d/19sby6P_agXgrkAdq_hgWitLXinDCXWt4/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Notes that I have concerning use of laplace transforms, matrix operations and response signals
+</div>
+
+<p>I have also here the calculations that I have done in attempt to solveour finals exams. There was no feedback on the errors in my calculations but I got a solid 40/50 out of this so pretty confident in my answers :)) I think other exams were done F2F so I was not capture the solutions that I have made</p>
+
+<iframe src="https://drive.google.com/file/d/1CQxAJ--YOkfo12WrjwoL-3h-L276a3iC/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Solutions in order to determine the time response of a signal; the transfer function of a given circuit and even getting the transfer function on physical systems via FBD of a spring-damper systms. 
+</div>
+
+<h2 id="laboratory">LABORATORY:</h2>
+<p>In this series of lab projects that I have made for this course, I was able explore the fundamentals of <strong>control systems</strong>—from deriving and manipulating transfer functions using <strong>Laplace transforms</strong> in MATLAB, to implementing practical setups with <strong>FESTO EduKit</strong> and <strong>COM3Lab modules</strong>. The work focused on understanding system dynamics, stability, and the role of controllers like <strong>PID</strong>, bridging the gap between theory and industrial application.</p>
+
+<p><strong>🔬 Methodology and Key Work</strong></p>
+
+<h3 id="lab-1-transfer-functions--laplace-analysis">Lab 1. Transfer Functions &amp; Laplace Analysis</h3>
+<p>Control systems begin with the modeling of differential equations. I started with modeling dynamic systems using <strong>differential equations</strong> and converting them into algebraic forms via <strong>Laplace transforms</strong>.</p>
+
+<p>For a standard LTI (Linear Time-Invariant) system:</p>
+
+\[\frac{d^n y(t)}{dt^n} + a_{n-1}\frac{d^{n-1} y(t)}{dt^{n-1}} + \dots + a_0 y(t) = b_m \frac{d^m u(t)}{dt^m} + \dots + b_0 u(t)\]
+
+<p>Applying the <strong>Laplace Transform</strong> converts this into an algebraic equation:</p>
+
+\[Y(s)\big(s^n + a_{n-1}s^{n-1} + \dots + a_0 \big) = U(s)(b_m s^m + \dots + b_0)\]
+
+<p>Thus, the <strong>Transfer Function</strong> is:</p>
+
+\[G(s) = \frac{Y(s)}{U(s)} = \frac{b_m s^m + \dots + b_0}{s^n + a_{n-1}s^{n-1} + \dots + a_0}\]
+
+<h4 id="i-was-able-to-do-the-follow">I was able to do the follow:</h4>
+<ul>
+  <li>Used <code class="language-plaintext highlighter-rouge">tf(num, den)</code> to define transfer functions.</li>
+  <li>Applied <code class="language-plaintext highlighter-rouge">residue(num, den)</code> for <strong>partial fraction expansion</strong>.</li>
+  <li>Plotted <strong>poles and zeros</strong> with <code class="language-plaintext highlighter-rouge">pzmap(G)</code>.</li>
+</ul>
+
+<h3 id="2-continuous-time-signals">2. Continuous-Time Signals</h3>
+<p>In MATLAB, various input signals were simulated to uprich still on signal behavior for control systems in both <strong>time</strong> and <strong>frequency domains</strong>.  Below is the functions that we tackled:</p>
+
+<ul>
+  <li>
+    <p><strong>Unit Step Function</strong>:<br />
+\(u(t) = 
+\begin{cases} 
+0, &amp; t &lt; 0 \\ 
+1, &amp; t \geq 0 
+\end{cases}\)</p>
+  </li>
+  <li>
+    <p><strong>Impulse Function</strong>:<br />
+\(\delta(t) = \frac{du(t)}{dt}\)</p>
+  </li>
+  <li>
+    <p><strong>Exponential Input</strong>:<br />
+\(x(t) = e^{-at}u(t)\)</p>
+  </li>
+  <li>
+    <p><strong>Sinusoidal Input</strong>:<br />
+\(x(t) = A \sin(\omega t + \phi)\)</p>
+  </li>
+</ul>
+
+<h4 id="i-was-able-to-do-the-following">I was able to do the following:</h4>
+<ul>
+  <li>Generated with <code class="language-plaintext highlighter-rouge">step(G)</code>, <code class="language-plaintext highlighter-rouge">impulse(G)</code>, and <code class="language-plaintext highlighter-rouge">lsim(G, u, t)</code>.</li>
+  <li>Verified stability from bounded inputs → bounded outputs (BIBO stability).</li>
+</ul>
+
+<hr />
+
+<h3 id="3-festo-edukit-fluid-dynamics--flow-control">3. FESTO EduKit: Fluid Dynamics &amp; Flow Control</h3>
+<p>A practical setup was used to study <strong>flow vs. resistance vs. pressure</strong>.  With the hands-on <strong>fluid dynamics</strong> to see how pressure, resistance and flow interact. This goes outside the assumption that control systems consider only on the electronics side but can also be applied in physical systems!!</p>
+
+<h4 id="governing-formula-bernoulli--flow-resistance">Governing Formula (Bernoulli + Flow Resistance)</h4>
+<p>\(Q = \frac{\Delta P}{R}\)</p>
+
+<p>Where:</p>
+<ul>
+  <li>\(Q\) = volumetric flow rate</li>
+  <li>\(\Delta P\) = pressure difference</li>
+  <li>\(R\) = flow resistance</li>
+</ul>
+
+<p><strong>Findings:</strong> Increasing valve resistance caused higher upstream pressure but reduced flow rate.</p>
+<ul>
+  <li>Adjusted valves to vary flow resistance.</li>
+  <li>Recorded effects on pressure and flow rate.</li>
+  <li>Confirmed <strong>inverse relationship</strong> between resistance and flow.</li>
+</ul>
+
+<h3 id="4-com3lab-open--vs-closed-loop-control">4. COM3Lab Open- vs. Closed-Loop Control</h3>
+<p>We further explored the use of loop control under the use of FESTO’s COM3ab. We were able to control a simple fan in a cooling system that maintend temperature in varying environment conditions.</p>
+
+<h4 id="open-loop-system">Open-Loop System</h4>
+<p>No feedback — output does not affect input.<br />
+\(C(s) = G(s)R(s)\)</p>
+
+<h4 id="closed-loop-system-with-feedback">Closed-Loop System with Feedback</h4>
+<p>\(C(s) = \frac{G(s)}{1 + G(s)H(s)} R(s)\)</p>
+
+<p>Where:</p>
+<ul>
+  <li>\(R(s)\) = reference input</li>
+  <li>\(C(s)\) = controlled output</li>
+  <li>\(G(s)\) = plant transfer function</li>
+  <li>\(H(s)\) = feedback transfer function</li>
+</ul>
+
+<h4 id="pid-control-law">PID Control Law</h4>
+<p>\(u(t) = K_p e(t) + K_i \int e(t) dt + K_d \frac{de(t)}{dt}\)</p>
+
+<p>Where:</p>
+<ul>
+  <li>\(\(K_p\)\) = proportional gain</li>
+  <li>\(\(K_i\)\) = integral gain</li>
+  <li>\(\(K_d\)\) = derivative gain</li>
+  <li>\(\(e(t) = r(t) - y(t)\)\) is the error</li>
+</ul>
+
+<p><strong>Experiment:</strong></p>
+<ul>
+  <li>Open-loop: Temperature fell rapidly when disturbed by a fan.</li>
+  <li>Closed-loop: PID maintained target temperature despite disturbance.</li>
+  <li>Verified <strong>system linearity</strong> via static input-output plots.</li>
+</ul>
+
+<p>Below is a consolidated document of the lab reports that we submitted for viewing.</p>
+
+<h2 id="final-project">Final Project</h2>
+<p>For my final project of learning these concepts, I tasked myself to replicate a study with a known transfer function and model its time reponse via MATLAB. I chose to discusses the modeling and simulation of a  <code class="language-plaintext highlighter-rouge">Single Input, Single Output (SISO)</code> system for <code class="language-plaintext highlighter-rouge">ammonium removal from a sand biofilter in a wastewater treatment plant (WWTP)</code>. It emphasizes the use of a Proportional-Integral-Derivative (PID) controller to optimize the removal process, focusing on the initial concentration of ammonium as the input parameter.</p>
+
+<p>The study incorporates a closed-loop Simulink block to derive mathematical equations and visualize system responses. I have change slightly that controller parameters in order to optimize the response compared to the reference study. The results indicate that the tuned PID parameters from this study are smaller than those from a reference study, suggesting potential improvements in the control strategy for ammonium removal efficiency.</p>
+
+<div class="row mt-3 justify-content-center">
+  <!-- First image -->
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/2023/mfcntrl/content_mfcntrl-480.webp 480w,/assets/img/2023/mfcntrl/content_mfcntrl-800.webp 800w,/assets/img/2023/mfcntrl/content_mfcntrl-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/2023/mfcntrl/content_mfcntrl.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+    <div class="caption mt-2">
+      The response made from a unit step value of 40 plot in a time-series to determine how fast tuned signal matches with input signal (yellow line) 
+    </div>
+  </div>
+
+  <!-- Second image -->
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/2023/mfcntrl/content_mfcntrl1-480.webp 480w,/assets/img/2023/mfcntrl/content_mfcntrl1-800.webp 800w,/assets/img/2023/mfcntrl/content_mfcntrl1-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/2023/mfcntrl/content_mfcntrl1.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+    <div class="caption mt-2">
+      Dynamic signal input value in time repsonse with the measured delay between two points shown to be 44 seconds to do the biofilter removal
+    </div>
+  </div>
+</div>
+
+<p>Below is a copy of our project report. I must note though that the instructor at the time has expressed incorrect modelling on our end but no feedback to correct it. On my end reflecting on this, I think the issue was that the input signal was immediate which maybe is not desired despite my correct use of the transfer function. I was not able to truly capture the difference of the simulated reponse to the desired reponse for the SISO system that resulted to the confusion on what params should be controlled by the instructor too.</p>
+
+<iframe src="https://drive.google.com/file/d/1lDAUWcc9FdV04PsuDL6UU1kjGK8A-Fvk/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Report that details the replication of the reference study as well as the modelling made.
+</div>
+
+<h2 id="learnings-and-reflection">Learnings and Reflection:</h2>
+<p>The whole experience has thought me the use of <strong>Laplace transforms</strong> from our calculus days that will simplify analysis of dynamic systems. The use of <strong>Poles and zeros</strong> as critical indicators of system stability especially when we are dealing with the time-frequency domain. The <strong>FESTO experiments</strong> were fun, at least for me, that I was able to configure and demonstrate fluid control principles (pressure-flow-resistance) as well as <strong>Closed-loop control with PID</strong> to ensure stability, accuracy, and disturbance rejection.  Lastly, the use of MATLAB software as a tool for <strong>bridging equations to simulations</strong>, while FESTO/COM3Lab brings theory into physical reality.</p>
+
+<p><strong>REFLECTIONS</strong>: 
+This is still considered basic for many as you need to find a specific use to govern the proper control loop for more complex systems. I won’t sugar-coat it, the class was more theoretical-heavy with us doing solutions that will not be applied in most cases since the software will provide the calculations already. The instructor at the time also was rushing the coursework that is why the main bit of PID controllers was not covered properly by the end of the term. What is needed though and I will try to self-study more is how this can be applied in <code class="language-plaintext highlighter-rouge">robotic systems</code> and the niche of <code class="language-plaintext highlighter-rouge">mechatronics</code>. This comes like how a remote controller input from a drone can then facilitate the movement of the drone in the air. I want to learn that further in mobile robots. Learning never stops!</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="electronics" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><category term="MATLAB" /><category term="FESTO" /><summary type="html"><![CDATA[The use of transfer functions, laplace transfrom applications and time-response signals for control and automation using MATLAB and FESTO 🎛️]]></summary></entry><entry><title type="html">Spaghetti wires! My industrial electronics learnings (MFINDLX &amp;amp; LBYMF3E)</title><link href="https://ferds003.github.io/blog/2023/MFINDLX&LBYMF3E/" rel="alternate" type="text/html" title="Spaghetti wires! My industrial electronics learnings (MFINDLX &amp;amp; LBYMF3E)" /><published>2023-09-03T20:40:00+00:00</published><updated>2023-09-03T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/MFINDLX&amp;LBYMF3E</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/MFINDLX&amp;LBYMF3E/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
 
 <p><em>Note: Taglish</em></p>
 
@@ -3521,124 +3871,4 @@ The course covers fundamental concepts such as Kirchhoff’s Current Law (KCL) a
 
 <p><strong>REFLECTIONS</strong>: I really appreciate sir eigger’s class for the lecture as he was strict. The strict kind that pushed us to refine our project and know what lessons are important for us manufacturing engineering and what should be our learning outcomes be which is to understand the breakers ratings that are safe for usage. I think I can apply this to my personal projects that require huge power loading but I just usually add a relay and step-down regulators for this especially for electronics that does the job for me in terms of safety.</p>
 
-<p>PS. Shoutout to ins and quiz for the lab works! :&gt;</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="mechanical" /><category term="automation_and_controls" /><category term="manufacturing_engineering" /><category term="basic_electronics" /><summary type="html"><![CDATA[Knowing basic breaker ratings based on power consumption and my personal learnings from basic electrical engineering concepts 🔌]]></summary></entry><entry><title type="html">Materials Engineering (MFMTENG &amp;amp; LBYMF2D)</title><link href="https://ferds003.github.io/blog/2022/MFMTENG&LBYMF2D/" rel="alternate" type="text/html" title="Materials Engineering (MFMTENG &amp;amp; LBYMF2D)" /><published>2022-07-08T20:40:00+00:00</published><updated>2022-07-08T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2022/MFMTENG&amp;LBYMF2D</id><content type="html" xml:base="https://ferds003.github.io/blog/2022/MFMTENG&amp;LBYMF2D/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
-
-<p><em>Note: Taglish</em></p>
-
-<p><strong>OVERVIEW</strong>:
-I took this class as a sophomore in my fifth term. It’s an introductory course for materials engineering. We never really delve deep into the specifics but it was important for us to atleast understand the materials that we are dealing with if ever we go into the specifics of the field. I provided here both the lecture and laboratory efforts on my end to learn this concept below!</p>
-
-<h2 id="lecture">LECTURE:</h2>
-<p>For the lecture, I still remember sir Homer’s voice and stories during lectures. I always think immediately of lattices and his lecture about eutectoid transformation for iron which is the austenite-pearlite-martensite transformation idk why but its stuck in my head 🫨. There are so many topics he have covered and sadly I cant share my written notes here (at kahit madidigitize ko siya, hindi rin mababasa kasi illegible handwriting ko haha). OG si sir homer that still provides great teachings. This is unlike my experience with other MEM profs/instructors that is why I appreciate his lectures since I really pay attention to it kahit papaano.</p>
-
-<p>I remember the story of how he related the concrete columns of the LRT1 as a material engineering feat back to when it was being built. That the right balance of quality concrete mixed with the martensite steel(?) and engineering design was able to withstand fatigue and creep over cyclic stress for the past 40 years. The calculations of that is first in the PH since they had to also know the expected failure of the material but that will not come pa after 200 years raw!!</p>
-
-<p>Overall, I was able to learn the following from his class:</p>
-<ul>
-  <li><strong>Fatigue</strong> on Material and Behavior; Rate of Fatigue Crack Growth; Fatigue till material EOL</li>
-  <li><strong>Creep</strong>, deformation at constant stress over time; <strong>Activation energy</strong> to incduce strain over material Young’s modulus and applied stress; Large stress concentrations provide sharp corners in the stress-strain curve</li>
-  <li><strong>Phase Diagrams</strong> and known solubility limit to determine solution for a particular material composition; <strong>Phase Transformation</strong> that considers nucleation the rate of addition to the lattice structure</li>
-  <li><strong>Resilience</strong> of the material to store energy; Material properties and design for safety factor between 1.2 and 4;</li>
-  <li><strong>Isothermal Treatment</strong> will cause different versions of the steel composition like that of <strong>pearlite</strong> done under a slow cool quench while <strong>martensite</strong> will be produced under a rapid quench that is reheat and tempered under oil.</li>
-  <li><strong>Dislocation Motion</strong> and the needed uniaxial stress to induce a single crystal slip on your given structural lattice; This makes a slip motion-shear stress; <strong>Annealing</strong> should be applied to strengthen the material;</li>
-</ul>
-
-<p>Below is a consolidated document of the calculations that I did for this lecture.</p>
-
-<iframe src="https://drive.google.com/file/d/1qnR3EZdTJH-ZWGkCay7j2O3EkAmnF29v/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-<div class="caption">
-  Compilation of the calculations that I did for the lecture class (if it is still readable lol )where we covered material properties and selection, metals alloys, polymers and composits, and failure analysis and durability
-</div>
-
-<h2 id="laboratory">LABORATORY:</h2>
-
-<p>For the laboratory, we conducted compression, brinell hardness, and tensile/torsion tests on various materials (6061 Aluminum, Cast Iron, PMMA, and 1045 Steel). This was under sir Joey’s class and he was very thorough to the explanations and apply and demonstrate how to apply the machines/tools and what insights should be looked upon that can be applied in real applications.</p>
-
-<p>The experiments aimed to determine key material properties such as <strong>Ultimate Compressive Strength (UCS)</strong>, <strong>Young’s Modulus</strong>, <strong>0.2% Yield Strength</strong>, <strong>Brinell Hardness Number</strong>, <strong>Ultimate Tensile Strength (UTS)</strong>, and <strong>Shear Modulus</strong>. I was able to perform for all experiments for the compression and Brinell hardness tests on 6061 Aluminum, while tensile and torsion tests were conducted on 6061 Aluminum, PMMA, and 1045 Steel. Data analysis revealed insights into material behavior under different stress conditions.</p>
-
-<ul>
-  <li><strong>Compression Test (6061 Aluminum)</strong>: The experiment determined the UCS, Young’s Modulus, and 0.2% offset strength of 6061 Aluminum. The material exhibited uniform contraction after a certain force, and the data suggested the material’s failure point. However, inconsistencies in data gathering due to unfamiliarity with the equipment were noted.</li>
-  <li><strong>Brinell Hardness Test (6061 Aluminum):</strong> The Brinell hardness number was calculated, and converted to tensile strength. Uncertainty arose in selecting the correct parameters for calculation, highlighting the importance of understanding testing standards.</li>
-  <li><strong>Tensile and Torsion Tests:</strong> The tensile tests revealed the UTS, Young’s Modulus, and 0.2% Yield Strength for 6061 Aluminum, Cast Iron and PMMA. Torsion tests provided shear properties for 6061 Aluminum, PMMA, and 1045 Steel.</li>
-  <li><strong>Material Comparison:</strong> Analysis of stress-strain curves allowed for comparison of material performance under tension and compression. For example, cast iron showed better performance in compression than tensile.</li>
-  <li><strong>Material Classification:</strong> Based on stress-strain curves, materials were categorized as brittle (6061 Aluminum, Cast Iron, PMMA) due to early deformation without reaching their proportional limit or UTS in tensile tests.</li>
-</ul>
-
-<p>Below is the consolidated reports and tests that we have made along with the results and analysis that we did for the UTM testings.</p>
-
-<iframe src="https://drive.google.com/file/d/1jxSDzEetau8OkzFXG5xqen9aWNzQPRD8/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-
-<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>
-
-
-
-<figure>
-  <picture>
-    <!-- Auto scaling with imagemagick -->
-    <!--
-      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
-      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
-    -->
-    
-      
-        <source class="responsive-img-srcset" srcset="/assets/img/2022/lbymf2d/lbymf2d_1-480.webp 480w,/assets/img/2022/lbymf2d/lbymf2d_1-800.webp 800w,/assets/img/2022/lbymf2d/lbymf2d_1-1400.webp 1400w," type="image/webp" sizes="95vw" />
-      
-    
-    <img src="/assets/img/2022/lbymf2d/lbymf2d_1.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-  </picture>
-
-  
-</figure>
-</swiper-slide>
-  <swiper-slide>
-
-
-
-<figure>
-  <picture>
-    <!-- Auto scaling with imagemagick -->
-    <!--
-      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
-      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
-    -->
-    
-      
-        <source class="responsive-img-srcset" srcset="/assets/img/2022/lbymf2d/lbymf2d_2-480.webp 480w,/assets/img/2022/lbymf2d/lbymf2d_2-800.webp 800w,/assets/img/2022/lbymf2d/lbymf2d_2-1400.webp 1400w," type="image/webp" sizes="95vw" />
-      
-    
-    <img src="/assets/img/2022/lbymf2d/lbymf2d_2.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-  </picture>
-
-  
-</figure>
-</swiper-slide>
-  <swiper-slide>
-
-
-
-<figure>
-  <picture>
-    <!-- Auto scaling with imagemagick -->
-    <!--
-      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
-      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
-    -->
-    
-      
-        <source class="responsive-img-srcset" srcset="/assets/img/2022/lbymf2d/lbymf2d_4-480.webp 480w,/assets/img/2022/lbymf2d/lbymf2d_4-800.webp 800w,/assets/img/2022/lbymf2d/lbymf2d_4-1400.webp 1400w," type="image/webp" sizes="95vw" />
-      
-    
-    <img src="/assets/img/2022/lbymf2d/lbymf2d_4.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-  </picture>
-
-  
-</figure>
-</swiper-slide>
-</swiper-container>
-
-<div class="caption">
-  here is my batchmates and I conducting our tests for the workpiece under the universal testing machine (UTM) as well as doing brinell hardness test where you have to measure the diameter of indentation made after the puncture made on one of the tools.
-</div>
-
-<p><strong>REFLECTIONS</strong>: Again, like any other engineering student will ask, will I be able to apply this to my job? My hot take is that no, there is a whole branch of materials engineering and science students who are far more capable and understanding of this field that we do but like what they always say in the MEM department, it doesnt hurt to know this kind of stuff. The idea is that we have to understand this so that if there is an in-house testings being done, we are knowledgeable enough to understand the values being given! That for me is enough to appreciate these courses and frankly, I had fun knowing this kahit alam kong makakalimutan ko rin to soon 🥲 Let me know if this is a valid take down in the giscus comments :))</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="mechanical" /><category term="design_and_modelling" /><category term="manufacturing_engineering" /><summary type="html"><![CDATA[My personal views and learnings from materials engineering and understanding of material testing analysis! 🏗️]]></summary></entry></feed>
+<p>PS. Shoutout to ins and quiz for the lab works! :&gt;</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="mechanical" /><category term="automation_and_controls" /><category term="manufacturing_engineering" /><category term="basic_electronics" /><summary type="html"><![CDATA[Knowing basic breaker ratings based on power consumption and my personal learnings from basic electrical engineering concepts 🔌]]></summary></entry></feed>
