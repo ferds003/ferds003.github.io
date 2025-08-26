@@ -58,7 +58,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-fixing-broken-things-handyman-work",
+        },{id: "post-what-is-mem",
+        
+          title: "What is MEM?",
+        
+        description: "QnA about what my course is and my own experience 🤝",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/what-is-MEM/";
+          
+        },
+      },{id: "post-fixing-broken-things-handyman-work",
         
           title: "Fixing broken things, Handyman work",
         
@@ -67,17 +78,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/fixing-stuff/";
-          
-        },
-      },{id: "post-what-is-mem",
-        
-          title: "What is MEM?",
-        
-        description: "QnA about what my course is and my experience 🤝",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/what-is-MEM/";
           
         },
       },{id: "post-smart-factory-intelligent-manufacturing-systems-lbymf4d-amp-mfelec2",
