@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-26T05:43:19+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-27T04:46:01+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
 </subtitle><entry><title type="html">What is MEM?</title><link href="https://ferds003.github.io/blog/2025/what-is-MEM/" rel="alternate" type="text/html" title="What is MEM?" /><published>2025-06-24T20:40:00+00:00</published><updated>2025-06-24T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2025/what-is-MEM</id><content type="html" xml:base="https://ferds003.github.io/blog/2025/what-is-MEM/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Friends and family that always ask this about me; Students curious about the course; Employers and industry professionals asking how this course is different with other engineering pursuits;</p>
 
 <p><em>Note 1: My personal opinions about the matter and does not reflect the opinions of others and the MEM department :&gt;.</em></p>
@@ -3214,7 +3214,119 @@ Predicts future error, improves stability, reduces overshoot.</p>
 <p>The whole experience has thought me the use of <strong>Laplace transforms</strong> from our calculus days that will simplify analysis of dynamic systems. The use of <strong>Poles and zeros</strong> as critical indicators of system stability especially when we are dealing with the time-frequency domain. The <strong>FESTO experiments</strong> were fun, at least for me, that I was able to configure and demonstrate fluid control principles (pressure-flow-resistance) as well as <strong>Closed-loop control with PID</strong> to ensure stability, accuracy, and disturbance rejection.  Lastly, the use of MATLAB software as a tool for <strong>bridging equations to simulations</strong>, while FESTO/COM3Lab brings theory into physical reality.</p>
 
 <p><strong>REFLECTIONS</strong>: 
-This is still considered basic for many as you need to find a specific use to govern the proper control loop for more complex systems. I won’t sugar-coat it, the class was more theoretical-heavy with us doing solutions that will not be applied in most cases since the software will provide the calculations already. The instructor at the time also was rushing the coursework that is why the main bit of PID controllers was not covered properly by the end of the term. What is needed though and I will try to self-study more is how this can be applied in <code class="language-plaintext highlighter-rouge">robotic systems</code> and the niche of <code class="language-plaintext highlighter-rouge">mechatronics</code>. This comes like how a remote controller input from a drone can then facilitate the movement of the drone in the air. I want to learn that further in mobile robots. Learning never stops!</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="electronics" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><category term="MATLAB" /><category term="FESTO" /><summary type="html"><![CDATA[The use of transfer functions, laplace transfrom applications and time-response signals for control and automation using MATLAB and FESTO 🎛️]]></summary></entry><entry><title type="html">Spaghetti wires! My industrial electronics learnings (MFINDLX &amp;amp; LBYMF3E)</title><link href="https://ferds003.github.io/blog/2023/MFINDLX&LBYMF3E/" rel="alternate" type="text/html" title="Spaghetti wires! My industrial electronics learnings (MFINDLX &amp;amp; LBYMF3E)" /><published>2023-09-03T20:40:00+00:00</published><updated>2023-09-03T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/MFINDLX&amp;LBYMF3E</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/MFINDLX&amp;LBYMF3E/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
+This is still considered basic for many as you need to find a specific use to govern the proper control loop for more complex systems. I won’t sugar-coat it, the class was more theoretical-heavy with us doing solutions that will not be applied in most cases since the software will provide the calculations already. The instructor at the time also was rushing the coursework that is why the main bit of PID controllers was not covered properly by the end of the term. What is needed though and I will try to self-study more is how this can be applied in <code class="language-plaintext highlighter-rouge">robotic systems</code> and the niche of <code class="language-plaintext highlighter-rouge">mechatronics</code>. This comes like how a remote controller input from a drone can then facilitate the movement of the drone in the air. I want to learn that further in mobile robots. Learning never stops!</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="electronics" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><category term="MATLAB" /><category term="FESTO" /><summary type="html"><![CDATA[The use of transfer functions, laplace transfrom applications and time-response signals for control and automation using MATLAB and FESTO 🎛️]]></summary></entry><entry><title type="html">Game of codes, my microcontrollers quest so far (LBYMF3C)</title><link href="https://ferds003.github.io/blog/2023/LBYMF3C/" rel="alternate" type="text/html" title="Game of codes, my microcontrollers quest so far (LBYMF3C)" /><published>2023-10-13T20:40:00+00:00</published><updated>2023-10-13T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/LBYMF3C</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/LBYMF3C/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Self, Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
+
+<p><strong>OVERVIEW</strong>:
+One of the skills that is heavily asked by employers in our field is the need to code embedded systems that are often seen in the plant and other task that may fall under a manufacturing engineer’s lap. As an overview and sort of crash course to this, there is a lab that formally introduces us to these concepts and principles. This course on <strong>Microprocessor and Microcontroller Systems (LBYMF3C)</strong> gave me practical experience in applying <strong>C programming</strong> to embedded systems. Through a mix of simulation, coding, and hardware-based activities, I explored how microcontrollers interact with sensors, actuators, and real-world inputs.</p>
+
+<p>The lab exercises followed a progression: starting with <strong>fundamentals of programming and logic</strong>, then moving toward <strong>peripheral interfacing</strong>, and finally, <strong>integrated projects</strong> that simulated real engineering systems.</p>
+
+<h2 id="-lab-exercise-highlights">🧪 Lab Exercise Highlights</h2>
+
+<h3 id="1-introduction-to-microcontrollers-and-c-programming">1. Introduction to Microcontrollers and C Programming</h3>
+<ul>
+  <li>Learned the structure of C programs for microcontrollers.</li>
+  <li>Worked with basic I/O operations: toggling LEDs, reading button states.</li>
+</ul>
+
+<p><strong>Formula:</strong> Voltage divider for digital input reading<br />
+\(V_{out} = V_{in} \cdot \frac{R_2}{R_1 + R_2}\)</p>
+
+<hr />
+
+<h3 id="2-logic-implementation-and-truth-tables">2. Logic Implementation and Truth Tables</h3>
+<ul>
+  <li>Implemented <strong>Boolean logic</strong> using C conditions.</li>
+  <li>Designed truth tables for AND, OR, and NOT operations.</li>
+</ul>
+
+<p><strong>Example (Boolean Algebra):</strong><br />
+\(Y = A \cdot B \quad \text{(AND Gate)}\)<br />
+\(Y = A + B \quad \text{(OR Gate)}\)</p>
+
+<hr />
+
+<h3 id="3-timers-and-counters">3. Timers and Counters</h3>
+<ul>
+  <li>Used <strong>timer registers</strong> to generate delays and count events.</li>
+  <li>Simulated real-time delays for LED blinking and pulse counting.</li>
+</ul>
+
+<p><strong>Timer Formula:</strong><br />
+\(T_{delay} = \frac{(MaxCount - InitialValue) \cdot Prescaler}{f_{osc}}\)</p>
+
+<hr />
+
+<h3 id="4-adc-analog-to-digital-conversion">4. ADC (Analog-to-Digital Conversion)</h3>
+<ul>
+  <li>Read sensor data (e.g., temperature, potentiometers).</li>
+  <li>Converted analog signals into digital values for processing.</li>
+</ul>
+
+<p><strong>ADC Conversion Formula:</strong><br />
+\(DigitalValue = \frac{(V_{in}) \cdot (2^n - 1)}{V_{ref}}\)</p>
+
+<p>Where:</p>
+<ul>
+  <li>\(n\) = ADC resolution (bits)</li>
+  <li>\(V_{ref}\) = reference voltage</li>
+</ul>
+
+<hr />
+
+<h3 id="5-pwm-pulse-width-modulation-control">5. PWM (Pulse Width Modulation) Control</h3>
+<ul>
+  <li>Generated PWM signals to control motor speed and LED brightness.</li>
+  <li>Learned duty cycle adjustments for actuator control.</li>
+</ul>
+
+<p><strong>Duty Cycle Formula:</strong><br />
+\(D(\%) = \frac{T_{on}}{T_{on} + T_{off}} \cdot 100\)</p>
+
+<hr />
+
+<h3 id="6-serial-communication-uart">6. Serial Communication (UART)</h3>
+<ul>
+  <li>Used UART to transmit and receive data between the microcontroller and PC.</li>
+  <li>Applied <strong>baud rate settings</strong> to match communication speed.</li>
+</ul>
+
+<p><strong>Baud Rate Formula:</strong><br />
+\(BaudRate = \frac{f_{osc}}{16 \cdot (UBRR + 1)}\)</p>
+
+<hr />
+
+<h3 id="7-integrated-final-project">7. Integrated Final Project</h3>
+<ul>
+  <li>Combined I/O, ADC, PWM, and serial communication.</li>
+  <li>Applied <strong>sensor-actuator feedback loop</strong> for a working system.</li>
+  <li>Example: reading temperature and activating a fan when a threshold is reached.</li>
+</ul>
+
+<p><strong>Control Logic (Pseudo-Equation):</strong><br />
+\(\text{If } T &gt; T_{threshold} \quad \Rightarrow \quad Fan = ON\)</p>
+
+<hr />
+
+<p>Provided below is the reports that I have made that details my domain knowledge for this course.</p>
+
+<iframe src="https://drive.google.com/file/d/1QSQL9Eark1NoDMVzYwb7cN7_uH537xRa/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Consolidated reports done for this laboratory course!
+</div>
+
+<p><strong>REFLECTIONS</strong>: 
+I still remember my pair at the start of the term asking me why I was trying to study ALUs, bit registrars and other CPU components seen in MCUs. I said I was preparing myself for this course since I really want to absorb as much on this oppurtunity. Turns out, I know more about these concepts (now, forgotten, mind you) through self-study than the instructors herself!! She was non-existent and only showed up after mid week of the term while we were teaching ourselves how to do the lab exercises that we even had to beg to have HAHA</p>
+
+<p>Anyways, I know th was a rudimentary introduction of the concepts that is needed for fully-fledged embedded systems engineers out in the field. I know for a fact that they are using different <code class="language-plaintext highlighter-rouge">IDEs</code>, doing <code class="language-plaintext highlighter-rouge">HDL-programming</code>, <code class="language-plaintext highlighter-rouge">Verilog</code>, <code class="language-plaintext highlighter-rouge">Bare-metal programming</code>. This was different from my expectations on the difficulty that I wanted but then again this goes and intersects with the job of <code class="language-plaintext highlighter-rouge">electronics engineers</code>. Not something that us MEM majors will do and thats perfectly fine! The term was hard so this was a blessing in disguise. With that I will look back on this course knowing what further applications that I can do and learn if I want to head to that path of becoming an <code class="language-plaintext highlighter-rouge">embedded systems engineer</code>.</p>
+
+<p>Overall, after this experience, I’m confident that I got to have the following skills:</p>
+<ul>
+  <li><strong>C for Embedded Systems:</strong> I gained confidence in writing optimized, hardware-level code.</li>
+  <li><strong>Peripheral Interfacing:</strong> Learned how to connect sensors, actuators, and communication modules effectively.</li>
+  <li><strong>Debugging Skills:</strong> Encountered and solved hardware/software mismatches (e.g., baud rate errors, pin mapping).</li>
+  <li><strong>System Thinking:</strong> Developed small-scale cyber-physical systems by combining code with electronics.</li>
+</ul>]]></content><author><name></name></author><category term="embedded_systems" /><category term="electronics" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><category term="coding" /><summary type="html"><![CDATA[My practical experience on coding microprocessors and what further topics I would like to check 🐲]]></summary></entry><entry><title type="html">Spaghetti wires! My industrial electronics learnings (MFINDLX &amp;amp; LBYMF3E)</title><link href="https://ferds003.github.io/blog/2023/MFINDLX&LBYMF3E/" rel="alternate" type="text/html" title="Spaghetti wires! My industrial electronics learnings (MFINDLX &amp;amp; LBYMF3E)" /><published>2023-09-03T20:40:00+00:00</published><updated>2023-09-03T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/MFINDLX&amp;LBYMF3E</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/MFINDLX&amp;LBYMF3E/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
 
 <p><em>Note: Taglish</em></p>
 
@@ -3743,132 +3855,4 @@ There are many funny moments that happened in class like multiple blown componen
 
 <p>I could have appreciated more of this if I read more on analog systems and how they operate in the real world. In lieu of this, singit ko na rin ung kwento ni sir mike of MOSPHET speakers which is actually true. They sell these speakers with an advert about good sound from MOSPHETs but in reality its not the MOSPHETs that are doing the filtering for a better sound but its the Op-Amps. Nakita ko na yan sa Quiapo and its very misleading!</p>
 
-<p>Going back, although, I thought I was doing great, I was actually not seeing the value out of these classes. Reflecting on this, my next steps are to further prepare myself with the upskillings that I need to learn PCB design knowing that analog components taught will be used primarily for the power regulations and more advanced concepts like signal processing on embedded systems to determine performance of circuit.</p>]]></content><author><name></name></author><category term="electronics" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><category term="analog" /><summary type="html"><![CDATA[My personal notes and review on analog electronics design 💾]]></summary></entry><entry><title type="html">Basic Electrical Engineering (BASELCI &amp;amp; LBYEC2L)</title><link href="https://ferds003.github.io/blog/2022/BASELCI&LBYEC2L/" rel="alternate" type="text/html" title="Basic Electrical Engineering (BASELCI &amp;amp; LBYEC2L)" /><published>2022-07-08T20:40:00+00:00</published><updated>2022-07-08T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2022/BASELCI&amp;LBYEC2L</id><content type="html" xml:base="https://ferds003.github.io/blog/2022/BASELCI&amp;LBYEC2L/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
-
-<p><strong>OVERVIEW</strong>:
-The course covers fundamental concepts such as Kirchhoff’s Current Law (KCL) and Kirchhoff’s Voltage Law (KVL), as well as advanced topics like power ratings and AC voltage. Here are my reflections and works that I did to understand these concepts :))</p>
-
-<h2 id="lecture">LECTURE:</h2>
-<p>Aside from the usual discussion of the KCL and KVL solutions, as well as, power ratings and AC voltage sinusoidal analysis that we did an exam for, We made a project that is a <code class="language-plaintext highlighter-rouge">comprehensive electrical load analysis</code> for a residential place. This was done to assess us with a practical to determine the appropriate breaker ratings and estimate the overall power consumption of the electrical appliances. The objective was to ensure that each sub-breaker in the electrical distribution system could handle the connected load safely while adhering to electrical code standards.</p>
-
-<p>The procedure required:</p>
-<ul>
-  <li>Listing <strong>all appliances, lighting fixtures, and outlets</strong> connected to each sub-breaker.</li>
-  <li>Recording the <strong>power rating (W)</strong> of each device, the <strong>quantity</strong>, and calculating the <strong>total wattage per appliance category</strong>.</li>
-  <li>Summing the wattages for each sub-breaker to determine the <strong>total load in watts</strong>.</li>
-  <li>Converting the total wattage to <strong>current (amperes)</strong> using the standard formula:</li>
-</ul>
-
-\[I = \frac{P}{V}\]
-
-<p>where (V) is the supply voltage (typically 220V for PH standards).</p>
-<ul>
-  <li>Selecting a <strong>breaker rating</strong> that provides a safe margin above the calculated amperage.</li>
-</ul>
-
-<hr />
-<h3 id="key-findings-and-data">Key Findings and Data</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Sub-Breaker</th>
-      <th>Total Wattage (W)</th>
-      <th>Total Amperes (A)</th>
-      <th>Recommended Breaker Rating (A)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>5,289.00</td>
-      <td>24.04</td>
-      <td>29</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>3,124.00</td>
-      <td>14.20</td>
-      <td>17</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>1,939.00</td>
-      <td>8.81</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>7,995.00</td>
-      <td>36.34</td>
-      <td>44</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>5,464.60</td>
-      <td>24.84</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>2,676.00</td>
-      <td>12.00</td>
-      <td>15</td>
-    </tr>
-    <tr>
-      <td><strong>Main</strong></td>
-      <td>—</td>
-      <td>—</td>
-      <td><strong>173</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>Observations:</strong></p>
-<ul>
-  <li><strong>Sub-Breaker 4</strong> has the highest load due to multiple high-wattage appliances such as water heaters, multiple computers, and numerous convenience outlets.</li>
-  <li>The <strong>main breaker rating</strong> was computed at <strong>173A</strong>, ensuring capacity to handle the total combined load with allowance for surge currents.</li>
-  <li>Breaker sizes were chosen with margins above the calculated currents to prevent nuisance tripping and ensure safety.</li>
-</ul>
-
-<p>From this project, the following engineering and operational insights were reinforced:</p>
-
-<ol>
-  <li><strong>Load Balancing</strong> – Properly distributing appliances among sub-breakers avoids overloading individual circuits.</li>
-  <li><strong>Breaker Sizing</strong> – Circuit breakers must be sized higher than the calculated operating current, in accordance with the <strong>80% rule</strong> in electrical codes, to handle continuous loads.</li>
-  <li><strong>Power Management Awareness</strong> – Identifying the largest consumers helps prioritize energy efficiency strategies (e.g., using energy-efficient appliances).</li>
-  <li><strong>Preventive Safety</strong> – Correct breaker ratings reduce risks of overheating and electrical fires.</li>
-  <li><strong>Documentation &amp; Inventory Skills</strong> – Accurate load lists are critical for both design and maintenance.</li>
-</ol>
-
-<p>Below is a consolidated document of the calculations that I did for the lecture project of breaker ratings</p>
-
-<iframe src="https://drive.google.com/file/d/1Q_h9joXwzkaPAgOVJiTjEAOGl2UDfJmh/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-
-<h2 id="laboratory">LABORATORY:</h2>
-<p>The laboratory covers the various circuit analysis techniques and theorems that was discussed in the lecture classes. From the kirchoff’s laws down to the specifics like that of the following: delta-wye transformation, power and maximum power transfer in DC circuits, Bridge circuits, principles of superposition and thevenin’s theorem, AC Voltage, AC Current, and Sinusoidal Steady-State Analysis.</p>
-
-<p>Learnings can be made on the following concepts:</p>
-
-<ul>
-  <li>Explored <strong>Delta-Wye transformations</strong> for circuit simplification. Was able to distinguish between delta and wye configurations and convert between them, verifying that overall resistance remains nearly constant</li>
-  <li>Investigated <strong>power and maximum power transfer in DC circuits</strong>, confirming maximum power transfer occurs when load resistance equals internal resistance. Key finding was that maximum power transfer occurs when <mark> load resistance matches the internal resistance of the power source. </mark></li>
-  <li>Examined <strong>bridge circuits</strong> and their sensitivity to load resistance. Particularly, it was the  <code class="language-plaintext highlighter-rouge">Wheatstone bridge</code>, using potentiometers to achieve bridge equivalence. I was able to analyze the impact of load resistance and observed voltage differences in balanced and unbalanced bridge configurations.</li>
-  <li>Validated <strong>Kirchhoff’s Laws</strong> through simulations and calculations. I calculated voltage and current using KCL and KVL, comparing results with Multisim simulations with a single voltage sources.</li>
-  <li>Applied the <strong>Superposition Theorem</strong> to tackle circuits with multiple voltage sources. I was able to calculate current by <code class="language-plaintext highlighter-rouge">individually considering each source and then summing the results</code>, verifying the principle’s accuracy through simulations.</li>
-  <li>Utilized <strong>Thevenin’s Theorem</strong> for circuit simplification and analysis particularly turning the electrical circuit into a single voltage source and series resistance.</li>
-  <li>Analyzed <strong>AC voltage, current, and sinusoidal steady-state behavior</strong> observing phase differences between voltage and current in resistive, RC, RL, and RLC circuits (both series and parallel). I was able to gain insight of the properties of sinusoidal AC signals and the phase relationships in <code class="language-plaintext highlighter-rouge">inductors and capacitors</code>.</li>
-</ul>
-
-<p><code class="language-plaintext highlighter-rouge">Multisim simulations</code> were used to verify theoretical calculations. Analyzed voltage, current, and resistance relationships in different circuit configurations. This enabled me to have a practical understanding and validation of fundamental circuit analysis techniques.</p>
-
-<p>Below is a copy of the final reports that we did to demonstrate the concepts above and for my own reference in the future!</p>
-
-<iframe src="https://drive.google.com/file/d/1TZJDkenQDD4NnG1HkCein2qPS8HKJkCU/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-<div class="caption">
-  Consolidated final reports that I did for laboratory using Multisim to demonstrated KVL and KCL concepts till advanced electrical analysis
-</div>
-
-<p><strong>REFLECTIONS</strong>: I really appreciate sir eigger’s class for the lecture as he was strict. The strict kind that pushed us to refine our project and know what lessons are important for us manufacturing engineering and what should be our learning outcomes be which is to understand the breakers ratings that are safe for usage. I think I can apply this to my personal projects that require huge power loading but I just usually add a relay and step-down regulators for this especially for electronics that does the job for me in terms of safety.</p>
-
-<p>PS. Shoutout to ins and quiz for the lab works! :&gt;</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="mechanical" /><category term="automation_and_controls" /><category term="manufacturing_engineering" /><category term="basic_electronics" /><summary type="html"><![CDATA[Knowing basic breaker ratings based on power consumption and my personal learnings from basic electrical engineering concepts 🔌]]></summary></entry></feed>
+<p>Going back, although, I thought I was doing great, I was actually not seeing the value out of these classes. Reflecting on this, my next steps are to further prepare myself with the upskillings that I need to learn PCB design knowing that analog components taught will be used primarily for the power regulations and more advanced concepts like signal processing on embedded systems to determine performance of circuit.</p>]]></content><author><name></name></author><category term="electronics" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><category term="analog" /><summary type="html"><![CDATA[My personal notes and review on analog electronics design 💾]]></summary></entry></feed>

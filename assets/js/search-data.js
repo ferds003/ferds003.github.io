@@ -124,6 +124,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/MFCNTRL&LBYMF3I/";
           
         },
+      },{id: "post-game-of-codes-my-microcontrollers-quest-so-far-lbymf3c",
+        
+          title: "Game of codes, my microcontrollers quest so far (LBYMF3C)",
+        
+        description: "My practical experience on coding microprocessors and what further topics I would like to check 🐲",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/LBYMF3C/";
+          
+        },
       },{id: "post-spaghetti-wires-my-industrial-electronics-learnings-mfindlx-amp-lbymf3e",
         
           title: "Spaghetti wires! My industrial electronics learnings (MFINDLX &amp; LBYMF3E)",
