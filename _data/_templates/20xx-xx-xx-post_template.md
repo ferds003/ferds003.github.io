@@ -98,5 +98,24 @@ Below is a consolidated document of the outputs that I did for this lecture.
 
 </div>
 
+
+<div class="row mt-3 justify-content-center">
+  <!-- First image -->
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    {% include figure.liquid loading='eager' path='assets/img/2024/what_is_MEM/mission.jpg' class='img-fluid rounded z-depth-1' zoomable=true %}
+    <div class="caption mt-2">
+      MEM Mission as seen in Velasco 2nd Floor bulletin board
+    </div>
+  </div>
+
+  <!-- Second image -->
+  <div class="col-sm mt-3 mt-md-0 text-center">
+    {% include figure.liquid loading='eager' path='assets/img/2024/what_is_MEM/vision.jpg' class='img-fluid rounded z-depth-1' zoomable=true %}
+    <div class="caption mt-2">
+      MEM Vision as seen in Velasco 2nd Floor bulletin board
+    </div>
+  </div>
+</div>
+
 __REFLECTIONS__: 
 
