@@ -384,6 +384,11 @@ ninja.data = [{
           description: "a simple printed circuit board design (PCB) for a traffic light indicator 🚦",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2024-PCB-Traffic/";
+            },},{id: "projects-pid-controlled-self-balancing-robot",
+          title: 'PID-controlled self-balancing robot',
+          description: "My attempt to make and control a simple self-balancing robot using MATLAB and Simulink 🤸‍♂️",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2024-PID-Self-Balancing-Robot/";
             },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
           title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
           description: "My personal project for this engineering management course 📋",
