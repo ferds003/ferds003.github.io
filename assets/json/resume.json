@@ -180,6 +180,12 @@
   ],
   "publications": [
     {
+      "name": "Automated Lettuce Grading and Sorting in Postharvest Manufacturing Setup",
+      "publisher": "IEEE Xplore (TENCON’25)",
+      "releaseDate": "2025",
+      "summary": "Developed vision-based quality grading and sorting system for iceberg lettuce postharvest handling using genetic programming and fuzzy logic."
+    },
+    {
       "name": "Smart IoT-Based Feeder System for Koi Fish Aquaculture",
       "publisher": "IEEE Xplore (ICOM’24)",
       "releaseDate": "2024",
@@ -187,7 +193,7 @@
     },
     {
       "name": "Portable Electronic Nose Device for VOC Sensing in Fruits",
-      "publisher": "IEEE Xplore (HNI CEM’23)",
+      "publisher": "IEEE Xplore (HNICEM’23)",
       "releaseDate": "2023",
       "summary": "Built and tested e-nose prototype for Lakatan banana ripeness detection using CFD analysis."
     }

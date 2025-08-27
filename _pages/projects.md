@@ -26,13 +26,13 @@ children:
     <div class="col">
       <a class="card p-4 text-center shadow-sm" href="/projects/mechanical/">
         <h3>⚙️ Mechanical</h3>
-        <p>Robotics, CAD, and mechanical design projects.</p>
+        <p>CAD, manufacturing processes and mechanical design projects.</p>
       </a>
     </div>
     <div class="col">
       <a class="card p-4 text-center shadow-sm" href="/projects/electronics/">
         <h3>🔌 Electronics</h3>
-        <p>Embedded systems, circuits, and automation.</p>
+        <p>Embedded systems, robotics, and automation.</p>
       </a>
     </div>
     <div class="col">
