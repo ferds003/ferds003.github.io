@@ -3,7 +3,7 @@ layout: page
 title: PCB Design for Traffic Light Sim 
 description: a simple printed circuit board design (PCB) for a traffic light indicator 🚦
 category: electronics
-img: assets/img/2025/pcb/thumbnail_pcb.png
+img: assets/img/2025/pcb/content_pcb4.gif
 giscus_comments: true
 ---
 
