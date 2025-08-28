@@ -121,13 +121,21 @@
     {
       "institution": "De La Salle University",
       "location": "Taft, Ermita, Manila",
-      "url": "https://www.dlsu.edu.ph/",
+      "url": "https://www.dlsu.edu.ph/colleges/gcoe/academic-departments/manufacturing-engineering-management/",
       "area": "Manufacturing Engineering and Management",
       "studyType": "Bachelor of Science",
       "startDate": "2021-01-16",
       "endDate": "2025-08-14",
       "score": "3.2/4.0",
       "courses": ["Applied Robotics", "Industrial Electronics", "Intelligent Manufacturing Systems","Computational Intelligences in Manufacturing"]
+    },
+    {
+      "institution": "De La Salle University",
+      "url": "https://altdsi.dlsu.edu.ph/programs/minor-in-data-science/",
+      "area": "Data Science",
+      "studyType": "Minor Degree",
+      "score": "3.2/4.0",
+      "courses": ["Data Cleaning", "Exploratory Data Analysis", "Data Mining", "Data Visualization", "Machine Learning"]
     }
   ],
   "awards": [
@@ -160,22 +168,26 @@
     {
       "name": "Data Literacy and AI Fundamentals",
       "issuer": "DataCamp",
-      "date": "2024-06"
+      "date": "2024-06",
+      "url": "blog/2025/certifications"
     },
     {
       "name": "Associate Data Scientist Track (90% completion)",
       "issuer": "DataCamp",
-      "date": "2024-06"
+      "date": "2024-06",
+      "url": "blog/2025/certifications"
     },
     {
       "name": "Embedded Systems and OS Development",
       "issuer": "Udemy",
-      "date": "2024-05"
+      "date": "2024-05",
+      "url": "blog/2025/certifications"
     },
     {
       "name": "Robotic Operating Systems (ROS) for Beginners",
       "issuer": "Udemy",
-      "date": "2024-07"
+      "date": "2024-07",
+      "url": "blog/2025/certifications"
     }
   ],
   "publications": [
