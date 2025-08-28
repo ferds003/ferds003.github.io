@@ -15,10 +15,10 @@ The goal of this project is to quantify the time it takes to get to class from t
 
 __Motivation:__
 - Officially – To address the long elevator wait times and inefficiencies that many students experience daily in this building.
-- _Unofficially_ – I want to justify me taking the stairs and know if it was worth taking it everytime I do that unnecessary workout. True story, whenever I have classes in Andrew, I avoid the snake-like elevator line because: 1.) I don’t like being shoulder-to-shoulder with fellow students, lalo na kung pawis ako galing commute (at aminin natin, totoo ung stereotype na mahusga mga tao lalo na sa uni na 'to). 2.) I'm claustrophobic.
+- _Unofficially_ – I want to justify me taking the stairs and know if it was worth taking it everytime I do that unnecessary workout. True story, whenever I have classes in Andrew, I avoid the snake-like elevator line because: 1.) I don’t like being shoulder-to-shoulder with fellow students, lalo na kung pawis ako galing commute. 2.) I'm claustrophobic.
 
 
-Because of these, I usually just take the stairs going up and down (bahala na kung mahingal sa dulo! Check the half-joking pub from `The LaSallian` below, kondisyon ko yan paglagpas ng 12th holy flr haha 😔). I’ve already timed myself before — it takes roughly <mark> 5 minutes at a controlled pace from the ground floor to the 16th floor using the stairs in my experience</mark>, which is manageable. I’ve always wondered: is there really no significant difference between taking the stairs vs. the elevator when going to class?
+Because of these, I usually just take the stairs going up and down and vise-versa! I’ve already timed myself before — it takes roughly <mark> 5 minutes at a controlled pace from the ground floor to the 16th floor using the stairs in my experience</mark>, which is manageable. I’ve always wondered: is there really no significant difference between taking the stairs vs. the elevator when going to class?
 
 <div class="row mt-3 justify-content-center">
     {% include figure.liquid loading='eager' path='assets/img/2024/content_lbymf4b.png' class='img-fluid rounded z-depth-1' %}
@@ -117,8 +117,9 @@ We targeted afternoon classes on peak hours to really mimic the time it takes to
 ### HOW THIS CAN BE FURTHER IMPROVED
 - While **10 cycles** provided a workable baseline, more repetitions would improve statistical reliability, given the large range of possible destinations.
 - Real-world factors such as **gate choice, class schedules, and crowd behavior** directly impacted station cycle times.
-- The study validated group members’ personal experiences but also quantified them for actionable improvement.
-- This method can serve as a **benchmark** for deciding whether rushing to the elevator during peak periods is worth it compared to alternative routes (e.g., taking the stairs).
+- A one-tailed T-test may have been better since we are dealing with time and there is really no significant difference at the start of the standard time. So a better phrasing of the question would be: "Is 7 minutes waiting at the elevator significantly greater than 5 minutes taking the stairs?"
+- The study validated group members’ personal experiences but also a more diverse dataset of other student experience will improve the data gathering.
+- This method can serve as a **benchmark** for deciding whether rushing to the elevator during peak periods is worth it compared to alternative routes (e.g., taking the stairs) but there is really two options so a better statistical inference can be explored too (assuming a poisson distribution since we are dealing with time instead of a normal distribution would be nice!)
 
 Let me know in the comments if this is a valid take on the waiting situation in Andrew. Thanks! 
 
