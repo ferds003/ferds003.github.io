@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-28T04:56:43+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-28T14:12:43+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
 </subtitle><entry><title type="html">What is MEM?</title><link href="https://ferds003.github.io/blog/2025/what-is-MEM/" rel="alternate" type="text/html" title="What is MEM?" /><published>2025-06-24T20:40:00+00:00</published><updated>2025-06-24T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2025/what-is-MEM</id><content type="html" xml:base="https://ferds003.github.io/blog/2025/what-is-MEM/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Friends and family that always ask this about me; Students curious about the course; Employers and industry professionals asking how this course is different with other engineering pursuits;</p>
 
 <p><em>Note 1: My personal opinions about the matter and does not reflect the opinions of others and the MEM department :&gt;.</em></p>
@@ -17,7 +17,7 @@
   <li>A: MEM is an interdisciplinary degree. It covers many traditional ascpets of engineering with the specific intention to apply it within a manufacturing setting. Ika-nga sabi nila samin “jack of all trades” kami since we try to learn <code class="language-plaintext highlighter-rouge">mechanical-electrical systems</code>, <code class="language-plaintext highlighter-rouge">operational research</code>, <code class="language-plaintext highlighter-rouge">management skills</code> and <code class="language-plaintext highlighter-rouge">programming skills</code> for our career. Personally, broad and vague parin ang role ng isang MEM outside the field. The department cast a big net for us to choice what career path we can take and venture out once we graduate. It is up to MEM graduate to determine which path they want to take whether it is a more people-oriented role (management) or technical-oriented role (mechatronics, robotics). This aligns rin sa sinasabi nila on their mission-vision that you may check below!</li>
 </ul>
 
-<p>Naalala ko talaga yung time na nag-consult ako ng idea sa isang Chem Eng prof bago ako mag-pitch sa isang competition. Ang tanong ko lang naman noon: feasible ba yung technology given the constraints? Pero iba yung naging sagot/advice niya. Sabi niya (non-verbatim): <em>“Wala ka pang skills para mag-decide niyan kasi sa MEM department, hindi naman tinuturo yung fundamentals tulad ng ginagawa sa Chem Eng. Sila nagaral ng organic chemistry na mismo mga taga-Chemistry dept. nagturo, kaya mas solid yung foundation.”</em></p>
+<p>Naalala ko talaga yung time na nag-consult ako ng idea sa isang Chem Eng prof bago ako mag-pitch sa isang competition. Ang tanong ko lang naman noon: feasible ba yung technology that I will pitch given the constraints? Pero iba yung naging sagot/advice niya. Sabi niya (non-verbatim): <em>“Wala ka pang skills para mag-decide niyan kasi sa MEM department, hindi naman tinuturo yung fundamentals tulad ng ginagawa sa Chem Eng. Sila nagaral ng organic chemistry na mismo mga taga-Chemistry dept. nagturo, kaya mas solid yung foundation.”</em></p>
 
 <p>Dagdag pa niya, bakit daw kami gumagawa ng agri-tech projects kung wala kaming similar foundation — kaya hindi raw siya bilib sa amin. Looking back, may point naman talaga sa sinabi niya. Kaya nga lumapit din ako sa isang Chem Eng friend for support haha.  <strong>Moral of the story:</strong> <code class="language-plaintext highlighter-rouge">MEM touches many engineering fields, pero hindi siya nag-s-specialize sa isa</code>. Kaya nasa MEM graduate mismo yung responsibility to carve their own path and build their own expertise!</p>
 
@@ -83,10 +83,10 @@
 
 <p><mark> Q: "How does MEM differ from Mechanical, Electrical, or Industrial Engineering?" </mark></p>
 <ul>
-  <li>A: We have a very wide scope of learning applications talaga. There is no easy way to say that we cover the necessary knowledge and competencies to apply topics in relation to mechanical, electrical and industrial fields. Ang kahinaan lang namin is that we cant specialize and earn professional licensing since our line of work does not deal with specific critical works that needs licensing like HVAC systems or full-circuit panelling for buildings. Tinuro samin mga concepts na to though so that handa kami to know and approach the appropriate personnel to handle that kind of work.</li>
+  <li>A: We have a very wide scope of learning applications. There is no easy way to say that we cover the necessary knowledge and competencies to apply topics in relation to mechanical, electrical and industrial fields. Ang kahinaan lang namin is that we cant specialize and earn professional licensing since our line of work does not deal with specific critical works that needs licensing like HVAC systems or full-circuit panelling for buildings. Tinuro samin mga concepts na to so that handa kami as fundamentals for our intended application in the field at kung sino ung lalapitan to handle that kind of work.</li>
   <li><mark> Follow Q: "Ah so parang industrial lang kayo?" </mark>
     <ul>
-      <li>A: Ehh, hindi po. Never is. While we cover some of their topics like production and operations management as well as ergonomics, we never really specialize the field of management and operations. IE career paths will cover improving processes, ERP, logistics, or service management, kami on the other hand will also focus on other aspects of the manufacturing plant like that of the machines and its maintenance, the interconnectivity of wireless sensors network (IoT), and quality control. Pero still, many MEM opt to get also six-sigma certifications for lean manufacturing.</li>
+      <li>A: Ehh, hindi po. Never is. While we cover some of their topics like production and operations management as well as ergonomics, we never really specialize the field of management and operations. IE career paths will cover improving processes, ERP, logistics, or service management to name a few, kami on the other hand will also focus on other aspects of the manufacturing plant like that of the machines and its maintenance, the interconnectivity of wireless sensors network (IoT), and quality control. Pero still, many MEM opt to get also six-sigma certifications for lean manufacturing.</li>
     </ul>
   </li>
   <li><mark> Follow Q: "Ah so parang more on mechanical eng kayo mas focused lang on manufacturing?" </mark>
@@ -98,53 +98,56 @@
 
 <p><mark> Q: "Ah wala kayong professional license?" </mark></p>
 <ul>
-  <li>A: Oo wala. Walang PRC board ang manufacturing engineers and it is not really an established norm for us MEM grads since we are under the assumption that the specific job and careers we will do does not require one. Magugulat ka lang rin that only in the Philippines will they require a PRC license to do entry-level jobs while other countries are looking for experience of 2 years before they can get a license. Kaya, parang blessing in disguise to for us, since we can get jobs using our degree (supposedly) and do technical work despite not us having a PRC license. Kung need ng certifications, go, kuha namin yan. SME provides manufacturing engineer certs, may LSS if we will be going other QC and CI/CD in production. Yung mahalaga samin (and I find this now in a more appreciative light), is we need to gain experience, thats why our course covers a 6-month internship too.</li>
+  <li>A: Oo wala. Walang PRC board ang manufacturing engineers and it is not really an established norm for us MEM grads since we are under the assumption that the specific job and careers we will do does not require one. Kung need ng certifications, go, kuha namin yan. SME provides manufacturing engineer certs, may LSS if we will be going other QC and CI/CD in production. Yung mahalaga samin (and I find this now in a more appreciative light), is we need to gain experience, thats why our course covers a 6-month internship too.</li>
 </ul>
 
 <p><mark> Q: "What industries commonly hire MEM graduates?" </mark></p>
 <ul>
-  <li>A: Misconception that MEM graduates only path is that of manufacturing industries like that of semicon, or FMCG. I know graduates who are dealing with product development, some in freelancing on programming while others are deep into doing tech work like data analyst, data engineers and embedded systems developer. One thing na lagi sinasabi samin is that we get to decide still what kind of work we do once we are outside college but the department will provide the necessary tools and knowledge to springboard that progress. Like any other technical profession <code class="language-plaintext highlighter-rouge">talino ung puhunan</code> kahit may license or certifcations. Basta kung san ka magaling, kampante at masaya (doesn’t have to be all three!), kung may opening for that job and fit ka sa JD, apply lang haha</li>
+  <li>A: Misconception that MEM graduates only path is that of manufacturing industries like that of semicon, or FMCG popular in the country. I know graduates who are dealing with product development, some in freelancing on programming while others are deep into doing tech work. One thing na lagi sinasabi samin is that we get to decide still what kind of work we do once we are outside college but the department will provide the necessary tools and knowledge to springboard that progress. Like any other technical profession <code class="language-plaintext highlighter-rouge">talino ung puhunan</code> kahit may license or certifcations. Basta kung san ka magaling, kampante at masaya (doesn’t have to be all three!), kung may opening for that job and fit ka sa JD, apply lang haha</li>
 </ul>
 
 <p><mark> Q: "Bago ba yang kurso mo? Unang beses ko lang kasi yan narinig" </mark></p>
-
 <ul>
-  <li>A: Well established na ang MEM before pa ako pinanganak. Around 1980’s ung start of the program here in DLSU, as a call for Industry 4.0 to have graduates with specific sets of skills to push forth advancement of intelligent manufacturing systems here in the country since uso ung robotics and information technology at the time (even now!) Since then, I think 3 other universities within the country are offering this degree with at least a society of manufacturing engineers (SME) chapter present in major engineering-heavy universities you can think of.</li>
+  <li>A: Well established na ang MEM bago pa ako pinanganak. Around 1980’s ung start of the program here in DLSU, as a call for Industry 4.0 to have graduates with specific sets of skills to push forth advancement of intelligent manufacturing systems here in the country since uso ung robotics and information technology at the time (even now!) Since then, I think 3 other universities within the country are offering this degree with at least a society of manufacturing engineers (SME) chapter present in major engineering-heavy universities you can think of.</li>
 </ul>
 
 <p><mark> Q: "Marunong ba kayo mag-coding? Name your known languages" OR "Bat ka nag-apply in a code-heavy job? Parang hindi naman kayo dapat nagcocode" </mark></p>
 <ul>
-  <li>A: Yes, we do in fact code. In fact lahat ng engineering students marunong na magcode. Dalubhasa nga kami to the point na polygot kami since we know multiple languages, kung counted programming languages (jk 1/2). we cover C/C++ programming for embedded systems, robotics, and mechatronic systems; Python/MATLAB for computational intelligence and intelligent manufacturing systems; G-code for machine programming pero automatic na ginawa na yan ng software for additive manufacturing as well as CNC programming. What’s more critical on all of this is the need to see the end goal for why we are programming diba? For example, its either we are building a system/product with a specific use in my mind like making a kanban board for your QC team or troubleshooting faults in the 3D printing, it is essential that alam natin ano ung ginagawa natin :)) Harsh but true. People in the field care about the results and not the process. In fact, in this age, I’d say essential talaga to know coding as a way of life na lalo na kung technical person ka we, MEM, prepare ourselves for it.</li>
+  <li>A: Yes, we do in fact code. In fact lahat ng engineering students marunong na magcode. We cover C/C++ programming for embedded systems, robotics, and mechatronic systems; Python/MATLAB for computational intelligence and intelligent manufacturing systems; and familiarity with G-code for machine programming often done in 3D printing and CNC machining. Yung essential lang naman is that alam natin ano ung ginagawa natin and how we can deliver value to our stakeholders.</li>
 </ul>
 
 <p><mark> Q: "May job security ba sa pagkuha ng MEM?" </mark></p>
 <ul>
-  <li>A: Dipa ako sure eh, internship palang nakamit ko eh so update ko nalang to pagmay starting job na ako. My experience so far naman is that depende parin sa tao yan. My current internship did not require me to present a portfolio and list of works, basta nakita nila ung MEM title, parang nasa isip nila “ayos to ah, masubukan kaya since planta naman rin kami” (non-verbatim pero yan raw ung rason bakit out of many applicants, ako napili aside from me also being near the site).</li>
-</ul>
-
-<p>On a more serious note, I still provided naman a then a portfolio in my resume, to see my works and mas need to for sure for those who will apply for technical work like software internship and dev work.</p>
-
-<ul>
-  <li><mark> Follow Q: "Ok ba turo diyan sa DLSU MEM?" </mark>
+  <li>
+    <p>A: Dipa ako sure eh, internship palang nakamit ko (as of writing) eh so update ko nalang to pagmay starting job na ako. My experience so far naman is that depende parin sa tao yan and on the JD. My current internship did not require me to present a portfolio and list of works. More like my resume checks all their boxes. I still provided naman them a portfolio in my resume, to let them see my works and mas need to for sure for those who will apply for technical work like software internship and dev work.</p>
+  </li>
+  <li>
+    <p>To answer this in a different perspective, you might say rin that taking MEM is a risk since very specific industry you tinatarget mo for a job and if dika seryoso, you wont be able to get your desired job position. Its worth noting that like any other eng-course, its not really a trade-school na ituturo lang sayo ung need mo skills para job-ready ka, may halong theoretical rin. Pero minsan nagtataka din ako eh. May mga kasabayan ako di marunong gumamit ng multimeter. Iba struggling mag-soldering. Kaya depende parin sa tao yan paano nila magagamit ung turo. You will never really know if you are job-ready until matanggap ka sa trabaho. Gisa lang sa apoy hanggang masanay.</p>
+  </li>
+  <li>
+    <p><mark> Follow Q: "Ok ba turo diyan sa DLSU MEM?" </mark></p>
     <ul>
-      <li>A: IMHO, like any other university, it’s a spectrum. You will meet industry-renowned professors who are diligent and very passionate. Ung tipong alam mo may pake sila sa estudyante kaya either sobrang-down to earth sila sa pagturo o terror prof (pagterror, may paki sa tinuturo kasi sobrang critical sa gawa!). May iba naman na doctorate-level instructors/professors na panget magturo, nakakadismaya. Alala ko ung time na nag-present at sinabihan kami na ang galing ng report kasi kami lang ung may 4B-L kinematic calculations (pinasadahan lang yan sa discussion). Aba, pagdating sa grade consultation, di kami kwats kahit perfect kami sa live reporting dahil late lang kami of one day sa pagsubmit ng pinagpresent namin na PPT. Alat na alat parin ako dun haha. May mas malala pa diyan in my experience (like 50% of the grade is based on a single assessment!) at alam ko may mas matamis na kwento ang ibang kapwa MEM! In this degree, minsan the effort you exert is seen by the prof and appreciated (sino ba hindi? nakikinig kami sa turo). Iba, di worth it ung pawis at sikap. Tbf, rinig ko kapag nasa sapatos ka ng prof parang overworked ka raw sa units and students come and go but these impressions last for us taking the course.</li>
+      <li>
+        <p>A: IMHO, like any other university, it’s a spectrum. In terms of teaching, you will meet industry-renowned professors who are diligent and very passionate. I got to be under their wings and see my career goals being reflected in their experience and work they are doing. Kaya I respect them at the bottom of my heart since sila ung naging role models ko in college (di lang sa MEM pero other profs rin I have work with!). Its not just the work but also more about their life view and the little soft skills na napupulot ko sa kanila every now and then. Tulad ng paano ung pakikitungo sa tao na despite the very technical work still navigate to be down to earth to us students. I strive to be like that type of person in life.</p>
+      </li>
+      <li>
+        <p>On the other side, may iba naman na instructors/professors that will just teach the bare minimum and it shows. Often magugulat ka nalang rin that the syllabus states that 50% of the grade is based on a single final assessment while a lab work worth of 1 unit will require you to do reports with expected revisions. Nakakatawa ung F2F class pero ipapalabas sa klase video recording haha. Meron rin akong experience na pinareport kami, binigay na perfect ung presentation (majority of the grade) at sinabi pa na naiiba kami kasi may calculations kami and whatnot. Ending di kami kwats dahil na-miss lang namin ung pagsubmit ng PPT on time!!</p>
+      </li>
+      <li>
+        <p>Learnings come in many different ways talaga and I wont sugarcoat that sometimes different talaga ung expectations mo of the coursework to reality. Depende rin sa stilo ng prof kaya alam mo na talaga kung sino ung mga profs that will give you a hard time or not. Kaya turo sa MEM? varied parin and if you consider this in your career and if you want to specialize on something that gives value to others, expect mo talaga that self-studying is a necessity. Pero like any other career naman rin yan. Araw-araw dapat trinatrabaho para maging magaling ka on that domain subject. That just how the world works. Effort really pays off!</p>
+      </li>
     </ul>
-
-    <p>The system is sometimes uncooperative to your expectations of the coursework. Kaya diskarte lang talaga at sariling sikap if you want to apply the learnings IRL. Kung gusto mo ng may latin honors, dun ka sa easy kwats kaya agawan yan sa enrollment. Maybe other way around if may learnings kang mapupulot pero maganda talaga ung sweet spot na napakaunderstanding sa situation ng mga estudyante at may katuturan ung mga turo.</p>
   </li>
 </ul>
 
 <p><mark> Q: "Bat parang matagal ung kurso mo?" </mark></p>
 <ul>
-  <li>A: Ganito eh, 13 terms instead of the usual 12 term load. At sa DLSU, isang term covers 3 months since tri-sem, do the math, bale 4-years ang standard. Nadagdagan lang ng isang term for another round of internship. If you consider prep for graduation to be another term, expect niyo a total of 6-months before masasabi mo na graduate ka sa program na ‘to. Worth the wait? Depends sa tao, and honestly, I do find some courses to be redudant and obnoxious talaga (GEs) kasi money conscious ako kahit may scholarship ako (sabihin na ako kuripot pero cmon, kaya nga nag-eng ako eh, appreciate ko na ung arts). Like any other eng-course, its not really a trade-school na ituturo lang sayo ung need mo skills para job-ready ka, may halong theoretical and practical via labs. Balita nga na minsan daig pa ng technician ung bagong graduate and I can’t say but trueeeeeeeeee. May mga kasama ako di marunong mag multimeter or gumamit ng soldering iron kaya there are times talaga that makes me question ano ung standing ng MEM in being job-ready. In fact, I think we will never be until nasa trabaho ka talaga. Gisa sa apoy lang hanggang masanay.</li>
-  <li><mark> Follow-up Q: "So worth it ba talaga mag-MEM?" </mark>
-    <ul>
-      <li>A: Next questions nalang please haha dejk. Siyempre may benefit parin na may degree kasi need siya for work as requirement in the traditional sense. Many are asking for it in the JD. More opened doors and windows once your are graduated. Kaya tinitiis namin ung additional one term since I know na worth it by the end ito for my job in the future and my line of work. Gusto ko ung sabi sakin talaga na ung puhunan namin is ung talino namin. Kaya, maghanda lang talaga ng bala para sa giyera!!</li>
-    </ul>
-  </li>
+  <li>A: Ganito eh, 13 terms instead of the usual 12 term load. sa DLSU, isang term covers 3 months since tri-sem, do the math, bale 4-years ang standard. Nadagdagan lang ng isang term for another round of internship. If you consider prep for graduation to be another term, expect niyo a total of 6-months before masasabi mo na graduate ka sa program na ‘to.</li>
 </ul>
 
-<p>Ayan, tapos na QnA pero magdadagdag pa ako ng mga karagdagan na mga tanong from time to time kapag may magtanong ulit sakin na paulit-ulit haha. Below are some misc videos and photos that I have throughout my stay in DLSU.</p>
+<p>QnA done. Magdadagdag ako ng mga karagdagan na mga QnAs from time to time kapag may interesting na tanong napadpad sakin o share nalang below sa comments your own take and opinions :))</p>
+
+<p>Below are some misc videos and photos that I have throughout my stay in DLSU.</p>
 
 <hr />
 
@@ -575,7 +578,7 @@
 </swiper-slide>
 </swiper-container>
 <div class="caption mt-2">
-  Random pictures that I have with my batchmates, academic adviser (shoutout to you ma'am Cat!) and cats of DLSU (Ginger loaf on my lap and laptop once)
+  Random pictures that I have with my batchmates, academic adviser (shoutout to you maam cat! ) and cats of DLSU (Ginger loaf on my lap and laptop once)
 </div>
 <hr />
 
@@ -632,13 +635,15 @@
 
 <p>I was never really that active in college internally in terms of orgs and in my batch. I was looking for opportunities outside college kasi sabi ko sa sarili ko ung real learnings are out there for me to get. Layo tingin ko eh, I was always busy for the next thing and lagi ako naghahabol ng tren o jeep bago magrush-hour lalo na sa EDSA station kaya less time to mingle and more time to worry the 2 1/2-hours commute back (see the videos below!). I never regret prioritizing myself for my own convenience pero I know I do everything with 100% effort on my end!! (I hope my fellow batchmates will agree kahit may pagkukulangan rin ako minsan :”&gt;)</p>
 
-<p>A lesson lang rin for me is that may politics pa rin pala kahit eng and I think di yan mawawala hanggang sa workplace. Magugulat nalang ako na may tsimis napala sakin pero oks lang kwento nila un sakin haha. Skl here na ako raw ung dahilan bakit naging mandatory ung acad advising even for honor-standing in the dept. since the last eval made 🥹🥹 (2025). Wala naman ako tinatapakan na tao, laging best of my abilities sa mga projects, at ok naman budhi ko kaya masasabi ko I lived a good college life so far, no regrets!</p>
+<p>A lesson lang rin for me is that may politics pa rin pala kahit eng and I think di yan mawawala hanggang sa workplace. Magugulat nalang ako na may tsimis napala sakin haha. Skl here na ako raw ung dahilan bakit naging mandatory ung acad advising even for honor-standing in the dept. since the last eval made 🥹🥹 (2025). Wala naman ako tinatapakan na tao, laging best of my abilities sa mga projects, at ok naman budhi ko kaya masasabi ko I lived a good college life so far, no regrets!</p>
 
 <p>College just gives me the avenue and skills to deliver at since bata pa ako, hungry ako to prove myself I can be better and do tech work within this chosen field of mine. Basta marangal, willing ako gawin yan. Ending is that I did finish something naman in my stay but lately realizing na dipa enough.</p>
 
-<p>Looking back, parang may kulang eh, that is when I realized, I never solidified a <code class="language-plaintext highlighter-rouge">niche</code> for myself throughout my stay that I can confidently do even part-time. I got to try many things with this degree and on classes but ayon nga, pickings lang at hindi core. Kaya even right now, upskilling parin to fit my desired role and JD para confidently makasecure ng job since its never really defined what we want to do but rather what can do for others (I hope i’m making sense here haha). Service for others talaga in the end and that’s why it really gives me some sort of relief rin knowing that there are better and successful MEM alumni out there in the field since that means there is still room for improvement (always is). Parang sila ung standard na ginawa ko na goal rin. If they can do it, kaya ko rin na mentality.</p>
+<p>Looking back, parang may kulang eh, that is when I realized, I never solidified a <code class="language-plaintext highlighter-rouge">niche</code> for myself throughout my stay that I can confidently do even part-time. I got to try many things with this degree and on classes but ayon nga, pickings lang at hindi core. Kaya even right now, upskilling parin to fit my desired role and the JD para confidently makasecure ito since its never really defined what we want to do but rather what we can do for others (I hope i’m making sense here haha).</p>
 
-<p>I believe that once I graduate, baka magstart ako from square one ulit but the experinece and memories that I have within MEM, baon ko na in life, both the happy and sad times. Kaya to never forget it, I follow the tips I have below throughout my stay in college.</p>
+<p>Service for others talaga in the end and that’s why it really gives me some sort of relief rin knowing that there are better and successful MEM alumni out there in the field since that means there is still room for improvement (always is). Parang sila ung standard na ginawa ko na goal rin. If they can do it, kaya ko rin na mentality.</p>
+
+<p>I believe that once I graduate, baka magstart ako from square one ulit but the experinece and memories that I have within MEM, baon ko na in life, both the happy and sad times. Kaya to never forget it, I made this portion of the blog. Isang malaking SKL diba haha anyways, I hope this post was insightful, AMA if I missed something or ika nga sabi ng isang mem prof nung pandemic, “are there any comments, questions or violent reactions? do share it in the <del>zoom</del> chat.”</p>
 
 <p><em>Below is videos of my daily commute going back home and random college stuff that I share as of writing</em></p>
 
@@ -688,16 +693,7 @@
        Me wearing a barong tagalog on commute after the event waiting for the last train back home!
     </div>
   </div>
-</div>
-
-<p><strong>PRACTICAL TIPS FOR FELLOW STUDENTS</strong>:</p>
-<ul>
-  <li><strong>Document x3!</strong>: Document your career and learnings. Nobody will care more deeply about your job in the future than yourself. Walang pake ung department o mga kaibigan mo ano ung trabaho na makukuha mo sa dulo kaya kailangan mo talaga pahawakan ung mga natapos mo throughout your college life. Ikaw lang naman rin ang magiging pinaka-proud sa sarili mo sa mga ano nakamit mo. Tbh, para rin sakin to, knowing that I’m a private person but that does not mean that I don’t care about my career and projects that I did over the years. Properly documentated yan pre, check mo nalang website ko for it. Alala ko ung desiderata at bahagi ko na rin dito since appropriate siya for this tip. It goes like this <code class="language-plaintext highlighter-rouge">Enjoy your achievements as well as your plans. Keep interested in your own career, however humble, it is a real possession in the changing fortunes of time.</code>.</li>
-  <li><strong>Make your own portfolio/personal website!</strong>: Of course, you have the content, you have to now <code class="language-plaintext highlighter-rouge">sell yourself and your work</code>. We are in the <code class="language-plaintext highlighter-rouge">business of making insights and projects</code> (Kami mga MEM), kaya it never hurts to showcase proud projects that you have did in the past and what you have been working on the side. Para nga lang tayong mga computer science in that sense, kasi sila need talaga gumawa ng portfolio para makakuha ng trabaho. Tayo rin dapat handa tayo to be subject to the most critical set of eyes and there is nothing more powerful but to see your work reviewed with your own set of views and explanations, para iwas gisa and critic.</li>
-  <li><strong>Care your career! Do the task fast</strong>: Lets not settle for less. Kung gusto mo magkatrabaho and be at the top of your game, everyday dapat hinahasa ung skills at knowledge. We are in the tech sector nga and hindi ‘to sinasabi sa’tin pero we just need to deliver what is expected from us. Realtalk, kailangan ipakita ung gilas mo and see that you can deliver results. Kaya maganda talaga ung taga-MEM na may <code class="language-plaintext highlighter-rouge">sense of urgency</code> kasi alam nila need ung project and there will be other things to do after it. Pero pace yourself lang rin, pakiramdaman ung trabaho <code class="language-plaintext highlighter-rouge">bago ma-burnout</code>. Work-life balance is an illusion kasi work is part of your life, you can’t separate it talaga since that’s 8-hours of your day. We are defined by our sets of decisions in life and we chose this kind of work thats why its a lifestyle. Hindi work-life balance pero more on finding the <code class="language-plaintext highlighter-rouge">right lifestyle</code> talaga. (did that made sense?)</li>
-</ul>
-
-<p>Hey if you’re still confused or have any reactions in this blog post, AMA further in the giscus comments below!!</p>]]></content><author><name></name></author><category term="personal" /><category term="manufacturing_engineering" /><summary type="html"><![CDATA[QnA about what my course is and my own experience 🤝]]></summary></entry><entry><title type="html">Fixing broken things, Handyman work</title><link href="https://ferds003.github.io/blog/2025/fixing-stuff/" rel="alternate" type="text/html" title="Fixing broken things, Handyman work" /><published>2025-06-12T20:40:00+00:00</published><updated>2025-06-12T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2025/fixing-stuff</id><content type="html" xml:base="https://ferds003.github.io/blog/2025/fixing-stuff/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Future self as reference for future DIY repairs; people who are doing their own DIY repairs at home</p>
+</div>]]></content><author><name></name></author><category term="personal" /><category term="manufacturing_engineering" /><summary type="html"><![CDATA[QnA about what my degree is and my own experiences 🤝]]></summary></entry><entry><title type="html">Fixing broken things, Handyman work</title><link href="https://ferds003.github.io/blog/2025/fixing-stuff/" rel="alternate" type="text/html" title="Fixing broken things, Handyman work" /><published>2025-06-12T20:40:00+00:00</published><updated>2025-06-12T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2025/fixing-stuff</id><content type="html" xml:base="https://ferds003.github.io/blog/2025/fixing-stuff/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Future self as reference for future DIY repairs; people who are doing their own DIY repairs at home</p>
 
 <p><em>Note: Taglish; This post is also casually being updated to add any entries of diy home and electronics repairs made along the years</em></p>
 
@@ -1121,7 +1117,30 @@ One of the few things that I always try to do is to fix things around the house.
 
 <hr />
 
-<p>More DIY repairs to come!</p>]]></content><author><name></name></author><category term="personal" /><category term="handyman_work" /><category term="basic_electronics" /><category term="diy_repair" /><summary type="html"><![CDATA[From repairing microwaves, fixing unresponsive monitors and leaking faucets, here is how I fixed it. 🧑‍🔧]]></summary></entry><entry><title type="html">Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)</title><link href="https://ferds003.github.io/blog/2024/LBYMF4D&MFELEC2/" rel="alternate" type="text/html" title="Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)" /><published>2024-06-13T20:40:00+00:00</published><updated>2024-06-13T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
+<p>More DIY repairs to come!</p>]]></content><author><name></name></author><category term="personal" /><category term="handyman_work" /><category term="basic_electronics" /><category term="diy_repair" /><summary type="html"><![CDATA[From repairing microwaves, fixing unresponsive monitors and leaking faucets, here is how I fixed it. 🧑‍🔧]]></summary></entry><entry><title type="html">Tatak self-study~</title><link href="https://ferds003.github.io/blog/2025/certifications/" rel="alternate" type="text/html" title="Tatak self-study~" /><published>2025-02-12T20:40:00+00:00</published><updated>2025-02-12T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2025/certifications</id><content type="html" xml:base="https://ferds003.github.io/blog/2025/certifications/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Self to remind learnings achieved, Students looking to knwo how to get certifications, employers to know my domain knowledge</p>
+
+<p><em>Note: Content is constantly being updated whenever I have the time to share this here!</em></p>
+
+<p><strong>OVERVIEW</strong>:
+One of the many things that I want to establish in my life as a constant is being a lifelong learner. To not be defined by the grades or numbers in a sheet but on the learnings and projects that have made significant contributions to others. To achieve this, I look outward in getting upskillings and experiences that is not taught formally but is needed in recent advancements in our field. This proves my learnings to others and how I can be of help by applying these transformative needs. Below is a growing set of my certifications!</p>
+
+<h2 id="datacamp">DATACAMP:</h2>
+<p>Evers ince I got student access to datacamp where I both got free access to the courses for 3-months via <code class="language-plaintext highlighter-rouge">GDSC-DLSU chapter</code> (huge thanks!) and another 3-months of access via <code class="language-plaintext highlighter-rouge">Github Student Developer Pack</code>, I have been grinding to absorb data science concepts and tools that was never really pointed-out in my minor degree classes. Since this industry is ever-growing some teaching in college may be outdated for the real-world. Datacamp bridges this gap and offers a wide quality tutorials that is  <code class="language-plaintext highlighter-rouge">exercise-first approach</code> and is packed in smaller bits which I like. So whenever I have a time, I finish one course. Below is the courses that I took as well as completion of tracks that enables me to be job-ready. It focuses on the associate track for data scientst and analyst which was my learning direction as of writing.</p>
+
+<iframe src="https://drive.google.com/file/d/1vFJf_QJArdeX-DF2EE7WTQU4wvYjwEJb/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  My Datacamp certificate of completion for the courses I took in 2024.
+</div>
+
+<p>Now, below is another set of certification of accomplishment in my recent grind to learn more about SQL in the wild as well as proper development under the python language. I was formally introduced to the whole lifecyle where I had assessments covering from: unit-testings, MLOps, and object-oriented programming!</p>
+
+<h2 id="udemy">UDEMY:</h2>
+<p>Udemy has my go-to online platform to get learnings from others with a <code class="language-plaintext highlighter-rouge">known certificate of accomplishment</code> once I have finished a course. Of course there are many alternatives that are free with similar quality content but Udemy is a platform that upholds that quality via <code class="language-plaintext highlighter-rouge">customer ratings and feeback</code> so I dont have to waste time knowing if the teachings that is presented in the course is right for me or not. Plus side is that you get to keep the course forever and has a 30-day refund period if I dont like it. Thankfully, the learnings have been <code class="language-plaintext highlighter-rouge">eye-openers</code> on what I need to do to level-up my career! For me, that would be on embedded systems and the known robotic framework, ROS. Below is my certificate of these concepts.</p>
+
+<iframe src="https://drive.google.com/file/d/1J5F_RQLe9YE-427XP1CqDy3BpTuEqaZm/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  My udemy course certificate of completion
+</div>]]></content><author><name></name></author><category term="personal" /><category term="self_study" /><category term="certifications" /><category term="coding" /><category term="upskilling" /><summary type="html"><![CDATA[my ever-growing certifications 📜]]></summary></entry><entry><title type="html">Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)</title><link href="https://ferds003.github.io/blog/2024/LBYMF4D&MFELEC2/" rel="alternate" type="text/html" title="Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)" /><published>2024-06-13T20:40:00+00:00</published><updated>2024-06-13T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
 
 <p><strong>OVERVIEW</strong>:
 The manufacturing scene is evolving fast. There are many technologies that are being utilized in the field and frankly, no time to catch up. In the Philippines alone, I have seen upskilling for workers for Industry 4.0 in big companies to catch up with the demand and expectations that the current world wants for their plant engineers. For me, staying ahead and learning these topics are essential if I want to enter this type of work in the future. Below is my learnings that I got from my classes in terms of practical skills in <code class="language-plaintext highlighter-rouge">data communication</code>, <code class="language-plaintext highlighter-rouge">IoT integration</code>, and <code class="language-plaintext highlighter-rouge">system automation</code> through the use of microcontroller like <code class="language-plaintext highlighter-rouge">ESP32</code> and <code class="language-plaintext highlighter-rouge">Raspberry Pi</code>.</p>
@@ -3768,91 +3787,4 @@ Digital electronics design has been the heart of innovation for the advancement 
 
 <p>Overall, I realized that you should really align self to the job that you want to take in the future. Majority of my batchmates, I feel, does not want to go into technical work in this field but that is because embedded systems is a niche that the college department never really thought we will explore in the future and just want it to be something we know of. With this in mind, I start my journey of going deep into embedded systems with this knowledge and my aim to upskill further for more opened doors and opportunities!!</p>
 
-<p>PS. Shoutout to Ins for being there in the labs 100% all the way!</p>]]></content><author><name></name></author><category term="embedded_systems" /><category term="electronics" /><category term="automation_and_controls" /><category term="digital_electronics" /><category term="electronics" /><summary type="html"><![CDATA[My learnings and insights made for digital electronics design]]></summary></entry><entry><title type="html">Analog electronics design (MFANLOG &amp;amp; LBYMF2C)</title><link href="https://ferds003.github.io/blog/2022/MFANLOG&LBYMF2C/" rel="alternate" type="text/html" title="Analog electronics design (MFANLOG &amp;amp; LBYMF2C)" /><published>2022-12-22T20:40:00+00:00</published><updated>2022-12-22T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2022/MFANLOG&amp;LBYMF2C</id><content type="html" xml:base="https://ferds003.github.io/blog/2022/MFANLOG&amp;LBYMF2C/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
-
-<p><em>Note: Taglish</em></p>
-
-<p><strong>OVERVIEW</strong>: 
-Analog electronics design focuses on circuits that handle <strong>continuous signals</strong> (voltages and currents that vary smoothly over time). It covers the use of <code class="language-plaintext highlighter-rouge">passive components</code> that configures the electricity passing through its body to perform its function and  <code class="language-plaintext highlighter-rouge">active components</code> that needs an external power independent of the circuit to perform its work. Below is my learnings and reflection from these concepts.</p>
-
-<h2 id="learnings">LEARNINGS:</h2>
-<p>Both the lecture and the lab focuses on circuit analysis where in we had to calculate for the voltage, current and power draw from a specific node of the circuit with the given analog components of the following: <code class="language-plaintext highlighter-rouge">resistors</code>, <code class="language-plaintext highlighter-rouge">capacitors</code>, <code class="language-plaintext highlighter-rouge">inductors</code>, <code class="language-plaintext highlighter-rouge">diodes</code>, <code class="language-plaintext highlighter-rouge">transistors</code>, and <code class="language-plaintext highlighter-rouge">operational amplifiers</code>.</p>
-
-<p>A lesson that I will remember was that from sir Mike Manguerra, our lecture instructor, stating that every circuit analysis is basically a <code class="language-plaintext highlighter-rouge">KVL and KCL down the line</code>. You have to follow the <code class="language-plaintext highlighter-rouge">flow and direction of the voltage and current</code> from the source down to the point of interest. This was valid in transistors that are gates down to op-amps where it increases the signal and amplify its voltage. This was helpful when you are troubleshooting these components that are often seen in many of our electronic devices.</p>
-
-<p><strong>Basic Components</strong></p>
-<ul>
-  <li><strong>Resistors, Capacitors, and Inductors</strong><br />
-Fundamental passive elements that control voltage, current, and energy storage in circuits.
-    <ul>
-      <li>Resistors: Limit current and divide voltages.</li>
-      <li>Capacitors: Store energy and filter signals.</li>
-      <li>Inductors: Store energy in magnetic fields and smooth current flow.</li>
-    </ul>
-  </li>
-  <li><strong>Diodes</strong><br />
-Semiconductor devices that allow current to flow in one direction. Used in <strong>rectifiers, clippers, clampers, and voltage regulation</strong>. I was able to learn about <code class="language-plaintext highlighter-rouge">forward-bias</code> and <code class="language-plaintext highlighter-rouge">reverse-bias</code> type of diodes to prevent current from flowing but on different ways.</li>
-</ul>
-
-<p><strong>Transistor Devices</strong></p>
-<ul>
-  <li><strong>NPN and PNP Transistors (BJTs)</strong><br />
-Bipolar Junction Transistors used for <strong>amplification and switching</strong>. Operate in cutoff, active, and saturation regions.</li>
-  <li><strong>JFETs (Junction Field-Effect Transistors)</strong><br />
-Voltage-controlled devices with high input impedance, commonly used in <strong>amplifiers and analog switches</strong>.</li>
-  <li><strong>MOSFETs (Metal-Oxide-Semiconductor FETs)</strong><br />
-Widely used in <strong>power electronics and analog IC design</strong>, offering high efficiency and scalability.</li>
-</ul>
-
-<p><strong>Amplifiers</strong></p>
-<ul>
-  <li><strong>Small-Signal Amplifiers</strong><br />
-Circuits that boost weak input signals (e.g., audio or sensor signals) without significantly distorting them.</li>
-  <li><strong>Power Amplifiers (Class A, B, AB, C, D)</strong><br />
-Designed to drive loads like speakers or motors, focusing on efficiency and output power.</li>
-  <li><strong>Operational Amplifiers (Op-Amps)</strong><br />
-Versatile building blocks used in <strong>filters, oscillators, comparators, and instrumentation circuits</strong>.</li>
-</ul>
-
-<p><strong>Signal Processing Circuits</strong></p>
-<ul>
-  <li><strong>Rectifiers &amp; Power Supplies</strong><br />
-Circuits that convert AC to DC and regulate voltage for stable operation of electronics.</li>
-  <li><strong>Filters (Low-pass, High-pass, Band-pass, Band-stop)</strong><br />
-Circuits that shape frequency responses, essential in audio, communication, and control systems.</li>
-  <li><strong>Oscillators</strong><br />
-Generate periodic waveforms (sine, square, triangular) for use in <strong>clocks, RF systems, and signal generation</strong>. I got to use the oscilloscope to probe on the voltage and current on our specific circuits.</li>
-  <li><strong>Voltage Regulators</strong><br />
-Maintain constant output voltage despite input or load changes. This was used from our culminating project.</li>
-</ul>
-
-<p><strong>Analysis &amp; Tools</strong></p>
-<ul>
-  <li><strong>Circuit Simulation (Multisim, LTspice, etc.)</strong><br />
-Software tools to model and test circuit performance before physical implementation. I was able to test our circuits using these before trying it out then on the breadboard.</li>
-  <li><strong>Test Instruments (Oscilloscope, Multimeter, Function Generator)</strong><br />
-Essential for measuring voltages, currents, frequencies, and waveforms.</li>
-</ul>
-
-<p>Below is a consolidated document of the activities that I did that highlight the concepts above.</p>
-
-<iframe src="https://drive.google.com/file/d/1Flh2kazL9TAY_cypMcbL1A2IBytfXgkd/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-<div class="caption">
-  Consolidated reports for the use of analog components and competencies
-</div>
-
-<p>Aside from thje concepts above, for the final test of our domain knowledge we were tasked to create a bridge rectifier to convert wall outlet AC voltage to a stable DC voltage with a <code class="language-plaintext highlighter-rouge">transformer</code>, <code class="language-plaintext highlighter-rouge">diodes</code> and other analog components to achieve the goal. Below is our output where in we were able to do it using the breadboard but was unable to transfer it properly to a PCB, maybe due to my improper soldering (trust me, i got better and at the time, I was the only brave enough to kinda deal with blowing diodes and electrocution; I have learned more better ways then!!)</p>
-
-<iframe src="https://drive.google.com/file/d/1myea4b_pIYtMS7nuUrZqsiAViUwY8cIV/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-<div class="caption">
-  Final project for a 9VDC-0.8A regulated power supply. Shoutout to Justine and Kelso who were my groupmates at the time for this project.
-</div>
-
-<p><strong>REFLECTIONS</strong>: 
-There are many funny moments that happened in class like multiple blown components due to diodes being placed in reverse-bias and me connecting resistors in series to achieve the needed resistance since I dont have the off-shelf resistor at hand. The practical exam was us being tested on using the oscilloscope and how we can replicate the analog circuit to then test what is the voltage and current flowing on a certain point (iirc, cmiiw!).</p>
-
-<p>Honestly, these courses, I did not get to see the big picture when I was taking it. I did not pay attention much to the lecture as I always knew that the end goal was on mastering the modern stack which is digital electronics and embedded systems if I really want to make a career out of this. I took it for granted. I was looking ahead, but I was not at the moment. I never realized that I can learn and take this opportunity to learn <code class="language-plaintext highlighter-rouge">printed-circuit boards (PCBs)</code> design and not manually solder it on a universal PCB one.</p>
-
-<p>I could have appreciated more of this if I read more on analog systems and how they operate in the real world. In lieu of this, singit ko na rin ung kwento ni sir mike of MOSPHET speakers which is actually true. They sell these speakers with an advert about good sound from MOSPHETs but in reality its not the MOSPHETs that are doing the filtering for a better sound but its the Op-Amps. Nakita ko na yan sa Quiapo and its very misleading!</p>
-
-<p>Going back, although, I thought I was doing great, I was actually not seeing the value out of these classes. Reflecting on this, my next steps are to further prepare myself with the upskillings that I need to learn PCB design knowing that analog components taught will be used primarily for the power regulations and more advanced concepts like signal processing on embedded systems to determine performance of circuit.</p>]]></content><author><name></name></author><category term="electronics" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><category term="analog" /><summary type="html"><![CDATA[My personal notes and review on analog electronics design 💾]]></summary></entry></feed>
+<p>PS. Shoutout to Ins for being there in the labs 100% all the way!</p>]]></content><author><name></name></author><category term="embedded_systems" /><category term="electronics" /><category term="automation_and_controls" /><category term="digital_electronics" /><category term="electronics" /><summary type="html"><![CDATA[My learnings and insights made for digital electronics design]]></summary></entry></feed>

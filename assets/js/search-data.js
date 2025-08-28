@@ -62,7 +62,7 @@ ninja.data = [{
         
           title: "What is MEM?",
         
-        description: "QnA about what my course is and my own experience 🤝",
+        description: "QnA about what my degree is and my own experiences 🤝",
         section: "Posts",
         handler: () => {
           
@@ -78,6 +78,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/fixing-stuff/";
+          
+        },
+      },{id: "post-tatak-self-study",
+        
+          title: "Tatak self-study~",
+        
+        description: "my ever-growing certifications 📜",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/certifications/";
           
         },
       },{id: "post-smart-factory-intelligent-manufacturing-systems-lbymf4d-amp-mfelec2",
