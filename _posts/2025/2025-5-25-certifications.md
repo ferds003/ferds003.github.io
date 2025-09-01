@@ -9,7 +9,7 @@ thumbnail: assets/img/2025/thumbnail_certifications.png
 giscus_comments: true
 pretty_table: true
 images:
-  slider: true
+  slider: trues
 toc:
   sidebar: right
 featured: true
@@ -17,7 +17,7 @@ featured: true
 
 __TARGET AUDIENCE__: Self to remind learnings achieved, Students looking to knwo how to get certifications, employers to know my domain knowledge  
 
-_Note: Content is constantly being updated whenever I have the time to share this here!_
+_Note: Taglish; Content is constantly being updated whenever I have the time to share this here!_
 
 __OVERVIEW__:
 One of the many things that I want to establish in my life as a constant is being a lifelong learner. To not be defined by the grades or numbers in a sheet but on the learnings and projects that have made significant contributions to others. To achieve this, I look outward in getting upskillings and experiences that is not taught formally but is needed in recent advancements in our field. This proves my learnings to others and how I can be of help by applying these transformative needs. Below is a growing set of my certifications! 

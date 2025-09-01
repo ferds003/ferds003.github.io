@@ -31,8 +31,8 @@ children:
     </div>
     <div class="col">
       <a class="card p-4 text-center shadow-sm" href="/projects/electronics/">
-        <h3>🔌 Electronics</h3>
-        <p>Embedded systems, robotics, and automation.</p>
+        <h3>🔌 Electronics & Software</h3>
+        <p>Embedded systems, robotics, automation and software design.</p>
       </a>
     </div>
     <div class="col">
