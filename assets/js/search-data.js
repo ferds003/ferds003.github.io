@@ -91,6 +91,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/certifications/";
           
         },
+      },{id: "post-jigs-and-fixtures-what-39-s-the-difference-mftldes",
+        
+          title: "jigs and fixtures; what&#39;s the difference? (MFTLDES)",
+        
+        description: "From defining tool design for specific uses to quick-die change systems seen in modern assemblies, I share here my reflections and work about jigs and fixtures (J&amp;Ts) 🔀",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/MFTLDES/";
+          
+        },
       },{id: "post-smart-factory-intelligent-manufacturing-systems-lbymf4d-amp-mfelec2",
         
           title: "Smart factory! Intelligent manufacturing systems (LBYMF4D &amp; MFELEC2)",
@@ -470,6 +481,11 @@ ninja.data = [{
           description: "Utilizing LiDAR to capture a 3D scan of a persons head ready for use and print 🤳🏻",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2023%20LBYMF3H/";
+            },},{id: "projects-cmm-inspection-fixture-for-gearbox-cover",
+          title: 'CMM Inspection Fixture for Gearbox Cover',
+          description: "A fixture precision tool for securing components during metrology measurements 🛠️",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2024-Fixture/";
             },},{
         id: 'social-email',
         title: 'email',

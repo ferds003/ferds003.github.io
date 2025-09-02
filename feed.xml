@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-09-01T06:44:44+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-09-02T11:29:44+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
 </subtitle><entry><title type="html">What is MEM?</title><link href="https://ferds003.github.io/blog/2025/what-is-MEM/" rel="alternate" type="text/html" title="What is MEM?" /><published>2025-06-24T20:40:00+00:00</published><updated>2025-06-24T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2025/what-is-MEM</id><content type="html" xml:base="https://ferds003.github.io/blog/2025/what-is-MEM/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Friends and family that always ask this about me; Students curious about the course; Employers and industry professionals asking how this course is different with other engineering pursuits;</p>
 
 <p><em>Note 1: My personal opinions about the matter and does not reflect the opinions of others and the MEM department :&gt;.</em></p>
@@ -1140,7 +1140,364 @@ One of the many things that I want to establish in my life as a constant is bein
 <iframe src="https://drive.google.com/file/d/1J5F_RQLe9YE-427XP1CqDy3BpTuEqaZm/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
 <div class="caption">
   My udemy course certificate of completion
-</div>]]></content><author><name></name></author><category term="personal" /><category term="self_study" /><category term="certifications" /><category term="coding" /><category term="upskilling" /><summary type="html"><![CDATA[my ever-growing certifications 📜]]></summary></entry><entry><title type="html">Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)</title><link href="https://ferds003.github.io/blog/2024/LBYMF4D&MFELEC2/" rel="alternate" type="text/html" title="Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)" /><published>2024-06-13T20:40:00+00:00</published><updated>2024-06-13T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
+</div>]]></content><author><name></name></author><category term="personal" /><category term="self_study" /><category term="certifications" /><category term="coding" /><category term="upskilling" /><summary type="html"><![CDATA[my ever-growing certifications 📜]]></summary></entry><entry><title type="html">jigs and fixtures; what’s the difference? (MFTLDES)</title><link href="https://ferds003.github.io/blog/2024/MFTLDES/" rel="alternate" type="text/html" title="jigs and fixtures; what’s the difference? (MFTLDES)" /><published>2024-12-01T20:40:00+00:00</published><updated>2024-12-01T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/MFTLDES</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/MFTLDES/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts; Self</p>
+
+<p><em>Note:</em></p>
+
+<p><strong>OVERVIEW</strong>:
+One of the crucial topics that defines a modern assembly line is the use of jigs and fixtures throughout each process station. The use of course, is to do <code class="language-plaintext highlighter-rouge">tedious and repetitive jobs consistently</code>. I have witnessed this in my field trip and also in my internship. An example to this is my time in SCPA where there is a roll rewinding process for big ply of tissue discarded when a defect is seen by operator. A <code class="language-plaintext highlighter-rouge">simple fixture</code> clamps the ply of roll and operator gets the core paperbond (the hard carton inside) to separate it for recycling. Granted that this may be automated in the future,  J&amp;Ts <code class="language-plaintext highlighter-rouge">ease the operator's life</code> of segregating the two different materials from the compounded product. To know, more about this, below is a summary of the learnings that I have regarding J&amp;Ts design. I also provide a consolidated document of lesson slides below for reference! :&gt;</p>
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1haVgcSsdcjwegfGhunnRHXSimI0WdZ08/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+  </div>
+</div>
+<div class="caption">
+  Me explaining what a fixture plate is! Preview for the topics below
+</div>
+
+<h2 id="jig-vs-fixture">Jig vs. Fixture?</h2>
+
+<p>One of the many things that confuses a lay person in regards to this topic is the differene between jig and fixture. Simply put, jigs act as a guide for a tool to follow to the desired position and reference. This is meant to help the <code class="language-plaintext highlighter-rouge">manufacturer</code> or <code class="language-plaintext highlighter-rouge">operator</code> to create a product in a consistent manner. Fixtures, on the other hand, is a device that holds a workpiece in a specific position. This is meant to help the <code class="language-plaintext highlighter-rouge">operator</code> ensure that there is no deviation from the manufacturing operation to be done on the workpiece. Of course, the concept is interchangeable and there are tools now that can do both. Like a fixture plate in a drilling machine both clamps the workpiece and also ensure that the drill on top firmly touches the product upon contact.</p>
+
+<p>In the field, many things may happen. Machines are feared to break and operators prone to human error therefore making a tool that ensures consistency is the <code class="language-plaintext highlighter-rouge">name of the game</code>.  The difference is that jigs are used</p>
+
+<p><strong>TLDR:</strong></p>
+<ul>
+  <li>Jigs: Locate and hold workpieces, positioning and guiding cutting tools.</li>
+  <li>Fixtures: Locate and hold devices used with machine tools, inspection, welding, and assembly</li>
+</ul>
+
+<h2 id="tool-design">Tool Design:</h2>
+<p>Tool design is the process of creating tools, methods, and techniques to improve manufacturing efficiency and productivity, providing industries with machines and tooling for high-speed, high-volume production at competitive costs. It’s a continuous problem-solving process adapting to various manufacturing needs.</p>
+
+<ul>
+  <li>Lower manufacturing costs while maintaining <code class="language-plaintext highlighter-rouge">quality and increasing production</code>.</li>
+  <li>Provide simple, <code class="language-plaintext highlighter-rouge">easy-to-operate</code> tools for maximum efficiency.</li>
+  <li><code class="language-plaintext highlighter-rouge">Reduce manufacturing expenses</code> by producing high-quality parts at the lowest cost.</li>
+  <li>Increase <code class="language-plaintext highlighter-rouge">production rates</code> with existing machine tools.</li>
+  <li>Design <code class="language-plaintext highlighter-rouge">foolproof</code> tools that prevent improper use.</li>
+  <li>Select materials for adequate tool life.</li>
+  <li>Ensure <code class="language-plaintext highlighter-rouge">maximum operator safety</code>.</li>
+</ul>
+
+<p>Tool tolerance should generally be <strong>20–50% of part tolerance</strong> to ensure consistency without excessive precision costs.</p>
+
+<p><strong>Planes of Movement</strong></p>
+<ul>
+  <li>Workpieces have <strong>12 potential directions of movement</strong> (6 translations + 6 rotations).</li>
+  <li>Proper fixture design must <strong>restrict all of these DOF</strong> using locators and clamps.</li>
+</ul>
+
+<p><strong>Design Specifics:</strong></p>
+<ul>
+  <li>Special tooling vs. modified equipment.</li>
+  <li>Multiple-spindle vs. single-spindle machines.</li>
+  <li>Single-purpose vs. multipurpose tools.</li>
+  <li>Cost justification.</li>
+  <li>Gauge types for each operation.</li>
+</ul>
+
+<h2 id="jigs-and-fixture-design-conventions">Jigs and Fixture Design Conventions</h2>
+
+<ul>
+  <li>Fixtures should be designed so that parts <strong>fit only in the correct orientation</strong>.</li>
+  <li>Prevents assembly errors and ensures repeatability.</li>
+</ul>
+
+<p>1.) Strong frame to minimize deflection and prevent chatter.
+2.) Frames built from sections, fastened with screws or welds.
+3.) Provisions for correct workpiece positioning.
+4.) Easy workpiece insertion and removal.
+5.) Rapid clamping with minimal operator effort.
+6.) Accessible and easily positioned clamps.
+7.) Spring-supported clamps.
+8.) Controlled clamp swing.
+9.) Visible and accessible clamps, supports, and locators.
+10.) Uniform wrench sizes for adjustments.
+11.) Attached loose parts.
+12.) Stable workpiece positioning with three fixed support points.
+13.) Adjustable support points for smooth, flat workpieces.</p>
+
+<p><strong>Clamping and Workholding Principles</strong></p>
+<ul>
+  <li>Workholders must <strong>clamp, chuck, hold, or grip parts</strong> securely.</li>
+  <li>Clamp against locators to prevent shifting.</li>
+  <li>Strong enough to resist tool forces.</li>
+  <li>Must not damage or deform the part.</li>
+  <li>Fast-acting for productivity.</li>
+</ul>
+
+<p><strong>Positioning of Clamps</strong></p>
+<ul>
+  <li>Apply force at the <strong>most rigid point</strong> of the part.</li>
+  <li>Avoid interference with tools or machine operations.</li>
+</ul>
+
+<p><strong>Burr Clearance</strong></p>
+<ul>
+  <li>Primary and secondary burrs must be considered in fixture design.</li>
+</ul>
+
+<p><strong>Installation</strong></p>
+<ul>
+  <li>Correct fit is critical.</li>
+  <li><strong>Jig Plates</strong> hold and position bushings. Thickness depends on bushing size.</li>
+  <li>End of the bushing should <strong>not touch the workpiece</strong> (exceptions for high accuracy).</li>
+</ul>
+
+<h2 id="-methods-of-locating-work">📍 Methods of Locating Work</h2>
+
+<p><strong>From a Flat Surface</strong></p>
+<ul>
+  <li>Solid supports</li>
+  <li>Adjustable supports</li>
+  <li>Equalizing supports</li>
+</ul>
+
+<p><strong>From an Internal Diameter</strong></p>
+<ul>
+  <li>Shank-type locators</li>
+  <li>Pin-type locators</li>
+  <li>Diamond locators</li>
+  <li>Relieved locators</li>
+</ul>
+
+<p><strong>From an External Profile</strong></p>
+<ul>
+  <li>Nesting locators</li>
+  <li>Partial nesting locators</li>
+</ul>
+
+<iframe src="https://drive.google.com/file/d/1_4K7xR_iTzYDW_mwFUQqz0fdS49JpkhH/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Consolidated lesson slides that I have for this topic for future reference and others to see!
+</div>
+
+<div class="row mt-3 justify-content-center">
+    
+
+
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      
+        <source class="responsive-img-srcset" srcset="/assets/img/2024/content_lbymf4b-480.webp 480w,/assets/img/2024/content_lbymf4b-800.webp 800w,/assets/img/2024/content_lbymf4b-1400.webp 1400w," type="image/webp" sizes="95vw" />
+      
+    
+    <img src="/assets/img/2024/content_lbymf4b.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" data-zoomable="" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+  </picture>
+
+  
+</figure>
+
+</div>
+<div class="caption">
+  The Lasallian spoof pic post that I find very relatable for this case. ctto!
+</div>
+
+<h2 id="quick-die-change-systems">Quick-Die Change Systems:</h2>
+<p>As a culmination of the topics, aside from the CAD work, we were tasked to present a modern manufacturing concept that applies J&amp;Ts. We chose qucick die change systems that is often seen in <code class="language-plaintext highlighter-rouge">mold injection process</code> or <code class="language-plaintext highlighter-rouge">metal stamping process</code> where a need to have varying operations done on a machine is needed. Below is a summary of this concept and our report regarding this beauty~!</p>
+
+<p>Quick Die Change systems:</p>
+<ul>
+  <li>Improve <strong>safety, productivity, and quality</strong> compared to traditional die handling.</li>
+  <li>Reduce <strong>risk of injury</strong> and machine downtime.</li>
+  <li>Ensure <strong>consistent product quality</strong> through precise and repeatable die changes.</li>
+</ul>
+
+<h2 id="advantages-of-qdcs">Advantages of QDCs</h2>
+
+<ul>
+  <li><strong>Reduced Downtime &amp; Increased Productivity</strong>: Faster changeovers increase available production time.</li>
+  <li><strong>Shorter Production Runs</strong>: Frequent changeovers possible without loss of capacity.</li>
+  <li><strong>Reduced Manufacturing Lead Time</strong>: Increases operational efficiency and responsiveness.</li>
+  <li><strong>Improved Safety</strong>: Automation reduces manual handling accidents.</li>
+  <li><strong>Higher Quality</strong>: Accurate die positioning prevents tool damage and ensures consistency.</li>
+</ul>
+
+<h3 id="synthesis-of-advantages-of-qdcs">Synthesis of Advantages of QDCs</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Main Advantage</th>
+      <th>Key Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Reduced Downtime</td>
+      <td>Enables more uptime with rapid die swaps</td>
+    </tr>
+    <tr>
+      <td>Shorter Runs</td>
+      <td>Flexibility for smaller lot production</td>
+    </tr>
+    <tr>
+      <td>Reduced Lead Time</td>
+      <td>Greater adaptability in operations</td>
+    </tr>
+    <tr>
+      <td>Improved Safety</td>
+      <td>Fewer manual interventions, less risk</td>
+    </tr>
+    <tr>
+      <td>Higher Quality</td>
+      <td>Stable positioning minimizes die wear</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="general-parts-and-configuration-of-qdcs">General Parts and Configuration of QDCs</h2>
+
+<p>QDC systems generally include:</p>
+
+<ol>
+  <li><strong>Die Clamping Systems</strong>
+    <ul>
+      <li>Mechanical, hydraulic, or permanent electro-mechanical clamps.</li>
+      <li><strong>Hydraulic clamps</strong>: safer; prevent press operation if misaligned.</li>
+      <li>Types: <em>single-acting</em> and <em>double-acting</em>.</li>
+      <li><strong>Permanent electric magnetic clamps</strong>: optional, for delicate workpieces.</li>
+    </ul>
+  </li>
+  <li><strong>Die Transport &amp; Positioning Systems</strong>
+    <ul>
+      <li>Automates die loading/unloading and alignment.</li>
+      <li>Prevents damage from manual handling.</li>
+      <li>Examples: <em>Rigid chain rolling bolster systems</em>, <em>die cart systems</em>.</li>
+    </ul>
+  </li>
+  <li><strong>Other Components</strong>
+    <ul>
+      <li><strong>Die arms (bolster extensions)</strong>: help move dies into position.</li>
+      <li>Can be <em>movable, fixed, or pivot-positioned</em>.</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="implementation-of-qdcs">Implementation of QDCs</h2>
+
+<ul>
+  <li>Considerations extend beyond shape and tolerance — dies must produce <strong>usable parts without constant revisions</strong>.</li>
+  <li>Reliability and repeatability are essential for long-term success.</li>
+</ul>
+
+<h3 id="qdc-design-and-implementation-considerations">QDC Design and Implementation Considerations</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>QDC Component</th>
+      <th>Design / Method Selection</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Clamping</td>
+      <td>Hydraulic, mechanical, or electro-magnetic clamps</td>
+    </tr>
+    <tr>
+      <td>Transport</td>
+      <td>Rolling bolsters, die carts, chain systems</td>
+    </tr>
+    <tr>
+      <td>Positioning</td>
+      <td>Precise locator pins, automated alignment</td>
+    </tr>
+    <tr>
+      <td>Safety</td>
+      <td>Interlocks, misalignment prevention</td>
+    </tr>
+    <tr>
+      <td>Productivity</td>
+      <td>Faster cycle times, flexible changeovers</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="relevant-formulas-in-qdc-systems">Relevant Formulas in QDC Systems</h2>
+
+<h3 id="1-die-clamping-force">1. <strong>Die Clamping Force</strong></h3>
+<p>To ensure safe operation, the required clamping force must exceed the tool separation force:</p>
+
+\[F_c = P \times A \times SF\]
+
+<p>Where:</p>
+<ul>
+  <li>( F_c ) = required clamping force (N)</li>
+  <li>( P ) = working pressure of press (N/mm²)</li>
+  <li>( A ) = clamping area (mm²)</li>
+  <li>( SF ) = safety factor (typically 1.5–2.0)</li>
+</ul>
+
+<hr />
+
+<h3 id="2-die-lifting-force">2. <strong>Die Lifting Force</strong></h3>
+<p>For lifting heavy dies during transfer:</p>
+
+\[F_l = m \times g\]
+
+<p>Where:</p>
+<ul>
+  <li>( F_l ) = lifting force (N)</li>
+  <li>( m ) = mass of die (kg)</li>
+  <li>( g ) = acceleration due to gravity (9.81 m/s²)</li>
+</ul>
+
+<p>If multiple lifting points are used:</p>
+
+\[F_{per\ point} = \frac{F_l}{n}\]
+
+<p>Where ( n ) = number of lifting devices.</p>
+
+<hr />
+
+<h3 id="payback-period-economic-assessment"><strong>Payback Period (Economic Assessment)</strong></h3>
+
+<p>Used to evaluate investment feasibility of a QDC system:</p>
+
+\[Payback\ Period = \frac{Initial\ Investment}{Annual\ Savings}\]
+
+<p>Where:</p>
+<ul>
+  <li><em>Initial Investment</em> = cost of QDC system implementation</li>
+  <li><em>Annual Savings</em> = reduced downtime costs + productivity gains + quality improvements</li>
+</ul>
+
+<iframe src="https://drive.google.com/file/d/1jMA8B0AcYsUKGWE4-K2lg_GFYZ_jp1E1/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Consolidated lesson slides that I have for this topic for future reference and others to see!
+</div>
+
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    <div class="embed-container">
+  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1JWEyDusiUBthvgBgE0mbQYU8zNNj5dRd/preview" frameborder="0" allowfullscreen="true">
+  </iframe>
+</div>
+  </div>
+</div>
+<div class="caption">
+    Sample of a QDC system to ensure there is no downtime!
+</div>
+
+<p><strong>REFLECTIONS</strong>: 
+One of the few things that I appreciate in my course but was under delivered was this type of discussions of machines and tools that I will be often seeing in the assembly line or in my line of work. I mean who wouldn’t want to learn more and dive deep into the usage of these types of J&amp;Ts tools and design something from that knowledge. I know in other countries, becoming a tool designer pays mad money. Its a niche work. The YOE and knowledge to pull out the needed requirements for tools design is a few to none type of expertises. Alas, here in the PH, its not typically a route for engineers to do that type of work. The technology needs a craftsman that we are not specialized to do.</p>
+
+<p>Further certifications and education is needed to hone this skill towards creating these beasts in the field. It also needed to determine the usecase of such tools so that we can provide the appropriate costing and assessment to be presented to our stakeholders.</p>
+
+<p>Kung ako lang, gagawin ko na, but the fear of being unemployed pushes me to hone other skills that is readily accepted in major manufacturing. At the end of the day, knowing this is very huge since CAD work is our bread and butter. This can be a future application if wanted!</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="design_and_modelling" /><category term="manufacturing_engineering" /><summary type="html"><![CDATA[From defining tool design for specific uses to quick-die change systems seen in modern assemblies, I share here my reflections and work about jigs and fixtures (J&Ts) 🔀]]></summary></entry><entry><title type="html">Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)</title><link href="https://ferds003.github.io/blog/2024/LBYMF4D&MFELEC2/" rel="alternate" type="text/html" title="Smart factory! Intelligent manufacturing systems (LBYMF4D &amp;amp; MFELEC2)" /><published>2024-06-13T20:40:00+00:00</published><updated>2024-06-13T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2</id><content type="html" xml:base="https://ferds003.github.io/blog/2024/LBYMF4D&amp;MFELEC2/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
 
 <p><strong>OVERVIEW</strong>:
 The manufacturing scene is evolving fast. There are many technologies that are being utilized in the field and frankly, no time to catch up. In the Philippines alone, I have seen upskilling for workers for Industry 4.0 in big companies to catch up with the demand and expectations that the current world wants for their plant engineers. For me, staying ahead and learning these topics are essential if I want to enter this type of work in the future. Below is my learnings that I got from my classes in terms of practical skills in <code class="language-plaintext highlighter-rouge">data communication</code>, <code class="language-plaintext highlighter-rouge">IoT integration</code>, and <code class="language-plaintext highlighter-rouge">system automation</code> through the use of microcontroller like <code class="language-plaintext highlighter-rouge">ESP32</code> and <code class="language-plaintext highlighter-rouge">Raspberry Pi</code>.</p>
@@ -3733,58 +4090,4 @@ The understanding of pneumatic systems is salient to the understanding of the au
 
 <p>It has its <code class="language-plaintext highlighter-rouge">merits</code> though, the world is constantly evolving and the concepts here are outdated. Many of the projects done now cover use of <code class="language-plaintext highlighter-rouge">OPC-UA</code> connection from PLC to the hardware as well as me <code class="language-plaintext highlighter-rouge">CAN-BUS</code> network operations for whole plant connection for <code class="language-plaintext highlighter-rouge">IoT</code>. This course provides a solid foundation whenever we will encounter this in the wild in either our robotic systems or mechatronics ones that are heavy-duty. Let me know your thoughts as well in the comments below!</p>
 
-<p>PS. Shoutout kina Nic na tumulong sakin for the finals at si Adam for being a solid partner throughout the labs.</p>]]></content><author><name></name></author><category term="electronics" /><category term="embedded_systems" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><summary type="html"><![CDATA[Tangled circuits that runs both air and electricity, I share here both theory and practice of industrial electronics and learnings for electro-pneumatic systems 🪢 🔌]]></summary></entry><entry><title type="html">Digital electronics design (MFDIGTL &amp;amp; LBYMF2F)</title><link href="https://ferds003.github.io/blog/2023/MFDIGTL/" rel="alternate" type="text/html" title="Digital electronics design (MFDIGTL &amp;amp; LBYMF2F)" /><published>2023-04-16T20:40:00+00:00</published><updated>2023-04-16T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/MFDIGTL</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/MFDIGTL/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>:  Self, Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
-
-<p><em>Note: This contains notes and slides I have got from this class. putting it here for my own future reference :”&gt;</em></p>
-
-<p><strong>OVERVIEW</strong>:
-Digital electronics design has been the heart of innovation for the advancement of technology from our personal computer to that of smart wearable devices. Therefore, for MEM students and professionals that aim to have ajob within this industry, it is paramount to learn the basics of digital systems. Below covers the lecture and laboratory that I did for this course.</p>
-
-<h2 id="lecture">LECTURE:</h2>
-<p>The lecture covered boolean algebra and expression like that of the dreaded Karnaugh map to simplify logic gates; combinational and sequential circuits and state machines. Digital logic gates (AND, OR, NOT, NAND, NOR) are introduced as the physical implementations of Boolean functions. This was extended to combinational logic circuits, including adders (half and full), comparators, encoders, decoders, multiplexers, and demultiplexers, detailing their functions and applications.</p>
-
-<p>What I find the most confusing was the multiplexer. Based on the lecture, “A multiplexer is a circuit used to select and route any one of the several input signals to a single output,” and  I did try to make a final paper out of this which failed horribly 😅. Sequential circuits, which incorporate storage elements like latches and flip-flops, are then explored, differentiating between SR, D, JK, and T flip-flops. “A sequential circuit may use many flip - flops to store as many bits as necessary,” emphasizing the memory aspect of these circuits.</p>
-
-<p>Lastly state machines were discussed but I never really understand that too. The Mealy and Moore definitions for the state of the machine operation is mentioned to be utilized for gate-level minimization along with K-mapping with Don’t care condition. If there is one thing that this taught me is that the best digital design is the one with the least logic gate used to achieve the desired function of the machine :))</p>
-
-<p>Below is a consolidated document of the calculations that I did for this lecture. As well as PPT slides that I got from the instructor at the time.</p>
-
-<iframe src="https://drive.google.com/file/d/19EGVLnFArMis7ewblyd7-YZdXSyCLn7m/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-<div class="caption">
-  My personal notes and the calculations I did for these concepts!
-</div>
-
-<iframe src="https://drive.google.com/file/d/1NBiTdycAKV5wguTY1q2-ylPmdAFXC5IP/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-<div class="caption">
-  lecture slides from my lodi, doc ronn, about digital design concepts that he discussed in class!
-</div>
-
-<p>Lastly, here is our sort of failed attempt to understand <code class="language-plaintext highlighter-rouge">multiplexers</code> where we envisioned its <code class="language-plaintext highlighter-rouge">use for indoor air quality index determination</code> as sample in real-life. We never really got to the bottom of this since we never had experimental results for this basis and limited discussion on the calibration of the MQ3 sensor that we done. Overall, it was solely basing of the theory behind multiplexers which was even sketchy from the very beginning</p>
-
-<iframe src="https://drive.google.com/file/d/1i_yBNMyUCLDHrosqtEb2E0pzEEc4OsQ2/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-
-<h2 id="laboratory">LABORATORY:</h2>
-<p>The laboratory supplemented the teachings from the lecture class where we were handled to plan, simulate then prototype the gate simulations using an Arduino Uno and the integrated circuit (IC) in a breadboard. I still remember where I had to ride the train to Carriedo Station and walk around Quiapo to buy our needed IC’s in <code class="language-plaintext highlighter-rouge">DEECO</code> physically since the nearest electronics shop <code class="language-plaintext highlighter-rouge">e-Gizmo</code> ran out of stock.</p>
-
-<p>The laboratory instructor (at the time), was very strict in terms of documentation too so, our reports will be lengthy reaching 50 pages average for pictures and a full documentation of the truth tables, wirings and analysis. We got to have hands-on experience on the following concepts: <code class="language-plaintext highlighter-rouge">logic gates and schmitt trigger</code>; <code class="language-plaintext highlighter-rouge">boolean algebra implementation</code>; <code class="language-plaintext highlighter-rouge">adders and subtractors</code>; <code class="language-plaintext highlighter-rouge">comparators</code>, <code class="language-plaintext highlighter-rouge">multiplexers</code> and <code class="language-plaintext highlighter-rouge">decoders</code>; <code class="language-plaintext highlighter-rouge">latches</code> and <code class="language-plaintext highlighter-rouge">flip-flops</code>. The simulations and wirings were done under TinkerCAD and CircuitVerse simulator.</p>
-
-<p>Below is the consolidated reports that we did as synthesis for these learnings.</p>
-
-<iframe src="https://drive.google.com/file/d/1_OAMeiDQBgs7ouLUmbp6MpvpdCyPQRm1/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-<div class="caption">
-  Reports that details our exploration of the fundamental digital electronics components. Caution that file is being, might not preview! 
-</div>
-
-<p><strong>REFLECTIONS</strong>:</p>
-
-<p><em>NOTE: Reflections revisited after capstone completions</em></p>
-
-<p>Although this class was a fun class for me at the time since I want to land a prospective job doing electronic work, I realized how I shot myself in the foot at this point of time thinking that this is a solid skill that can land me a job in the future and will be a bit helpful at least in my capstone implementation.</p>
-
-<p>First error is that wiring and modelling softwares have already a dedicated industry-standard software like <code class="language-plaintext highlighter-rouge">KiCAD</code> or <code class="language-plaintext highlighter-rouge">Altium Designer</code> to create printed circuit boards (PCBs) instead of soldering the components manually (duh). Maybe also the fact that wirings in industrial automation is also totally different and you need dedicated software to do the representations usually in electrical AutoCAD. Lastly, many employers want embedded developers who mastered doing embedded systems programming done in C/C++. Particularly the use of communication protocols like <code class="language-plaintext highlighter-rouge">I2C</code>, <code class="language-plaintext highlighter-rouge">SPI</code> and <code class="language-plaintext highlighter-rouge">CAN</code> gives you the edge in the market.</p>
-
-<p>This was a hard pill to swallow since I had to upskill to meet this requirements for the job. Although, this was certainly helped us learn the fundamentals, its too basic and irrelevant in the current job if the target is to have job-ready students after a 3-month bootcamp on digital electronics design.</p>
-
-<p>Overall, I realized that you should really align self to the job that you want to take in the future. Majority of my batchmates, I feel, does not want to go into technical work in this field but that is because embedded systems is a niche that the college department never really thought we will explore in the future and just want it to be something we know of. With this in mind, I start my journey of going deep into embedded systems with this knowledge and my aim to upskill further for more opened doors and opportunities!!</p>
-
-<p>PS. Shoutout to Ins for being there in the labs 100% all the way!</p>]]></content><author><name></name></author><category term="embedded_systems" /><category term="electronics" /><category term="automation_and_controls" /><category term="digital_electronics" /><category term="electronics" /><summary type="html"><![CDATA[My learnings and insights made for digital electronics design]]></summary></entry></feed>
+<p>PS. Shoutout kina Nic na tumulong sakin for the finals at si Adam for being a solid partner throughout the labs.</p>]]></content><author><name></name></author><category term="electronics" /><category term="embedded_systems" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><summary type="html"><![CDATA[Tangled circuits that runs both air and electricity, I share here both theory and practice of industrial electronics and learnings for electro-pneumatic systems 🪢 🔌]]></summary></entry></feed>
