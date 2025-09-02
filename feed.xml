@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-09-02T11:29:44+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-09-02T11:39:22+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
 </subtitle><entry><title type="html">What is MEM?</title><link href="https://ferds003.github.io/blog/2025/what-is-MEM/" rel="alternate" type="text/html" title="What is MEM?" /><published>2025-06-24T20:40:00+00:00</published><updated>2025-06-24T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2025/what-is-MEM</id><content type="html" xml:base="https://ferds003.github.io/blog/2025/what-is-MEM/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Friends and family that always ask this about me; Students curious about the course; Employers and industry professionals asking how this course is different with other engineering pursuits;</p>
 
 <p><em>Note 1: My personal opinions about the matter and does not reflect the opinions of others and the MEM department :&gt;.</em></p>
@@ -1208,19 +1208,21 @@ One of the crucial topics that defines a modern assembly line is the use of jigs
   <li>Prevents assembly errors and ensures repeatability.</li>
 </ul>
 
-<p>1.) Strong frame to minimize deflection and prevent chatter.
-2.) Frames built from sections, fastened with screws or welds.
-3.) Provisions for correct workpiece positioning.
-4.) Easy workpiece insertion and removal.
-5.) Rapid clamping with minimal operator effort.
-6.) Accessible and easily positioned clamps.
-7.) Spring-supported clamps.
-8.) Controlled clamp swing.
-9.) Visible and accessible clamps, supports, and locators.
-10.) Uniform wrench sizes for adjustments.
-11.) Attached loose parts.
-12.) Stable workpiece positioning with three fixed support points.
-13.) Adjustable support points for smooth, flat workpieces.</p>
+<ol>
+  <li>Strong frame to minimize deflection and prevent chatter.</li>
+  <li>Frames built from sections, fastened with screws or welds.</li>
+  <li>Provisions for correct workpiece positioning.</li>
+  <li>Easy workpiece insertion and removal.</li>
+  <li>Rapid clamping with minimal operator effort.</li>
+  <li>Accessible and easily positioned clamps.</li>
+  <li>Spring-supported clamps.</li>
+  <li>Controlled clamp swing.</li>
+  <li>Visible and accessible clamps, supports, and locators.</li>
+  <li>Uniform wrench sizes for adjustments.</li>
+  <li>Attached loose parts.</li>
+  <li>Stable workpiece positioning with three fixed support points.</li>
+  <li>Adjustable support points for smooth, flat workpieces.</li>
+</ol>
 
 <p><strong>Clamping and Workholding Principles</strong></p>
 <ul>
