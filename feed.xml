@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-09-02T11:39:22+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://ferds003.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ferds003.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-09-02T16:16:12+00:00</updated><id>https://ferds003.github.io/feed.xml</id><title type="html">Ferds Magallanes</title><subtitle>Maintained personal website by Ferds Magallanes for career and personal use :&gt;&gt;
 </subtitle><entry><title type="html">What is MEM?</title><link href="https://ferds003.github.io/blog/2025/what-is-MEM/" rel="alternate" type="text/html" title="What is MEM?" /><published>2025-06-24T20:40:00+00:00</published><updated>2025-06-24T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2025/what-is-MEM</id><content type="html" xml:base="https://ferds003.github.io/blog/2025/what-is-MEM/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Friends and family that always ask this about me; Students curious about the course; Employers and industry professionals asking how this course is different with other engineering pursuits;</p>
 
 <p><em>Note 1: My personal opinions about the matter and does not reflect the opinions of others and the MEM department :&gt;.</em></p>
@@ -3592,7 +3592,413 @@ Predicts future error, improves stability, reduces overshoot.</p>
 <p>The whole experience has thought me the use of <strong>Laplace transforms</strong> from our calculus days that will simplify analysis of dynamic systems. The use of <strong>Poles and zeros</strong> as critical indicators of system stability especially when we are dealing with the time-frequency domain. The <strong>FESTO experiments</strong> were fun, at least for me, that I was able to configure and demonstrate fluid control principles (pressure-flow-resistance) as well as <strong>Closed-loop control with PID</strong> to ensure stability, accuracy, and disturbance rejection.  Lastly, the use of MATLAB software as a tool for <strong>bridging equations to simulations</strong>, while FESTO/COM3Lab brings theory into physical reality.</p>
 
 <p><strong>REFLECTIONS</strong>: 
-This is still considered basic for many as you need to find a specific use to govern the proper control loop for more complex systems. I won’t sugar-coat it, the class was more theoretical-heavy with us doing solutions that will not be applied in most cases since the software will provide the calculations already. The instructor at the time also was rushing the coursework that is why the main bit of PID controllers was not covered properly by the end of the term. What is needed though and I will try to self-study more is how this can be applied in <code class="language-plaintext highlighter-rouge">robotic systems</code> and the niche of <code class="language-plaintext highlighter-rouge">mechatronics</code>. This comes like how a remote controller input from a drone can then facilitate the movement of the drone in the air. I want to learn that further in mobile robots. Learning never stops!</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="electronics" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><category term="MATLAB" /><category term="FESTO" /><summary type="html"><![CDATA[The use of transfer functions, laplace transfrom applications and time-response signals for control and automation using MATLAB and FESTO 🎛️]]></summary></entry><entry><title type="html">Game of codes, my microcontrollers quest so far (LBYMF3C)</title><link href="https://ferds003.github.io/blog/2023/LBYMF3C/" rel="alternate" type="text/html" title="Game of codes, my microcontrollers quest so far (LBYMF3C)" /><published>2023-10-13T20:40:00+00:00</published><updated>2023-10-13T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/LBYMF3C</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/LBYMF3C/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Self, Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
+This is still considered basic for many as you need to find a specific use to govern the proper control loop for more complex systems. I won’t sugar-coat it, the class was more theoretical-heavy with us doing solutions that will not be applied in most cases since the software will provide the calculations already. The instructor at the time also was rushing the coursework that is why the main bit of PID controllers was not covered properly by the end of the term. What is needed though and I will try to self-study more is how this can be applied in <code class="language-plaintext highlighter-rouge">robotic systems</code> and the niche of <code class="language-plaintext highlighter-rouge">mechatronics</code>. This comes like how a remote controller input from a drone can then facilitate the movement of the drone in the air. I want to learn that further in mobile robots. Learning never stops!</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="electronics" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><category term="MATLAB" /><category term="FESTO" /><summary type="html"><![CDATA[The use of transfer functions, laplace transfrom applications and time-response signals for control and automation using MATLAB and FESTO 🎛️]]></summary></entry><entry><title type="html">Rigid Bodies Mayhem (ENGMEC 1-3)</title><link href="https://ferds003.github.io/blog/2023/ENGMECs/" rel="alternate" type="text/html" title="Rigid Bodies Mayhem (ENGMEC 1-3)" /><published>2023-10-19T20:40:00+00:00</published><updated>2023-10-19T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/ENGMECs</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/ENGMECs/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Self (Especially if you are taking these courses, here’s my take and cheatsheets on how I passed them! Satin satin lang to :» )</p>
+
+<p><em>Note: Taglish</em></p>
+
+<p><strong>OVERVIEW</strong>:
+One of the few dreaded things that I took in college is this trilogy of courses that summarize behavior or rigid bodies in boundary conditions. I never particularly liked it because it was for civil and mech eng majors heavy and I was more inclined in the electronics side of my specialization. NGL, I had my scholarship thats why I needded to pass this out of necessity kaya there are few instances that made me reflect that I almost failed this courses in my college stay. Deliks ako kaya di to isang post for a sure-fire way to ace these courses.</p>
+
+<p>Nonetheless, the learnings in these courses evolved into a deep appreciation on the known physics to define the behavior of rigid bodies. This progressed into learnings for machine elements and finite element analysis that we did for computational works.</p>
+
+<h2 id="my-preferred-resources">My preferred resources!</h2>
+<p>There are many resources out there. Some siyempre, will be the course modules provided by the instructor. I have diligently skimmed them and will provide both lesson slides as well as my handwritten notes (wow) in succeeding parts below. What I want to share here is more on what free online resources helped me survive these courses. <code class="language-plaintext highlighter-rouge">No gatekeeping</code>, here are the resources that I used:</p>
+
+<ul>
+  <li><strong>YT channel of <a href="https://www.youtube.com/@1234jhanson">Jeff Hanson</a></strong>: This guy covered the entire topics under rigid bodies so to be fair, its practically a free online course in itself!! I binged watched his content malala and not only was the topic and teachings godsent since some topics we’re not covered by instructor, there were moments that made me laugh since he’s a funny and very grounded person. Dimo na kailangan makinig sa prof kung makikinig ka sa kanya!</li>
+  <li><strong>Book Solutions on <a href="https://www.litsolutions.org/">LIT Solutions</a></strong>: Often, the assignment is a modified version seen in the reference book. With this website, you just have to simply check what part of the book the question is and it will provide the solution! No Chegg, no other solution scheme with a paywall; Hands-down the only resource you need for getting by-the-book solution. <em>Of course</em>, take this with a grain of salt since like any other resource, it’s sometimes erroneous kaya studying the concept and principles is literally a given. No slouch or AI slop can solve these solutions anyway kaya need i-verify ung solutions, no shortcuts.</li>
+  <li><strong>Getting Books and Resources on <a href="https://annas-archive.org/">Anna Archive</a>:</strong>: Need ng reference or copy of the book since ayaw magbigay ng kopya ung instructor? Holy grail for keeping knowledge is through this website! Minsan binibigay nga ung copy of the solution manual here so keep your eyes peeled and prompt properly!</li>
+</ul>
+
+<p>These three is what you need lang talaga to pass these courses. As in, you dont need anything else but to study and review the work. I typically do that via writing physical notes since you have something tangible to look and read at rather than on a screen. Plus side rin is that, you get to focus on your notes only and not get distracted easily what other apps kapag u take notes digitally. Old teknik but it works for me. <code class="language-plaintext highlighter-rouge">Tulungan lang here!</code> lmk if I missed something like other free resources that will help others. Comment in giscus below!</p>
+
+<h3 id="profs-to-pick">Profs to Pick:</h3>
+<p>Engr. Lucero (CIV); Engr. Ventanilla (CIV); Doc Nic Roxas (MEM)</p>
+
+<h2 id="engmec1">ENGMEC1:</h2>
+
+<h3 id="engmec1-overview">ENGMEC1 OVERVIEW:</h3>
+<p>Statics of Rigid bodies cover the study of forces and their effects on rigid bodies at <em>rest</em>. Ideally, deformations under load is negligible so distances remain constance. Name of the game: <code class="language-plaintext highlighter-rouge">1.) Determine the resultant forces and moments.</code>; <code class="language-plaintext highlighter-rouge">2.) Establish conditions of equilibrium</code>; <code class="language-plaintext highlighter-rouge">3.) Apply equations to analyze structures/machines</code>.</p>
+
+<p>I remember this since tinuro to ni sir Lucero. Astig na instructor that was very patient to students. For me, i just hate truss analysis lalo na kung usapang bridge kasi diko ma-visualize lalo na kung weird shape para pahirapan ung tanong. <code class="language-plaintext highlighter-rouge">I have no TRUSS in may solutions talaga.</code> May different supports that have different forces like roller or fixed. They have different counter-forces acting on that point so thats the confusing part. If nagets mo yan, pasado ka na rito.</p>
+
+<h3 id="engmec1-cheatsheet">ENGMEC1 CHEATSHEET:</h3>
+
+<p><strong>Characteristics:</strong></p>
+<ul>
+  <li>Magnitude: ( P )</li>
+  <li>Direction: ( \theta )</li>
+  <li>Point of Application: ( A )</li>
+</ul>
+
+<p><strong>Rectangular Components:</strong></p>
+
+\[F_x = F \cos \theta, \quad F_y = F \sin \theta\]
+
+\[F = \sqrt{F_x^2 + F_y^2}, \quad \theta = \tan^{-1}\left(\frac{F_y}{F_x}\right)\]
+
+<hr />
+
+<h3 id="vector-addition">Vector Addition</h3>
+
+<ul>
+  <li><strong>Parallelogram Law</strong></li>
+  <li><strong>Triangle Law</strong></li>
+</ul>
+
+<p><strong>Law of Cosines:</strong>
+\(R^2 = P^2 + Q^2 - 2PQ \cos B\)</p>
+
+<p><strong>Law of Sines:</strong>
+\(\frac{A}{\sin A} = \frac{B}{\sin B} = \frac{C}{\sin C}\)</p>
+
+<hr />
+
+<h3 id="moment-of-a-force">Moment of a Force</h3>
+
+\[M = F \cdot d\]
+
+<ul>
+  <li><strong>Sign convention</strong>: Clockwise (+), Counterclockwise (−)</li>
+  <li><strong>Varignon’s Theorem</strong>: Moment of a force = sum of moments of its components</li>
+</ul>
+
+<hr />
+
+<h3 id="couple">Couple</h3>
+
+\[M = F \cdot d\]
+
+<ul>
+  <li>Equal, opposite, parallel forces not collinear</li>
+  <li>Moment is the same about all centers</li>
+</ul>
+
+<hr />
+
+<h3 id="force-couple-system">Force-Couple System</h3>
+
+<ul>
+  <li>Moving a force introduces a <strong>couple moment</strong>.</li>
+</ul>
+
+<hr />
+
+<h3 id="resultants">Resultants</h3>
+
+<p><strong>Coplanar, Parallel Force System:</strong><br />
+\(R = \Sigma F, \quad R \cdot d = \Sigma M_o\)</p>
+
+<p><strong>Non-Concurrent, Non-Parallel:</strong><br />
+\(R_x = \Sigma F_x, \quad R_y = \Sigma F_y\)</p>
+
+\[R = \sqrt{R_x^2 + R_y^2}, \quad \theta = \tan^{-1}\left(\frac{R_y}{R_x}\right)\]
+
+\[R \cdot d = \Sigma M_o\]
+
+<hr />
+
+<h3 id="equilibrium">Equilibrium</h3>
+
+<p><strong>Conditions:</strong>
+\(\Sigma F = 0, \quad \Sigma M = 0\)</p>
+
+<p><strong>Coplanar Force Systems:</strong></p>
+<ul>
+  <li>
+    <p>Concurrent:<br />
+\(\Sigma F_x = 0, \quad \Sigma F_y = 0\)</p>
+  </li>
+  <li>
+    <p>Parallel:<br />
+\(\Sigma F = 0, \quad \Sigma M = 0\)</p>
+  </li>
+  <li>
+    <p>General:<br />
+\(\Sigma F_x = 0, \quad \Sigma F_y = 0, \quad \Sigma M = 0\)</p>
+  </li>
+</ul>
+
+<hr />
+
+<h3 id="analysis-of-structures">Analysis of Structures</h3>
+
+<p><strong>Truss:</strong></p>
+<ul>
+  <li>Members = <strong>two-force members</strong> (tension/compression)</li>
+  <li>Methods:
+    <ul>
+      <li><strong>Method of Joints</strong></li>
+      <li><strong>Method of Sections</strong></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Frame:</strong></p>
+<ul>
+  <li>Members subjected to <strong>bending and axial loads</strong></li>
+  <li>Method: <strong>Method of Members</strong></li>
+</ul>
+
+<hr />
+
+<h3 id="friction">Friction</h3>
+
+<p><strong>Laws of Dry Friction:</strong><br />
+\(F = \mu N\)</p>
+
+\[F_s \leq \mu_s N, \quad F_k = \mu_k N\]
+
+<p><strong>Angle of Friction:</strong><br />
+\(\tan \phi = \mu\)</p>
+
+<p><strong>Belt Friction:</strong><br />
+\(\frac{T_2}{T_1} = e^{\mu \beta}\)</p>
+
+<hr />
+
+<h3 id="centroids">Centroids</h3>
+
+\[\bar{x} = \frac{\int x \, dA}{\int dA} = \frac{\Sigma (x_i A_i)}{\Sigma A_i}\]
+
+\[\bar{y} = \frac{\int y \, dA}{\int dA} = \frac{\Sigma (y_i A_i)}{\Sigma A_i}\]
+
+<hr />
+
+<h3 id="area-moment-of-inertia">Area Moment of Inertia</h3>
+
+\[I = \int \rho^2 \, dA\]
+
+\[I_x = \int y^2 \, dA, \quad I_y = \int x^2 \, dA\]
+
+<p><strong>Polar Moment:</strong>
+\(J = I_x + I_y\)</p>
+
+<p><strong>Radius of Gyration:</strong>
+\(r = \sqrt{\frac{I}{A}}\)</p>
+
+<p><strong>Parallel Axis Theorem:</strong>
+\(I = I_o + A d^2\)</p>
+
+<hr />
+
+<h3 id="equilibrium-in-3d">Equilibrium in 3D</h3>
+
+<p><strong>Components:</strong>
+\(F_x, \; F_y, \; F_z\)</p>
+
+<p><strong>Direction Cosines:</strong>
+\(\cos \theta_x = \frac{F_x}{F}, \quad \cos \theta_y = \frac{F_y}{F}, \quad \cos \theta_z = \frac{F_z}{F}\)</p>
+
+<p><strong>Equilibrium Equations:</strong>
+\(\Sigma F_x = 0, \quad \Sigma F_y = 0, \quad \Sigma F_z = 0\)</p>
+
+\[\Sigma M_x = 0, \quad \Sigma M_y = 0, \quad \Sigma M_z = 0\]
+
+<p>Below is a consolidated lesson slide and personal notes I have for this course.</p>
+
+<iframe src="https://drive.google.com/file/d/1NtVPdgjPTisg00NbYbCVxQfu6ANBGk_5/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Statics of Rigid Bodies Lecture Notes
+</div>
+
+<iframe src="https://drive.google.com/file/d/19GRcEWEF4OGuFzGD-Dj1ylTQJTaOmab5/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Statics of Rigid Bodies Personal Notes for my future reference :&gt;
+</div>
+
+<h2 id="engmec2">ENGMEC2:</h2>
+
+<h3 id="engmec2-overview">ENGMEC2 OVERVIEW:</h3>
+<p>This course now deals with the movement of the rigid body in respect to space and time. Of course, added complexity yan if we consider also forces that interact with the body aside from gravity which can be <code class="language-plaintext highlighter-rouge">friction</code> or <code class="language-plaintext highlighter-rouge">collisions (elastic or inelastic momentum)</code>. I think for my instructor, Engr. Ventanilla(?), very cool lang sa pagexplan and light in regards to the requirements asking us. Aside from the normal assessment load, she ensured that we learned the topic after each F2F session. So that stuck with me what type of instructor she was.</p>
+
+<p>Overall, there is no easy way to say this but kabisaduhin lang talaga ung equations T_T. We have to prepare on how to apply it for the questions that will appear in the assessments/exams. Mas ok kung nakikita mo ung application kasi yan talaga end goal. For me, I keep thinking of my robot instead of the given (e.g. train) crashing. (baduy na kung baduy!) Visualize lang talaga malala and how we can apply it in the future :”&gt; Better than memorizing, unedrstanding when to apply equations/formulas is equally important. Malilito ka kung anong <code class="language-plaintext highlighter-rouge">kinematic equations</code> ung gagamitin or if <code class="language-plaintext highlighter-rouge">wave mechanics</code> ung tanong. You have to know the questions too. Equivalent in importance.</p>
+
+<h3 id="engmec2-cheatsheet">ENGMEC2 CHEATSHEET:</h3>
+<p>Sadly, I dont have lecture notes since si Engr. Ven dapat need mo pumasok para makuha mo ung turo/modules. Below though is my consolidated notes as well as my answers to some of the activities if that helps 🥀🥀</p>
+
+<h3 id="kinematics-of-rotation">Kinematics of Rotation</h3>
+<ul>
+  <li>
+    <p>Angular displacement, velocity, acceleration:
+\(\theta(t), \quad \omega = \frac{d\theta}{dt}, \quad \alpha = \frac{d\omega}{dt}\)</p>
+  </li>
+  <li>
+    <p>Rotational kinematic equations (constant acceleration):
+\(\omega = \omega_0 + \alpha t\)
+\(\theta = \theta_0 + \omega_0 t + \tfrac{1}{2} \alpha t^2\)
+\(\omega^2 = \omega_0^2 + 2 \alpha (\theta - \theta_0)\)</p>
+  </li>
+  <li>
+    <p>Relation between linear and angular motion:
+\(v = r \omega, \quad a_t = r \alpha, \quad a_c = \frac{v^2}{r} = r \omega^2\)</p>
+  </li>
+</ul>
+
+<h3 id="dynamics-newtoneuler-equations">Dynamics (Newton–Euler Equations)</h3>
+<ul>
+  <li>
+    <p><strong>Newton’s 2nd Law (linear):</strong>
+\(\vec{F} = m \vec{a}\)</p>
+  </li>
+  <li>
+    <p><strong>Rotational form (torque):</strong>
+\(\vec{\tau} = I \vec{\alpha}\)</p>
+  </li>
+  <li>
+    <p><strong>General rigid body (translation + rotation):</strong>
+\(\Sigma \vec{F} = m \vec{a}_G, \quad \Sigma \vec{M}_G = I_G \vec{\alpha}\)</p>
+  </li>
+</ul>
+
+<h3 id="momentum">Momentum</h3>
+<ul>
+  <li>
+    <p><strong>Linear momentum:</strong>
+\(\vec{p} = m \vec{v}\)</p>
+  </li>
+  <li>
+    <p><strong>Angular momentum (about a point O):</strong>
+\(\vec{H}_O = \vec{r} \times m \vec{v}\)</p>
+  </li>
+  <li>
+    <p><strong>Angular momentum for rigid body about center of mass:</strong>
+\(\vec{H}_G = I_G \vec{\omega}\)</p>
+  </li>
+  <li>
+    <p><strong>Impulse-momentum principle:</strong>
+\(\Sigma \vec{F} \, \Delta t = \Delta \vec{p}\)
+\(\Sigma \vec{\tau} \, \Delta t = \Delta \vec{H}\)</p>
+  </li>
+</ul>
+
+<h3 id="energy-equations">Energy Equations</h3>
+<ul>
+  <li>
+    <p><strong>Kinetic energy of rigid body:</strong>
+\(T = \tfrac{1}{2} m v_G^2 + \tfrac{1}{2} I_G \omega^2\)</p>
+  </li>
+  <li>
+    <p><strong>Work-energy principle:</strong>
+\(W_{1 \to 2} = \Delta T\)</p>
+  </li>
+  <li>
+    <p><strong>Power of a torque:</strong>
+\(P = \tau \omega\)</p>
+  </li>
+  <li>
+    <p><strong>Potential energy (gravity):</strong>
+\(V = m g h\)</p>
+  </li>
+</ul>
+
+<h3 id="moment-of-inertia">Moment of Inertia</h3>
+<ul>
+  <li>
+    <p><strong>Definition:</strong>
+\(I = \int r^2 \, dm\)</p>
+  </li>
+  <li>
+    <p><strong>Parallel axis theorem:</strong>
+\(I = I_G + m d^2\)</p>
+  </li>
+  <li>
+    <p><strong>Perpendicular axis theorem (planar body):</strong>
+\(I_z = I_x + I_y\)</p>
+  </li>
+  <li>
+    <p><strong>Radius of gyration:</strong>
+\(k = \sqrt{\tfrac{I}{m}}\)</p>
+  </li>
+</ul>
+
+<h3 id="equilibrium--elasticity">Equilibrium &amp; Elasticity</h3>
+<ul>
+  <li>
+    <p><strong>Equilibrium conditions:</strong>
+\(\Sigma F_x = 0, \quad \Sigma F_y = 0, \quad \Sigma F_z = 0\)
+\(\Sigma M_x = 0, \quad \Sigma M_y = 0, \quad \Sigma M_z = 0\)</p>
+  </li>
+  <li>
+    <p><strong>Stress:</strong>
+\(\sigma = \frac{F}{A}\)</p>
+  </li>
+  <li>
+    <p><strong>Strain:</strong>
+\(\epsilon = \frac{\Delta L}{L}\)</p>
+  </li>
+  <li>
+    <p><strong>Hooke’s Law (elasticity):</strong>
+\(\sigma = E \epsilon\)</p>
+  </li>
+  <li>
+    <p><strong>Shear stress/strain:</strong>
+\(\tau = G \gamma\)</p>
+  </li>
+  <li>
+    <p><strong>Bulk modulus:</strong>
+\(K = \frac{p}{\Delta V / V}\)</p>
+  </li>
+</ul>
+
+<h3 id="oscillations">Oscillations</h3>
+<ul>
+  <li>
+    <p><strong>Simple harmonic motion (SHM):</strong>
+\(x(t) = A \cos(\omega t + \phi)\)</p>
+  </li>
+  <li>
+    <p><strong>Equation of motion:</strong>
+\(m \ddot{x} + kx = 0\)</p>
+  </li>
+  <li>
+    <p><strong>Natural frequency:</strong>
+\(\omega = \sqrt{\tfrac{k}{m}}\)</p>
+  </li>
+  <li>
+    <p><strong>Physical pendulum:</strong>
+\(\omega = \sqrt{\tfrac{m g d}{I}}\)</p>
+  </li>
+  <li>
+    <p><strong>Torsional pendulum:</strong>
+\(\omega = \sqrt{\tfrac{k_\theta}{I}}\)</p>
+  </li>
+</ul>
+
+<p>Below is my handwritten notes and solutions that I have thankfully digitized :)</p>
+
+<iframe src="https://drive.google.com/file/d/19FQDoKSITbnTQ10hMtZ-gmqMziSO3cfN/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Dynamics of Rigid Bodies Personal Notes
+</div>
+
+<iframe src="https://drive.google.com/file/d/18XqKCXATCsoiSjBDHq97UVh1j3R5W-hM/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  My personal solution papers; No feeback if this was correct or not; Proceed w/ caution
+</div>
+
+<h2 id="engmec3">ENGMEC3:</h2>
+<h3 id="engmec3-overview">ENGMEC3 OVERVIEW:</h3>
+<p>We are going to the good parts which we not consider deformable bodies. This not considers deflection and perceived effect of the loading and stress being subject in area of interest. I remember Doc Nicanor teaching this class for me. All F2F classes where the lecture slides was not shared so you really have to listen to the F2F class. This was the time where I really watched <code class="language-plaintext highlighter-rouge">Jeff Hanson YT</code> since I needed to really engrained the problems by just taking many (x3) practice problems which worked!!</p>
+
+<p>I don’t have those practice problems but you can follow the playlist he made for deformable bodies. I watched that playlist twice haha no bullshit, it was a routine, 1hr before sleeping answer one mechanics problem. Punishment kung mali was to try and re-answer it before checking the explanation i believe haha</p>
+
+<h3 id="engmec3-cheatsheet">ENGMEC3 CHEATSHEET:</h3>
+
+<p>I’ll just provide my notes here since its the definitive cheatsheet that I used for my exam and I believe at the time this was also I put in my index card which was my weapon along with the sci-cal and compass to create the <code class="language-plaintext highlighter-rouge">mohr cicle</code>!</p>
+
+<iframe src="https://drive.google.com/file/d/19KdUit16fsHRmvRAe4GZF0RMUJB1WmgW/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  My personal notes for deformable bodies!
+</div>
+
+<p><strong>Reflections</strong>:</p>
+
+<p>Looking back at this experience, it just reaffirms to me that <code class="language-plaintext highlighter-rouge">effort really pays off</code>. Many think I’m smart which <u> is not true! </u> in the slightest. Bobo talaga ako HAHA and not to boost my ego in this blog post pero nakakamisleading talaga when people say that parang diko to <code class="language-plaintext highlighter-rouge">puhunan</code>. I’m passionate about my course and I just really want to value the education that was given to me with doing fun and exciting project down the road in my career. Kaya when courses like these come in the syllabus, kahit boring and tedious, sooner or later, engineering students will come to realize that need mo matuto to since this will become your foundation for more advanced projects. Bread and butter nga. Choosing to learn this means only that I choose this lifestyle and career; way of life talaga.</p>
+
+<p>Kaya as reflection, it just a statement that kahit parang out of line to sa pagiging mechatronics ko, need to malaman since in the future we will be dealing with projects that requires us to do these type of calculations!</p>
+
+<p>Is this a decent take? Lmk in the comments below~~</p>]]></content><author><name></name></author><category term="mechatronics" /><category term="manufacturing_engineering" /><summary type="html"><![CDATA[Capturing the consolidated reflections done for the statics, kinematics and mechanics of rigid bodies 💫]]></summary></entry><entry><title type="html">Game of codes, my microcontrollers quest so far (LBYMF3C)</title><link href="https://ferds003.github.io/blog/2023/LBYMF3C/" rel="alternate" type="text/html" title="Game of codes, my microcontrollers quest so far (LBYMF3C)" /><published>2023-10-13T20:40:00+00:00</published><updated>2023-10-13T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/LBYMF3C</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/LBYMF3C/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Self, Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
 
 <p><strong>OVERVIEW</strong>:
 One of the skills that is heavily asked by employers in our field is the need to code embedded systems that are often seen in the plant and other task that may fall under a manufacturing engineer’s lap. As an overview and sort of crash course to this, there is a lab that formally introduces us to these concepts and principles. This course on <strong>Microprocessor and Microcontroller Systems (LBYMF3C)</strong> gave me practical experience in applying <strong>C programming</strong> to embedded systems. Through a mix of simulation, coding, and hardware-based activities, I explored how microcontrollers interact with sensors, actuators, and real-world inputs.</p>
@@ -3704,392 +4110,4 @@ I still remember my pair at the start of the term asking me why I was trying to 
   <li><strong>Peripheral Interfacing:</strong> Learned how to connect sensors, actuators, and communication modules effectively.</li>
   <li><strong>Debugging Skills:</strong> Encountered and solved hardware/software mismatches (e.g., baud rate errors, pin mapping).</li>
   <li><strong>System Thinking:</strong> Developed small-scale cyber-physical systems by combining code with electronics.</li>
-</ul>]]></content><author><name></name></author><category term="embedded_systems" /><category term="electronics" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><category term="coding" /><summary type="html"><![CDATA[My practical experience on coding microprocessors and what further topics I would like to check 🐲]]></summary></entry><entry><title type="html">Spaghetti wires! My industrial electronics learnings (MFINDLX &amp;amp; LBYMF3E)</title><link href="https://ferds003.github.io/blog/2023/MFINDLX&LBYMF3E/" rel="alternate" type="text/html" title="Spaghetti wires! My industrial electronics learnings (MFINDLX &amp;amp; LBYMF3E)" /><published>2023-09-03T20:40:00+00:00</published><updated>2023-09-03T20:40:00+00:00</updated><id>https://ferds003.github.io/blog/2023/MFINDLX&amp;LBYMF3E</id><content type="html" xml:base="https://ferds003.github.io/blog/2023/MFINDLX&amp;LBYMF3E/"><![CDATA[<p><strong>TARGET AUDIENCE</strong>: Students, Academics, Industry Professionals, Employers, and Tech Enthusiasts</p>
-
-<p><em>Note: Taglish</em></p>
-
-<p><strong>OVERVIEW</strong>:
-The understanding of pneumatic systems is salient to the understanding of the automation being done in manufacturing plants. It is that intention that the course and lab below provides us students (ako!), the oppurtunity to train ourselves under <code class="language-plaintext highlighter-rouge">programmable logic controllers</code> and the designing of <code class="language-plaintext highlighter-rouge">electro-pneumatic systems</code>!</p>
-
-<h2 id="lecture">LECTURE:</h2>
-<p>The lecture class was, frankly, boring. The calculations for it consist of me determining the logic function as well as the flow of air on end output from given inputs (wow /s) 😅. This may include providing the <code class="language-plaintext highlighter-rouge">motion-step diagram</code>, finding out the <code class="language-plaintext highlighter-rouge">logic truth tables</code> and lastly, obtain its <code class="language-plaintext highlighter-rouge">plc ladder logic diagram</code>. All of this was handwritten and handdrawn in the paper. I still remember doing the calculations one time in Jollibee Malibay since I was not able to make it in campus haha (sumilong ako sa ulan)</p>
-
-<iframe src="https://drive.google.com/file/d/19R3r94gOBOw8zoDfrbRUrn_edy6-hIl1/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-<div class="caption">
-  My personal notes that I have compiled! Not much but this just covers gas concepts and pressure determination to be applied safely on cylinders.
-</div>
-
-<p>Aside from the gas laws and determination of pressure for safety, I think I got sidetrack on the laboratory since it was more practical. Overall there are many valves (especially its symbols) to consider and we had to memorize it. When I was looking at the exam paper, I just imagine what is the <code class="language-plaintext highlighter-rouge">suitable pneumatic components</code> to deliver the task given!</p>
-
-<p>For the practical, my pair (si Nic) and we solved two automation problems I worked on two automation problems — a <code class="language-plaintext highlighter-rouge">Metal Strip Bending Tool</code> and a <code class="language-plaintext highlighter-rouge">Cleaning Bath System</code>. Both required designing electro-pneumatic circuits and simulating them with <code class="language-plaintext highlighter-rouge">PLC ladder logic</code>. To solve these, I provided the following components and solution below. You may also check out the video demonstration that I have below and our report.</p>
-
-<p><strong>COMPONENTS USED</strong>:</p>
-<ul>
-  <li>Cylinders (Actuators)
-    <ul>
-      <li><strong>Single-Acting Cylinder (SAC)</strong>: Uses air pressure for forward stroke, spring for return.
-        <ul>
-          <li>Used in <strong>Cleaning Bath</strong> for simple forward/back motion.</li>
-        </ul>
-      </li>
-      <li><strong>Double-Acting Cylinder (DAC)</strong>: Uses air pressure for both extension and retraction.
-        <ul>
-          <li>Used in both <strong>Bending Tool</strong> and <strong>Cleaning Bath</strong> for controlled motion in both directions.</li>
-        </ul>
-      </li>
-      <li><code class="language-plaintext highlighter-rouge">Key Concept</code>: Selection depends on whether the motion requires force in one or both directions.</li>
-    </ul>
-  </li>
-  <li>Directional Control Valves (DCVs)
-    <ul>
-      <li><strong>3/2 Valve</strong>: Three ports, two positions — commonly paired with single-acting cylinders.</li>
-      <li><strong>5/2 Valve</strong>: Five ports, two positions — essential for controlling double-acting cylinders.</li>
-      <li><strong>Shuttle &amp; Check Valves</strong>: Ensure correct air routing, allow manual/electrical actuation.</li>
-      <li><code class="language-plaintext highlighter-rouge">Key Concept</code>: Correct valve selection enables precise cylinder control and sequencing.</li>
-    </ul>
-  </li>
-  <li>Sensors &amp; Switches
-    <ul>
-      <li><strong>Limit Switches</strong>: Detect cylinder end positions (extended/retracted).</li>
-      <li><strong>Optical/Proximity Sensors</strong>: Detect presence of workpiece (used in bending setup).</li>
-      <li><strong>Pressure Sensors</strong>: Provide feedback for safety and automatic retraction.</li>
-      <li><code class="language-plaintext highlighter-rouge">Key Concept</code>: Sensors convert mechanical positions into electrical signals for <code class="language-plaintext highlighter-rouge">PLC inputs</code>.</li>
-    </ul>
-  </li>
-  <li>Electro-Pneumatics
-    <ul>
-      <li>Integration of <code class="language-plaintext highlighter-rouge">relays, solenoids, and electrical signals</code> to control valve actuation.</li>
-      <li>Combines the speed and power of pneumatics with the logic of electrical control.</li>
-      <li><code class="language-plaintext highlighter-rouge">Key Concept</code>: Electro-pneumatic systems bridge physical actuation with programmable control.</li>
-    </ul>
-  </li>
-  <li>PLC Ladder Logic
-    <ul>
-      <li>Ladder diagrams used to <strong>sequence operations</strong> of multiple cylinders.</li>
-      <li>In <strong>Bending Tool</strong>: Three cylinders had to operate in sequence (clamp → bend → release).</li>
-      <li>In <strong>Cleaning Bath</strong>: Sequenced forward/back motions with gradual timing.</li>
-      <li><code class="language-plaintext highlighter-rouge">Key Concept</code>: PLCs ensure <code class="language-plaintext highlighter-rouge">safe, repeatable, and automated sequencing</code> of pneumatic systems.</li>
-    </ul>
-  </li>
-  <li>Timing &amp; Sequencing
-    <ul>
-      <li><strong>Delay timers</strong> hold cylinder positions before the next step.</li>
-      <li><strong>Counters</strong> ensure repetitive actions stop after a set cycle (e.g., 5 dips in a bath).</li>
-      <li><code class="language-plaintext highlighter-rouge">Key Concept</code>: Time-dependent motion control is vital for automation consistency.</li>
-    </ul>
-  </li>
-</ul>
-
-<p>By combining <code class="language-plaintext highlighter-rouge">mechanical actuation + electrical control + PLC sequencing</code>, even complex tasks like <code class="language-plaintext highlighter-rouge">bending tools</code> and <code class="language-plaintext highlighter-rouge">automated dipping baths</code> can be executed reliably.  These exercises mirror real-world <code class="language-plaintext highlighter-rouge">industrial automation problems</code>, where pneumatics are widely used for material handling, clamping, pressing, and cleaning processes.</p>
-
-<p>Below is a consolidated document of the practical that I did for this lecture as well as the video demonstration that my pair and I did!</p>
-
-<iframe src="https://drive.google.com/file/d/1SgafdJhVgzq6zDmHYF3leAcvQHJ8qbtc/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1m6ebRvrTY3_FUelZx3fbKjiLDcYq6jX_/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-  </div>
-  <div class="col-sm mt-3 mt-md-0 text-center">
-    <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/15c2k5QqoRqphcbqV9BPFc-vPJBuILuQK/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-  </div>
-</div>
-<div class="caption">
- video demonstration for the 1.) cleaning bath operation on the left and 2.) metal string bending tool on the right.
-</div>
-
-<h2 id="laboratory">LABORATORY:</h2>
-<p>The laboratory class proided me practical skills on the use of pneumatic system to produce complex sequencing of cylinder actuation for a given output/intention. The use of sensors and safety controls were all considered in the activities that we did for this class.</p>
-
-<p>I will show below the different exercises that we did along with learnings and insight that I find per exercise. I was able to properly document this experience kaya you will see the an accompanying video demonstation of explanation per activity. You may also see the final reports that we did for each of these exercises.</p>
-
-<h3 id="pure-pneumatics">Pure Pneumatics</h3>
-
-<h4 id="exercise-1--water-precipitation"><strong>Exercise #1 – Water Precipitation</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Calculate total water precipitated in a system using the <code class="language-plaintext highlighter-rouge">dew point curve</code> and <code class="language-plaintext highlighter-rouge">absolute humidity</code> at varying temperatures.</li>
-  <li><strong>Learning</strong>: Gained awareness of how moisture affects pneumatic systems—excess water can cause corrosion, leaks, or performance issues.</li>
-  <li><strong>Insight</strong>: In real factories, proper <code class="language-plaintext highlighter-rouge">air drying and filtration</code> is essential for reliable automation.</li>
-</ul>
-
-<h4 id="exercise-2--pipe-diameter-calculation"><strong>Exercise #2 – Pipe Diameter Calculation</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Use <code class="language-plaintext highlighter-rouge">nomograms</code> to size pipes, considering valve lengths and total line length.</li>
-  <li><strong>Learning</strong>: Correct sizing ensures efficiency and avoids pressure drops.</li>
-  <li><strong>Insight</strong>: Small miscalculations can increase energy consumption—highlighting the importance of <code class="language-plaintext highlighter-rouge">sustainable system design</code>.</li>
-</ul>
-
-<h4 id="exercise-3--single-acting-cylinder-control"><strong>Exercise #3 – Single-Acting Cylinder Control</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Build a circuit with a <code class="language-plaintext highlighter-rouge">3/2 valve</code> and <code class="language-plaintext highlighter-rouge">single-acting cylinder</code> for feeding workpieces.</li>
-  <li><strong>Focus</strong>: Troubleshooting air leaks.</li>
-  <li><strong>Insight</strong>: Practical lesson in <code class="language-plaintext highlighter-rouge">maintenance culture</code>—air leaks are small inefficiencies that can cost industries heavily over time.</li>
-</ul>
-
-<div class="col-sm mt-3 mt-md-0">
-   <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1Mhwh_dXwWoRCIaDznSZRkSmbBa07CaMs/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<h4 id="exercise-4--sheet-metal-bending"><strong>Exercise #4 – Sheet Metal Bending</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Use a single-acting cylinder and push button to bend sheet metal into a U-shape.</li>
-  <li><strong>Insight</strong>: Demonstrated how pneumatics support <code class="language-plaintext highlighter-rouge">low-cost, repeatable automation</code> in small-scale production.</li>
-</ul>
-
-<div class="col-sm mt-3 mt-md-0">
-   <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1AVLDbi6mdOTse1IrQX3Ab5lhx6_wRA3N/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<h4 id="exercise-5--double-acting-cylinder-swivel"><strong>Exercise #5 – Double-Acting Cylinder Swivel</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Design a swivel mechanism with <code class="language-plaintext highlighter-rouge">double-acting cylinder + 3/2 valves</code>.</li>
-  <li><strong>Learning</strong>: Secure tube connections are crucial for safety and system reliability.</li>
-</ul>
-
-<div class="col-sm mt-3 mt-md-0">
-   <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1tcxH7etciFx52gB9nkghVCIzNenB9nyn/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<h4 id="exercise-6--workpiece-removal-and-tipping"><strong>Exercise #6 – Workpiece Removal and Tipping</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Automated system with <code class="language-plaintext highlighter-rouge">double-acting cylinder + 3/2 roller valve</code> to remove/tip workpieces.</li>
-  <li><strong>Insight</strong>: Showed how pneumatics integrate with <code class="language-plaintext highlighter-rouge">conveyors</code> for material handling.</li>
-</ul>
-
-<div class="col-sm mt-3 mt-md-0">
-   <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1a2UFp0MHvrf8PD7-ApNQ9-307fz7sKUT/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<h4 id="exercise-7--box-movement-to-assembly"><strong>Exercise #7 – Box Movement to Assembly</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Pneumatic circuit with <code class="language-plaintext highlighter-rouge">5/2 valve, shuttle valves, and double-acting cylinder</code> to move boxes.</li>
-  <li><strong>Learning</strong>: Multiple actuation options (push button or pedal) taught <code class="language-plaintext highlighter-rouge">redundancy and operator ergonomics</code>.</li>
-</ul>
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1UEMWIbE_3s-9nr9PzDkSu02jAsyduJOo/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-  </div>
-  <div class="col-sm mt-3 mt-md-0 text-center">
-    <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1rtRfLCHeczEWFAekxGgC1boBysD87yuq/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-  </div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<h4 id="exercise-8--workpiece-clamping"><strong>Exercise #8 – Workpiece Clamping</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Electro-pneumatic circuit with conditions:
-    <ul>
-      <li>Workpiece detection</li>
-      <li>Interlocks during drilling</li>
-      <li>Adjustable clamping speed</li>
-      <li>Fast declamping</li>
-    </ul>
-  </li>
-  <li><strong>Insight</strong>: Learned about <code class="language-plaintext highlighter-rouge">process safety and flexibility</code>—core in Industry 4.0 smart workstations.</li>
-</ul>
-
-<div class="col-sm mt-3 mt-md-0 text-center">
-  <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1rtRfLCHeczEWFAekxGgC1boBysD87yuq/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<h4 id="exercise-9--gate-control"><strong>Exercise #9 – Gate Control</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Double-acting cylinder controlled by four push buttons (two inside, two outside).</li>
-  <li><strong>Learning</strong>: Implemented <code class="language-plaintext highlighter-rouge">adjustable opening/closing speeds</code> for controlled motion.</li>
-  <li><strong>Insight</strong>: Similar logic is applied in <code class="language-plaintext highlighter-rouge">safety gates in manufacturing plants</code>.</li>
-</ul>
-
-<div class="col-sm mt-3 mt-md-0 text-center">
-  <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1BQVE1A-kgbSZw9lT7Pb3s2imEUhtD7Tp/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<h4 id="exercise-10--component-stamping"><strong>Exercise #10 – Component Stamping</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Electro-pneumatic stamping using <code class="language-plaintext highlighter-rouge">two push buttons + pressure sensor</code> for automatic return.</li>
-  <li><strong>Insight</strong>: Showed how <code class="language-plaintext highlighter-rouge">sensor feedback</code> ensures product quality and reduces errors.</li>
-</ul>
-
-<div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1Tl7eV_wMSizDQmcOe7kJb3OCJ6kfVxfg/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-  </div>
-  <div class="col-sm mt-3 mt-md-0 text-center">
-    <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1S7WOtCEPOFgmrxfaKCRs2hLSrUFVcXOt/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-  </div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<h4 id="exercise-11--piston-holding-and-retraction"><strong>Exercise #11 – Piston Holding and Retraction</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Push button → forward stroke → piston held 10s → auto-return.</li>
-  <li><strong>Learning</strong>: Incorporated <code class="language-plaintext highlighter-rouge">timing control</code>.</li>
-  <li><strong>Insight</strong>: Pneumatic timers are crucial in synchronized production lines.</li>
-</ul>
-
-<div class="col-sm mt-3 mt-md-0 text-center">
-  <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1ib1wWXoWIQLaAjMFyZNEZpSoLsMSjFsD/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<h4 id="exercise-12--acid-bath-dipping"><strong>Exercise #12 – Acid Bath Dipping</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Automated dipping with counter + limit switches, stops after 5 cycles.</li>
-  <li><strong>Insight</strong>: Showed how <code class="language-plaintext highlighter-rouge">pneumatics + counters</code> provide batch process automation.</li>
-</ul>
-
-<div class="col-sm mt-3 mt-md-0 text-center">
-  <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1sNyAtW0wcDjG5t2iVLsfHA0IgRoUyBd-/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<h4 id="exercise-13--steel-bolt-pressing-two-hand-safety-control"><strong>Exercise #13 – Steel Bolt Pressing (Two-Hand Safety Control)</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Two-hand valve system requiring simultaneous press within 0.5s.</li>
-  <li><strong>Insight</strong>: Essential safety mechanism—prevents workplace accidents during high-force pressing.</li>
-</ul>
-
-<div class="col-sm mt-3 mt-md-0 text-center">
-  <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1cQ665NqA-l5uBVb5ox8nWlrSdODdKdpV/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<h4 id="exercise-14--workpiece-distribution-to-conveyors"><strong>Exercise #14 – Workpiece Distribution to Conveyors</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Distribute workpieces using <code class="language-plaintext highlighter-rouge">two cylinders + four push buttons</code> for sequence control.</li>
-  <li><strong>Learning</strong>: Importance of <code class="language-plaintext highlighter-rouge">sequencing logic</code> in complex automation.</li>
-</ul>
-
-<div class="col-sm mt-3 mt-md-0 text-center">
-  <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/16rOtTBSsZ2i2S-dekZjiIm4LUfxXmrd4/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<h4 id="exercise-15--metal-strip-bending-tool"><strong>Exercise #15 – Metal Strip Bending Tool</strong></h4>
-<ul>
-  <li><strong>Task</strong>: Electro-pneumatic system with <code class="language-plaintext highlighter-rouge">3 cylinders + limit switches + optical proximity sensors</code>.</li>
-  <li><strong>Insight</strong>: Introduction to <code class="language-plaintext highlighter-rouge">sensor integration</code> for automated bending and quality assurance.</li>
-</ul>
-
-<div class="col-sm mt-3 mt-md-0 text-center">
-  <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/1TknK92xKEMyBxHU6SdZyIlIadr9xQtm8/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<h4 id="exercise-16--box-lifting-and-pushing"><strong>Exercise #16 – Box Lifting and Pushing</strong></h4>
-<ul>
-  <li><strong>Task</strong>: One cylinder lifts, another pushes to a second conveyor (sequence-dependent).</li>
-  <li><strong>Learning</strong>: Highlighted <code class="language-plaintext highlighter-rouge">interdependent motions</code>—a foundation for robotics and mechatronics.</li>
-</ul>
-
-<div class="col-sm mt-3 mt-md-0 text-center">
-  <div class="embed-container">
-  <iframe width="100%" height="480" src="https://drive.google.com/file/d/18Py36nvmPu9VEIvjLhL45BZtpkVtgkTY/preview" frameborder="0" allowfullscreen="true">
-  </iframe>
-</div>
-</div>
-<div class="caption">
- video demonstration for the exercise above
-</div>
-
-<iframe src="https://drive.google.com/file/d/1zRVCGq1Gyfx8PNB9PRToeuMo_prq7gCu/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-<div class="caption">
-        Consolidated reports per exercise above! This covers from simple pneumatic to complex electro-pneumatic systems that we did for the class and demonstrations.        
-</div>
-
-<h3 id="electro-pneumatics">Electro-Pneumatics</h3>
-<p>This is where the real fun (or torture) begins. The point where troubleshoorting is hard (teknik is to do continuity test for the wires) but completing the task is so rewarding! Electro-pneumatics now cover the use of electrical relays and corresponding circuits to determine the logic of the actuation and control. Down the line, we get to also do industrial programing  instead so less wires, less trouble! Further elaboration of the exercises that we did can be seen below.</p>
-
-<iframe src="https://drive.google.com/file/d/1duNBwjTRlUw9KPr1KAgMqy9qXGpZSVvO/preview" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
-
-<hr />
-
-<h2 id="reflection-and-course-insights">REFLECTION AND COURSE INSIGHTS:</h2>
-<p>Again, I always look back and ask myself, can I apply this to my current job/career? This time, it was more of a grey area for me. I want to do technical work when I’m out in the field (not a paper-pusher), and I always see this as a skill that I can use when I’m down in the trenches of the machine and troubleshooting it. Of course, here in the country, you will actually need NCII trainings and certificates to show to the employer that you are capable of the job and not simple the degree. Also the job stability and the lack of the need for people to do this type of work that is mainly outside MEM career choices, you’ll be suprised that covering this is really a setback. This is because we are touching already in the realm of electrical engineers and the extensive background and learnings that they have also done, cannot be matched with what we have currently. Heck, the course goes back and forth on mechanical and electrical engineering concepts!</p>
-
-<p>It has its <code class="language-plaintext highlighter-rouge">merits</code> though, the world is constantly evolving and the concepts here are outdated. Many of the projects done now cover use of <code class="language-plaintext highlighter-rouge">OPC-UA</code> connection from PLC to the hardware as well as me <code class="language-plaintext highlighter-rouge">CAN-BUS</code> network operations for whole plant connection for <code class="language-plaintext highlighter-rouge">IoT</code>. This course provides a solid foundation whenever we will encounter this in the wild in either our robotic systems or mechatronics ones that are heavy-duty. Let me know your thoughts as well in the comments below!</p>
-
-<p>PS. Shoutout kina Nic na tumulong sakin for the finals at si Adam for being a solid partner throughout the labs.</p>]]></content><author><name></name></author><category term="electronics" /><category term="embedded_systems" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><summary type="html"><![CDATA[Tangled circuits that runs both air and electricity, I share here both theory and practice of industrial electronics and learnings for electro-pneumatic systems 🪢 🔌]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="embedded_systems" /><category term="electronics" /><category term="manufacturing_engineering" /><category term="automation_and_controls" /><category term="coding" /><summary type="html"><![CDATA[My practical experience on coding microprocessors and what further topics I would like to check 🐲]]></summary></entry></feed>

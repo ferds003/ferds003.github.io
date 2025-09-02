@@ -146,6 +146,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/MFCNTRL&LBYMF3I/";
           
         },
+      },{id: "post-rigid-bodies-mayhem-engmec-1-3",
+        
+          title: "Rigid Bodies Mayhem (ENGMEC 1-3)",
+        
+        description: "Capturing the consolidated reflections done for the statics, kinematics and mechanics of rigid bodies 💫",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/ENGMECs/";
+          
+        },
       },{id: "post-game-of-codes-my-microcontrollers-quest-so-far-lbymf3c",
         
           title: "Game of codes, my microcontrollers quest so far (LBYMF3C)",
