@@ -190,6 +190,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/MFDIGTL/";
           
         },
+      },{id: "post-software-programming-in-mem-lbyec2a-lbymf1d-lbyec3b-lbymf3b-lectures-in-between",
+        
+          title: "Software programming in MEM (LBYEC2A, LBYMF1D, LBYEC3B, LBYMF3B Lectures in between!)",
+        
+        description: "I present here the formal courses taken that I have for coding software applications from C prog down to Python computational intelligence for MEM 👨🏻‍💻",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/Programming/";
+          
+        },
       },{id: "post-analog-electronics-design-mfanlog-amp-lbymf2c",
         
           title: "Analog electronics design (MFANLOG &amp; LBYMF2C)",
