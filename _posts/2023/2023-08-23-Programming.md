@@ -1,8 +1,8 @@
 ---
 layout: post
-title: From general programming to AI applications (LBYEC2A, LBYMF1D, LBYEC3B, LBYMF3B Lectures in between!)
+title: Software programming in MEM (LBYEC2A, LBYMF1D, LBYEC3B, LBYMF3B Lectures in between!)
 date: 2023-03-13 20:40:00
-description: I present here the formal transition that I have for coding applications from C prog down to Python computational intelligence for MEM 👨🏻‍💻
+description: I present here the formal courses taken that I have for coding software applications from C prog down to Python computational intelligence for MEM 👨🏻‍💻
 tags: manufacturing_engineering coding
 categories: embedded_systems data_science
 thumbnail: assets/img/2023/thumbnail_programming.png
@@ -17,6 +17,7 @@ toc:
 __TARGET AUDIENCE__: Students, Self
 
 _Note: Taglish_
+_About the thumbnail: It is a choropleth map of the philippines detailing most tourist visitations in 2018_
 
 __OVERVIEW__:
 The MEM course is comprised of learnings also on programming in the fields of electronics, data science and computational intelligence specific to manufacturing applications. It is no wonder that we cover also fundamentals in software. I have shown here is a synthesis of the work that I have done in my college stay in all aspects of software engineering!! 
@@ -539,8 +540,10 @@ __Reflection to this course (2022)__: There is a lot of pitfalls that happened t
 
 
 ## __OVERALL REFLECTIONS__:
-Software programming in MEM has been a roller coaster. There are many aspects na masasabi ko na kailangan parin ayusin even after taking the courses. Nakakahinayang lang rin naman kasi na hindi ko na seryoso o tinulak sarili ko para gumawa ng mas matitinong mga projects na pwede ko ipamalas sa portfolio ko bigay ng pagkakataon na ito. At the time, I guess nalulong ako sa sistema ng pagtuturo na hindi ko nakita ung end goal which is to create value from these courses. Given na foundamentals talaga tong mga units na to and the department lacked on aspects like ensuring us a proper foundation or end-driven results na panay notebook lang ung ipapamalas. 
+Software programming in MEM has been a roller coaster. There are many aspects na masasabi ko na kailangan parin ayusin even after taking the courses. Nakakahinayang lang rin naman kasi na hindi ko na seryoso o tinulak sarili ko para gumawa ng mas matitinong mga projects na pwede ko ipamalas sa portfolio ko bigay ng pagkakataon na ito. At the time, I guess nakaing ako ng sistema na panay turo lang (tutorial hell ika nga!) na hindi ko nakita ung end goal which is to create value from these courses. Given na foundamentals talaga tong mga units na to and the department lacked on aspects like ensuring us a proper foundation or end-driven results na panay notebook lang ung ipapamalas. 
 
 Now learning and reflecting back, future works will now revolve on end-goals and having a solid product that people can interact with and gain insights. That is what I have to strive single project that I make in order to better myself if this is a career that I want to do for the rest of my life!!
- 
+
+Lmk in the comments below if you agree in this take~!
+
 
