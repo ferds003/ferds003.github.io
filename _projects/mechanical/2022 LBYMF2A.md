@@ -71,7 +71,7 @@ We got the joy to actually see the part being machined in Fusion 360 CAM and app
     Final report of our production management for the dairy cooperative business
 </div>
 
-PS. You may check the adjacent blog post that I have made regarding supplementary exercises that I have done too [here]({% post_url 2022/2022-2-21-MFMPCR2&LBYMF2A %})
+PS. You may check the adjacent blog post that I have made regarding supplementary exercises that I have done too [here]({% post_url 2022/2022-02-21-MFMPCR2&LBYMF2A %})
 
 PPS. Thanks to my co-implements for this project; Drix and Lance! 
 
