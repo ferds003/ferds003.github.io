@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Successfully Defended My Undergraduate Thesis! titled "Vision-Based Mini-Production Line for Grading and Sorting of Iceberg Lettuce"
+title: Successfully defended my undergraduate thesis! titled "Vision-Based Mini-Production Line for Grading and Sorting of Iceberg Lettuce"
 date: 2025-03-21
 description: Final thesis defense completed — a major milestone in my MEM journey!
 inline: false

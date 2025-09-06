@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gawad Lasalyano Award for the 2nd Time!! (wut wut >_<)
+title: Gawad Lasalyano Award for the 2nd Time!!
 date: 2024-11-29
 description: Received the Gawad Lasalyano Award for achievements in leadership and excellence in competitions.
 tags: leadership, awards, recognition
