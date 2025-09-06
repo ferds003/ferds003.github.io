@@ -2,8 +2,7 @@
 layout: page
 title: CMM Inspection Fixture for Gearbox Cover
 description: A fixture precision tool for securing components during metrology measurements 🛠️
-category: mechanical
-img: assets/img/2024/mftldes/thumbnail_mftldes.png
+category: mechanicalimg: assets/img/2024/mftldes/thumbnail_mftldes.png
 giscus_comments: true
 pretty_table: true
 images:
@@ -20,23 +19,23 @@ This all in all provides a GD&T analysis of the gearbox cover and its parts with
 The fixture adheres to `tool design`,`restricted planes of movement`, `support principle`, and `locating principle`. Findings outline a more thorough explanation of the design made. 
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets\img\2024\mftldes\CMM-FIXTURE (1).JPG" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets\img\2024\mftldes\CMM-FIXTURE (2).JPG" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets\img\2024\mftldes\CMM-FIXTURE (3).JPG" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets\img\2024\mftldes\CMM-FIXTURE (4).JPG" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets\img\2024\mftldes\CMM-FIXTURE (5).JPG" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets\img\2024\mftldes\CMM-FIXTURE (6).JPG" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets\img\2024\mftldes\CMM-FIXTURE (7).JPG" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets\img\2024\mftldes\CMM-FIXTURE (8).JPG" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets\img\2024\mftldes\CMM-FIXTURE (9).JPG" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets\img\2024\mftldes\CMM-FIXTURE (10).JPG" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (1).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide> 
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (2).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (3).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (4).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (5).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (6).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (7).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (8).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (9).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (10).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
 </swiper-container>
 <div class="caption">
   different 3D views that highlights the made fixture design as well its parts for functionality. A rendering at the end is also covered that captures the end fixture product.
 </div>
 
 <div class="row mt-3 justify-content-center">
-    {% include figure.liquid loading='eager' path='assets/img/2024/mftldes/thumbnail_mftldes.gif' class='img-fluid rounded z-depth-1' zoomable=true %}
+    {% include figure.liquid loading='eager' path='assets/img/2024/mftldes/thumbnail_mftldes.gif' class=img-fluid rounded z-depth-1' zoomable=true %}
 </div>
 <div class="caption">
   Animated display of the CMM fixture made.
