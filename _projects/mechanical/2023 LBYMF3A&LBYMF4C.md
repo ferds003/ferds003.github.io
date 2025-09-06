@@ -4,7 +4,7 @@ title: Kinematic and finite element analysis of a laparscopic gripper and forcep
 description: The full computer-aided-design for a rudimentary laparscopic gripper for its gripper mechanism and stress loading under its forceps 🫳
 tags: mechatronics
 category: mechanical
-img: assets/img/2023/thumbnail_lbymf3a.gif
+img: assets/img/2024/thumbnail_lbymf4c.png
 importance: 1
 giscus_comments: true
 images:
@@ -15,6 +15,16 @@ images:
 The motivation for the project is to provide insight of the kinematic mechanism and stress loading for the rudimentary (bare-bones version) of a laparoscopic grasper, a medical instrument used in minimally invasive gut surgeries. I was able to provide the mechanism for opening and closing of the jaws/forceps and essentially the length of shaft needed to make a `functional laparscopic gripper`. Further finite element analysis was done to determine the maximum loading the `foreceps` can support before failure.
 
 _Note: I can provide our CAD file upon request! Kindly comment in this post_
+
+<div class="row">
+  <div class="col-12">
+    {% include figure.liquid loading='eager' path='assets/img/2023/thumbnail_lbymf3a.gif' class='img-fluid rounded z-depth-1 w-100' %}
+  </div>
+</div>
+<div class="caption">
+   kinematic movement of a rudimentary laparscopic grasper/gripper
+</div>
+
 
 <div class="row">
   <div class="col-12">

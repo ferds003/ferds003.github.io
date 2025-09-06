@@ -4,7 +4,7 @@ title: 3D scanning and printing of a person's bust
 description: Utilizing LiDAR to capture a 3D scan of a persons head ready for use and print 🤳🏻
 tags: mechatronics
 category: mechanical
-img: assets/img/2023/thumbnail_lbymf3h.gif
+img: assets/img/2023/lbymf3a/lbymf3a_3.png
 giscus_comments: true
 ---
 
@@ -12,6 +12,15 @@ giscus_comments: true
 The motivation for this project is to capture the details of the face and 3D print it for personal use. The process involves `3D scanning` and simulating the `3D printing` of a human face using an iPad Pro with LiDAR, Autodesk Meshmixer, and Ultimaker Cura. The project aimed to capture a 3D scan, refine it in Meshmixer, and simulate its printing in Cura. 
 
 The methodology involved using the iPad Pro's LiDAR to scan a face, editing the resulting STL file in Meshmixer to isolate the head, and then importing the file into Cura for print simulation. Cura was used to generate G-code, simulating the 3D printing process. This project highlights 3D printing's flexibility and customization capabilities, acknowledging both its advantages and challenges, such as maintaining consistent print quality and the need for user expertise. My group and I was able to successfully simulated the 3D printing process, identifying areas for improvement, particularly in capturing finer details during the scanning phase.
+
+<div class="row">
+  <div class="col-12">
+    {% include figure.liquid loading='eager' path='assets/img/2023/thumbnail_lbymf3h.gif' class='img-fluid rounded z-depth-1 w-100' %}
+  </div>
+</div>
+<div class="caption">
+   Initial 3D scan of subject's bust with intended infill to be printed.
+</div>
 
 ### FINDINGS:
 

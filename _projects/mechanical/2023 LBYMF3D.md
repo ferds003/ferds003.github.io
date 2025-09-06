@@ -4,7 +4,7 @@ title: Product design improvement for a tumbler with lid
 description: the full research-to-design improvements made for Brumate's Toddy Tumbler and Bev-Lock Seal 🧋
 tags: mechatronics
 category: mechanical
-img: assets/img/2023/thumbnail_lbymf3d.gif
+img: assets/img/2023/lbymf3d/lbymf3d_tumbler.png
 giscus_comments: true
 driveId: 1KjbQcDrM7Fh9q0fkXK0pz2qehVcLfGHo
 images:
@@ -13,6 +13,15 @@ images:
 
 ### OVERVIEW:
 The motivation for this project is the design improvement for the tumbler that I own which is `Brumate's 40oz variant tumbler` with a handle and a lid. The issue was the ease of cleaning for the gasket and lid that is a problem that an encounter as a user. To validate this idea with the intention to tackle `ease of cleaning`, `accessibility`, and `customization`, we employed a derivative approach, building upon existing products through market research down to design architecture.
+
+<div class="row">
+  <div class="col-12">
+    {% include figure.liquid loading='eager' path='assets/img/2023/thumbnail_lbymf3d.gif' class='img-fluid rounded z-depth-1 w-100' %}
+  </div>
+</div>
+<div class="caption">
+   tumbler design made with specific changes to suit the needs of the user.
+</div>
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2023/lbymf3d/lbymf3d_tumbler.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>

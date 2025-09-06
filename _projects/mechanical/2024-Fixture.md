@@ -3,7 +3,7 @@ layout: page
 title: CMM Inspection Fixture for Gearbox Cover
 description: A fixture precision tool for securing components during metrology measurements 🛠️
 category: mechanical
-img: assets/img/2024/mftldes/thumbnail_mftldes.gif
+img: assets/img/2024/mftldes/thumbnail_mftldes.png
 giscus_comments: true
 pretty_table: true
 images:
@@ -33,6 +33,13 @@ The fixture adheres to `tool design`,`restricted planes of movement`, `support p
 </swiper-container>
 <div class="caption">
   different 3D views that highlights the made fixture design as well its parts for functionality. A rendering at the end is also covered that captures the end fixture product.
+</div>
+
+<div class="row mt-3 justify-content-center">
+    {% include figure.liquid loading='eager' path='assets/img/2024/mftldes/thumbnail_mftldes.gif' class='img-fluid rounded z-depth-1' zoomable=true %}
+</div>
+<div class="caption">
+  Animated display of the CMM fixture made.
 </div>
 
 ## FINDINGS:

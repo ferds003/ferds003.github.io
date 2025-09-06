@@ -3,7 +3,7 @@ layout: page
 title: Modified Field Sobriety Test
 description: A device to standardize field sobriety testing against DUI and DWI in line with R.A. 10586 🍻
 category: electronics
-img: assets/img/2025/pcb/sobriety_test/thumbnail_pcb.gif
+img: assets/img/2025/pcb/sobriety_test/content_pcb6.png
 giscus_comments: true
 images:
     slider: true
@@ -13,6 +13,15 @@ driveId: 1GyzgeOylWeGjGLDpSTGtd9BCpS120Qpd
 ### OVERVIEW:
 The motivation for this project is the increasing `road fatality cases` caused by driving while intoxicated (DWI) and driving under the influence (DUI) here in the Philippines. This project proposes a **cheaper alternative to the common breathalyzer** used by police to test intoxication. This **Modified Field Sobriety Test** device using an Arduino Uno. The system integrates **sensors, actuators, and displays** to help law enforcement evaluate a driver’s sobriety in an automated way. The project simulated three standardized tests—balance, cognitive ability, and walk-and-turn—replicating real-world applications of embedded systems in public safety. Both simulation and a ready PCB was made for this project.
 
+
+<div class="row">
+  <div class="col-12">
+    {% include figure.liquid loading='eager' path='assets/img/2025/pcb/sobriety_test/thumbnail_pcb.gif' class='img-fluid rounded z-depth-1 w-100' %}
+  </div>
+</div>
+<div class="caption">
+   animated display of the made PCB design
+</div>
 <div class="row mt-3 justify-content-center">
   <!-- First image -->
   <div class="col-sm mt-3 mt-md-0 text-center">

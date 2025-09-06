@@ -3,7 +3,7 @@ layout: page
 title: PID-controlled self-balancing robot
 description: My attempt to make and control a simple self-balancing robot using MATLAB and Simulink 🤸‍♂️
 category: electronics
-img: assets/img/2025/pid/balancing_robot/thumbnail_robot.gif
+img: assets/img/2025/self_balancing/thumbnail_robot.png
 giscus_comments: true
 pretty_table: true
 images:
@@ -13,6 +13,14 @@ images:
 ### OVERVIEW:
 The self-balancing robot can be modeled as an **inverted pendulum on wheels**. The challenge is to keep the robot upright despite its unstable equilibrium and the initial pertubation (fancy word for initial movement conditions). A **PID controller** is applied to continuously adjust the wheel speed based on the tilt angle error.
 
+<div class="row">
+  <div class="col-12">
+    {% include figure.liquid loading='eager' path='assets/img/2025/pid/balancing_robot/thumbnail_robot.gif' class='img-fluid rounded z-depth-1 w-100' %}
+  </div>
+</div>
+<div class="caption">
+   Animated display of the PID control preview
+</div>
 
 ### FINDINGS:
 
