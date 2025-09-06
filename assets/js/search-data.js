@@ -146,6 +146,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/MFCNTRL&LBYMF3I/";
           
         },
+      },{id: "post-design-of-machine-elements-material-selection-to-product-functionality-cds-1-2-lbymf3f",
+        
+          title: "Design of Machine Elements; material selection to product functionality (CDS 1-2; LBYMF3F)",
+        
+        description: "From my personal calculations on cyclic stress felt on a small ferris wheel shaft 🎡 to preferred car toy spur gear, I detail here the learnings I have made under design of machine elements ❤️‍🔥",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/CDS/";
+          
+        },
       },{id: "post-rigid-bodies-mayhem-engmec-1-3",
         
           title: "Rigid Bodies Mayhem (ENGMEC 1-3)",
