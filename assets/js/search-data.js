@@ -367,8 +367,8 @@ ninja.data = [{
           section: "News",},{id: "news-got-accepted-into-department-of-science-and-technology-advanced-science-and-techinology-institute-dost-asti-as-a-research-development-division-rdd-intern",
           title: 'Got accepted into Department of Science and Technology-Advanced Science and Techinology Institute (DOST-ASTI)...',
           description: "For 3 months, got to help and develop machine learning algorithms for a DOST project.",
-          section: "News",},{id: "news-gawad-lasalyano-award-for-the-2nd-time-wut-wut-gt-lt",
-          title: 'Gawad Lasalyano Award for the 2nd Time!! (wut wut &amp;gt;_&amp;lt;)',
+          section: "News",},{id: "news-gawad-lasalyano-award-for-the-2nd-time",
+          title: 'Gawad Lasalyano Award for the 2nd Time!!',
           description: "Received the Gawad Lasalyano Award for achievements in leadership and excellence in competitions.",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_10/";
@@ -378,7 +378,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_12/";
             },},{id: "news-successfully-defended-my-undergraduate-thesis-titled-quot-vision-based-mini-production-line-for-grading-and-sorting-of-iceberg-lettuce-quot",
-          title: 'Successfully Defended My Undergraduate Thesis! titled &amp;quot;Vision-Based Mini-Production Line for Grading and Sorting...',
+          title: 'Successfully defended my undergraduate thesis! titled &amp;quot;Vision-Based Mini-Production Line for Grading and Sorting...',
           description: "Final thesis defense completed — a major milestone in my MEM journey!",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_15/";
@@ -410,7 +410,7 @@ ninja.data = [{
               window.location.href = "/projects/electronics/2023-LBYMF3E/";
             },},{id: "projects-modified-field-sobriety-test",
           title: 'Modified Field Sobriety Test',
-          description: "A device to standardized field sobriety testing against DUI and DWI in line with R.A. 10586 🍻",
+          description: "A device to standardize field sobriety testing against DUI and DWI in line with R.A. 10586 🍻",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2023-Sobriety-Test/";
             },},{id: "projects-pcb-design-for-esp32-automation-of-30a-relays",
