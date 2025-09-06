@@ -20,16 +20,16 @@ This all in all provides a GD&T analysis of the gearbox cover and its parts with
 The fixture adheres to `tool design`,`restricted planes of movement`, `support principle`, and `locating principle`. Findings outline a more thorough explanation of the design made. 
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (1).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide> 
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (2).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (3).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (4).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (5).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (6).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (7).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (8).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (9).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE (10).JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE1.JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide> 
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE2.JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE3.JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE4.JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE5.JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE6.JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE7.JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE8.JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE9.JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2024/mftldes/CMM-FIXTURE10.JPG" class=img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
 </swiper-container>
 <div class="caption">
   different 3D views that highlights the made fixture design as well its parts for functionality. A rendering at the end is also covered that captures the end fixture product.
