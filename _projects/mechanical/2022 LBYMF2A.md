@@ -18,7 +18,7 @@ The simulated job used a `172 mm × 172 mm × 93.5 mm` stock where across **24 o
     {% include figure.liquid loading='eager' path='assets/img/2022/thumbnail_lbymf2a.gif' class='img-fluid rounded z-depth-1' zoomable=true %}
 </div>
 <div class="caption">
-  The Lasallian spoof pic post that I find very relatable for this case. ctto!
+  Animation of the CNC machining process for end product.
 </div>
 
 ## Procedure

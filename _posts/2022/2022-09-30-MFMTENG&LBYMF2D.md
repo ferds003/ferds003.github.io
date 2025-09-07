@@ -33,6 +33,13 @@ Overall, I was able to learn the following from his class:
 
 Below is a consolidated document of the calculations that I did for this lecture. 
 
+<iframe src="https://drive.google.com/file/d/19QVwu2gMq9UR6PDPf9KT0QYAzdbyy95r/preview"
+        width="100%" height="600px"
+        style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  My personal notes for materials engineering!
+</div>
+
 <iframe src="https://drive.google.com/file/d/1qnR3EZdTJH-ZWGkCay7j2O3EkAmnF29v/preview"
         width="100%" height="600px"
         style="border: 1px solid #ccc;"></iframe>

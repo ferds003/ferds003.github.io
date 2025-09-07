@@ -31,9 +31,9 @@ e(t) = \theta_{ref}(t) - \theta(t)
 $$
 
 Where:
-- \( e(t) \) = error (difference between desired and actual angle)  
-- \( \theta_{ref}(t) \) = desired angle (upright = 0°)  
-- \( \theta(t) \) = measured tilt angle  
+-$$ \( e(t) \) $$= error (difference between desired and actual angle)  
+-$$ \( \theta_{ref}(t) \) $$= desired angle (upright = 0°)  
+-$$ \( \theta(t) \) $$= measured tilt angle  
 
 
 ## Methodology
@@ -129,7 +129,7 @@ $$
 
   <!-- Second image -->
   <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include figure.liquid loading='eager' path='assets\img\2025\pid\balancing_robot\content_robot1.png' class='img-fluid rounded z-depth-1' zoomable=true %}
+    {% include figure.liquid loading='eager' path='assets/img/2025/pid/balancing_robot/content_robot1.png' class='img-fluid rounded z-depth-1' zoomable=true %}
     <div class="caption mt-2">
       Detailed PID parameters achieved for the self-balancing robot 
     </div>
