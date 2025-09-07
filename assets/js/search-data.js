@@ -150,7 +150,7 @@ ninja.data = [{
         
           title: "Design of Machine Elements; material selection to product functionality (CDS 1-2; LBYMF3F)",
         
-        description: "From my personal calculations on cyclic stress felt on a small ferris wheel shaft 🎡 to preferred car toy spur gear, I detail here the learnings I have made under design of machine elements ❤️‍🔥",
+        description: "From my personal calculations on cyclic stress felt on a small ferris wheel shaft 🎡 to preferred car toy spur gear under cost constraints, I detail here the learnings I have made under design of machine elements ❤️‍🔥",
         section: "Posts",
         handler: () => {
           
