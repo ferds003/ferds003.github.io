@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Aspiring Mechatronics Engineer | Data Science Enthusiast | Lifetime Learner
+subtitle: Mechatronics Engineer | Data Science Enthusiast | Lifetime Learner
 
 profile:
   align: right

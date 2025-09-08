@@ -12,7 +12,7 @@ images:
 ---
 
 ### OVERVIEW:
-The motivation for this project is the design improvement for the tumbler that I own which is `Brumate's 40oz variant tumbler` with a handle and a lid. The issue was the ease of cleaning for the gasket and lid that is a problem that an encounter as a user. To validate this idea with the intention to tackle `ease of cleaning`, `accessibility`, and `customization`, we employed a derivative approach, building upon existing products through market research down to design architecture.
+The motivation for this project is the design improvement for the tumbler that I own which is `Brumate's 32oz variant tumbler` with a handle and a lid. The issue was the ease of cleaning for the gasket and lid that is a problem that an encounter as a user. To validate this idea with the intention to tackle `ease of cleaning`, `accessibility`, and `customization`, we employed a derivative approach, building upon existing products through market research down to design architecture.
 
 <div class="row">
   <div class="col-12">
