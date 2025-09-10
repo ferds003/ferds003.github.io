@@ -33,7 +33,7 @@ Hi! I'm Fernando Magallanes Jr.-Ferds for short-a Manufacturing Engineering grad
 
 --**Career Goals and Dreams**--
 
-As I delve into the industrial world particularly on its specifics on `mechatronics and robotics`, my current goal right after graduation is to pursue a job within the manufacturing industry here in the Philippines. I aim on becoming one of the key proponents that will bring forth industry 4.0 in the country excelling in the fields of <mark> mechanical design, embedded systems, and data science </mark>.
+As I delve into the industrial world particularly on its specifics on `mechatronics and robotics`, I aim on becoming one of the key proponents that will bring forth industry 4.0 excelling in the fields of <mark> mechanical design, embedded systems, and data science </mark>.
 
 At last update, I'm engaged in a funded project as a `technical lead` on the development and construction of a compact anaerobic digester within my university's campus. I am tasked with the automation, instrumentation and control as well as the remote monitoring of this system. This comes after proposing an idea to repurpose solid waste as fuel for cooking.
 
