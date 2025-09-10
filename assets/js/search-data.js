@@ -113,6 +113,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/LBYMF4D&MFELEC2/";
           
         },
+      },{id: "post-exploring-power-electronics-through-simulations",
+        
+          title: "Exploring Power Electronics through simulations",
+        
+        description: "How I got to learn and utilize simulink for the modelling and simulation of power electronics 😎",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/Power-Electronics/";
+          
+        },
       },{id: "post-i-not-robot-mfrbtic-lbymf4a-mfelec3",
         
           title: "I, not, Robot! (MFRBTIC, LBYMF4A, MFELEC3)",
