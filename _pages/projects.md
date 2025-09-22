@@ -25,20 +25,20 @@ children:
   <div class="row row-cols-1 row-cols-md-2 g-4 mt-3">
     <div class="col">
       <a class="card p-4 text-center shadow-sm" href="/projects/mechanical/">
-        <h3>⚙️ Mechanical</h3>
-        <p>CAD, manufacturing processes and mechanical design projects.</p>
+        <h3>⚙️ Mechanical </h3>
+        <p>CAD, manufacturing processes, product design and mechanical design projects.</p>
       </a>
     </div>
     <div class="col">
       <a class="card p-4 text-center shadow-sm" href="/projects/electronics/">
-        <h3>🔌 Electronics & Software</h3>
-        <p>Embedded systems, robotics, automation and software design.</p>
+        <h3>🔌 Electronics</h3>
+        <p>Embedded systems, robotics, and automation.</p>
       </a>
     </div>
     <div class="col">
       <a class="card p-4 text-center shadow-sm" href="/projects/data_science/">
-        <h3>📊 Data Science</h3>
-        <p>Machine learning, data analysis, and AI projects.</p>
+        <h3>📊 Data Science & Software</h3>
+        <p>Machine learning, data analysis, AI projects, and software design.</p>
       </a>
     </div>
     <div class="col">
