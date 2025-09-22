@@ -234,6 +234,17 @@ ninja.data = [{
             window.location.href = "/blog/2022/MFANLOG&LBYMF2C/";
           
         },
+      },{id: "post-not-micro-managing-every-detail-of-the-project-btw-mfproma",
+        
+          title: "Not micro-managing every detail of the project btw (MFPROMA)",
+        
+        description: "my personal take on engineering production management. When can you apply this in the field? 🧐",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/MFPROMA/";
+          
+        },
       },{id: "post-materials-engineering-mfmteng-amp-lbymf2d",
         
           title: "Materials Engineering (MFMTENG &amp; LBYMF2D)",
