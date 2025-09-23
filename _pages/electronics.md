@@ -2,7 +2,7 @@
 layout: page
 title: 🕹️ Electronics Projects
 permalink: /projects/electronics/
-description: Projects exploring the integration of electronics with control and automation systems. Focus areas on embedded systems, industrial electronics, automation and control, Internet of Things (IoT), and robotics. I will also present here any software design and implementations I have made along the way :>
+description: Projects exploring the integration of electronics with control and automation systems. Focus areas on embedded systems, industrial electronics, automation and control, Internet of Things (IoT), and robotics.
 nav: false
 display_categories:
 horizontal: false

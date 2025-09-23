@@ -37,7 +37,7 @@ Now, below is another set of certification of accomplishment in my recent grind 
 
 
 ## UDEMY:
-Udemy has my go-to online platform to get learnings from others with a `known certificate of accomplishment` once I have finished a course. Of course there are many alternatives that are free with similar quality content but Udemy is a platform that upholds that quality via `customer ratings and feeback` so I dont have to waste time knowing if the teachings that is presented in the course is right for me or not. Plus side is that you get to keep the course forever and has a 30-day refund period if I dont like it. Thankfully, the learnings have been `eye-openers` on what I need to do to level-up my career! For me, that would be on embedded systems and the known robotic framework, ROS. Below is my certificate of these concepts.
+Udemy is my go-to online platform to get learnings from others with a `known certificate of accomplishment` once I have finished a course. Of course there are many alternatives that are free with similar quality content but Udemy is a platform that upholds that quality via `customer ratings and feeback` so I dont have to waste time knowing if the teachings that is presented in the course is right for me or not. Plus side is that you get to keep the course forever and has a 30-day refund period if I dont like it. Thankfully, the learnings have been `eye-openers` on what I need to do to level-up my career! For me, that would be on embedded systems and the known robotic framework, ROS. Below is my certificate of these concepts.
 
 <iframe src="https://drive.google.com/file/d/1J5F_RQLe9YE-427XP1CqDy3BpTuEqaZm/preview"
         width="100%" height="600px"

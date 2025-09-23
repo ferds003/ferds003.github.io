@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🤖 Data Science Projects 
+title: 🤖 Data Science and Software Projects 
 permalink: /projects/data_science/
 description: Data-driven projects applying AI and analytics to solve real-world problems. Covering areas of web scraping, data cleaning, data mining, machine learning, computer vision, and natural language processing (NLP). I will also present here any software design and implementations I have made along the way :>
 nav: false
