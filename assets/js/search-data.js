@@ -201,6 +201,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/LBYMF3C/";
           
         },
+      },{id: "post-cnc-machining-and-various-advanced-manufacturing-techniques-so-kwool-lbymf3h",
+        
+          title: "CNC Machining and various advanced manufacturing techniques (so kwool!, LBYMF3H)",
+        
+        description: "My personal experience of handling gcode operations for the configuring of CNC and other manufacturing operations for computer-aided manufacturing, CAM.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/LBYMF3H/";
+          
+        },
       },{id: "post-spaghetti-wires-my-industrial-electronics-learnings-mfindlx-amp-lbymf3e",
         
           title: "Spaghetti wires! My industrial electronics learnings (MFINDLX &amp; LBYMF3E)",
