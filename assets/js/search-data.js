@@ -157,6 +157,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/MFGSEMS/";
           
         },
+      },{id: "post-finite-element-modelling-in-depth-orthosis-case-study-discussion-what-i-did-wrong-at-first-interpretation-lbymf4c",
+        
+          title: "Finite element modelling, in-depth orthosis case-study discussion, what I did wrong at first...",
+        
+        description: "A series of FEA models that cover the techniques and specifics ways to conduct simulated modelling using Ansys 💆🏻",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/LBYMF4B/";
+          
+        },
       },{id: "post-understanding-control-systems-and-use-in-plant-control-mfcntrl-amp-lbymf3i",
         
           title: "Understanding Control Systems and use in Plant Control (MFCNTRL &amp; LBYMF3I)",
