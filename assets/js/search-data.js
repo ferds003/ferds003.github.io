@@ -102,15 +102,26 @@ ninja.data = [{
             window.location.href = "/blog/2024/MFTLDES/";
           
         },
-      },{id: "post-not-micro-managing-every-detail-of-the-project-btw-mfproma",
+      },{id: "post-not-micro-managing-every-detail-of-production-operations-btw-mfproma",
         
-          title: "Not micro-managing every detail of the project btw (MFPROMA)",
+          title: "Not micro-managing every detail of production/operations btw (MFPROMA)",
         
-        description: "my personal take on engineering production management. When can you apply this in the field? 🧐",
+        description: "my personal take on engineering production management with a juxtaposition of 2 job description of entry-level mfg.-specifc engr. roles. When can you apply this in the field? 🧐",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2024/MFPROMA/";
+          
+        },
+      },{id: "post-simulations-and-justification-of-computer-integrated-manfaucturing-systems-and-investments-mfcimsy-amp-lbymf4b",
+        
+          title: "Simulations and justification of computer integrated manfaucturing systems and investments (MFCIMSY &amp; LBYMF4B)...",
+        
+        description: "I present here in this blog the various activities that I have done for discrete event simulations and learnings taken from justifying cost for fancy CIMs towards mfg./process applications 💰",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/LBYMF4B/";
           
         },
       },{id: "post-smart-factory-intelligent-manufacturing-systems-lbymf4d-amp-mfelec2",
@@ -165,7 +176,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/LBYMF4B/";
+            window.location.href = "/blog/2024/LBYMF4C/";
           
         },
       },{id: "post-understanding-control-systems-and-use-in-plant-control-mfcntrl-amp-lbymf3i",
