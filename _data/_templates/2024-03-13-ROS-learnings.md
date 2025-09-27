@@ -3,8 +3,8 @@ layout: post
 title: 
 date: 2022-07-13 20:40:00
 description: 
-tags: design_and_modelling | manufacturing_engineering | automation_and_controls | data_and_ai | operations_and_management | coding
-categories: mechatronics | embedded_systems | electronics | management | data_science | volunteering | personal
+tags: design_and_modelling data_and_ai coding robotics
+categories: mechatronics embedded_systems
 thumbnail: assets/img/2023/thumbnail_mfindlx.png
 giscus_comments: true
 pretty_table: true
@@ -119,4 +119,3 @@ Below is a consolidated document of the outputs that I did for this lecture.
 
 __REFLECTIONS__: 
 
-[here]({% post_url 2024-05-13-MFRBTIC %})

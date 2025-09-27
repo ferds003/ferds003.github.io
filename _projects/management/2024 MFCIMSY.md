@@ -79,6 +79,8 @@ Likewise, computer technologies for business and manufacturing setups takes also
 
 The learnings can be made on how we present the idea to the company and how we can convince current businesses to transition to better computer integrated systems which may be applied down in the future in manufacturing continuous improvement.
 
+You may check further the blog post that I have made for CIM proposal making and justification [here]({% post_url 2024/2024-07-10-LBYMF4B %}) 
+
 PS. Shoutout to Pat, Quiz, Dolot, Chiara, Drix and Adam  for the being groupmates for this project. 
 
 <mark> Especially to Quiz for securing us a chance to present this idea to the company!! </mark> Also to Drix and Chiara for the ideas for the paper, grateful for them at nairaos rin and we got to present this~!!

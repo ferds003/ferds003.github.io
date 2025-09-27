@@ -96,6 +96,10 @@ Safety Factor:
 **Conclusion:**
 The LGs forceps design demonstrates good structural integrity under the applied force. The maximum stress was 248.3 MPa, with a deformation of 0.007 mm upon repeated loadings. A safety factor of 4.605 is recommended to reduce stress. The safety factor will combat the deformation made but will make the increase forcep thickness. Further design improvements can be made by considering different support configurations and forces beyond normal force load. FEA provides valuable insights for future applications of LGs in minimally invasive surgeries.
 
+You may check [here]() the blog post that I did that features other kinematic analysis!
+
+You may also check further the blog post that I have made for FEA [here]({% post_url 2024/2024-04-20-LBYMF4C %}) 
+
 <iframe src="https://drive.google.com/file/d/1p8tk4OQHeY-pzJgoHTPn0qjuiBRuDljP/preview"
         width="100%" height="600px"
         style="border: 1px solid #ccc;"></iframe>

@@ -73,5 +73,7 @@ We got the joy to actually see the part being machined in Fusion 360 CAM and app
 
 PS. You may check the adjacent blog post that I have made regarding supplementary exercises that I have done too [here]({% post_url 2022/2022-02-21-MFMPCR2&LBYMF2A %})
 
+You may also check my works done for more other CAM activties [here]({% post_url 2023/2023-10-02-LBYMF3H %})
+
 PPS. Thanks to my co-implements for this project; Drix and Lance! 
 

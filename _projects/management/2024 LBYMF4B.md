@@ -131,6 +131,8 @@ Let me know in the comments if this is a valid take on the waiting situation in 
   The pitchdeck we made for the F2F presentation for this project.
 </div>
 
+You may check further the blog post that I have made regarding time study and event-based simulations [here]({% post_url 2024/2024-07-10-LBYMF4B %}) 
+
 PS. I dont in anyway support claims that using the stairs in andrew is better. I just prefer it given my situation and that I'm physically fit to do such strenuous activity. Siyempre convenience parin numbawan but if critical situation mo, know that you can cut off approx. two minutes travel time using the stairs going to 9th-16th floor (typically where we MEM students take our class lalo kung freshman ka)
 
 PPS. Shoutout kina dolot, vito and rafa for helping me do the data gathering for this project!
