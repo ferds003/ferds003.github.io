@@ -196,6 +196,7 @@ Another common validation that is done for kinematic motions is the performance 
 </div>
 <div class="caption">
   Animated image of the model made
+</div>
 
 <iframe src="https://drive.google.com/file/d/1Ilmw4ex6aWwIgGNNSq8gpOTyyDQeuuMQ/preview"
         width="100%" height="600px"
@@ -218,8 +219,10 @@ This is the culmination of the activities as this covers the complex mechanisms 
   My model that I have made. Cannot simulate fully the movement due to the error attributed to the spring. Below is the reference for this mechanism.
 </div>
 
-<div class="col-12 mt-3 mt-md-0">
+<div class="row mt-3">
+  <div class="col-12 mt-3 mt-md-0">
     {% include video.liquid path="https://www.youtube.com/embed/chT_KNcMx2s" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
 
 <iframe src="https://drive.google.com/file/d/1AvdNyp7UGYQu3vAOoo9oyT6pjQfh2C7J/preview"
