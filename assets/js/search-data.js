@@ -256,6 +256,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/MFDIGTL/";
           
         },
+      },{id: "post-linkages-joints-and-frames-the-basics-of-kinematic-synthesis-mfknmat-amp-lbymf3a",
+        
+          title: "Linkages, joints and frames; the basics of Kinematic synthesis (MFKNMAT &amp; LBYMF3A)",
+        
+        description: "This blog features everything that I did for the determinism of kinematic mechanisms that underly the fundamental aspect of motion within machinery, wont yap too much this time",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/LBYMF3A&MFKNMAT/";
+          
+        },
       },{id: "post-software-programming-in-mem-lbyec2a-lbymf1d-lbyec3b-lbymf3b-lectures-in-between",
         
           title: "Software programming in MEM (LBYEC2A, LBYMF1D, LBYEC3B, LBYMF3B Lectures in between!)",
