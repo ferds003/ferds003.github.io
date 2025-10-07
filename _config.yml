@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Maintained personal website by Ferds Magallanes for career and personal use :>>
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
-  Last updated: July 30, 2025.
+  Last updated: September 03, 2025.
 keywords: embedded_systems, mechatronics, data_science # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: /favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

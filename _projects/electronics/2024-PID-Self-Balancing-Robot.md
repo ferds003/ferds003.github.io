@@ -22,7 +22,7 @@ The self-balancing robot can be modeled as an **inverted pendulum on wheels**. T
    Animated display of the PID control preview
 </div>
 
-### FINDINGS:
+## Methodology
 
 The fundamental principle:
 
@@ -31,12 +31,10 @@ e(t) = \theta_{ref}(t) - \theta(t)
 $$
 
 Where:
--$$ \( e(t) \) $$= error (difference between desired and actual angle)  
--$$ \( \theta_{ref}(t) \) $$= desired angle (upright = 0°)  
--$$ \( \theta(t) \) $$= measured tilt angle  
+- \( e(t) \) = error (difference between desired and actual angle)  
+- \( \theta_{ref}(t) \) = desired angle (upright = 0°)  
+- \( \theta(t) \) = measured tilt angle  
 
-
-## Methodology
 
 ### 1. Dynamic Model of Inverted Pendulum
 The robot’s body is approximated as an inverted pendulum:

@@ -43,7 +43,7 @@ Udemy is my go-to online platform to get learnings from others with a `known cer
         width="100%" height="600px"
         style="border: 1px solid #ccc;"></iframe>
 <div class="caption">
-  My udemy course certificate of completion
+  My udemy course certificate of completion focused on robotics and embedded systems
 </div>
 
 From udemy, I was able to learn and upskill on on-demand CAD software that is often asked by employers but is not covered by formal teachings in university. So far, I was able to learn `AutoCAD` and `Solidworks` for my professional enrichment! These certificates are seen below.
@@ -52,6 +52,5 @@ From udemy, I was able to learn and upskill on on-demand CAD software that is of
         width="100%" height="600px"
         style="border: 1px solid #ccc;"></iframe>
 <div class="caption">
-  My udemy course certificate of completion for AutoCAD and Solidworks
+  My udemy course certificate of completion for AutoCAD and Solidworks as well as basic GD&T
 </div>
-
