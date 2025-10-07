@@ -515,6 +515,11 @@ ninja.data = [{
           description: "My personal project for this engineering management course 📋",
           section: "Projects",handler: () => {
               window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
+            },},{id: "projects-vision-based-grading-and-sorting-of-iceberg-lettuce",
+          title: 'Vision-based grading and sorting of iceberg lettuce',
+          description: "My thesis of utilizing genetic programming and fuzzy logic for a 3-level quality grading and sorting of locally-produced iceberg lettuce 🥬",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2025-Lettuce-Grading-and-Sorting/";
             },},{id: "projects-business-feasibility-for-banana-peduncle-fiberboards",
           title: 'Business Feasibility for Banana Peduncle Fiberboards',
           description: "A business proposal for the manufacturing of banana fiberboards",
