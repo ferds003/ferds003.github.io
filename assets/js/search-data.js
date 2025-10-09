@@ -44,14 +44,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/projects/management/";
               },
-            },{id: "nav-publications",
-          title: "publications",
-          description: "academic publications I have been involved in!",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-cv",
+            },{id: "nav-cv",
           title: "cv",
           description: "",
           section: "Navigation",
@@ -480,6 +473,11 @@ ninja.data = [{
           description: "machine learning application provides spam SMS classifier in the filipino context. 🥫",
           section: "Projects",handler: () => {
               window.location.href = "/projects/data_science/2025-8-10%20DATA103/";
+            },},{id: "projects-portable-electronic-nose-for-lakatan-banana",
+          title: 'Portable Electronic Nose for Lakatan Banana',
+          description: "The design and development of an e-nose that detects volatile organic compounds (VOCs) for lakatan banana, a native double-A banana cultivar 🍌",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2023-Electronic-Nose/";
             },},{id: "projects-alumina-substrate-production-of-a-solid-mounted-device-smds-resistor",
           title: 'Alumina substrate production of a solid-mounted device (SMDs) resistor',
           description: "A simulated electro-pneumatic system for the manufacturing of SMDs components 💨",
@@ -517,7 +515,7 @@ ninja.data = [{
               window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
             },},{id: "projects-vision-based-grading-and-sorting-of-iceberg-lettuce",
           title: 'Vision-based grading and sorting of iceberg lettuce',
-          description: "My thesis of utilizing genetic programming and fuzzy logic for a 3-level quality grading and sorting of locally-produced iceberg lettuce 🥬",
+          description: "Utilizing genetic programming and fuzzy logic for a 3-level quality grading and sorting of locally-produced iceberg lettuce 🥬",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2025-Lettuce-Grading-and-Sorting/";
             },},{id: "projects-business-feasibility-for-banana-peduncle-fiberboards",
