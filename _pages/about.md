@@ -6,7 +6,7 @@ subtitle: Mechatronics Engineer | Data Science Enthusiast | Lifetime Learner
 
 profile:
   align: right
-  image: profile_photo_mags.jpeg
+  image: main_page_thumbnail.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Currently Based in:</p>
