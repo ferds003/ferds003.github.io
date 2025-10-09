@@ -493,8 +493,8 @@ ninja.data = [{
           description: "Designing a 30A ESP32 Home Automation Circuit using KiCAD 🏠",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2024-ESP32_PCB/";
-            },},{id: "projects-iot-enabled-feeder-system-for-koi-fish-feeder",
-          title: 'IoT-enabled Feeder System for Koi-Fish Feeder',
+            },},{id: "projects-iot-enabled-feeder-system-for-koi-fish",
+          title: 'IoT-enabled Feeder System for Koi-Fish',
           description: "A prototype highlighting more the use case of IoT to monitor the aquaculture inside the tank particularly Koi-Fish 🐟",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2024-Koi-Fish-Feeder/";
@@ -570,7 +570,7 @@ ninja.data = [{
               window.location.href = "/projects/mechanical/2022%20LBYMF2A/";
             },},{id: "projects-smart-recyclable-bin-with-reclined-handguard",
           title: 'Smart recyclable bin with reclined handguard',
-          description: "The CAD design for a smart receptable with a reclined handguard and initial mockup design 🗑️",
+          description: "The design for a smart receptable with a reclined handguard and initial mockup design 🗑️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2022%20LBYMF2B/";
             },},{id: "projects-kinematic-and-finite-element-analysis-of-a-laparscopic-gripper-and-forceps",
