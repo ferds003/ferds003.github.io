@@ -9,11 +9,9 @@ profile:
   image: profile_photo_mags.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Bachelor’s Degree – Requirements Completed: August 2025 </p>
     <p>Currently Based in:</p>
     <p>Taguig City, Metro Manila, 1633</p>
     <p> Contact #: +639053428364 </p>
-
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -35,7 +33,7 @@ Hi! I'm Fernando Magallanes Jr.-Ferds for short-a Manufacturing Engineering grad
 
 As I delve into the industrial world particularly on its specifics on `mechatronics and robotics`, I aim on becoming one of the key proponents that will bring forth industry 4.0 excelling in the fields of <mark> mechanical design, embedded systems, and data science </mark>.
 
-At last update, I'm engaged in a funded project as a `technical lead` on the development and construction of a compact anaerobic digester within my university's campus. I am tasked with the automation, instrumentation and control as well as the remote monitoring of this system. This comes after proposing an idea to repurpose solid waste as fuel for cooking.
+At last update, I have a part-time engagement in a funded project as a `technical lead` on the development and construction of a compact anaerobic digester within my university's campus. I am tasked with the design and deployment of this system. This comes after proposing an idea to repurpose solid waste as fuel for cooking.
 
 A dream of mine is to see a local autonomous robot sorting system on a materials recovery facility here in the country just like [this](https://www.youtube.com/watch?v=rjv_wDOblfc) one overseas by AMP robotics! Establishing a recycling infrastructure of this scale would be transformative, and I am committed to developing the competencies needed to one day contribute to such operations. 
 

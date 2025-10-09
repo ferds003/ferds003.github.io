@@ -2,7 +2,7 @@
 layout: page
 title: Vision-based grading and sorting of iceberg lettuce 
 date: 2025-08-02
-description: My thesis of utilizing genetic programming and fuzzy logic for a 3-level quality grading and sorting of locally-produced iceberg lettuce 🥬
+description: Utilizing genetic programming and fuzzy logic for a 3-level quality grading and sorting of locally-produced iceberg lettuce 🥬
 category: electronics
 img: assets/img/pubs/thesis.gif
 giscus_comments: true
@@ -88,7 +88,7 @@ Proud to share here our complete manuscript below!
 __HOW THIS PROJECT CAN BE FURTHER IMPROVED__: 
 Despite the near complexities to utilize XAI techniques for the implementation of the vision based grading to infer the lettuce quality off only the pixels and known training dataset, the project can be further improved by giving out at least the values and picture of the given lettuce into the stakeholder. This is the essence of this model acting as a `support decision system` for lettuce quality determination and how likely the model was able to sort the quality off known laboratory values. 
 
-The essence of this also is to also store the data and do `traceability` of the lettuce quality upon date of grading which will boost the credibility and how market goers will assure that the lettuce is indeed fresh and priced fairly of its quality. This is a missed oppurtunity to utilize `internet-of-things` but that was outside the scope of our research given the novelty of applying additional parameters for prpactical applications.
+The essence of this also is to also store the data and do `traceability` of the lettuce quality upon date of grading which will boost the credibility and how market goers will assure that the lettuce is indeed fresh and priced fairly of its quality. This is a missed oppurtunity to utilize `internet-of-things` but that was outside the scope of our research given the novelty of applying additional parameters for practical applications.
 
 Lastly, we did consider the use of `PLC-based control` for the system given that we are managing only 3 actuators based on the model output to make it more robust. This is where we got stuck on how to connect the control logic from the MATLAB produced code. Looking at its now this can be hardcoded in such a way that a `OPC-UA` server is placed in a microcomputer that will then act as a gateway service between inferencing, quality forecast and then switching relay to actuate our servo arms. These will be considered in the future once deployment is being considered and in talks for future researchers for `digital agriculture`.
 
