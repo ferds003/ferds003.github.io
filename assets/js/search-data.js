@@ -493,6 +493,11 @@ ninja.data = [{
           description: "Designing a 30A ESP32 Home Automation Circuit using KiCAD 🏠",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2024-ESP32_PCB/";
+            },},{id: "projects-iot-enabled-feeder-system-for-koi-fish-feeder",
+          title: 'IoT-enabled Feeder System for Koi-Fish Feeder',
+          description: "A prototype highlighting more the use case of IoT to monitor the aquaculture inside the tank particularly Koi-Fish 🐟",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2024-Koi-Fish-Feeder/";
             },},{id: "projects-ur10-robotic-arm-and-dobot-simulations",
           title: 'UR10 Robotic Arm and Dobot Simulations',
           description: "programming robotic arms using dedicated software via waypoints or set conditional parameters 🦾",
