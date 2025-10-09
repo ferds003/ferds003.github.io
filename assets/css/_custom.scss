@@ -37,3 +37,35 @@
 [data-theme="dark"] .visitor-map-box {
   background-color: #1c1c1c;
 }
+
+
+.subcategory-nav {
+  margin-bottom: 1.5rem;
+  background: rgba(0,0,0,0.03);
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+}
+
+.subcategory-nav p {
+  margin: 0;
+  color: var(--text-color);
+}
+
+.subcategory-nav ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.5rem 0 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.subcategory-nav a {
+  color: var(--global-theme-color);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.subcategory-nav a:hover {
+  text-decoration: underline;
+}

@@ -3,6 +3,7 @@ layout: page
 title: CMM Inspection Fixture for Gearbox Cover
 description: A fixture precision tool for securing components during metrology measurements 🛠️
 category: mechanical
+subcategory: CAD
 img: assets/img/2024/mftldes/thumbnail_mftldes.png
 giscus_comments: true
 pretty_table: true

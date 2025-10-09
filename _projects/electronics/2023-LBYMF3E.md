@@ -4,6 +4,7 @@ title: Alumina substrate production of a solid-mounted device (SMDs) resistor
 description: A simulated electro-pneumatic system for the manufacturing of SMDs components 💨
 category: electronics
 img: assets/img/2023/thumbnail_lbymf3e.gif
+subcategory: automation
 giscus_comments: true
 pretty_table: true
 images:

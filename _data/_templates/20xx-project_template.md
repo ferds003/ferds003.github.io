@@ -4,6 +4,7 @@ title:
 description: 
 date: 
 category: management | mechanical | electronics | data_Science
+subcategory: #embedded systems, communications, automation, robotics  # CAD, CAE, CAM
 img: assets/img/2023/mfergop1.png
 giscus_comments: true
 pretty_table: true
@@ -115,7 +116,6 @@ images:
       Video demonstration of a third experiment using Raspberry Pi.
     </div>
   </div>
-
 </div>
 
 __REFLECTIONS__: [here]({% post_url 2024-05-13-MFRBTIC %})

@@ -4,6 +4,7 @@ title: Kinematic and finite element analysis of a laparscopic gripper and forcep
 description: The full computer-aided-design for a rudimentary laparscopic gripper for its gripper mechanism and stress loading under its forceps 🫳
 tags: mechatronics
 category: mechanical
+subcategory: CAE
 img: assets/img/2024/thumbnail_lbymf4c.png
 importance: 1
 giscus_comments: true

@@ -4,6 +4,7 @@ title: Modified Field Sobriety Test
 description: A device to standardize field sobriety testing against DUI and DWI in line with R.A. 10586 🍻
 category: electronics
 img: assets/img/2025/pcb/sobriety_test/content_pcb6.png
+subcategory: embedded systems
 giscus_comments: true
 images:
     slider: true

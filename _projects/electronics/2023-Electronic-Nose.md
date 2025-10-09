@@ -4,6 +4,7 @@ title: Portable Electronic Nose for Lakatan Banana
 date: 2023-12-03
 description: The design and development of an e-nose that detects volatile organic compounds (VOCs) for lakatan banana, a native double-A banana cultivar 🍌
 category: electronics
+subcategory: embedded systems
 img: assets/img/2023/thumbnail_electronic_nose.png
 giscus_comments: true
 pretty_table: true
@@ -212,7 +213,7 @@ Below are a series of explanation videos that detail how the system works discus
 
   <!-- Centered fourth video -->
   <div class="col-sm mt-3 mt-md-0 text-center">
-    {% include googleDrivePlayer.html id=page.driveId2 %}
+    {% include googleDrivePlayer.html id=page.driveId3 %}
     <div class="caption mt-2">
       Extracting the data from the SD card and checking of logging of the gas sensors.
     </div>

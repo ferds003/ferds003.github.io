@@ -4,6 +4,7 @@ title: CNC machining
 description: The machining and g-codes we have made to fab a lathe vise holder 🕹️
 tags: mechatronics
 category: mechanical
+subcategory: CAM
 img: assets/img/2022/thumbnail_lbymf2a.png
 giscus_comments: true
 ---
