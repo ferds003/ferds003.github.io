@@ -4,7 +4,7 @@ title: PID-controlled self-balancing robot
 description: My attempt to make and control a simple self-balancing robot using MATLAB and Simulink 🤸‍♂️
 category: electronics
 img: assets/img/2025/self_balancing/thumbnail_robot.png
-subcategory: robotics_and_control
+subcategory: robotics and control
 giscus_comments: true
 pretty_table: true
 images:

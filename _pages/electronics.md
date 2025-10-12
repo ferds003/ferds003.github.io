@@ -12,7 +12,7 @@ display_categories: #embedded_systems, communications_specific, industrial_&_aut
   {% assign categorized_projects = categorized_projects | sort: "importance" %}
 
   <!-- Define custom subcategory display order -->
-  {% assign subcategories_order = "embedded systems, hardware_and_pcb_design, industrial_automation, robotics_and_control" | split: ", " %}
+  {% assign subcategories_order = "embedded systems, hardware and pcb design, industrial automation, robotics and control" | split: ", " %}
 
   <div class="subcategory-nav">
     <p><strong>Jump to:</strong></p>

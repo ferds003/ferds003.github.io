@@ -4,7 +4,7 @@ title: Vision-based grading and sorting of iceberg lettuce
 date: 2025-08-02
 description: Utilizing genetic programming and fuzzy logic for a 3-level quality grading and sorting of locally-produced iceberg lettuce 🥬
 category: electronics
-subcategory: industrial_automation
+subcategory: industrial automation
 img: assets/img/pubs/thesis.gif
 giscus_comments: true
 pretty_table: true
