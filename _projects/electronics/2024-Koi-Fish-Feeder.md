@@ -4,7 +4,7 @@ title: IoT-enabled Feeder System for Koi-Fish
 description: A prototype highlighting more the use case of IoT to monitor the aquaculture inside the tank particularly Koi-Fish 🐟  
 date: 2024-04-18
 category: electronics
-subcategory: communications
+subcategory: embedded systems
 img: assets/img/2024/thumbnail_iot_feeder.png
 giscus_comments: true
 pretty_table: true
