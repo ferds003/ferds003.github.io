@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CNC machining
+title: CNC machining of a lathe vise
 description: The machining and g-codes we have made to fab a lathe vise holder 🕹️
 tags: mechatronics
 category: mechanical

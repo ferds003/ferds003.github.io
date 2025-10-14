@@ -1,0 +1,21 @@
+---
+layout: page
+title: Design of a simple vase with handle 
+date: 2023-08-12
+description: The use of surface environment and tools under F360 to outline vase features.
+tags: mechatronics
+category: mechanical
+subcategory: CAD
+img: assets/img/2023/thumbnail_vase.png
+giscus_comments: true
+driveId: 1Tk4gCPbCMQCXVweqUiZxD9EYD6EtkQIu
+---
+
+<div class="col-sm mt-3 mt-md-0 text-center">
+  {% include googleDrivePlayer.html id=page.driveId %}
+  <div class="caption mt-2">
+    Video explanation of the modelling process done!
+  </div>
+</div>
+
+__HOW THIS PROJECT CAN BE FURTHER IMPROVED__: The vase is already appropriate for render and modelling in kitchen setting, but if this is to be mass produced, a different process is needed to define its production. Especially if the product will be ceramic or made out of clay, it will need a specialized machine to `mold, shape and temper` the material for it to be usable. Further exploration of such application is the next step of this modelling. 
