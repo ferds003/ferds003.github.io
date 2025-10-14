@@ -583,11 +583,6 @@ ninja.data = [{
           description: "Utilizing LiDAR to capture a 3D scan of a persons head ready for use and print 🤳🏻",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2023%20LBYMF3H/";
-            },},{id: "projects-design-of-a-simple-vase-with-handle",
-          title: 'Design of a simple vase with handle',
-          description: "The use of surface environment and tools under F360 to outline vase features.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/mechanical/2023-Bottle%20copy/";
             },},{id: "projects-surface-design-of-a-bottle",
           title: 'Surface design of a bottle',
           description: "What is needed to create and make needed design for a bottle under F360",
@@ -608,11 +603,21 @@ ninja.data = [{
           description: "Validation of made pick and place machine motion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2023-Pick_and_Place/";
+            },},{id: "projects-design-of-a-simple-vase-with-handle",
+          title: 'Design of a simple vase with handle',
+          description: "The use of surface environment and tools under F360 to outline vase curves and features.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2023-Vase/";
             },},{id: "projects-modelling-and-functionality-of-a-vise",
           title: 'modelling and functionality of a vise',
           description: "Showcasing the made vise with full render and functionality 🗜️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2023-Vise/";
+            },},{id: "projects-5-axis-milling-for-a-metal-dice",
+          title: '5-axis milling for a metal dice',
+          description: "The setup and needed preparation to execute this milling operation to produce a 6-sided metal dice product.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2024-Dice/";
             },},{id: "projects-cmm-inspection-fixture-for-gearbox-cover",
           title: 'CMM Inspection Fixture for Gearbox Cover',
           description: "A fixture precision tool for securing components during metrology measurements 🛠️",
