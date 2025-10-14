@@ -216,9 +216,9 @@ ninja.data = [{
             window.location.href = "/blog/2023/LBYMF3C/";
           
         },
-      },{id: "post-cnc-machining-and-various-advanced-manufacturing-techniques-so-kwool-lbymf3h",
+      },{id: "post-cnc-machining-and-various-advanced-manufacturing-techniques-lbymf3h",
         
-          title: "CNC Machining and various advanced manufacturing techniques (so kwool!, LBYMF3H)",
+          title: "CNC Machining and various advanced manufacturing techniques (LBYMF3H)",
         
         description: "My personal experience of handling gcode operations for the configuring of CNC and other manufacturing operations for computer-aided manufacturing, CAM.",
         section: "Posts",
@@ -473,11 +473,6 @@ ninja.data = [{
           description: "machine learning application provides spam SMS classifier in the filipino context. 🥫",
           section: "Projects",handler: () => {
               window.location.href = "/projects/data_science/2025-8-10%20DATA103/";
-            },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
-          title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
-          description: "My personal project for this engineering management course 📋",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
             },},{id: "projects-portable-electronic-nose-for-lakatan-banana",
           title: 'Portable Electronic Nose for Lakatan Banana',
           description: "The design and development of an e-nose that detects volatile organic compounds (VOCs) for lakatan banana, a native double-A banana cultivar 🍌",
@@ -513,6 +508,11 @@ ninja.data = [{
           description: "My attempt to make and control a simple self-balancing robot using MATLAB and Simulink 🤸‍♂️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2024-PID-Self-Balancing-Robot/";
+            },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
+          title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
+          description: "My personal project for this engineering management course 📋",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
             },},{id: "projects-vision-based-grading-and-sorting-of-iceberg-lettuce",
           title: 'Vision-based grading and sorting of iceberg lettuce',
           description: "Utilizing genetic programming and fuzzy logic for a 3-level quality grading and sorting of locally-produced iceberg lettuce 🥬",
@@ -558,8 +558,8 @@ ninja.data = [{
           description: "Use of Integer Linear Programming (ILP) for maximizing profit based on business production 🍰",
           section: "Projects",handler: () => {
               window.location.href = "/projects/management/2025%20MRPRODS/";
-            },},{id: "projects-cnc-machining",
-          title: 'CNC machining',
+            },},{id: "projects-cnc-machining-of-a-lathe-vise",
+          title: 'CNC machining of a lathe vise',
           description: "The machining and g-codes we have made to fab a lathe vise holder 🕹️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2022%20LBYMF2A/";
@@ -583,6 +583,36 @@ ninja.data = [{
           description: "Utilizing LiDAR to capture a 3D scan of a persons head ready for use and print 🤳🏻",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2023%20LBYMF3H/";
+            },},{id: "projects-design-of-a-simple-vase-with-handle",
+          title: 'Design of a simple vase with handle',
+          description: "The use of surface environment and tools under F360 to outline vase features.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2023-Bottle%20copy/";
+            },},{id: "projects-surface-design-of-a-bottle",
+          title: 'Surface design of a bottle',
+          description: "What is needed to create and make needed design for a bottle under F360",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2023-Bottle/";
+            },},{id: "projects-car-jack-support-design-considerations-and-modelling",
+          title: 'car jack support design considerations and modelling',
+          description: "Essence of making a car jack to get desired output force",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2023-Car_Jack/";
+            },},{id: "projects-motion-study-for-a-gearbox",
+          title: 'Motion study for a gearbox',
+          description: "Application of geabox for increasing RPM",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2023-Gearbox/";
+            },},{id: "projects-motion-study-for-a-pick-and-place-mechanism",
+          title: 'Motion study for a pick and place mechanism',
+          description: "Validation of made pick and place machine motion",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2023-Pick_and_Place/";
+            },},{id: "projects-modelling-and-functionality-of-a-vise",
+          title: 'modelling and functionality of a vise',
+          description: "Showcasing the made vise with full render and functionality 🗜️",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2023-Vise/";
             },},{id: "projects-cmm-inspection-fixture-for-gearbox-cover",
           title: 'CMM Inspection Fixture for Gearbox Cover',
           description: "A fixture precision tool for securing components during metrology measurements 🛠️",
