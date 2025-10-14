@@ -473,6 +473,11 @@ ninja.data = [{
           description: "machine learning application provides spam SMS classifier in the filipino context. 🥫",
           section: "Projects",handler: () => {
               window.location.href = "/projects/data_science/2025-8-10%20DATA103/";
+            },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
+          title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
+          description: "My personal project for this engineering management course 📋",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
             },},{id: "projects-portable-electronic-nose-for-lakatan-banana",
           title: 'Portable Electronic Nose for Lakatan Banana',
           description: "The design and development of an e-nose that detects volatile organic compounds (VOCs) for lakatan banana, a native double-A banana cultivar 🍌",
@@ -503,21 +508,11 @@ ninja.data = [{
           description: "programming robotic arms using dedicated software via waypoints or set conditional parameters 🦾",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2024-MFRBTIC/";
-            },},{id: "projects-pcb-design-for-traffic-light-sim",
-          title: 'PCB Design for Traffic Light Sim',
-          description: "a simple printed circuit board design (PCB) for a traffic light indicator 🚦",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/electronics/2024-PCB-Traffic/";
             },},{id: "projects-pid-controlled-self-balancing-robot",
           title: 'PID-controlled self-balancing robot',
           description: "My attempt to make and control a simple self-balancing robot using MATLAB and Simulink 🤸‍♂️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2024-PID-Self-Balancing-Robot/";
-            },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
-          title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
-          description: "My personal project for this engineering management course 📋",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
             },},{id: "projects-vision-based-grading-and-sorting-of-iceberg-lettuce",
           title: 'Vision-based grading and sorting of iceberg lettuce',
           description: "Utilizing genetic programming and fuzzy logic for a 3-level quality grading and sorting of locally-produced iceberg lettuce 🥬",
@@ -593,6 +588,21 @@ ninja.data = [{
           description: "A fixture precision tool for securing components during metrology measurements 🛠️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2024-Fixture/";
+            },},{id: "projects-determination-of-reactions-made-for-a-2-part-flange-assembly-connection",
+          title: 'Determination of reactions made for a 2-part flange assembly connection',
+          description: "Case of applying remote force (moment!) to simulate structural loading offset",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2024-Flange/";
+            },},{id: "projects-modal-analysis-for-a-machine-frame",
+          title: 'Modal analysis for a machine frame',
+          description: "How a workpiece work under natural vibrations",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2024-Frame/";
+            },},{id: "projects-validating-mesh-quality-for-a-brake-pedal-hinge-assembly",
+          title: 'Validating mesh quality for a brake-pedal hinge assembly',
+          description: "What is checked to ensure that body elements are properly captured using ANSYS software",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2024-Hinge-Assembly/";
             },},{
         id: 'social-email',
         title: 'email',
