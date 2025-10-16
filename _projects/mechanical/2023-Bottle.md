@@ -2,7 +2,7 @@
 layout: page
 title: Surface design of a bottle 
 date: 2023-08-12
-description: What is needed to create and make needed design for a bottle under F360
+description: What is needed to create and make needed design for a bottle with groove patterns
 tags: mechatronics
 category: mechanical
 subcategory: CAD

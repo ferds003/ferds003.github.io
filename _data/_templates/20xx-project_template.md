@@ -46,7 +46,6 @@ images:
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2022/lbymf2d/lbymf2d_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2022/lbymf2d/lbymf2d_4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}</swiper-slide>
 </swiper-container>
-
 <div class="caption">
 </div>
 
