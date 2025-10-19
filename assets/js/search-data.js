@@ -585,7 +585,7 @@ ninja.data = [{
               window.location.href = "/projects/mechanical/2023%20LBYMF3H/";
             },},{id: "projects-surface-design-of-a-bottle",
           title: 'Surface design of a bottle',
-          description: "What is needed to create and make needed design for a bottle under F360",
+          description: "What is needed to create and make needed design for a bottle with groove patterns",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2023-Bottle/";
             },},{id: "projects-car-jack-support-design-considerations-and-modelling",
@@ -638,6 +638,11 @@ ninja.data = [{
           description: "What is checked to ensure that body elements are properly captured using ANSYS software",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2024-Hinge-Assembly/";
+            },},{id: "projects-development-of-a-conveyor-belt-digital-twin",
+          title: 'Development of a Conveyor Belt Digital Twin',
+          description: "Using Unity and C# scripts for physics, I explore here how to replicate the movement of conveyor belts",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2025-digital-twinning-conveyor-belt/";
             },},{
         id: 'social-email',
         title: 'email',
