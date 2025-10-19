@@ -2,7 +2,7 @@
 layout: page
 title: Development of a Conveyor Belt Digital Twin
 description: Using Unity and C# scripts for physics, I explore here how to replicate the movement of conveyor belts
-date: 2025-20-03
+date: 2025-06-03 20:40:00
 category: mechanical
 subcategory: CAE
 img: assets/img/2025/thumbnail_digital_twin_conveyor.gif

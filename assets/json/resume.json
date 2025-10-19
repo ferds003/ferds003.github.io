@@ -51,18 +51,6 @@
       ]
     },
     {
-      "name": "Lasallian Social Enterprise for Economic Development (LSEED)",
-      "position": "Affiliated Research & Development Lead",
-      "location": "Taft, Manila",
-      "startDate": "2024-03",
-      "endDate": "2025-11",
-      "summary": "Collaborated with LSEED for the development of current digester project",
-      "highlights": [
-        "Refined startup business model for campus deployment.",
-        "Lead R&D for minimum viable product and prototype construction."
-      ]
-    },
-    {
       "name": "Sari-Cycling",
       "position": "People and Environment Intern",
       "location": "Pasig City, Metro Manila",
@@ -245,10 +233,10 @@
   "projects": [
     {
       "name": "Smart Compact Anaerobic Digester for Campus Use",
-      "summary": "Automated digester for campus biodegradable waste management with IoT monitoring.",
+      "summary": "Automated digester for campus biodegradable waste management with IoT monitoring. Collaborated with LSEED for the development of current digester project",
       "highlights": ["Automation", "IoT Integration", "Sustainable Engineering"],
       "startDate": "2024-03",
-      "endDate": "2025-11"
+      "endDate": "Ongoing"
     },
     {
       "name": "Smart IoT-Based Feeder System for Koi Fish Aquaculture",
