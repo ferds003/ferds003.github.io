@@ -623,6 +623,11 @@ ninja.data = [{
           description: "A fixture precision tool for securing components during metrology measurements 🛠️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2024-Fixture/";
+            },},{id: "projects-design-and-modeling-of-an-adaptive-valve-mechanism",
+          title: 'Design and Modeling of an Adaptive Valve Mechanism',
+          description: "The modelling for a general purposa valve spring mechanism and cam follower using Solidworks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2025-Valve_Mechanism/";
             },},{id: "projects-determination-of-reactions-made-for-a-2-part-flange-assembly-connection",
           title: 'Determination of reactions made for a 2-part flange assembly connection',
           description: "Case of applying remote force (moment!) to simulate structural loading offset",
