@@ -257,4 +257,4 @@ Let me know your thoughts on my ~~reflections~~ rants above/ :"> 😅😅
 
 ---
 
-PS. Nasusukot ako sa english ko, sinamahan ko na nang konting filipino haha
+PS. Nasusukot ako sa english ko, sinamahan ko na nang konting filipino sa reflection haha

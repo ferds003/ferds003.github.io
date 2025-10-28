@@ -86,6 +86,24 @@ Proud to share here our complete manuscript below!
   Complete ETD manuscript that was submitted for storage in DLSU library under MEM dept.
 </div>
 
+## Additional Considerations
+
+Here are some of the calculations that I did for the verification of the conveyor belt dimension needed as well as the wirings I have done for the electricals. The MCB rating calculation was based on the `in-rush` current for the servo motors of 2.5A but it was minimal. Known power to move conveyor belt via motor is approximately `3.538 watts`, consider then 3x SF, thus 10A MCB rating was suitable. `AWG #12-#18` wires were considered for the wiring given the low load between AC and DC, typical for household applications. Considered trying ESP-32 based PLCs but was too expensive for our use case! We never added wiring diagram to the manuscript as we made changes along the way that made it inapplicable and we wanted to focus rather on the integration of the computer vision in automation. But it still gives the overview of all the peripherals with utilized! Grounding was not considered in this diagram, semi consideration for signals between wires too.
+
+<iframe src="https://drive.google.com/file/d/1QhrdbPyfg30F4OOXy-CvnBQJ8YdiPGt6/preview"
+        width="100%" height="600px"
+        style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Handwritten calculations for conveyor belt machine elements. This was later verified by groupmate :>
+</div>
+
+<div class="row mt-3 justify-content-center">
+    {% include figure.liquid loading='eager' path='assets/img/2025/thesis_wiring_diagram.png' class='img-fluid rounded z-depth-1' zoomable=true %}
+</div>
+<div class="caption">
+  Pseudo-wiring diagram for the vision based system. 
+</div>
+
 __HOW THIS PROJECT CAN BE FURTHER IMPROVED__: 
 Despite the near complexities to utilize XAI techniques for the implementation of the vision based grading to infer the lettuce quality off only the pixels and known training dataset, the project can be further improved by giving out at least the values and picture of the given lettuce into the stakeholder. This is the essence of this model acting as a `support decision system` for lettuce quality determination and how likely the model was able to sort the quality off known laboratory values. 
 
