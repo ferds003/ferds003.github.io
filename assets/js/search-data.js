@@ -81,7 +81,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/MRFLUMEHELL/";
+            window.location.href = "/blog/2025/MRFLUMEWHELP/";
           
         },
       },{id: "post-modelling-production-systems-the-art-of-linear-programming-mrprods",
