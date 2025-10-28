@@ -73,6 +73,28 @@ ninja.data = [{
             window.location.href = "/blog/2025/fixing-stuff/";
           
         },
+      },{id: "post-fluid-mechanics-and-my-struggle-to-learn-it",
+        
+          title: "Fluid mechanics and my struggle to learn it",
+        
+        description: "I&#39;m dumping all my notes and frustrations here in this blog to learn fluid mechanics the hard way, avoiding AI slop or Chegg answers as much as possible. Sidetracked about the current state of education here in my university lol.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/MRFLUMEHELL/";
+          
+        },
+      },{id: "post-modelling-production-systems-the-art-of-linear-programming-mrprods",
+        
+          title: "Modelling production systems, the art of linear programming (MRPRODS)",
+        
+        description: "I present here in this blog a consolidated overview of what linear programming is, discussions in class as well as my own takes on when this can be utilized in the field as the beginnings of operations research!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/MRPRODS/";
+          
+        },
       },{id: "post-tatak-self-study",
         
           title: "Tatak self-study~",
