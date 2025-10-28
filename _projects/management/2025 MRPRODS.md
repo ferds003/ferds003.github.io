@@ -38,3 +38,6 @@ PS. Shoutout to Vito and Teo as my co-proponents for this project as well as [Mo
 <div class="caption">
     Final report of our linear programming approach along with the pitchdeck we presented detailing the MATLAB code. 
 </div>
+
+
+You may also check my blog post regarding LP and Operations research as reflection of this project [here]({% post_url 2025/2025-03-23-MRPRODS %})

@@ -73,7 +73,7 @@ The **motion simulation** was set up with a **rotational motor** applied to the 
 As the cam rotated:
 - The `cam lobe` contacted the valve tip.  
 - The **valve** was displaced downward, compressing the **spring**.  
-- Once the cam rotated past the lift region, the `spring force restored` the valve to its original position using the rrbuild function.
+- Once the cam rotated past the lift region, the `spring force restored` the valve to its original position using the build function.
 
 
 ## Learnings and Insights
