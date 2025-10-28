@@ -18,12 +18,11 @@ __TARGET AUDIENCE__: Students, Academics, Industry Professionals, Employers, and
 
 _About the Thumbnail:_ This is my solution sheet for determining pressure difference in a manometer example, exiting velocity for pipes, entrance region and fluid closest described in external flow given via reynolds number.
 
-_Preview:_ All my notes here are purely written which is also heavily advocated by the part-time instructor when taking reading assignments. Suprisingly, textbook and discussion did not match to what is being given in exams. Granted exam is online and was <u>open-book and resources</u>, so we are tempted to check solutions online. :")  
+_Preview:_ This is my personal experience. All my notes here are purely written which is also heavily advocated by the part-time instructor when taking reading assignments. exam is online and was <u>open-book and resources</u>, so we are tempted to check solutions online. :")  
 
-__OVERVIEW / RANT__: One of the dilemnas and conundrums of educators and students alike is how to teach/learn the topic at hand given the modern setup which is hybrid, a mix of physical and online classes modalities. For me? these hybrid setups... I hate it. It's just incentivize both parties to be more and more dependent with online tools and it loses the effort of teaching <u>AND</u> studying. In a world that information is easily bought and retrieved but with questionable origins and reasoning, I make it a point to make my learnings strictly within the confines of what is being taught by instructor and without the help of others. (I choose to learn it the hard way, not sounding cringey pramis). I'm inquisitive by nature and it shows in my personality that is why I contest sometimes what is being discussed. It sucks that sometimes, the instructor fails to emphatize with someone like me who is willing to learn on his discussions. Case and point is this lecture class for my last term for my major degree which is fluid mechanics.
+__OVERVIEW / RANT__: One of the ongoing challenges faced by both educators and students is how to effectively teach and learn within the hybrid education setup—a blend of physical and online learning modalities. Personally, I find this arrangement... quite frustrating. It's just incentivize both parties to be more and more dependent with online tools and it loses the effort of teaching <u>AND</u> studying. In a world that information is easily bought and retrieved but with questionable origins and reasoning, I make it a point to make my learnings strictly within the confines of what is being taught by instructor and without the help of others. (I choose to learn it the hard way, not sounding cringey pramis). nfortunately, there are moments when instructors may fail to empathize with students like me—those genuinely eager to engage critically with the lesson. A clear example of this was during my Fluid Mechanics lecture class in my final term as a major student, where this tension between curiosity and structure became especially apparent.
 
 Below first I show what is being discussed via my handwritten notes that I have scanned :))
-
 
 <iframe src="https://drive.google.com/file/d/1tgFA0IFEE9pxfh0wBi6rvYjZRfK0RFMF/preview"
         width="100%" height="600px"
@@ -42,9 +41,16 @@ At its core, fluid mechanics connects pressure, density, velocity, and viscosity
 
 One of the godsend youtube series that I also highly recommend is by `Enginerds` that you can check [here](https://www.youtube.com/watch?v=QwUdPnEFIiE&list=PLOBgHGXcN_3KbXtZpQxv5pScRUmHy28pk&index=1). Legit, I watched this before I sleep for the term.
 
-Of course if you are book-devoted, you need to have the solution manual of the textbook problems your are solving, you may be inclined to check the solutions here in [Litsolutions](https://www.litsolutions.org/). But this may only help you or not given the expectations of the instructor and in my case, it definitely did not help me passing this course comfortably.
+Of course if you are book-devoted, you need to have the solution manual of the textbook problems your are solving, you can check the solutions here in [Litsolutions](https://www.litsolutions.org/). But this may only help you or not given the expectations of the instructor and in my case, it definitely did not help me passing this course comfortably. Below are the lecture notes provided.
 
-I give below a brief rundown of what the contents of the discussions.
+<iframe src="https://drive.google.com/file/d/1yVvkDhgCxJqjYXYX1vK7N0CxDkppdEm0/preview"
+        width="100%" height="600px"
+        style="border: 1px solid #ccc;"></iframe>
+<div class="caption">
+  Lecutre notes that I have obtained for fluid mechanics.
+</div>
+
+I give here also a brief rundown of what the contents are of our term discussions.
 
 ## Hydrostatic Pressure
 
@@ -238,20 +244,17 @@ Below, I give a sample of the answer sheets but I dont have the given problem. S
 
 __REFLECTIONS / RANT__: This class was already introduced to us way way back when we were first years (ENGPHYS) and on our 2nd year (MFTHSCI) and now in the most critical time of our study, they bring the theoreticals back to us as like a slap in the face since the information has been scratched. (Its like ENGMEC all over again!!). No excuses though, I was able to deliver the core competencies being asked from this course but it left a salty feeling in my mouth that I cannot process until I write it down here.
 
-First off, the instructor was part-time, granted he was a doctorate holder (my immediate respects to them), stil, they kept giving us these reading assignments and he did not provide the lecture notes. Something that I kept asking too since I want to see if the items/examples were part of the reference textbook stated in syllabus but _pahirapan_. No biggie, there are many resources out there. Expecting that I can catch up to understand his un-student friendly(?) teachings by watching YT videos of PH chem engineers (the resource i provided above!), I silently and barely pass each exam. Then a big bomb dropped on me. __50% of the grade was on the final exam__. 💀💀 HAHAH amazing. I was barely passing then my grade was dictated on one assessment and on my final term no less. Like the one who made the course felt like we can pass this easily on our final year. _Ang ending_ I was tempted and inclined to check the solutions online on that final exam T_T. To just pass the exam, I relied on the solutions of others like _diko alam ung subject matter :<_  My harmartia and I felt like I sinned doing that. 
+Admittedly, I cannot follow to the discussion and this left me not being confident to solve the problems without consultation with my notes. I was not also in a good place given thesis. No biggie, there are many resources out there. Expecting that I can catch up by watching YT videos of PH chem engineers (the resource i provided above!), I silently and barely pass each exam. Then a big bomb dropped on me. __50% of the grade was on the final exam__. 💀💀 haha amazing. I was barely passing then my grade was dictated on one assessment and on my final term no less. Like the one who made the course felt like we can pass this easily on our final year. _Ang ending_ I got tempted to check the solutions online on that final exam T_T. To just pass the exam, I relied on the solutions of others like _diko alam ung subject matter :<_  My harmartia being allergic to cross reference my solution with the solution online and I felt like I sinned doing that. 
 
-I kept thinking if my degree had a PRC, was this a topic that we have to prepare? What is the point of teaching the topic and making us do reading assignments if the topic in exams was different to what was discussed... It felt wrong and of course, I see my coursemates do it but I dont follow them as much as possible since I really wanted to learn it. _Kahit diko magagamit in the future_, it was a matter of principles for me (_Of course, Im not perfect, Im not a latin honor standing so this is just a rant of a normal student_)
+I kept thinking if my degree had a PRC, was this a topic that we have to prepare? What is the point of teaching the topic and making us do reading assignments if the topic were discussed were it was not being followed... It felt wrong and of course, I see my coursemates acting like it was smooth sailing but on my end I was lowkey panicking. I dont follow others as much as possible since I really wanted to learn it on my own way _Kahit diko magagamit in the future_, it was a matter of principles for me (_Of course, Im not perfect, Im not a latin honor standing so this is just a rant of a normal student_)
 
-Recently too, recruiters I got to discuss with asked about this exact thing of having a course without a PRC regulation joining their workforce. I brushed it off, saying we dont need it given our line of work, but this experience made me think back how lax the teachings can be if there is no expectations that the education will not be part of a <mark>bigger picture.</mark> That bigger picture is the secret handshake of an ABET accredited program to stakeholders in the industry looking up to the college to be the stewards of excellence.
+Recently too, recruiters I got to discuss with asked about this exact thing of having a course without a PRC regulation joining their workforce. I brushed it off, saying we dont need it given our line of work, but this experience made me think heavily back how lax the teachings can be if there is no expectations that the education will not be part of a <mark>bigger picture.</mark> That bigger picture is the secret handshake of an ABET accredited program to stakeholders in the industry looking up to the college to be the stewards of excellence.
 
 Of course, this is just an isolated case. This is my personal experience of what online exam did to corrupt the essence of learning which I cannot put a word to it but it is slowly creeping towards the mindset of both students and educators. Respect goes both ways and I respect the instructor and their experience (heck there are doctorates!) but I hope they will also respect the time and effort put into learning the subject too. I'll probably look back to this soon to see if I was not alone in this reflection I have made! _Yon lang_ 
 
 
 Let me know your thoughts on my ~~reflections~~ rants above/ :"> 😅😅
 
-
-
-
 ---
 
-PS. Nasusukot ako sa english ko rito sa pagninilay ko, sinamahan ko na ng konting filipino haha but tried to make it as professional as possible on my experience to learn the subject. Laban lang talaga! its just one subject lang naman rin 
+PS. Nasusukot ako sa english ko rito sa pagninilay na ito, sinamahan ko na nang konting filipino haha
