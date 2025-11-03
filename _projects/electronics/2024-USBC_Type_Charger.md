@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PCB Design for a USB-C Type Charger for Powerbank
-description: I explored here the use of the MCP73811 and PAM2401 IC chips to make a charger for J-type battery under Altium Designer
+description: use of the MCP73811 and PAM2401 IC chips to make a USB-C type charger connected to a battery pack under Altium Designer
 date: 2024-07-13 20:40:00
 category: electronics
 subcategory: hardware and pcb design
@@ -10,7 +10,7 @@ giscus_comments: true
 pretty_table: true
 images:
     slider: true
-driveID: 1Kymw7Uk6B9Qb8VV9e40p_axXU64GSohd
+driveId: 1Kymw7Uk6B9Qb8VV9e40p_axXU64GSohd
 ---
 
 _About the Thumbnail:_ This is the 3D model of the made USB Type-C charger typically seen in powerbanks to first provide in the `in` port a means to charge the connected battery and the `out` power to retrieve the stored power from `rechargeable battery`.  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: General 
 date: 2022-07-13 20:40:00
 description: 
 tags: design_and_modelling | manufacturing_engineering | automation_and_controls | data_and_ai | operations_and_management | coding

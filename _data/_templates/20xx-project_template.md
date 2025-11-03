@@ -2,7 +2,7 @@
 layout: page
 title: 
 description: 
-date: 
+date: 2022-07-13 20:40:00
 category: management | mechanical | electronics | data_Science
 subcategory: #embedded systems, communications, automation, robotics  # CAD, CAE, CAM
 img: assets/img/2023/mfergop1.png
@@ -15,7 +15,7 @@ images:
 ### OVERVIEW:
 
 
-### FINDINGS:
+### METHODOLOGY:
 
 
 ### LEARNINGS:
