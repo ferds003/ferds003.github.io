@@ -535,6 +535,11 @@ ninja.data = [{
           description: "My personal project for this engineering management course 📋",
           section: "Projects",handler: () => {
               window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
+            },},{id: "projects-pcb-design-for-a-usb-c-type-charger-for-powerbank",
+          title: 'PCB Design for a USB-C Type Charger for Powerbank',
+          description: "use of the MCP73811 and PAM2401 IC chips to make a USB-C type charger connected to a battery pack under Altium Designer",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2024-USBC_Type_Charger/";
             },},{id: "projects-vision-based-grading-and-sorting-of-iceberg-lettuce",
           title: 'Vision-based grading and sorting of iceberg lettuce',
           description: "Utilizing genetic programming and fuzzy logic for a 3-level quality grading and sorting of locally-produced iceberg lettuce 🥬",
