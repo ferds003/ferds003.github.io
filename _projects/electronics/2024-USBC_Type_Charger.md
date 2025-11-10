@@ -116,7 +116,7 @@ Another unique take that I was able to do for project is to make custom schemati
   </div>
 </div>
 
-Lastly, I have made the `gerber files` for sending to PCBway for them to check if it is ok for manufacturing. Considered **Gerber and drill files** directly through Altium’s CAM processor. Verified design rules (clearances, hole sizes) for manufacturability. Exported a **stack-up report** summarizing copper, dielectric, and net connectivity layers.
+Lastly, I have made the `gerber files` for sending to `PCBway` for them to check if it is ok for manufacturing. Considered **Gerber and drill files** directly through Altium’s CAM processor. Verified design rules (clearances, hole sizes) for manufacturability. Also considered a local PCB manufacturing which is `DOST-ASTI`! Exported a **stack-up report** summarizing copper, dielectric, and net connectivity layers.
 
 __HOW THIS PROJECT CAN BE FURTHER IMPROVED__: 
 

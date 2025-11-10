@@ -41,6 +41,8 @@ At its core, fluid mechanics connects pressure, density, velocity, and viscosity
 
 One of the godsend youtube series that I also highly recommend is by `Enginerds` that you can check [here](https://www.youtube.com/watch?v=QwUdPnEFIiE&list=PLOBgHGXcN_3KbXtZpQxv5pScRUmHy28pk&index=1). Legit, I watched this before I sleep for the term.
 
+To add also here is the fact that an OG book author for the fundamentals of fluid mechanics has made an entire YT series discussing his book and lessons [here](https://www.youtube.com/watch?v=SrpX7m89_-I&list=PLQR3QcO-W5he1X1GHd_IutnslXcr4mIh8) 🙏🙏
+
 Of course if you are book-devoted, you need to have the solution manual of the textbook problems your are solving, you can check the solutions here in [Litsolutions](https://www.litsolutions.org/). But this may only help you or not given the expectations of the instructor and in my case, it definitely did not help me passing this course comfortably. Below are the lecture notes provided.
 
 <iframe src="https://drive.google.com/file/d/1yVvkDhgCxJqjYXYX1vK7N0CxDkppdEm0/preview"
