@@ -73,6 +73,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/fixing-stuff/";
           
         },
+      },{id: "post-my-path-on-learning-ros2",
+        
+          title: "My path on learning ROS2!",
+        
+        description: "A video series on what I did to learn the basics of ROS2 for robotic manipulation.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ROS2-Learnings/";
+          
+        },
       },{id: "post-fluid-mechanics-and-my-struggle-to-learn-it",
         
           title: "Fluid mechanics and my struggle to learn it",
@@ -495,6 +506,11 @@ ninja.data = [{
           description: "machine learning application provides spam SMS classifier in the filipino context. 🥫",
           section: "Projects",handler: () => {
               window.location.href = "/projects/data_science/2025-8-10%20DATA103/";
+            },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
+          title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
+          description: "My personal project for this engineering management course 📋",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
             },},{id: "projects-portable-electronic-nose-for-lakatan-banana",
           title: 'Portable Electronic Nose for Lakatan Banana',
           description: "The design and development of an e-nose that detects volatile organic compounds (VOCs) for lakatan banana, a native double-A banana cultivar 🍌",
@@ -530,16 +546,16 @@ ninja.data = [{
           description: "My attempt to make and control a simple self-balancing robot using MATLAB and Simulink 🤸‍♂️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2024-PID-Self-Balancing-Robot/";
-            },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
-          title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
-          description: "My personal project for this engineering management course 📋",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
             },},{id: "projects-pcb-design-for-a-usb-c-type-charger-for-powerbank",
           title: 'PCB Design for a USB-C Type Charger for Powerbank',
           description: "use of the MCP73811 and PAM2401 IC chips to make a USB-C type charger connected to a battery pack under Altium Designer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2024-USBC_Type_Charger/";
+            },},{id: "projects-closed-looped-path-system-using-ros2-humble-turtlesim",
+          title: 'Closed looped path system using ROS2 Humble Turtlesim',
+          description: "Demo of ROS2 script to program simulated robot to not touch boundaries in environment",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2025-ROS2-Turtlesim/";
             },},{id: "projects-vision-based-grading-and-sorting-of-iceberg-lettuce",
           title: 'Vision-based grading and sorting of iceberg lettuce',
           description: "Utilizing genetic programming and fuzzy logic for a 3-level quality grading and sorting of locally-produced iceberg lettuce 🥬",
