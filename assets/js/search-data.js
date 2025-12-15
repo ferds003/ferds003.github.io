@@ -44,14 +44,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/projects/management/";
               },
-            },{id: "nav-cv",
-          title: "cv",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "post-what-is-mem",
+            },{id: "post-what-is-mem",
         
           title: "What is MEM?",
         
@@ -88,11 +81,11 @@ ninja.data = [{
         
           title: "Fluid mechanics and my struggle to learn it",
         
-        description: "I&#39;m dumping all my notes and frustrations here in this blog to learn fluid mechanics the hard way, avoiding AI slop or Chegg answers as much as possible. Sidetracked about the current state of education here in my university lol.",
+        description: "I&#39;m dumping all my notes and frustrations here in this blog to learn fluid mechanics the hard way.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/MRFLUMEWHELP/";
+            window.location.href = "/blog/2025/MRFLUME/";
           
         },
       },{id: "post-modelling-production-systems-the-art-of-linear-programming-mrprods",
@@ -488,8 +481,8 @@ ninja.data = [{
             },},{id: "news-finished-major-requirements-for-my-degree-in-manufacturing-engineering-and-management-this-term",
           title: 'Finished major requirements for my degree in Manufacturing Engineering and Management this term...',
           description: "",
-          section: "News",},{id: "news-finished-all-my-requirements-for-my-minor-degree-in-data-science-this-term-and-other-general-electives",
-          title: 'Finished all my requirements for my minor degree in Data Science this term...',
+          section: "News",},{id: "news-finished-my-minor-degree-in-data-science",
+          title: 'Finished my minor degree in Data Science! 🎉 😌',
           description: "",
           section: "News",},{id: "projects-a-proposed-filipino-keyboard-layout",
           title: 'A proposed filipino keyboard layout',
@@ -523,7 +516,7 @@ ninja.data = [{
               window.location.href = "/projects/electronics/2023-LBYMF3E/";
             },},{id: "projects-modified-field-sobriety-test",
           title: 'Modified Field Sobriety Test',
-          description: "A device to standardize field sobriety testing against DUI and DWI in line with R.A. 10586 🍻",
+          description: "A device to standardize field sobriety testing against DUI and DWI in line with R.A. 10586 as an alternative to the conventional breathalyzer 🍻",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2023-Sobriety-Test/";
             },},{id: "projects-pcb-design-for-esp32-automation-of-30a-relays",
@@ -667,7 +660,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2024-Fixture/";
             },},{id: "projects-design-and-modeling-of-an-adaptive-valve-mechanism",
-          title: 'Design and Modeling of an Adaptive Valve Mechanism',
+          title: 'Design and modeling of an adaptive valve mechanism',
           description: "The modelling for a general purposa valve spring mechanism and cam follower using Solidworks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2025-Valve_Mechanism/";
@@ -686,11 +679,26 @@ ninja.data = [{
           description: "What is checked to ensure that body elements are properly captured using ANSYS software",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2024-Hinge-Assembly/";
+            },},{id: "projects-3-axis-milling-for-a-contoured-bracket",
+          title: '3-axis milling for a contoured bracket',
+          description: "The setup from roughing to finishing operations to create a bracket using MasterCAM.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2025-CNCBracket/";
+            },},{id: "projects-2-5d-milling-for-a-mounting-cover",
+          title: '2.5D milling for a mounting cover',
+          description: "Using MasterCAM, I provide here how to program CNC for a 12-step operation to create a mounting cover 🛡️",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2025-CNCFeaturePlate/";
             },},{id: "projects-development-of-a-conveyor-belt-digital-twin",
           title: 'Development of a Conveyor Belt Digital Twin',
           description: "Using Unity and C# scripts for physics, I explore here how to replicate the movement of conveyor belts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mechanical/2025-digital-twinning-conveyor-belt/";
+            },},{id: "projects-plastic-injection-molding-for-a-pcb-enclosure",
+          title: 'Plastic injection molding for a PCB enclosure',
+          description: "Considerations made for the production of designed enclosure as plastic part",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mechanical/2025-InjectionMoldingPCBEnclosure/";
             },},{
         id: 'social-email',
         title: 'email',
