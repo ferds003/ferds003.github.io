@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design and Modeling of an Adaptive Valve Mechanism
+title: Design and modeling of an adaptive valve mechanism
 date: 2023-08-12
 description: The modelling for a general purposa valve spring mechanism and cam follower using Solidworks
 tags: mechatronics

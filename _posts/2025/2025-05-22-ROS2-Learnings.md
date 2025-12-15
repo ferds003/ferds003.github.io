@@ -1,10 +1,11 @@
 ---
 layout: post
 title: My path on learning ROS2!
-description: A video series on what I did to learn the basics of ROS2 for robotic manipulation.
-category: electronics
-img: assets/img/2025/ros2/thumbnail_ros2_blog.gif 
 date: 2025-05-22 20:40:00 
+description: A video series on what I did to learn the basics of ROS2 for robotic manipulation.
+thumbnail: assets/img/2025/ros2/thumbnail_ros2_blog.gif
+tags: design_and_modelling automation_and_controls coding
+categories: embedded_systems electronics
 giscus_comments: true
 pretty_table: true
 images:
@@ -82,6 +83,6 @@ As a sneak-peek, below is a video about the `Hello world` equivalent for ROS2 wh
 
 ### LEARNINGS:
 
-Definitely this is an exciting learnings to see (atleast for me), where this is not even discussed formally in class. I'm still constantly exploring it admittedly and one of the things that I have set my eyes on is how this can program industrial robots for my suited needs like verification of its placement in the assembly line or the need to constantly push and update changes in controlling robots!
+Definitely this is an exciting and new field to learn given that this is not even discussed formally in class. This is still the basic form of knowing the ROS framework and I'm still constantly exploring it admittedly. One of the things that I have set my eyes on is how this can program industrial robots for my suited needs like verification of its placement in the assembly line or the need to constantly push and update changes in controlling robots!
 
 Of course this comes `hand in hand` with industrial automation standards and definitely this can be applied further when PLC and/or other advanced technologies is added into the mix. For now I will settle on this but will reflect on how I can further improve as this as my basis for my learnings!

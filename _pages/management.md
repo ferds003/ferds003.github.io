@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 💼 Manufacturing Management Projects
+title: 💼 Engineering Management Projects
 permalink: /projects/management/
 description: Projects emphasizing operations efficiency and strategic decision-making in manufacturing systems. Key topics include DMAIC methodology, integer linear programming (ILP), time studies, ergonomic assessments, computer-integrated technologies, production management, and business operations.
 display_categories:

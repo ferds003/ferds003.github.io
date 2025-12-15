@@ -155,7 +155,7 @@ It demonstrates how:
 - Topics manage continuous data streams for real-time control.
 - Services handle specific requests for state or configuration changes.
 - Combining both allows for reactive and dynamic robot behaviors.
-- Through the Turtlesim example, we’ve illustrated a core ROS 2 principle:
+- Through the Turtlesim example, I’ve illustrated a core ROS 2 principle:
 
 `Real-time feedback (topics)` + `event-driven actions (services)` = adaptive robotic systems.
 
