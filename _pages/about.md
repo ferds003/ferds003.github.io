@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mechatronics Engineer | Data Science Ethusiast | Lifetime Learner
+subtitle: Mechatronics Engineer | Data Science Ethusiast | Lifelong Learner
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Currently Based in:</p>
-    <p>Taguig City, Metro Manila, 1633</p>
+    <p>Paranque City, Metro Manila, 1633</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
