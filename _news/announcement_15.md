@@ -21,6 +21,8 @@ P.S. Shoutout also to Ants, future MSc, for his guidance, rooting for his turn t
 
 This defense wraps up months of hard work, iteration, and learning. We plan to make 2 publications from our thesis output! 🚀
 
+You may check the novelty of our project, how it works and why we researched about it [here!]({{ 'projects/electronics/2025-Lettuce-Grading-and-Sorting' | relative_url }})
+
 <div class="col-12 mt-3 mt-md-0">
     {% include figure.liquid 
         loading="eager" 
