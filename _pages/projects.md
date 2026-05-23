@@ -26,25 +26,25 @@ children:
     <div class="col">
       <a class="card p-4 text-center shadow-sm" href="/projects/mechanical/">
         <h3>⚙️ Mechanical </h3>
-        <p>CAD, manufacturing processes, product design and mechanical design projects.</p>
+        <p>CAD, manufacturing processes, product design and engineering validation.</p>
       </a>
     </div>
     <div class="col">
       <a class="card p-4 text-center shadow-sm" href="/projects/electronics/">
         <h3>🔌 Electronics</h3>
-        <p>Embedded systems, robotics, and automation.</p>
+        <p>Embedded systems, sensor integration, data acquisition, and control systems</p>
       </a>
     </div>
     <div class="col">
       <a class="card p-4 text-center shadow-sm" href="/projects/data_science/">
         <h3>📊 Data Science & Software</h3>
-        <p>Machine learning, data analysis, AI projects, and software design.</p>
+        <p>Machine learning, data analysis, systems modeling, and predictive simulations.</p>
       </a>
     </div>
     <div class="col">
       <a class="card p-4 text-center shadow-sm" href="/projects/management/">
-        <h3>📂 Management</h3>
-        <p>Project planning, organization, and documentation.</p>
+        <h3>📂Engineering Management</h3>
+        <p>Experimental design, project planning and operational assessments.</p>
       </a>
     </div>
   </div>

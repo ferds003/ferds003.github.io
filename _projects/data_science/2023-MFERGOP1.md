@@ -3,6 +3,7 @@ layout: page
 title: A proposed filipino keyboard layout  
 description: How should a filipino keyboard look like given character count frequency indexed from filipino text? ⌨️
 category: data_science
+subcategory: pure_software
 img: assets/img/2024/thumbnail_mfergop1.png
 giscus_comments: true
 pretty_table: true
