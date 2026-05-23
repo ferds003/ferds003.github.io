@@ -487,7 +487,27 @@ ninja.data = [{
           section: "News",},{id: "news-started-working-as-an-associate-hardware-engineer-infrasensing-working-on-industrial-sensors",
           title: 'Started working as an Associate Hardware Engineer @ Infrasensing, working on industrial sensors...',
           description: "",
-          section: "News",},{id: "projects-a-proposed-filipino-keyboard-layout",
+          section: "News",},{id: "projects-portable-electronic-nose-for-lakatan-banana",
+          title: 'Portable Electronic Nose for Lakatan Banana',
+          description: "The design and development of an e-nose that detects volatile organic compounds (VOCs) for lakatan banana, a native double-A banana cultivar 🍌",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/data_science/2-2023-Electronic-Nose-1/";
+            },},{id: "projects-portable-electronic-nose-for-lakatan-banana",
+          title: 'Portable Electronic Nose for Lakatan Banana',
+          description: "The design and development of an e-nose that detects volatile organic compounds (VOCs) for lakatan banana, a native double-A banana cultivar 🍌",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2023-Electronic-Nose/";
+            },},{id: "projects-development-of-a-conveyor-belt-digital-twin",
+          title: 'Development of a Conveyor Belt Digital Twin',
+          description: "Using Unity and C# scripts for physics, I explore here how to replicate the movement of conveyor belts",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/data_science/3-2025-digital-twinning-conveyor-belt-1/";
+            },},{id: "projects-vision-based-grading-and-sorting-of-iceberg-lettuce",
+          title: 'Vision-based grading and sorting of iceberg lettuce',
+          description: "Utilizing genetic programming and fuzzy logic for a 3-level quality grading and sorting of locally-produced iceberg lettuce 🥬",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/data_science/1-2025-Lettuce-Grading-and-Sorting-1/";
+            },},{id: "projects-a-proposed-filipino-keyboard-layout",
           title: 'A proposed filipino keyboard layout',
           description: "How should a filipino keyboard look like given character count frequency indexed from filipino text? ⌨️",
           section: "Projects",handler: () => {
@@ -502,16 +522,6 @@ ninja.data = [{
           description: "machine learning application provides spam SMS classifier in the filipino context. 🥫",
           section: "Projects",handler: () => {
               window.location.href = "/projects/data_science/2025-8-10%20DATA103/";
-            },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
-          title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
-          description: "My personal project for this engineering management course 📋",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
-            },},{id: "projects-portable-electronic-nose-for-lakatan-banana",
-          title: 'Portable Electronic Nose for Lakatan Banana',
-          description: "The design and development of an e-nose that detects volatile organic compounds (VOCs) for lakatan banana, a native double-A banana cultivar 🍌",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/electronics/2023-Electronic-Nose/";
             },},{id: "projects-alumina-substrate-production-of-a-solid-mounted-device-smds-resistor",
           title: 'Alumina substrate production of a solid-mounted device (SMDs) resistor',
           description: "A simulated electro-pneumatic system for the manufacturing of SMDs components 💨",
@@ -542,6 +552,11 @@ ninja.data = [{
           description: "My attempt to make and control a simple self-balancing robot using MATLAB and Simulink 🤸‍♂️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2024-PID-Self-Balancing-Robot/";
+            },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
+          title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
+          description: "My personal project for this engineering management course 📋",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
             },},{id: "projects-pcb-design-for-a-usb-c-type-charger-for-powerbank",
           title: 'PCB Design for a USB-C Type Charger for Powerbank',
           description: "use of the MCP73811 and PAM2401 IC chips to make a USB-C type charger connected to a battery pack under Altium Designer",
