@@ -24,6 +24,9 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 5 # leave blank to include all the blog posts
+
+visitor_stats:
+  enabled: true
 ---
 
 Hi! I'm Fernando Magallanes Jr.-Ferds for short-a Manufacturing Engineering graduate with a Minor in Data Science and a DOST-SEI Scholar. Get to know me more on this website of mine as I share my career and personal journey! 

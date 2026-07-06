@@ -1,0 +1,35 @@
+<div
+  id="visitor-stats"
+  class="visitor-stats"
+  data-umami-url="https://umami-mu-ashen-56.vercel.app"
+  data-share-slug="06a437d43c3133a36e8ec895"
+>
+  <div class="visitor-card">
+    <svg class="visitor-world-map" viewBox="0 0 960 500" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Map of visitor counts by country"></svg>
+
+    <div class="visitor-stats-overlay">
+      <div class="visitor-stat-tile">
+        <div class="visitor-stat-value" data-stat="totalVisitors">–</div>
+        <div class="visitor-stat-label">Total Visitors</div>
+      </div>
+      <div class="visitor-stat-tile">
+        <div class="visitor-stat-value" data-stat="last7Visitors">–</div>
+        <div class="visitor-stat-label">Last 7 Days</div>
+      </div>
+      <div class="visitor-stat-tile">
+        <div class="visitor-stat-value" data-stat="totalPageviews">–</div>
+        <div class="visitor-stat-label">Pageviews</div>
+      </div>
+    </div>
+
+    <div class="visitor-map-legend"></div>
+  </div>
+
+  <p class="visitor-stats-note">
+    Powered by <a href="https://umami.is" target="_blank" rel="noopener">Umami</a>, a self-hosted analytics tool — no cookies, no personal data collected.
+  </p>
+</div>
+
+<script defer src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+<script defer src="{{ '/assets/js/visitor-stats.js' | relative_url | bust_file_cache }}"></script>

@@ -55,6 +55,12 @@ layout: default
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
+
+    <!-- Visitor stats -->
+    {% if page.visitor_stats and page.visitor_stats.enabled %}
+      <h2>🌍 visitor stats</h2>
+      {% include visitor_stats.liquid %}
+    {% endif %}
     
     
     <!-- Selected papers
