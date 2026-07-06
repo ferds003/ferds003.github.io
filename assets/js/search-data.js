@@ -151,7 +151,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/LBYMF4D&MFELEC2/";
+            window.location.href = "/blog/2024/LBYMF4D-MFELEC2/";
           
         },
       },{id: "post-exploring-power-electronics-through-simulations",
