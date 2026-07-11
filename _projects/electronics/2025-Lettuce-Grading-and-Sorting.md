@@ -79,7 +79,7 @@ Overall, the project holds many potentials for `precision agriculture` and with 
 
 Proud to share here our complete manuscript below!
 
-<iframe src="https://drive.google.com/file/d/1akbL7AF7BaHsus9Qc953hN_rXd56FtWr/preview"
+<iframe src="https://animorepository.dlsu.edu.ph/etdb_mem/2/"
         width="100%" height="600px"
         style="border: 1px solid #ccc;"></iframe>
 <div class="caption">
