@@ -16,8 +16,6 @@ Navigate through:
   - Electronics
   - Data Science
   - Management  
-- **Publications** — My academic contributions  
-- **CV** — My full curriculum vitae
 
 ---
 
@@ -29,3 +27,4 @@ This website is built using the **al-folio** Jekyll template — a clean, respon
 - Publications integration
 - Theming and social media previews  
 
+Analytics done through [**umami**](https://umami.is/)
