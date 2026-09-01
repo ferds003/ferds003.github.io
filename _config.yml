@@ -206,6 +206,7 @@ plugins:
   - jekyll-get-json
   - jekyll-imagemagick
  # - jekyll-jupyter-notebook
+  - jekyll-last-modified-at
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2

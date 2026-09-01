@@ -77,14 +77,7 @@ I was able to conceptualize and touch here all aspects of what MEM is but we eve
 
 Overall, the project holds many potentials for `precision agriculture` and with new advancements in emerging tech, I'm just glad that we got to try this before this gets labelled as outdated work which is true given that more powerful black box AI systems are dominating the commercialization of such product. Here we value `explainability` for our AI system and try it out with our chosen quality parameters. 
 
-Proud to share here our complete manuscript below!
-
-<iframe src="https://animorepository.dlsu.edu.ph/etdb_mem/2/"
-        width="100%" height="600px"
-        style="border: 1px solid #ccc;"></iframe>
-<div class="caption">
-  Complete ETD manuscript that was submitted for storage in DLSU library under MEM dept.
-</div>
+Proud to share here our complete manuscript [here](https://animorepository.dlsu.edu.ph/etdb_mem/2/)!
 
 ## Additional Considerations
 
