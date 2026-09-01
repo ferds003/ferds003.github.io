@@ -487,21 +487,26 @@ ninja.data = [{
           section: "News",},{id: "news-started-working-as-an-associate-hardware-engineer-infrasensing-working-on-industrial-sensors",
           title: 'Started working as an Associate Hardware Engineer @ Infrasensing, working on industrial sensors...',
           description: "",
-          section: "News",},{id: "projects-portable-electronic-nose-for-lakatan-banana",
-          title: 'Portable Electronic Nose for Lakatan Banana',
-          description: "The design and development of an e-nose that detects volatile organic compounds (VOCs) for lakatan banana, a native double-A banana cultivar 🍌",
+          section: "News",},{id: "projects-grafana-dashboard",
+          title: 'Grafana dashboard',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/data_science/2-2023-Electronic-Nose-1/";
+              window.location.href = "/projects/DRAFT/4-2026-IoT-Grafana-Dashboard/";
+            },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
+          title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
+          description: "My personal project for this engineering management course 📋",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
             },},{id: "projects-portable-electronic-nose-for-lakatan-banana",
           title: 'Portable Electronic Nose for Lakatan Banana',
           description: "The design and development of an e-nose that detects volatile organic compounds (VOCs) for lakatan banana, a native double-A banana cultivar 🍌",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/electronics/2023-Electronic-Nose/";
-            },},{id: "projects-development-of-a-conveyor-belt-digital-twin",
-          title: 'Development of a Conveyor Belt Digital Twin',
-          description: "Using Unity and C# scripts for physics, I explore here how to replicate the movement of conveyor belts",
+              window.location.href = "/projects/data_science/2-2023-Electronic-Nose-1/";
+            },},{id: "projects-iot-enabled-feeder-system-for-koi-fish",
+          title: 'IoT-enabled Feeder System for Koi-Fish',
+          description: "A prototype highlighting more the use case of IoT to monitor the aquaculture inside the tank particularly Koi-Fish 🐟",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/data_science/3-2025-digital-twinning-conveyor-belt-1/";
+              window.location.href = "/projects/electronics/2024-Koi-Fish-Feeder/";
             },},{id: "projects-vision-based-grading-and-sorting-of-iceberg-lettuce",
           title: 'Vision-based grading and sorting of iceberg lettuce',
           description: "Utilizing genetic programming and fuzzy logic for a 3-level quality grading and sorting of locally-produced iceberg lettuce 🥬",
@@ -522,6 +527,16 @@ ninja.data = [{
           description: "machine learning application provides spam SMS classifier in the filipino context. 🥫",
           section: "Projects",handler: () => {
               window.location.href = "/projects/data_science/2025-8-10%20DATA103/";
+            },},{id: "projects-portable-electronic-nose-for-lakatan-banana",
+          title: 'Portable Electronic Nose for Lakatan Banana',
+          description: "The design and development of an e-nose that detects volatile organic compounds (VOCs) for lakatan banana, a native double-A banana cultivar 🍌",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/electronics/2023-Electronic-Nose/";
+            },},{id: "projects-development-of-a-conveyor-belt-digital-twin",
+          title: 'Development of a Conveyor Belt Digital Twin',
+          description: "Using Unity and C# scripts for physics, I explore here how to replicate the movement of conveyor belts",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/data_science/3-2025-digital-twinning-conveyor-belt-1/";
             },},{id: "projects-alumina-substrate-production-of-a-solid-mounted-device-smds-resistor",
           title: 'Alumina substrate production of a solid-mounted device (SMDs) resistor',
           description: "A simulated electro-pneumatic system for the manufacturing of SMDs components 💨",
@@ -537,11 +552,6 @@ ninja.data = [{
           description: "Designing a 30A ESP32 Home Automation Circuit using KiCAD 🏠",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2024-ESP32_PCB/";
-            },},{id: "projects-iot-enabled-feeder-system-for-koi-fish",
-          title: 'IoT-enabled Feeder System for Koi-Fish',
-          description: "A prototype highlighting more the use case of IoT to monitor the aquaculture inside the tank particularly Koi-Fish 🐟",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/electronics/2024-Koi-Fish-Feeder/";
             },},{id: "projects-ur10-robotic-arm-and-dobot-simulations",
           title: 'UR10 Robotic Arm and Dobot Simulations',
           description: "programming robotic arms using dedicated software via waypoints or set conditional parameters 🦾",
@@ -552,11 +562,6 @@ ninja.data = [{
           description: "My attempt to make and control a simple self-balancing robot using MATLAB and Simulink 🤸‍♂️",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electronics/2024-PID-Self-Balancing-Robot/";
-            },},{id: "projects-management-operations-simulation-quot-can-you-dig-it-quot",
-          title: 'Management operations simulation - &amp;quot;Can You Dig It?&amp;quot;',
-          description: "My personal project for this engineering management course 📋",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/management/2022-2-16%20MFMNGMT/";
             },},{id: "projects-pcb-design-for-a-usb-c-type-charger-for-powerbank",
           title: 'PCB Design for a USB-C Type Charger for Powerbank',
           description: "use of the MCP73811 and PAM2401 IC chips to make a USB-C type charger connected to a battery pack under Altium Designer",
